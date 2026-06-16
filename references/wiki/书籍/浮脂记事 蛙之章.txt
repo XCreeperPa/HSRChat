@@ -1,0 +1,107 @@
+{{书籍
+|书籍名=浮脂记事 蛙之章
+|卷数=3<!-- 仅填写数字 -->
+|编号=6020<!-- 按照游戏内显示顺序编号，第一位为所属编号，共四位 -->
+|描述=似乎是上古时代，诗还没有在古弁才天国消亡的时期，无名诗人留下的作品。这篇应该是其中一部的卷首。
+|所属=6
+|类型=卡带
+|实装版本=4.0
+|相关角色=
+|相关任务=
+}}
+
+{{书籍/分卷
+|名称=其一
+|卷数=1
+|实装版本=4.0
+|获取方式=完成鸽川区所有「浮脂溯源&bull;二次元ROTATE！」后，回到二维市@娱乐广场内进入「浮脂记事」的世界，拜访小青蛙首领，获取阅读物。
+|内容=<p style="text-align: center">曾经，青蛙不需要在暗夜里鸣叫</p>
+<p style="text-align: center">他们的合唱也并非今天这样聒噪</p>
+<p style="text-align: center">那时的沼泽地刚刚冒出芦苇</p>
+<p style="text-align: center">还没有生出小鱼、面包虫还有虾米</p>
+<p style="text-align: center">青蛙就垂钓在澄澈的湾流</p>
+<p style="text-align: center">驾驶着独木舟不眠不休</p>
+<p style="text-align: center">漂亮的旗鱼，剑鱼，当然还有金枪鱼</p>
+<p style="text-align: center">都在太阳下慢慢发酵</p>
+<p style="text-align: center">化成高汤里的美味至妙</p>
+<p style="text-align: center"> </p>
+<p style="text-align: center">有一天，青蛙们产生了困惑</p>
+<p style="text-align: center">世界上明明有那么多食物</p>
+<p style="text-align: center">他们为什么非要吃奶奶的爷爷传下来的干肉</p>
+<p style="text-align: center">祭品被沉下淤泥</p>
+<p style="text-align: center">他们向沼泽里的神树，许愿新的美味食物</p>
+<p style="text-align: center">这食物要入口即化</p>
+<p style="text-align: center">这食物要新鲜无比</p>
+<p style="text-align: center">神树于是将大地的脑袋抹平</p>
+<p style="text-align: center">用繁星倒映在水波的头发</p>
+<p style="text-align: center">创造出小鱼、面包虫还有虾米</p>
+<p style="text-align: center"> </p>
+<p style="text-align: center">时间就这样过去</p>
+<p style="text-align: center">快节奏的青蛙们，每一天都开心惬意</p>
+<p style="text-align: center">只是他们越来越习惯淤泥</p>
+<p style="text-align: center">在黑暗中伏击食物</p>
+<p style="text-align: center">在春夜里聚众高鸣</p>
+<p style="text-align: center">被包括他们自己的生灵</p>
+<p style="text-align: center">用嘲笑的目光鄙夷</p>
+}}
+
+{{书籍/分卷
+|名称=其三
+|卷数=2
+|实装版本=4.2
+|获取方式=同其一，位于海原市。
+|内容=<p style="text-align: center">青蛙死于咸水和太阳</p>
+<p style="text-align: center">泡沫的永恒是他们的愿望</p>
+<p style="text-align: center">困苦的场域从不向往</p>
+<p style="text-align: center">末等人的欢呼响彻市场</p>
+<p style="text-align: center"> </p>
+<p style="text-align: center">最初的青蛙已化作雕像</p>
+<p style="text-align: center">附庸风雅，在水边眺望大洋</p>
+<p style="text-align: center">雨水腐蚀的大理石的模样</p>
+<p style="text-align: center">刚刚好升入艺术殿堂</p>
+<p style="text-align: center"> </p>
+<p style="text-align: center">竞技场中咆哮着音响</p>
+<p style="text-align: center">最大的赞美正归于群氓</p>
+<p style="text-align: center">头顶上压着空气的重量</p>
+<p style="text-align: center">歌颂以太的流体冲刷新的形状</p>
+<p style="text-align: center">一场毒药的狂欢</p>
+<p style="text-align: center">一卷腐烂的皮张</p>
+<p style="text-align: center"> </p>
+<p style="text-align: center">凝固的岩浆</p>
+<p style="text-align: center">冻硬的月亮</p>
+<p style="text-align: center">高等人的孕吐</p>
+<p style="text-align: center">末等人的死亡信仰</p>
+<p style="text-align: center"> </p>
+<p style="text-align: center">青蛙不死于咸水和太阳</p>
+}}
+
+{{书籍/分卷
+|名称=其六
+|卷数=3
+|实装版本=4.3
+|获取方式=同其一，位于渡画泉隐。
+|内容=<p style="text-align: center">青蛙的记忆不属于自己</p>
+<p style="text-align: center">它们有深渊的源起</p>
+<p style="text-align: center">那时一切都在卵泡中孕育</p>
+<p style="text-align: center">消耗月亮的日历</p>
+<p style="text-align: center"> </p>
+<p style="text-align: center">天空写写画画</p>
+<p style="text-align: center">海洋涂涂擦擦</p>
+<p style="text-align: center">创造无聊的周期</p>
+<p style="text-align: center">涌现不存在的意义</p>
+<p style="text-align: center"> </p>
+<p style="text-align: center">烟囱里的浮脂</p>
+<p style="text-align: center">硫和铁散装的权力</p>
+<p style="text-align: center">切掉尾巴的竞技</p>
+<p style="text-align: center">自我消化的天体</p>
+<p style="text-align: center"> </p>
+<p style="text-align: center">记录「光明」的瞎子</p>
+<p style="text-align: center">诅咒「量产」的机器</p>
+<p style="text-align: center">不存在的记忆从深渊源起</p>
+<p style="text-align: center">一切都如此逆转</p>
+<p style="text-align: center">一切都如此脱离</p>
+<p style="text-align: center"> </p>
+<p style="text-align: center">青蛙引吭高歌</p>
+<p style="text-align: center">赞美最忠诚的背刺</p>
+<p style="text-align: center">膜拜最耻辱的神祇</p>
+}}

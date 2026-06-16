@@ -1,0 +1,69 @@
+{{书籍
+|书籍名=浮脂记事 猴之章
+|卷数=2<!-- 仅填写数字 -->
+|编号=6021<!-- 按照游戏内显示顺序编号，第一位为所属编号，共四位 -->
+|描述=似乎是上古时代，诗还没有在古弁才天国消亡的时期，无名诗人留下的作品。这篇应该是其中一部的卷首。
+|所属=6
+|类型=卡带
+|实装版本=4.0
+|相关角色=
+|相关任务=
+}}
+
+{{书籍/分卷
+|名称=其一
+|卷数=1
+|实装版本=4.0
+|获取方式=完成二维市所有「浮脂溯源&bull;二次元ROTATE！」后，回到二维市@娱乐广场内进入「浮脂记事」的世界，拜访小猴子首领，获取阅读物。
+|内容=<p style="text-align: center">冬天的猴子</p>
+<p style="text-align: center">吃着海豹的鲜肉</p>
+<p style="text-align: center">泡着硫磺的浴缸</p>
+<p style="text-align: center">石化的鲸鱼残骸里渗出油污</p>
+<p style="text-align: center">涂抹着没有月亮的漆黑星空</p>
+<p style="text-align: center">那是人人都爱的沥青</p>
+<p style="text-align: center">能建造不漏水的房子</p>
+<p style="text-align: center"> </p>
+<p style="text-align: center">冬天的猴子在电杆上合唱</p>
+<p style="text-align: center">唱着银河电台里最流行的节拍</p>
+<p style="text-align: center">笑话那些一身土气的青蛙</p>
+<p style="text-align: center"> </p>
+<p style="text-align: center">他们说自己很快就会长出翅膀</p>
+<p style="text-align: center">比游隼更能在自由的青空下翱翔</p>
+<p style="text-align: center">那到时青蛙只会留下悔恨的泪水</p>
+<p style="text-align: center">成为他们最廉价的笑话拌料</p>
+<p style="text-align: center"> </p>
+<p style="text-align: center">猴子们于是先笑出了眼泪</p>
+<p style="text-align: center">只是这眼泪并没有带来月亮</p>
+}}
+
+{{书籍/分卷
+|名称=其十一
+|卷数=2
+|实装版本=4.1
+|获取方式=完成珠星大厦的所有「浮脂溯源&bull;二次元ROTATE！」后回到二维市的「浮脂记事」的世界，拜访未来频道「机铠纪元」的小动物首领获取。
+|内容=<p style="text-align: center">从不知多少年前开始</p>
+<p style="text-align: center">猴子们不再拥有猴王</p>
+<p style="text-align: center">它们学会了解读月亮的智慧</p>
+<p style="text-align: center">把沥青熬煮成糖浆</p>
+<br />
+<p style="text-align: center">沥青是至暗的影子</p>
+<p style="text-align: center">像诅咒也像金融的奇迹</p>
+<p style="text-align: center">笑出眼泪的猴子</p>
+<p style="text-align: center">学会了无中生有的把戏</p>
+<br />
+<p style="text-align: center">我让你成为一分钟的神</p>
+<p style="text-align: center">影子和月亮同时低语</p>
+<p style="text-align: center">动物们兴高采烈</p>
+<p style="text-align: center">谁也想不到末日正在临近</p>
+<br />
+<p style="text-align: center">哦不</p>
+<p style="text-align: center">一只老猴停下脚步惊呼不已</p>
+<p style="text-align: center">月亮上出现了裂纹</p>
+<p style="text-align: center">那对应着古老的预言</p>
+<br />
+<p style="text-align: center">末日近了</p>
+<p style="text-align: center">月亮碎了</p>
+<br />
+<p style="text-align: center">树木依旧沉默</p>
+<p style="text-align: center">但猴子已无法攀援</p>
+}}

@@ -1,0 +1,50 @@
+{{书籍
+|书籍名=「千愿之荫」谣
+|卷数=1<!-- 仅填写数字 -->
+|编号=6118<!-- 按照游戏内显示顺序编号，第一位为所属编号，共四位 -->
+|描述=某群体为赞颂「千愿之荫」而创作的诗歌。和常见赞词不同，语言风格颇为现代。
+|所属=6
+|类型=卡带
+|实装版本=4.3
+|相关角色=
+|相关任务=
+}}
+
+{{书籍/分卷
+|名称=「千愿之荫」谣
+|卷数=1
+|实装版本=4.3
+|获取方式=渡画泉隐千愿之荫界域定锚，直走逆时针绕过神木，在右手侧树根的杂物堆上拾取。
+|内容=<p style="text-align: center">抵达金色的孤独</p>
+<p style="text-align: center">天边直立的一棵</p>
+<p style="text-align: center">是你日晷的轮廓</p>
+<p style="text-align: center"> </p>
+<p style="text-align: center">愚者的愚者</p>
+<p style="text-align: center">伶人的伶人</p>
+<p style="text-align: center">悖论的悖论</p>
+<p style="text-align: center">影子的影子</p>
+<p style="text-align: center">不索取阳光</p>
+<p style="text-align: center">不叩问因果</p>
+<p style="text-align: center">只从自己的根脉里</p>
+<p style="text-align: center">啜饮永恒的饥渴</p>
+<p style="text-align: center"> </p>
+<p style="text-align: center">世界的尽头</p>
+<p style="text-align: center">永远回归的起跑线</p>
+<p style="text-align: center">千愿之荫</p>
+<p style="text-align: center">我们赞美你，不死的大树</p>
+<p style="text-align: center">你的每一片枝叶都经历</p>
+<p style="text-align: center">最初与最后的腐败</p>
+<p style="text-align: center">最后与最初的焚烧</p>
+<p style="text-align: center"> </p>
+<p style="text-align: center">正午是微积分的幻象</p>
+<p style="text-align: center">子夜是重整化的锚点</p>
+<p style="text-align: center">你是我们的全息</p>
+<p style="text-align: center">却拒绝做我们的模拟：</p>
+<p style="text-align: center">只把构成我们的字母</p>
+<p style="text-align: center">一个个升上星空</p>
+<p style="text-align: center"> </p>
+<p style="text-align: center">我们被你悬置</p>
+<p style="text-align: center">我们被你复活</p>
+<p style="text-align: center">一切同时结束而又同时开始</p>
+<p style="text-align: center">在永恒的千愿之荫</p>
+}}

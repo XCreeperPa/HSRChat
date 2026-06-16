@@ -1,0 +1,132 @@
+{{书籍
+|书籍名=来自咪发迷的信
+|卷数=4<!-- 仅填写数字 -->
+|编号=5124<!-- 按照游戏内显示顺序编号，第一位为所属编号，共四位 -->
+|描述=白厄的妖精笔友寄出的信件，信中提及了它的小小烦恼与往事。
+|所属=5
+|类型=书籍
+|实装版本=3.4
+|相关角色=白厄
+}}
+
+<div class="boxright-left">{{提示|蓝色|虽然收录到书架后的排序是修理篇、打扫篇、料理篇、冒险片，但是获得顺序是打扫篇、修理篇、料理篇、冒险篇。<br>因此右侧获取方式中，只有打扫篇给出了定位，其它几篇在同一个位置继续交互获取。<br>另外，关于寄信，参考[[寄给咪发迷的信]]条目。}}</div>
+
+{{书籍/分卷
+|名称=修理篇
+|卷数=1
+|实装版本=3.4
+|获取方式=相同位置继续交互，写完第一封回信[[寄给咪发迷的信#打扫篇|寄给咪发迷的信&bull;打扫篇]]后再次交互获得。
+|内容=写给好伙伴小白：<br />
+<br />
+<p style="text-align: center">你回信了！我开心得和路过的每个妖精问好！</p>
+<p style="text-align: center">村长说你去了很远很远的地方，不可能回信。</p>
+<p style="text-align: center">我才不相信。一定是你，对吧？</p>
+<br />
+{{切换板|开始}}
+  {{切换板|默认显示|传授它「扫帚」的做法。}}
+  {{切换板|默认折叠|不如断舍离，丢掉算了！}}
+  {{切换板|显示内容}}
+    <p style="text-align: center">我按照你的建议做了「扫帚」。家里一下子就被清理得干干净净。</p>
+    <p style="text-align: center">扫帚的力量，好厉害。</p>
+  {{切换板|内容结束}}
+  {{切换板|折叠内容}}
+    <p style="text-align: center">我按照你的建议，丢掉了很多家具，除了那个瓦罐。</p>
+    <p style="text-align: center">当时我们用它盛摘下的野莓。</p>
+    <p style="text-align: center">莓子吃完了，但里边还留着酸甜的香气。</p>
+  {{切换板|内容结束}}
+{{切换板|结束}}
+<br />
+<p style="text-align: center">我不该每天都去翻信箱，它旧得好快。</p>
+<p style="text-align: center">当时你叮叮咚咚，一个下午就做好了。</p>
+<p style="text-align: center">是怎么做的？我想修理修理，但怎么也想不起来了迷。</p>
+<br />
+<p style="text-align: right">你的好伙伴</p>
+<p style="text-align: right">咪发迷</p>
+}}
+
+{{书籍/分卷
+|名称=打扫篇
+|卷数=2
+|实装版本=3.4
+|获取方式=哀丽秘榭神奇林地界域定锚，后转通过树洞来到迷路迷境下层，直走，和第一间小屋的邮箱交互后获得。
+|内容=写给好伙伴{{颜色|dbc291|小白}}：<br />
+<br />
+<p style="text-align: center">早晨好、中午好、晚上好。</p>
+<p style="text-align: center">自从那次匆匆离开，你就再也没有回信。</p>
+<p style="text-align: center">还记得一起去外面的世界冒险的约定吗？</p>
+<br />
+<p style="text-align: center">我可是有每天练习挥树枝一百遍的迷！</p>
+<p style="text-align: center">你迟到了这么久，我真的要生气了迷！</p>
+<br />
+<p style="text-align: center">即便你已经先一步踏上了旅途，也请来信告诉我你的经历吧。</p>
+<p style="text-align: center">我会把它当作睡前故事，枕着信纸入睡。</p>
+<br />
+<p style="text-align: right">你的好伙伴</p>
+<p style="text-align: right">咪发迷</p>
+<br />
+还有：小白，你做的「神奇妙妙清理道具」被村长借走用秃噜了皮，我怎么也修不好，柜子上积的灰尘像雪地一样厚，一碰就漫天飞。我该怎么办，好伙伴？
+}}
+
+{{书籍/分卷
+|名称=料理篇
+|卷数=3
+|实装版本=3.4
+|获取方式=相同位置继续交互，写完第二封回信[[寄给咪发迷的信#修理篇|寄给咪发迷的信&bull;修理篇]]后再次交互获得。
+|内容=写给好伙伴小白：<br />
+<br />
+{{切换板|开始}}
+  {{切换板|默认显示|传授它「榫卯结构」。}}
+  {{切换板|默认折叠|传授它「电子邮箱」。}}
+  {{切换板|显示内容}}
+    <p style="text-align: center">哼哼，真希望你能看到信箱现在的样子！</p>
+    <p style="text-align: center">我趁机把屋子里歪歪扭扭的柜子、吱吱呀呀响的房梁翻修了一遍。</p>
+    <p style="text-align: center">就算我不在了，它们也能一直好端端的，直到世界终结那天吧！</p>
+  {{切换板|内容结束}}
+  {{切换板|折叠内容}}
+    <p style="text-align: center">抱歉，伙伴，我没大看懂你说的。</p>
+    <p style="text-align: center">不过请教了村长后，我还是修理了一番，还说得过去吧？</p>
+    <p style="text-align: center">但邮差听了，好像突然领悟了什么！</p>
+    <p style="text-align: center">它嘟囔着「即时通讯」「移动支付」「万物互联」就走了。</p>
+    <p style="text-align: center">真奇怪迷。</p>
+  {{切换板|内容结束}}
+{{切换板|结束}}
+<br />
+<p style="text-align: center">其实我一直也很想问。</p>
+<p style="text-align: center">为什么我每次寄信，很快就能收到回信呢？</p>
+<p style="text-align: center">你愿不愿意和我分享这个秘密？</p>
+<br />
+<p style="text-align: center">忙了一通，肚子迷迷叫了…</p>
+<p style="text-align: center">你当时掰了一半给我的饼干，味道我到现在都还记得。</p>
+<p style="text-align: center">如果可以的话，能教我怎么做吗？</p>
+<br />
+<p style="text-align: right">你的好伙伴</p>
+<p style="text-align: right">咪发迷</p>
+}}
+
+{{书籍/分卷
+|名称=冒险篇
+|卷数=4
+|实装版本=3.4
+|获取方式=相同位置继续交互，写完第三封回信[[寄给咪发迷的信#料理篇|寄给咪发迷的信&bull;料理篇]]，与咪法迷对话并帮助修理风铃后，再次与邮箱交互获得。
+|内容=写给好伙伴小白：<br />
+<br />
+<p style="text-align: center">早晨好、中午好、晚上好！</p>
+<p style="text-align: center">一位好心的过路人帮我修好了风铃。</p>
+<p style="text-align: center">然后——我也和你一样出发冒险了！</p>
+<br />
+<p style="text-align: center">我翻过了最远的山丘，爬上了最高的枝条。</p>
+<p style="text-align: center">然后乘着蒲公英的绒毛降落。</p>
+<p style="text-align: center">喝甜丝丝的溪水解渴，用厚厚的树叶当毯子。</p>
+<p style="text-align: center">碰上暴雨天，我就躲进树洞。</p>
+<br />
+<p style="text-align: center">昨天，我和一只甲壳虫狭路相逢。</p>
+<p style="text-align: center">我挥舞树枝，赢得了好吃的坚果。</p>
+<br />
+<p style="text-align: center">我请它捎来这封信，连同我想要请教的问题——</p>
+<p style="text-align: center">该怎么生火迷？</p>
+<p style="text-align: center">脆饼吃久了，好想吃热乎乎的东西！</p>
+<br />
+<br />
+<p style="text-align: right">你的好伙伴</p>
+<p style="text-align: right">咪发迷</p>
+}}

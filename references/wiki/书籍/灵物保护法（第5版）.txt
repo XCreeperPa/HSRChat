@@ -1,0 +1,49 @@
+{{书籍
+|书籍名=灵物保护法（第5版）
+|卷数=1<!-- 仅填写数字 -->
+|编号=6003<!-- 按照游戏内显示顺序编号，第一位为所属编号，共四位 -->
+|描述=重要的法令文书，是二相乐园一切民法的立法基本。
+|所属=6
+|类型=卡带
+|实装版本=4.0
+}}
+
+{{书籍/分卷
+|名称=灵物保护法（第5版）
+|卷数=1
+|实装版本=4.0
+|获取方式=二维市 BOOK-ON！书店购买。书店位于泊地站前广场界域定锚和老饕小巷界域定锚中间。
+|内容=<p style="text-align: center"><span style="font-size: 1.4em">总则</span></p>
+<p style="text-align: center">'''关于法令的颁布、效力与适用的一般规定。'''</p>
+<p style="text-align: center">乐园历1855年1月1日颁布法令</p>
+<p style="text-align: center">乐园历1993年12月1日第5次修订</p>
+<br />
+<p style="text-align: center">'''第一条'''</p>
+<p style="text-align: center">本法令在二相乐园全境具有执行力。</p>
+<br />
+<p style="text-align: center">'''第二条'''</p>
+<p style="text-align: center">本法令自其颁布之日起在二相乐园全境施行。</p>
+<br />
+<p style="text-align: center">'''第三条'''</p>
+<p style="text-align: center">本法令仅适用于将来，无追溯效力；唯涉及总则第六条者例外。</p>
+<br />
+<p style="text-align: center">'''第四条'''</p>
+<p style="text-align: center">本法令约束二相乐园境内所有居民，包括：人类、智械、幻造种、及其他据各公约可被视为自然人之居民。</p>
+<br />
+<p style="text-align: center">'''第五条'''</p>
+<p style="text-align: center">有关个人身份与权利的法令，适用于与星际和平公司关联的一切实体和个人，即使其居住于二相乐园之外。</p>
+<br />
+<p style="text-align: center">'''第六条'''</p>
+<p style="text-align: center">一切私人协议不得违反本法令，不得违背星际公认之公序良俗。</p>
+<br />
+<p style="text-align: center">'''第七条'''</p>
+<p style="text-align: center">凡有诉讼，涉及二相乐园境内居民之权利，其判决不得与本法令之规定相悖；涉及公序良俗，以该诉讼陪审团之共识为准。</p>
+<br />
+<p style="text-align: center"><span style="font-size: 1.4em">第一章</span></p>
+<p style="text-align: center">'''关于居民权利。'''</p>
+<br />
+<p style="text-align: center">'''第八条'''</p>
+<p style="text-align: center">凡本法令第四条所述之居民，包括：人类，智械，幻造种，互相平等，享有一切由星际和平公司保障之权利。唯遭刑罚限制者除外。</p>
+<br />
+<p style="text-align: center">……</p>
+}}

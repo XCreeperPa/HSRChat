@@ -1,0 +1,559 @@
+{{角色语音表头|符玄|未完善=是}}
+== 正式语音 ==
+{{切换板|开始}}
+{{切换板|默认显示|互动语音}}
+{{切换板|默认折叠|战斗语音}}
+{{切换板|显示内容}}
+{{角色语音
+|语音类型=初次见面
+|语音文件=符玄-初次见面
+|语音内容=本座乃罗浮太卜司之首，符玄。初次见面——不，该说久见了…我已在法眼中遍历了与你之间的二十二次初会场面。
+|语音内容日语=私は羅浮の{{注音|太卜司|タイボクシ}}の長、{{注音|符玄|フゲン}}。はじめまして——いいえ、久しぶりと言うべきかしら…私は法眼を通して、すでにおまえとの初対面を22回経験しているから。
+|语音内容英语=I am Fu Xuan, head of the Divination Commission. This is our first encounter... or perhaps I should say — our twenty-second first encounter... Through the omniscia, I have met you for the first time, many times...
+|语音内容韩语=본좌는 아직 나부 태복사의 수장인 부현입니다. 처음 뵙겠——아니, 오랜만이군요…. 전 이미 법안에서 당신과 스물두 번이나 첫 만남을 가졌답니다
+}}
+{{角色语音
+|语音类型=问候
+|语音文件=符玄-问候
+|语音内容=稀客啊，是要占问吉凶么？不用惊讶，你的来意早已在卦象中应验。
+|语音内容日语=珍客ね、吉凶を占って欲しいのかしら？驚く必要はないわ。おまえが来ることは、すでに卦象でわかっていたもの。
+|语音内容英语=Honored guest, would you like to know your fortune? No need to act surprised — your reason for coming has already been foretold by the hexagram.
+|语音内容韩语=오랜만이네요, 점 보러 왔나요? 놀라지 마세요! 당신의 의도는 이미 괘상에 다 나와 있어요
+}}
+{{角色语音
+|语音类型=道别
+|语音文件=符玄-道别
+|语音内容=走了？正巧本座也忙得很，就不远送了。
+|语音内容日语=もう行くの？私は忙しいから、遠くまで見送りはしないわ。
+|语音内容英语=You're leaving? Good timing, I too have other affairs to attend to.
+|语音内容韩语=가려고요? 마침 본좌도 바쁘니 멀리 배웅하진 않을게요
+}}
+{{角色语音
+|语音类型=关于自己•卜者
+|语音文件=符玄-关于自己•卜者
+|语音内容=人人称本座「法眼无遗」，本座却不这么看。推占卜筮，哪有百试百灵的？我是卜者，不是口宣神谕的先知。
+|语音内容日语=誰もが私を「遺漏なき法眼」と称するけど、私はそうは思わない。占卜は万能ではないでしょう？私は卜者であって、神託を説く預言者ではないの。
+|语音内容英语=People say that nothing escapes my omniscia, but that isn't true. No divination can be entirely accurate. I am a diviner, not a prophet who speaks for the divine.
+|语音内容韩语=모두가 본좌를 「완전한 법안」이라 부르지만, 본좌는 그렇게 생각하지 않아요. 백번 봐서 백번 다 맞는 점집이 어디 있겠어요? 전 그저 점술가일 뿐, 신탁을 전하는 선지자는 아니에요
+}}
+{{角色语音
+|语音类型=闲谈•第三眼
+|语音文件=符玄-闲谈•第三眼
+|语音内容=这额间之眼是遨游天外所得，博识尊赐下的重宝。它助本座洞察外物变迁，遍历众多可能。不过，依博识尊的金科玉律「知识要以痛苦换得」，法眼确实可称得上一件永恒的刑具……
+|语音内容日语=この額にある眼は天外を漫遊していた時に得たもので、ヌースの重宝よ。これは私が周囲の変化を洞察するのを助け、多くの可能性を視せてくれる。ヌースの絶対的な信条では「知識は苦痛と引き換えに得るべきである」とされているから、この法眼は永遠の刑具と言えるわね……
+|语音内容英语=The eye on my forehead is a treasure from beyond the heavens bestowed on me by Nous. With it, I am able to see changes in the external world and explore many possibilities. However, as Nous made clear: "Knowledge comes at the price of suffering." The omniscia is, in some ways, an eternal punishment.
+|语音内容韩语=이마의 눈은 천외를 여행할 때 얻은 것이고, 누스께서 내린 보배죠. 이건 본좌가 외부의 변화를 통찰하는 데 도움이 됐고 여러 가능성을 볼 수 있었어요. 하지만 누스의 금과옥조에 따르면 「지식은 고통과 맞바꿔」야 하니, 법안은 영원한 형벌 도구라고 할 수 있겠네요……
+}}
+{{角色语音
+|语音类型=闲谈•穷观阵
+|语音文件=符玄-闲谈•穷观阵
+|语音内容=卜者们凭此阵法鉴往知来。罗浮漂航星海，一日也不可缺了它。只是…我有时候在想，它是否也锁住了我们的前路与众多可能？
+|语音内容日语=卜者たちは、この陣で先に起きる変化を知る。星の海を漂う羅浮にとって、なくてはならない存在なの。ただ…時々、これが私たちの進路や多くの可能性を閉ざしているのではないかと思うことがあるわ。
+|语音内容英语=It is through this Matrix that the diviners view the past and know the future. The Luofu, drifting on the sea of stars, could not be without it for even a day. But... sometimes I wonder if it limits our future possibilities and seals our path ahead?
+|语音内容韩语=점술가들은 궁관진을 통해 과거를 거울삼아 앞날을 알 수 있죠. 나부는 별바다를 표류하니 하루라도 이것이 없으면 안 됐어요. 다만… 가끔은 "이게 우리의 앞날과 가능성을 제한한 건 아닐까?"라는 생각이 들어요
+}}
+{{角色语音
+|语音类型=闲谈•工作
+|语音文件=符玄-闲谈•工作
+|语音内容=今日晨起占得一卦，涨落在坎、离之间，变数颇多…啧，不宜行公务，不宜加班，真教人浑身不自在。
+|语音内容日语=今朝の占いでは、変動は坎、離の間、変数が多いと出ていた…ふう、公務も残業もしないほうがいいなんて、本当に何もできないじゃない。
+|语音内容英语=Early this morning, I performed a divination reading. There were undulations between the water and fire trigrams, with multiple fluctuating variables... The reading said that it would be best to not conduct official business or work overtime today. Hmph, how tiresome.
+|语音内容韩语=오늘 새벽부터 점을 쳐봤는데 괘상이 감괘(坎卦)와 이괘(離卦) 사이를 오르내리고 변수가 많더라고요…. 쯧, 공무를 처리하기 쉽지 않고, 야근하기에도 별로겠어요. 정말 찝찝하네요
+}}
+{{角色语音
+|语音类型=爱好
+|语音文件=符玄-爱好
+|语音内容=在宵旰操劳之余，饮一杯龙女特调的药茶——加糖、加糖、再加糖，一饮而尽，精神焕发！刚好弥补了计算所消耗的能量。
+|语音内容日语=太陽が昇る前から働く時は、少し時間を作って龍女が特別に配合した薬茶を飲むようにしているわ——これでもかというほど砂糖を加えて一気に飲むと、気力が湧いてきて、計算で消費したエネルギーを補うのにちょうどいいの。
+|语音内容英语=After a long night's work, I like to drink a cup of the Dragon Lady's specially blended herbal tea. I add sugar, more sugar, and extra sugar! Just one cup and I feel like a new person! It helps recharge all the energy I spend through my calculations.
+|语音内容韩语=열심히 일한 다음엔 용녀가 특별 제조한 약차를 마시며 쉬는 걸 좋아해요——설탕을 넣고, 넣고, 또 넣어서 한입에 다 마시면 정신이 번쩍 들죠! 계산에 소모한 에너지도 알맞게 충전돼요
+}}
+{{角色语音
+|语音类型=烦恼
+|语音文件=符玄-烦恼
+|语音内容=本座腹笥深广，博览万卷，说话时难免会有些引经据典的习惯，却总有人吹毛求疵，要我「说人话」…哼。
+|语音内容日语=私は見識が広く、色々な書物を網羅しているから、どうしても話している時に言葉を引用してしまうの。そのせいか、粗探しが好きな人が「人の言葉を喋れ」と言ってくるのよね…ふん。
+|语音内容英语=I am educated and well-read, and so sometimes I can't help but quote the classics. Still, there are those that tell me I'm speaking "Fu Xuan." Hmph...
+|语音内容韩语=본좌의 학식은 깊고 넓으며, 읽은 책만 만권이 넘고, 가끔은 말할 때 고전적인 어록을 인용하는 습관이 있어요. 오히려 제게 「말 좀 제대로 해」라며 트집을 잡는 사람이 있답니다…. 흥
+}}
+{{角色语音
+|语音类型=分享
+|语音文件=符玄-分享
+|语音内容=太卜司的不成文规矩「三不占」中有「不义不占」这条，若是要测彩票号码、行情涨跌之类的问题，恕本座一律不答。
+|语音内容日语=太卜司の{{注音|不文律|ふぶんりつ}}である「占うべきではない3つのもの」の中に、「不義を占わず」というのがある。宝くじや相場の変動について聞かれても、答えるつもりはないわ。
+|语音内容英语=One of the Divination Commission's unwritten rules is the "three taboos" — which includes "no unjust divination." So, if you want me to divine the winning lottery numbers, future market conditions, or the like, forgive me for declining to offer my services.
+|语音内容韩语=태복사의 불문율인 「세 가지 금기」에는 「의롭지 않은 경우 점을 치지 않는다」라는 조항이 있어요. 복권 번호나 시세 등락을 여쭤보셔도 본좌는 일절 대답하지 않죠
+}}
+{{角色语音
+|语音类型=见闻•一
+|语音文件=符玄-见闻•一
+|语音内容=虽说联盟奉帝弓诰谕巡猎寿瘟祸祖…但每艘仙舟上至今都留有被称为「丰饶仙迹」的星神造物。在罗浮众多洞天的中心，便封存着赐予吾等长生的「建木」。
+|语音内容日语=同盟は帝弓の啓示に従い、{{注音|寿禍の王|寿瘟禍祖}}を巡狩しているけれど…どの仙舟にも「豊穣の仙跡」と呼ばれる星神の造物が残っている。羅浮の多くの洞天には、私たちを長命にした「建木」が封印されているわ。
+|语音内容英语=Although the Alliance followed the Reignbow Arbiter's order to hunt down the Plagues Author... every Xianzhou ship still has Aeonspawn known as "Traces of the Abundance." At the heart of the many delves of the Luofu, there is the Ambrosial Arbor that gives us longevity.
+|语音内容韩语=연맹은 천궁의 명령을 받아 역병 재앙신을 쫓았지만… 선주에는 아직도 「풍요 선인의 흔적」이라고 불리는 에이언즈의 피조물이 남아 있어요. 나부의 수많은 동천 중심에는 우리 같은 장수종에게 내려진 「불멸의 거목」이 봉인되어 있죠
+}}
+{{角色语音
+|语音类型=见闻•二
+|语音文件=符玄-见闻•二
+|语音内容=玉阙仙舟是太卜司制度的发源地，观星士和卜者群贤毕集，为联盟觇决方略，观望星宿。我曾在那里见过「息壤」的胎石——那可是玉兆技术的源头。
+|语音内容日语=仙舟玉殿は太卜司制度発祥の地。観星士や卜者といった賢者が集まり、同盟のために方略を決め、星を観察する。かつて、あそこで「{{注音|息壌|ソクジョウ}}」の胎石を——「息壌」玉兆技術の根源を見たことがあるわ。
+|语音内容英语=The Yuque was the birthplace of the Divination Commission, where the stargazers and diviners gathered to observe the stars and plot the path ahead for the Alliance. I have seen the lithogenic ore of the Fallow Earth there — it is the source of our Jade Abacus technology.
+|语音内容韩语=옥궐 선주는 점성가와 점술사들이 모여 연맹의 전략을 살피고 별을 관찰하던 태복사 제도의 발원지예요. 예전에 그곳에서 「식양(息壤)」의 태석을 본 적이 있어요——그건 옥조 기술의 원천이죠
+}}
+{{角色语音
+|语音类型=见闻•三
+|语音文件=符玄-见闻•三
+|语音内容=在朱明仙舟引擎中心，据说沉睡着一团有生命的火焰。那是旧时仙舟视为大敌的生物，人称太始焰的「燧皇」。朱明的工匠穷尽法子将它囚在炉中，并用它的力量铸造种种神兵。
+|语音内容日语=仙舟{{注音|朱明|シュメイ}}のエンジンの中心には、命の宿った炎が眠っていると言われているわ。それは、かつて仙舟が大敵とみなしていた生物で、人々が「{{注音|火皇|カコウ}}」と呼んでいたもの。朱明の職人は、あらゆる手段を講じて「それ」を炉の中に閉じ込め、その力を使って色々な武器を鋳造したの。
+|语音内容英语=It is said that a living flame slumbers in the engine of the Zhuming. It is a creature the Xianzhou regarded as a great enemy in the old days — the Flint Emperor, who was also called the Primordial Flame. The craftsmen of the Zhuming used every means available to imprison it in the furnace and used its power to forge various divine weapons.
+|语音内容韩语=주명 선주 엔진센터에는 생명의 불꽃이 잠들어 있다고 해요. 그건 옛날에 선주가 적으로 여겼던 생물로 사람들은 태초의 불꽃 「{{注音|부싯 황제|수황(燧皇)}}」라고 불렀죠. 주명의 장인들은 온갖 방법을 다 써서 그를 용광로에 가뒀고, 그 힘으로 여러 신성한 무기를 주조했답니다
+}}
+{{角色语音
+|语音类型=关于景元
+|语音文件=符玄-关于景元
+|语音内容=哼，迄今为止，景元已答应举荐我接任将军一百二十二次。其中一百二十一次是在我出谋献策后，虚应故事地说了声「嗯」。最后那一次，我见他颇有韵律地点了点头，竟是在打瞌睡……
+|语音内容日语=ふん。これまで将軍は122回、私を後任の将軍に推薦することを承諾したわ。そのうちの121回は私が何らかの貢献をしたり、策を出したりした後のことで、適当にあしらうように「うん」と言っていた。そして最後の1回の時、彼が一定の間隔で頷くものだから、よく見てみたら…ただ居眠りをしているだけだったのよ……
+|语音内容英语=Hmph, as it stands, Jing Yuan has promised to nominate me to the generalship on 122 separate occasions. For 121 of them, I made my case and he replied with a nonchalant "mm-hmm." The one other time, I spoke at length on my reasoning and watched him gradually fall asleep...
+|语音内容韩语=흥, 경원 장군님은 본좌를 장군으로 천거해 주겠다고 122번이나 약속했어요. 그중 121번은 제가 방법을 내놓자 무심하게 「응」이라고 답했고, 마지막 대답은 리듬감 있게 고개를 끄덕이기에 봤더니 졸고 있었죠……
+}}
+{{角色语音
+|语音类型=关于青雀
+|语音文件=符玄-关于青雀
+|语音内容=太卜司中疏怠荒闲者众多，唯独她在摸鱼偷懒的小道上独树一帜，都快总结出心得法门、开宗立派了！有时我甚至疑心，她是不是能逃过我的卜测……
+|语音内容日语=太卜司には怠け者が多いけど、彼女はサボることにおいて我が道を行っているわね。そろそろ経験をまとめた法門とか出して、新しい宗派を開きそう。時々、彼女は私の占いから逃れているのではないかと疑ってしまうわ……
+|语音内容英语=The Divination Commission is full of idlers, but she is the only one who has truly mastered the art of slacking off — and getting away with it... She could write a whole book on the subject! Sometimes I even wonder if she could escape my divination...
+|语音内容韩语=태복사에는 나태한 사람이 많지만, 게으름 피우는 데는 유독 청작이 독보적이죠. 곧 그 분야를 통달하고 종파를 만들지도 몰라요! 가끔은 제 점괘에서 벗어날 수 있는 건 아닌지 의심마저 들더라고요……
+}}
+{{角色语音
+|语音类型=关于白露
+|语音文件=符玄-关于白露
+|语音内容=本以为龙女为我所配的药茶中藏有振衰去乏的秘密成分，直到很久以后，我发觉她只是多加了糖。对人下药，不愧是丹鼎司一力培养的天才！
+|语音内容日语=龍女が配合してくれる薬茶の中には、虚弱を改善したり、栄養の欠乏を補ったりする秘密の成分が入っていると思っていたけど…後になってから、彼女が砂糖を多めに入れていただけだと気付いたの。人に合わせて薬を処方する、さすがは丹鼎司が力を入れて育成している天才ね。
+|语音内容英语=For a long time, I thought that the tea the Dragon Lady made for me had a secret ingredient for replenishing the weary. Eventually, I discovered that the secret ingredient was just extra sugar. Such a subtle method for treating fatigue, but I expect nothing less from such an exceptional member of the Alchemy Commission!
+|语音内容韩语=용녀가 저를 위해 준비한 약차에는 활기를 돋아주고 피로를 풀어주는 비밀 성분이 있다고 생각했는데, 한참 후에야 설탕을 더 넣었을 뿐이라는 걸 알게 됐죠. 효과가 좋은 걸 보니, 역시 단정사가 키운 천재다워요!
+}}
+{{角色语音
+|语音类型=关于彦卿
+|语音文件=符玄-关于彦卿
+|语音内容=每每我同景元议事，言辞稍有怠慢，那小家伙便会拿眼睛来瞪我。不过不必用法眼观瞧也知道，他对我动武的可能微乎其微，便由他去了。
+|语音内容日语=将軍と話をしている時に少しでも言葉遣いを間違えると、毎回あの子供が私のことを睨んでくるの。でも法眼で視るまでもなく、彼が私に武力を行使する可能性は低いから、好きにさせているわ。
+|语音内容英语=Whenever I get into a heated discussion with Jing Yuan and allow my tone to betray me, Yanqing starts glaring at me. Still, I don't need the omniscia to know that the odds of that child making a move against me are minimal...
+|语音内容韩语=경원 장군과 의논할 때 제 말투가 태만해지면 그 녀석은 두 눈을 부릅뜨고 본좌를 노려본답니다. 하지만 법안으로 볼 필요도 없이 저한테 무력을 행사할 가능성은 희박하니, 그냥 내버려 뒀죠
+}}
+{{角色语音
+|语音类型=关于停云
+|语音文件=符玄-关于停云
+|语音内容=天舶司下辖的商团各有所长，我听闻停云所领的「鸣火」商团最善自平凡之物中筛出价值，这倒暗合卜筮之道，在万物中窥见潜在的可能。
+|语音内容日语=天舶司が管轄する商団にはそれぞれの長所がある。停雲が率いる「{{注音|鳴火|ナルビ}}」商団は、ありふれた物の中から価値ある物を見つけるのが上手いと聞いたわ。万物に秘められた可能性を見出すという点では、占いの道に通じるものがあるわね。
+|语音内容英语=The various merchant guilds under the Sky-Faring Commission each have their own strengths. I've heard that Tingyun's Whistling Flames is adept at producing value by sifting through piles of ordinary items. Such is the way of divination: Seeing potential possibilities in everything.
+|语音内容韩语=천박사 산하의 상단에는 각각 소장이 있는데, 정운이 이끄는 「명화」 상단이 평범한 물건 사이에서 가치 있는 것들을 가장 잘 골라낸다고 들었어요. 이건 만물에서 잠재적인 가능성을 엿볼 수 있는 점술이죠
+}}
+{{角色语音
+|语音类型=关于开拓者
+|语音文件=符玄-关于开拓者
+|语音内容=可能性分化成的种种虚影，命途中人应有的流向…在你的身上，这些痕迹我统统看不见，真是奇怪……
+|语音内容日语=可能性が分岐した様々な虚像、運命を歩む者にあるべき流れ…それが彼女/彼からは感じられない。本当に奇妙だわ……
+|语音内容英语=The shadows of future possibilities and the direction of one's path should normally be readily apparent... I can't detect any traces of these on you. Strange...
+|语音内容韩语=가능성이 분화되어 생긴 여러 가지 허영, 운명의 길에서 사람이 따라야 할 흐름… 몸에서 이런 흔적들이 전혀 보이지 않아요. 참 이상하죠……
+}}
+{{角色语音
+|语音类型=关于三月七
+|语音文件=符玄-关于三月七
+|语音内容=命途的流向一般通往未来，但在她身上却流向过去…过去于她，究竟是好事还是坏事……
+|语音内容日语=一般的に、運命の流れは未来へと向かっている。でも、彼女のものは過去へと流れている…過去は彼女にとっていいもの？それとも悪いものかしら……
+|语音内容英语=Destiny usually flows before us into the future, but for her, it flows into the past... As far as she is concerned, is the past a force for good or bad?
+|语音内容韩语=운명의 길은 보통 미래를 향해 흐르죠. 하지만 그녀의 흐름은 과거를 향하고 있어요…. 그녀에게 과거란 좋은 걸까요, 나쁜 걸까요……?
+}}
+{{角色语音
+|语音类型=关于藿藿
+|语音文件=符玄-关于藿藿
+|语音内容=这孩子胆子虽小，但听了不少人夸奖她…我要是能有如此助力，便能省去不少心力…罢了罢了。
+|语音内容日语=あの子は臆病だけど、多くの者が彼女を褒めているのを耳にするわ…私があのように力を手に入れることができれば、苦心と労力をだいぶ減らせるはず…いえ、なんでもないわ。
+|语音内容英语=That girl may be shy, but she's been lauded by many... If I had that kind of assistance, it would take a load off my mind...
+|语音内容韩语=비록 겁이 많은 아이지만 사람들 칭찬이 자자하더라고요…. 제게 그렇게 힘을 보태주는 이가 있었다면, 마음의 짐을 덜 텐데… 에휴, 아닙니다
+}}
+{{角色语音
+|语音类型=关于爻光
+|语音文件=符玄-关于爻光
+|语音内容=想起求学时，我事事要与师姐争辩。师姐总是让我，我本以为自己所学胜于她。如今想来，是我当年稚嫩了。哼，只是穷究学理，还能让来让去的？
+|语音内容日语=一緒に修行していた頃は、事あるごとに姉弟子に食ってかかっていたの。いつも譲ってくれたから、自分のほうが上だと思い込んでいたわ。今思うと、本当に考えが甘かった。でも、学問の議論で譲るとか…意味がわからないでしょう？
+|语音内容英语=I recall my days as a student... I argued with my senior soror on every matter. She would always concede, and I mistook it for proof that my studies surpassed hers. Looking back now, I see how childish I was. Hmph. When it comes to the pursuit of knowledge, what place is there for concession?
+|语音内容韩语=공부하던 시절, 본좌는 뭐든 사저와 논쟁을 벌였죠. 사저는 늘 제게 양보해 줬는데 전 사저보다 제가 더 똑똑한 줄 알았답니다. 지금 생각해보면 당시 제가 유치했죠. 흥, 그런데 학문 이치 연구에 양보가 어딨나요?
+}}
+{{角色语音
+|语音类型=星魂激活
+|语音文件=符玄-星魂激活
+|语音内容=一饮一啄，莫非前定。
+|语音内容日语=一飲一啄、定めにあらざるなし。
+|语音内容英语=Isn't every morsel, every drop predestined?
+|语音内容韩语=모든 건 정해져 있는 법
+}}
+{{角色语音
+|语音类型=角色晋阶
+|语音文件=符玄-角色晋阶
+|语音内容=元亨利贞，诸事遂顺。
+|语音内容日语=元亨利貞、すべては順調よ。
+|语音内容英语=With favor and gain, life's free from strain.
+|语音内容韩语=원형이정, 모든 것이 순조롭네요
+}}
+{{角色语音
+|语音类型=角色满级
+|语音文件=符玄-角色满级
+|语音内容=要说「法眼无遗」，我还差得远呢……
+|语音内容日语=私を「遺漏なき法眼」と言うには、遠く及ばないわ…
+|语音内容英语=When it comes to seeing everything, I've still got a long road ahead of me...
+|语音内容韩语=「완전한 법안」이라면, 한참 멀었어요……
+}}
+{{角色语音
+|语音类型=行迹激活
+|语音文件=符玄-行迹激活
+|语音内容=这一步，是吉是凶呢？
+|语音内容日语=この一歩は、吉と出るかしら、凶と出るかしら？
+|语音内容英语=Hmm, is this weal or woe?
+|语音内容韩语=이렇게 하면 길할까요, 흉할까요?
+}}
+{{角色语音
+|语音类型=队伍编成•开拓者
+|语音文件=符玄-队伍编成•开拓者
+|语音内容=「奇兵」在场，定是无往不利啊。
+|语音内容日语=「奇兵」がいるから、必ずすべてが順調に進むわ。
+|语音内容英语=With you on our side, we're destined for victory.
+|语音内容韩语=「기병(奇兵)」이 있으니 순조롭겠군요
+}}
+{{角色语音
+|语音类型=队伍编成•景元
+|语音文件=符玄-队伍编成•景元
+|语音内容=将军亲临战阵，这一仗胜负我看是不用卜了吧……
+|语音内容日语=将軍が戦場に出るなら、私が占う必要はないわね。
+|语音内容英语=General? No need to divine the result of this battle...
+|语音内容韩语=장군님이 친히 전장에 나오시다니, 승패는 점을 칠 필요도 없겠네요……
+}}
+{{角色语音
+|语音类型=队伍编成•青雀
+|语音文件=符玄-队伍编成•青雀
+|语音内容=青雀？本座知你不在书库，已在此等候多时。
+|语音内容日语=青雀？書庫にいないから、ここで待っていたのよ。
+|语音内容英语=Qingque? Ahem! I knew you weren't in the repository. I've been waiting here for you for some time.
+|语音内容韩语=청작? 본좌는 네가 서고에 없다는 걸 알고 여기서 한참 기다렸다
+}}
+{{角色语音
+|语音类型=队伍编成•彦卿
+|语音文件=符玄-队伍编成•彦卿
+|语音内容=论武艺，你略胜将军。论谋略，我略胜将军。你我二人合力，比将军何如？
+|语音内容日语=武芸はおまえが、謀略は私が、将軍に少し勝る。2人で将軍と勝負してみるのはどう？
+|语音内容英语=Your martial prowess exceeds that of the general, while I surpass him in strategy. How about we join forces?
+|语音内容韩语=무예로 따지면 넌 장군님 위야. 지략으로 따지면 난 장군님 위지. 우리가 힘을 합치면 어떻게 될까?
+}}
+{{角色语音
+|语音类型=队伍编成•白露
+|语音文件=符玄-队伍编成•白露
+|语音内容=有龙女在，本座便不虞有患了。
+|语音内容日语=白露殿がいるなら、病の心配は不要ね。
+|语音内容英语=With the Dragon Lady here, I have nothing to worry about.
+|语音内容韩语=용녀가 있으니 본좌는 아파도 걱정없겠군
+}}
+{{角色语音
+|语音类型=队伍编成•爻光
+|语音文件=符玄-队伍编成•爻光
+|语音内容=与师姐推演战阵，就像回到了求学时光。
+|语音内容日语=姉弟子のあなたと並んで戦陣を視ていると、あの修行の日々がよみがえるわ。
+|语音内容英语=Divining the battlefield with my senior soror transports me to erstwhile times of academic pursuit.
+|语音内容韩语=사저와 함께 전장을 연산하니, 공부하던 시절로 돌아간 것 같네요
+}}
+{{切换板|内容结束}}
+{{切换板|折叠内容}}
+{{角色语音
+|语音类型=战斗开始•弱点击破
+|语音文件=符玄-战斗开始•弱点击破
+|语音内容=物皆自成，无所不利。
+|语音内容日语=事は己で成す、不利などない。
+|语音内容英语=Everything came together.
+|语音内容韩语=만물이 스스로 이로워지리
+}}
+{{角色语音
+|语音类型=战斗开始•弱点击破(2x)
+|语音文件=符玄-战斗开始•弱点击破-2x
+|语音内容=
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=战斗开始•危险预警
+|语音文件=符玄-战斗开始•危险预警
+|语音内容=风云不测，若涉渊水。
+|语音内容日语=測り難きは風雲、行先は淵の水…
+|语音内容英语=Our fortune is clouded with uncertainty.
+|语音内容韩语=한 치 앞도 알 수 없도다
+}}
+{{角色语音
+|语音类型=战斗开始•危险预警(2x)
+|语音文件=符玄-战斗开始•危险预警-2x
+|语音内容=
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=回合开始•一
+|语音文件=符玄-回合开始•一
+|语音内容=以额间之眼观之…
+|语音内容日语=法眼を以て視るべし…
+|语音内容英语=The omniscia sees through you...
+|语音内容韩语=이마의 눈으로 보고 있어…
+}}
+{{角色语音
+|语音类型=回合开始•一(2x)
+|语音文件=符玄-回合开始•一-2x
+|语音内容=
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=回合开始•二
+|语音文件=符玄-回合开始•二
+|语音内容=本座先卜上一卦。
+|语音内容日语=先に占ってみましょう。
+|语音内容英语=Allow me to make a divination.
+|语音内容韩语=본좌가 먼저 점쳐보지
+}}
+{{角色语音
+|语音类型=回合开始•二(2x)
+|语音文件=符玄-回合开始•二-2x
+|语音内容=
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=回合待机
+|语音文件=符玄-回合待机
+|语音内容=当断不断，必受其乱。
+|语音内容日语=断に当たって断ぜざれば、必ずや其の乱を受く。
+|语音内容英语=Hesitation only breeds chaos.
+|语音内容韩语=주저하면 화를 입는 법
+}}
+{{角色语音
+|语音类型=普攻•一
+|语音文件=符玄-普攻•一
+|语音内容=极数，知来！
+|语音内容日语={{注音|極数|ごくすう}}、{{注音|知来|ちらい}}！
+|语音内容英语=With all my power... Scry the future!
+|语音内容韩语=수를 풀어 미래를 예견하리!
+}}
+{{角色语音
+|语音类型=普攻•二
+|语音文件=符玄-普攻•二
+|语音内容=成象，效法！
+|语音内容日语={{注音|成象|せいしょう}}、{{注音|効法|こうほう}}！
+|语音内容英语=In formation, in accordance!
+|语音内容韩语=상을 이뤄 따르라!
+}}
+{{角色语音
+|语音类型=战技•一
+|语音文件=符玄-战技•一
+|语音内容=相与为一。
+|语音内容日语={{注音|相与一体|そうよいったい}}。
+|语音内容英语=Together as one.
+|语音内容韩语=하나가 되리라
+}}
+{{角色语音
+|语音类型=战技•一(2x)
+|语音文件=符玄-战技•一-2x
+|语音内容=
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=战技•二
+|语音文件=符玄-战技•二
+|语音内容=上下象易。
+|语音内容日语={{注音|上下象易|しょうかしょうい}}。
+|语音内容英语=Converge and awaken.
+|语音内容韩语=상하가 바뀌리
+}}
+{{角色语音
+|语音类型=战技•二(2x)
+|语音文件=符玄-战技•二-2x
+|语音内容=
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=轻受击
+|语音文件=符玄-轻受击
+|语音内容=小吝，无咎。
+|语音内容日语=小難に過ぎないわ。
+|语音内容英语=No matter.
+|语音内容韩语=어려움 없도다
+}}
+{{角色语音
+|语音类型=重受击
+|语音文件=符玄-重受击
+|语音内容=有、有凶…
+|语音内容日语=きょ、凶が出た…
+|语音内容英语=B—Bad luck...
+|语音内容韩语=불길해…
+}}
+{{角色语音
+|语音类型=终结技•激活
+|语音文件=符玄-终结技•激活
+|语音内容=世间万物自有其法……
+|语音内容日语=世の万物に法理あり…
+|语音内容英语=All things in this world have their laws...
+|语音内容韩语=만물은 본디 그 법이 있지만……
+}}
+{{角色语音
+|语音类型=终结技•施放
+|语音文件=符玄-终结技•施放
+|语音内容=但换斗移星，谋事，在人！
+|语音内容日语=換斗移星、人事を、成す！
+|语音内容英语=Yet stratagems, constellations... are human creations!
+|语音内容韩语=수단과 계책은 인간의 몫이다!
+}}
+{{角色语音
+|语音类型=终结技•施放(2x)
+|语音文件=符玄-终结技•施放-2x
+|语音内容=
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=天赋
+|语音文件=符玄-天赋
+|语音内容=阴阳变转，生生不绝。
+|语音内容日语=陰陽転換、生々流転。
+|语音内容英语=Yin and Yang, life and death.
+|语音内容韩语=음양이 변하고 불멸하리
+}}
+{{角色语音
+|语音类型=无法战斗
+|语音文件=符玄-无法战斗
+|语音内容=事已前定…么……
+|语音内容日语=これも…運命…
+|语音内容英语=Was this... predestined...?
+|语音内容韩语=정해진… 일인가……?
+}}
+{{角色语音
+|语音类型=重回战斗
+|语音文件=符玄-重回战斗
+|语音内容=否极泰来。
+|语音内容日语={{注音|一陽来復|いちようらいふく}}ね。
+|语音内容英语=Good fortune is bound to return.
+|语音内容韩语=불행 끝 행복 시작
+}}
+{{角色语音
+|语音类型=回复生命
+|语音文件=符玄-回复生命
+|语音内容=互通有无，实为妙计。
+|语音内容日语={{注音|有無相通|うむあいつう}}ずる、妙策だわ。
+|语音内容英语=Reciprocity... excellent.
+|语音内容韩语=유무상통하니 실로 묘책이군
+}}
+{{角色语音
+|语音类型=秘技
+|语音文件=符玄-秘技
+|语音内容=颠扑不破。
+|语音内容日语={{注音|顛撲不破|てんぼくふは}}。
+|语音内容英语=Infallible.
+|语音内容韩语=뒤엎을 수 없어
+}}
+{{角色语音
+|语音类型=战斗胜利
+|语音文件=符玄-战斗胜利
+|语音内容=卜卦行道，变动不居。
+|语音内容日语=卜算は有為無常なり。
+|语音内容英语=All things shift in divination.
+|语音内容韩语=점괘로 만물이 변하지
+}}
+{{角色语音
+|语音类型=开启战利品•一
+|语音文件=符玄-开启战利品•一
+|语音内容=如我所愿。
+|语音内容日语=私の望み通りね。
+|语音内容英语=Just as I thought.
+|语音内容韩语=생각한 대로군
+}}
+{{角色语音
+|语音类型=开启战利品•二
+|语音文件=符玄-开启战利品•二
+|语音内容=卦象之内。
+|语音内容日语=卦象のうちよ。
+|语音内容英语=As divined.
+|语音内容韩语=괘상으로 예측 가능해
+}}
+{{角色语音
+|语音类型=开启贵重战利品
+|语音文件=符玄-开启贵重战利品
+|语音内容=…此为偏财，不宜多得。
+|语音内容日语=…これはあぶく銭で、多く得るべきではないわ。
+|语音内容英语=*gasp* Ahem! ...Unexpected. We shouldn't take too much...
+|语音内容韩语=…이건 갑자기 들어온 재물이니 너무 욕심부리면 안 돼
+}}
+{{角色语音
+|语音类型=解谜成功•一
+|语音文件=符玄-解谜成功•一
+|语音内容=行有余力哪。
+|语音内容日语=行いて余力あらば、ね。
+|语音内容英语=Throw me another puzzle.
+|语音内容韩语=아직 쌩쌩해
+}}
+{{角色语音
+|语音类型=解谜成功•二
+|语音文件=符玄-解谜成功•二
+|语音内容=古籍之中早有记载。
+|语音内容日语=古書にはとっくに記述があるわ。
+|语音内容英语=This was documented in the ancient texts long ago.
+|语音内容韩语=고서에 이미 나와 있어
+}}
+{{角色语音
+|语音类型=发现敌方目标
+|语音文件=符玄-发现敌方目标
+|语音内容=慎终于始。
+|语音内容日语=慎始敬終よ。
+|语音内容英语=Be watchful — always.
+|语音内容韩语=항상 신중해야 해
+}}
+{{角色语音
+|语音类型=返回城镇
+|语音文件=符玄-返回城镇
+|语音内容=卦象涨落不息，还需好好筹划。
+|语音内容日语=卦象が定まらない、綿密な計画を練らなければ。
+|语音内容英语=One's hexagrammatic position is always in flux. Planning is paramount.
+|语音内容韩语=괘상이 오르내리니 계획을 잘 세워야겠군
+}}
+{{切换板|内容结束}}
+{{切换板|结束}}
+== 无文本语音 ==
+{| class="wikitable" style="width:100%"
+|-
+! 语音类型 !! 中 !! 日 !! 英 !! 韩
+|-
+| style="width:25%;text-align:center" | 触发战斗
+| {{player|符玄-触发战斗•一}}{{player|符玄-触发战斗•二}}{{player|符玄-触发战斗•三}}
+| {{player|日-符玄-触发战斗•一}}{{player|日-符玄-触发战斗•二}}{{player|日-符玄-触发战斗•三}}
+| {{player|英-符玄-触发战斗•一}}{{player|英-符玄-触发战斗•二}}{{player|英-符玄-触发战斗•三}}
+| {{player|韩-符玄-触发战斗•一}}{{player|韩-符玄-触发战斗•二}}{{player|韩-符玄-触发战斗•三}}
+|-
+| style="width:25%;text-align:center" | 普攻
+| {{player|符玄-普攻-无文本•一}}{{player|符玄-普攻-无文本•二}}{{player|符玄-普攻-无文本•三}}{{player|符玄-普攻-无文本•四}}
+| {{player|日-符玄-普攻-无文本•一}}{{player|日-符玄-普攻-无文本•二}}{{player|日-符玄-普攻-无文本•三}}{{player|日-符玄-普攻-无文本•四}}
+| {{player|英-符玄-普攻-无文本•一}}{{player|英-符玄-普攻-无文本•二}}{{player|英-符玄-普攻-无文本•三}}{{player|英-符玄-普攻-无文本•四}}
+| {{player|韩-符玄-普攻-无文本•一}}{{player|韩-符玄-普攻-无文本•二}}{{player|韩-符玄-普攻-无文本•三}}{{player|韩-符玄-普攻-无文本•四}}
+|-
+| style="width:25%;text-align:center" | 轻受击
+| {{player|符玄-轻受击-无文本•一}}{{player|符玄-轻受击-无文本•二}}{{player|符玄-轻受击-无文本•三}}{{player|符玄-轻受击-无文本•四}}
+| {{player|日-符玄-轻受击-无文本•一}}{{player|日-符玄-轻受击-无文本•二}}{{player|日-符玄-轻受击-无文本•三}}{{player|日-符玄-轻受击-无文本•四}}
+| {{player|英-符玄-轻受击-无文本•一}}{{player|英-符玄-轻受击-无文本•二}}{{player|英-符玄-轻受击-无文本•三}}{{player|英-符玄-轻受击-无文本•四}}
+| {{player|韩-符玄-轻受击-无文本•一}}{{player|韩-符玄-轻受击-无文本•二}}{{player|韩-符玄-轻受击-无文本•三}}{{player|韩-符玄-轻受击-无文本•四}}
+|-
+| style="width:25%;text-align:center" | 重受击
+| {{player|符玄-重受击-无文本•一}}{{player|符玄-重受击-无文本•二}}{{player|符玄-重受击-无文本•三}}{{player|符玄-重受击-无文本•四}}
+| {{player|日-符玄-重受击-无文本•一}}{{player|日-符玄-重受击-无文本•二}}{{player|日-符玄-重受击-无文本•三}}{{player|日-符玄-重受击-无文本•四}}
+| {{player|英-符玄-重受击-无文本•一}}{{player|英-符玄-重受击-无文本•二}}{{player|英-符玄-重受击-无文本•三}}{{player|英-符玄-重受击-无文本•四}}
+| {{player|韩-符玄-重受击-无文本•一}}{{player|韩-符玄-重受击-无文本•二}}{{player|韩-符玄-重受击-无文本•三}}{{player|韩-符玄-重受击-无文本•四}}
+|}

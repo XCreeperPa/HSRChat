@@ -1,0 +1,46 @@
+{{书籍
+|书籍名=一页寄语：白厄
+|卷数=1<!-- 仅填写数字 -->
+|编号=5142<!-- 按照游戏内显示顺序编号，第一位为所属编号，共四位 -->
+|描述=来自记忆中的星海，与礼物一同交予你手的寄语…难言的灼热从你指尖散开。
+|所属=5
+|类型=寄语
+|实装版本=3.7
+|相关角色=白厄
+}}
+
+{{书籍/分卷
+|名称=一页寄语：白厄
+|卷数=1
+|实装版本=3.7
+|获取方式=「岁月彼岸」一页永恒煦光圃园界域定锚，与 {{图标|白厄}}对话选择「有什么希望我铭记的东西吗？」并提交 1 个「时光硕果」获取。<br />{{图标|「时光硕果」}}需要通过完成虫鸣秘闻获取。在过往版本中完成的虫鸣秘闻，找到「岁月彼岸」一页永恒的衣匠领取对应的「时光硕果」。
+|内容=致开拓者，我的伙伴：<br />
+<br />
+<p style="text-align: center">「曾有英雄点燃骨血，铸就斩破黑暗的长剑。」</p>
+<p style="text-align: center">在哀丽秘榭的麦田里，母亲向年幼的我讲述过这样一段童谣：</p>
+<p style="text-align: center">那位英雄没有就此死去，终有一日会回到我们身边。</p>
+<p style="text-align: center">我对此深信不疑。</p>
+<br />
+<p style="text-align: center">但当麦草被烈火焚烧殆尽，他没有来临。</p>
+<p style="text-align: center">当无边黑潮吞没世界，他没有来临。</p>
+<p style="text-align: center">我无数次期盼、无数次祈求，</p>
+<p style="text-align: center">但浸染金血的时针一次次落回原点…明天依旧触不可及。</p>
+<br />
+<p style="text-align: center">当黎明坠落大地，为我指明前路的，是你。</p>
+<p style="text-align: center">替我肩负起万千火种之重的，是你。</p>
+<p style="text-align: center">将我从枯焦骸骨垒砌而成的炼狱中赎救，</p>
+<p style="text-align: center">为翁法罗斯写下新的明天的，是你。</p>
+<br />
+<p style="text-align: center">我一直等待着的英雄…是你。</p>
+<p style="text-align: center">也同样是你告诉我，我也能够成为心中的英雄，</p>
+<p style="text-align: center">同你一样，开拓属于自己的命运。</p>
+<br />
+<p style="text-align: center">请收下这与「侵晨」一炉同铸的造物，我们曾并肩战斗的证明。</p>
+<p style="text-align: center">一团无名的铁浆，以伤痕锤炼，以苦痛淬火，辗转千万年轮转的光阴，</p>
+<p style="text-align: center">最终在你的目光中得以塑形。</p>
+<br />
+<p style="text-align: center">愿它能给予你相信曙光终会到来的勇气，</p>
+<p style="text-align: center">我的英雄。</p>
+<br />
+<p style="text-align: right">白厄</p>
+}}

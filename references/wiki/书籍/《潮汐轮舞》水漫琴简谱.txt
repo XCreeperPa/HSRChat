@@ -1,0 +1,110 @@
+{{书籍
+|书籍名=《潮汐轮舞》水漫琴简谱
+|卷数=1
+|编号=5015
+|描述=水漫琴的琴谱，记载着在法吉娜信徒间颇负盛名的《潮汐轮舞》一曲。
+|所属=5
+|类型=石碑
+|实装版本=3.0
+}}
+
+{{书籍/分卷
+|名称=《潮汐轮舞》水漫琴简谱
+|卷数=1
+|实装版本=3.0
+|获取方式=「永恒圣城」奥赫玛流憩大厅界域定锚（云石天宫东南角），往南走到露天浴池，在 {{图标|遐蝶}}附近的桌面上拾取。
+|内容=<p style="text-align: center">——献给满溢之杯的圣咏</p>
+<br />
+<p style="text-align: center">【调弦说明】</p>
+<p style="text-align: center">十二弦对应十二泰坦之力：</p>
+<p style="text-align: center">1&nbsp;永夜&nbsp;-&nbsp;E&nbsp;&nbsp;（欧洛尼斯之弦）</p>
+<p style="text-align: center">2&nbsp;公正&nbsp;-&nbsp;A&nbsp;&nbsp;（塔兰顿之弦）</p>
+<p style="text-align: center">3&nbsp;万径&nbsp;-&nbsp;D&nbsp;&nbsp;（雅努斯之弦）</p>
+<p style="text-align: center">4&nbsp;晨昏&nbsp;-&nbsp;G&nbsp;&nbsp;（艾格勒之弦）</p>
+<p style="text-align: center">5&nbsp;磐岩&nbsp;-&nbsp;C&nbsp;&nbsp;（吉奥里亚之弦）</p>
+<p style="text-align: center">6&nbsp;满溢&nbsp;-&nbsp;F&nbsp;&nbsp;（法吉娜之弦）</p>
+<p style="text-align: center">7&nbsp;全世&nbsp;-&nbsp;B&nbsp;&nbsp;（刻法勒之弦）</p>
+<p style="text-align: center">8&nbsp;裂分&nbsp;-&nbsp;E'&nbsp;（瑟希斯之弦）</p>
+<p style="text-align: center">9&nbsp;黄金&nbsp;-&nbsp;A'&nbsp;（墨涅塔之弦）</p>
+<p style="text-align: center">10&nbsp;天谴&nbsp;-&nbsp;D'&nbsp;（尼卡多利之弦）</p>
+<p style="text-align: center">11&nbsp;翻飞&nbsp;-&nbsp;G'&nbsp;（扎格列斯之弦）</p>
+<p style="text-align: center">12&nbsp;灰黯&nbsp;-&nbsp;C'&nbsp;（塞纳托斯之弦）</p>
+<br />
+<p style="text-align: center">''琴弦需浸润法吉娜圣水方显神力''</p>
+<p style="text-align: center">''水位每涨一寸，音调升半阶''</p>
+<br />
+<p style="text-align: center">【第一乐章：潮起】</p>
+<p style="text-align: center">水位：初涌（及踝）</p>
+<p style="text-align: center">节奏：♩{{=}}72&nbsp;舒缓如晨潮</p>
+<br />
+<p style="text-align: center">E&nbsp;&nbsp;&#x7c;-E---B---&#x7c;C---E---&#x7c;</p>
+<p style="text-align: center">A&nbsp;&nbsp;&#x7c;--A---C--&#x7c;--E---G-&#x7c;</p>
+<p style="text-align: center">D&nbsp;&nbsp;&#x7c;---D---E-&#x7c;---G---B&#x7c;</p>
+<p style="text-align: center">G&nbsp;&nbsp;&#x7c;----G----&#x7c;----C---&#x7c;</p>
+<p style="text-align: center">C&nbsp;&nbsp;&#x7c;-----C---&#x7c;-----E--&#x7c;</p>
+<p style="text-align: center">F&nbsp;&nbsp;&#x7c;------F--&#x7c;------A-&#x7c;</p>
+<p style="text-align: center">B&nbsp;&nbsp;&#x7c;---------&#x7c;B---D---&#x7c;</p>
+<p style="text-align: center">E'&nbsp;&#x7c;---------&#x7c;--E---G-&#x7c;</p>
+<p style="text-align: center">A'&nbsp;&#x7c;---------&#x7c;---A----&#x7c;</p>
+<p style="text-align: center">D'&nbsp;&#x7c;---------&#x7c;----D---&#x7c;</p>
+<p style="text-align: center">G'&nbsp;&#x7c;---------&#x7c;-----G--&#x7c;</p>
+<p style="text-align: center">C'&nbsp;&#x7c;---------&#x7c;------C-&#x7c;</p>
+<br />
+<p style="text-align: center">【第二乐章：潮涌】</p>
+<p style="text-align: center">水位：渐强（及膝）</p>
+<p style="text-align: center">节奏：♩{{=}}108&nbsp;如海浪翻涌</p>
+<br />
+<p style="text-align: center">E&nbsp;&nbsp;&#x7c;-E-B-E-&#x7c;-G-B-E-&#x7c;</p>
+<p style="text-align: center">A&nbsp;&nbsp;&#x7c;-A-C-E-&#x7c;-C-E-A-&#x7c;</p>
+<p style="text-align: center">D&nbsp;&nbsp;&#x7c;-D-E-G-&#x7c;-E-G-D-&#x7c;</p>
+<p style="text-align: center">G&nbsp;&nbsp;&#x7c;-G-B-D-&#x7c;-B-D-G-&#x7c;</p>
+<p style="text-align: center">C&nbsp;&nbsp;&#x7c;-C-E-G-&#x7c;-E-G-C-&#x7c;</p>
+<p style="text-align: center">F&nbsp;&nbsp;&#x7c;-F-A-C-&#x7c;-A-C-F-&#x7c;</p>
+<p style="text-align: center">B&nbsp;&nbsp;&#x7c;-B-D-F-&#x7c;-D-F-B-&#x7c;</p>
+<p style="text-align: center">E'&nbsp;&#x7c;-E-G-B-&#x7c;-G-B-E-&#x7c;</p>
+<p style="text-align: center">A'&nbsp;&#x7c;-A-C-E-&#x7c;-C-E-A-&#x7c;</p>
+<p style="text-align: center">D'&nbsp;&#x7c;-D-F-A-&#x7c;-F-A-D-&#x7c;</p>
+<p style="text-align: center">G'&nbsp;&#x7c;-G-B-D-&#x7c;-B-D-G-&#x7c;</p>
+<p style="text-align: center">C'&nbsp;&#x7c;-C-E-G-&#x7c;-E-G-C-&#x7c;</p>
+<br />
+<p style="text-align: center">【第三乐章：潮巅】</p>
+<p style="text-align: center">水位：满溢（及胸）</p>
+<p style="text-align: center">节奏：♩{{=}}144&nbsp;如暴风雨降临</p>
+<br />
+<p style="text-align: center">E&nbsp;&nbsp;&#x7c;-E-G-B-E-&#x7c;-B-E-G-B-&#x7c;</p>
+<p style="text-align: center">A&nbsp;&nbsp;&#x7c;-A-C-E-A-&#x7c;-C-E-A-C-&#x7c;</p>
+<p style="text-align: center">D&nbsp;&nbsp;&#x7c;-D-F-A-D-&#x7c;-F-A-D-F-&#x7c;</p>
+<p style="text-align: center">G&nbsp;&nbsp;&#x7c;-G-B-D-G-&#x7c;-B-D-G-B-&#x7c;</p>
+<p style="text-align: center">C&nbsp;&nbsp;&#x7c;-C-E-G-C-&#x7c;-E-G-C-E-&#x7c;</p>
+<p style="text-align: center">F&nbsp;&nbsp;&#x7c;-F-A-C-F-&#x7c;-A-C-F-A-&#x7c;</p>
+<p style="text-align: center">B&nbsp;&nbsp;&#x7c;-B-D-F-B-&#x7c;-D-F-B-D-&#x7c;</p>
+<p style="text-align: center">E'&nbsp;&#x7c;-E-G-B-E-&#x7c;-G-B-E-G-&#x7c;</p>
+<p style="text-align: center">A'&nbsp;&#x7c;-A-C-E-A-&#x7c;-C-E-A-C-&#x7c;</p>
+<p style="text-align: center">D'&nbsp;&#x7c;-D-F-A-D-&#x7c;-F-A-D-F-&#x7c;</p>
+<p style="text-align: center">G'&nbsp;&#x7c;-G-B-D-G-&#x7c;-B-D-G-B-&#x7c;</p>
+<p style="text-align: center">C'&nbsp;&#x7c;-C-E-G-C-&#x7c;-E-G-C-E-&#x7c;</p>
+<br />
+<p style="text-align: center">【谱面说明】</p>
+<p style="text-align: center">1、「-」&nbsp;表示延音，每格一拍</p>
+<p style="text-align: center">2、十二弦音准字符为基准音高，实际音高随水位浮动</p>
+<p style="text-align: center">3、谱面从上至下对应十二弦位置</p>
+<br />
+<p style="text-align: center">【演奏提示】</p>
+<p style="text-align: center">此谱仅记载基准音型，实际演奏效果受以下因素影响：</p>
+&nbsp;<p style="text-align: center">&nbsp;&nbsp;1、涨潮时音调自然升高</p>
+&nbsp;<p style="text-align: center">&nbsp;&nbsp;2、水流湍急处音色明亮</p>
+&nbsp;&nbsp;<p style="text-align: center">&nbsp;3、风暴来临时和声丰富</p>
+&nbsp;<p style="text-align: center">&nbsp;&nbsp;4、在海边演奏共鸣加强</p>
+<br />
+<p style="text-align: center">【特殊演奏效果】</p>
+<p style="text-align: center">&nbsp;&nbsp;&nbsp;≈&nbsp;波浪音：水流激荡时自然产生</p>
+<p style="text-align: center">&nbsp;&nbsp;&nbsp;↑&nbsp;涨潮音：音调随水位升高</p>
+<p style="text-align: center">&nbsp;&nbsp;&nbsp;↓&nbsp;退潮音：音调随水位降低</p>
+<p style="text-align: center">&nbsp;&nbsp;～&nbsp;余音：持续至水势变化</p>
+<br />
+<p style="text-align: center">【禁忌警示】</p>
+<p style="text-align: center">1、切勿在黑潮肆虐时演奏</p>
+<p style="text-align: center">2、战时使用需先饮法吉娜圣水</p>
+<p style="text-align: center">3、暴风雨天演奏需保护琴身</p>
+<p style="text-align: center">4、谨防扎格列斯信徒偷换琴弦</p>
+}}

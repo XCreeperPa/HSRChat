@@ -1,0 +1,671 @@
+{{角色语音表头|爻光|未完善=是}}
+== 正式语音 ==
+{{切换板|开始}}
+{{切换板|默认显示|互动语音}}
+{{切换板|默认折叠|战斗语音}}
+{{切换板|显示内容}}
+{{角色语音
+|语音类型=初次见面
+|语音文件=爻光-初次见面
+|语音内容=我是爻光，仙舟「玉阙」的戎韬将军，你就同他人一样，叫我「爻老板」吧。此次会面，诸般细节本可用卜算预见，但本座还是更想亲身经历一番——果然，有许多意外之喜。
+|语音内容日语=はじめまして。仙舟「玉殿」の戎韜将軍、爻光よ。気軽に名前で呼んでちょうだい。本当は占いでこの出会いの細かなところまで視れたんだけど、あえて自分で体験してみたくて——案の定、予想外の喜びでいっぱいね。
+|语音内容英语=I am General Yao Guang, Seer Strategist aboard the Xianzhou Yuque. Like everyone else, you may simply call me Madam Yao. It's true, I could have divined the finer details of this encounter, but where's the fun in that? Being here in person has turned up some rather pleasant surprises.
+|语音内容韩语=난 효광, 선주 「옥궐」의 융도 장군이지. 다른 사람들처럼 날 「효 사장」이라고 불러. 이번 만남에서 자잘한 것들은 점괘로 내다볼 수 있지만, 난 직접 겪어보고 싶었어——역시, 의외의 즐거움이 많네
+}}
+{{角色语音
+|语音类型=问候
+|语音文件=爻光-问候
+|语音内容=就今日的天气来说，我料想你会遇见仙舟联盟第一智者…我可没说那人就是我呀。
+|语音内容日语=空模様を見るに、君は今日、仙舟同盟随一の智者と会うことになるようね…ふふ、別に私のことだなんて言ってないけど？
+|语音内容英语=Judging by today's weather, I'd wager you'll cross paths with the greatest mind in the entire Xianzhou Alliance... I never said that person was me, did I?
+|语音内容韩语=오늘 날씨를 보고 네가 선주 연맹 제일의 현인을 만날 거라 예상했어…. 그게 나라고는 안 했다?
+}}
+{{角色语音
+|语音类型=道别
+|语音文件=爻光-道别
+|语音内容=天高地迥，放手施为——下次再见，就讲讲你干了哪些会令本座也瞠目结舌的大事吧。
+|语音内容日语=天地広し、思うままに才をふるうべし——次に会った時は、私さえびっくりするようなとびきりの武勇伝を聞かせてね。
+|语音内容英语=With skies so high and the world so wide, there's nothing that can hold you back. Next time we cross paths, I expect tales of exploits so grand they'll leave me speechless.
+|语音内容韩语=하늘은 높고 땅은 아득하니, 마음껏 행동해 봐——다음에 다시 만나면, 나조차 눈이 휘둥그레질 만큼 큰 일을 해냈다고 얘기를 들려줘
+}}
+{{角色语音
+|语音类型=关于自己•称呼
+|语音文件=爻光-关于自己•称呼
+|语音内容=「将军」二字，天然带了许多重负与拘束，倒不如「老板」来得爽利自在——当然，我从不在乎这些繁文缛节，你若是想喊「姐姐」，也未尝不可。
+|语音内容日语=「将軍」って聞くと、どうしても責任とか立場とかが頭に浮かんで、息が詰まっちゃうの。だから、やっぱり名前で呼んでくれたほうが気が楽なんだよね——もちろん「お姉ちゃん」って呼びたかったら、それでもいいけど。
+|语音内容英语=The title of "General" always comes shackled with weight and formality. "Madam" feels far freer, far lighter, wouldn't you agree? Of course, I've never cared much for formality. If you'd rather address me as "Sis"... Well, that could be fun too.
+|语音内容韩语=「장군」이라는 두 글자에는 자연스럽게 많은 책임과 구속이 따르지. 차라리 「사장」이 더 시원시원하고 자유로워——물론, 난 그런 번잡한 예절 같은 건 신경 쓰지 않으니, 이름을 부르고 싶다면 안 될 것도 없지
+}}
+{{角色语音
+|语音类型=关于自己•「观自在眼」
+|语音文件=爻光-关于自己•「观自在眼」
+|语音内容=以这一双遍观万千之眼 ，本座曾不止一次看到银河的命运如同一艘航船，随时可能在恐怖的巨浪中颠覆，可我从不相信「眼见为实」——所谓可能，不就是为了被改变才存在的么？
+|语音内容日语=このすべてを見通す両眼で、私は何度も視てきた——銀河の運命が荒れ狂う海を進む船のように、常に沈没の危機に晒されている光景を。でも「目で視たものこそ真実」だなんて私は思わない——だって「可能性」というものは、変えるためにあるのでしょう？
+|语音内容英语=My gaze has swept across the cosmos more than once, and I've seen the fate of the cosmos rocking like a ship on the verge of being swallowed by towering waves. Still, I've never put my faith in "seeing is believing." Possibility, after all, exists for no other reason than to be defied.
+|语音内容韩语=두 눈으로 수만의 것을 살피는 본좌는, 거대한 파도에 언제 뒤집힐지 모르는 한 척의 배처럼 흔들리는 은하의 운명을 여러 번 지켜봐왔어. 하지만 난 「본 것만이 진실」이라 믿지 않아. 가능성이라는 건 본디 바꾸라고 존재하는 거 아닐까?
+}}
+{{角色语音
+|语音类型=关于自己•观念
+|语音文件=爻光-关于自己•观念
+|语音内容=一般卜者总说「人算不如天算」，而佼佼者呢，喜欢摆出一副「天算不如我算」的模样。要我说，有那算来算去，瞻前顾后的工夫，还不如遇事立即亲自出手，来得方便爽利咯。
+|语音内容日语=普通の卜者は「占いは天の采配に及ばない」と言い、優れた卜者は「天の采配よりも正確な占い結果を出してみせる」って言うよね。でもまあ、私に言わせれば…占うたびにくよくよして次の一歩を考える暇があるなら、何か転機が訪れた時にさっさと解決しちゃったほうが楽だと思うのよね。
+|语音内容英语=Most diviners like to say "humanity's calculations are no match for heaven's plans," while the exceptional ones like to behave as if "heaven's plans are no match for my calculations." But if you ask me, all that scheming and calculating is wasted effort. Better to seize the moment yourself: clean, swift, decisive.
+|语音内容韩语=흔히 점술가들은 「사람의 계산이 하늘의 뜻을 벗어나지 못한다」고들 하지. 실력자들은 「하늘의 뜻이 내 계산만 못 하다」라고 늘어놓길 좋아해. 하지만 난 그렇게 이리저리 재느니 일이 닥쳤을 때 직접 나서는 게 훨씬 편하고 시원시원하더라고
+}}
+{{角色语音
+|语音类型=闲谈•护手
+|语音文件=爻光-闲谈•护手
+|语音内容=小到每日养玉，大到拨弄星辰，都需一双巧手运作。如今，哪怕公务再繁忙，我也必定会抽出时间来亲自调制护手药膏。
+|语音内容日语=玉の手入れから天象の計算まで、何をするにも器用な両手は欠かせない。だからどんなに公務で忙しくても、必ず時間を見つけて手に塗る軟膏を調合しているの。
+|语音内容英语=Whether it's polishing a piece of jade or setting the heavens in motion, both demand a deft touch. That's why, no matter how busy official business gets, I still steal a moment to craft my own hand balm.
+|语音内容韩语=옥을 길들이는 일부터, 별자리를 다루는 일까지 모두 숙련된 손이 필요하지. 지금은 아무리 공무가 바빠도 꼭 시간을 내서 직접 손 전용 연고를 만들곤 해
+}}
+{{角色语音
+|语音类型=闲谈•酸物
+|语音文件=爻光-闲谈•酸物
+|语音内容=玉阙人嗜酸，譬如罗浮人爱茶。柠檬，话梅，山楂…皆是神思枯竭之时，刺激灵感的好东西，来一颗？
+|语音内容日语=羅浮の人が茶を愛すように、玉殿の人間は酸っぱいものをこよなく好むの。レモン、干し梅、サンザシ…どれも疲れた脳にひらめきを届けてくれる優れものよ。ほら、おひとついかが？
+|语音内容英语=Those of the Yuque savor sourness, as naturally as the Luofu folks cherish their tea. Lemons, pickled plums, hawthorn berries... perfect jolts for when the mind grows dull. Fancy a bite?
+|语音内容韩语=나부 사람들이 차를 좋아하듯, 옥궐 사람들은 신맛을 좋아하지. 레몬, 절인 매실, 산수유… 모두 정신이 메말랐을 때 영감을 자극하기 좋아. 하나 먹어 볼래?
+}}
+{{角色语音
+|语音类型=爱好
+|语音文件=爻光-爱好
+|语音内容=在太卜司学艺时，本座略施小计，便一连拿下数届玉阙杯牌艺大赛的魁首。若是别人说我占卜还需精进，我认了。若是说我牌打得不好，我可绝不认账——下次与怀炎、飞霄他们聚会时，我请你一同观战可好？
+|语音内容日语=太卜司で修行していた頃、ちょっと本気を出して玉殿杯美玉牌大会を何度か連覇したの。占いの腕をもっと磨けって言われたら、まあ認めてもいいけど、牌の腕をとやかく言われたら絶対に黙ってられない。今度、懐炎さんや飛霄たちと集まる時、君も見学に来る？
+|语音内容英语=Back when I was studying at the Divination Commission, I may have pulled a few tricks here and there, and somehow won the Yuque Cup several years running. If others claim my divination technique lacks refinement, fine, I'll accept that critique. But call me a bad card player? Now that's just slander. Why not come see for yourself when I play Huaiyan and Feixiao next time?
+|语音内容韩语=태복사에서 수련할 때 난 잔꾀를 부려서 옥궐배 패 놀이 대회의 우승을 여러 번 차지했어. 누군가 내 점괘는 더 갈고닦아야 한다고 하면, 인정할게. 하지만 패 놀이를 못한다고 하면, 그건 인정할 수 없어——다음에 회염, 비소 장군과 만날 때 너도 와서 구경해 볼래?
+}}
+{{角色语音
+|语音类型=烦恼
+|语音文件=爻光-烦恼
+|语音内容=联盟的某些人哦，一看到法阵计算的结果就犹犹豫豫、举棋不定。若有一次占卜的结果是「本次占卜不可靠」，那不得把他们的朽木脑袋给烧坏了？
+|语音内容日语=同盟の一部の人間はね、法陣の計算結果を見ながらあれこれよく迷っているの。もし「今回の占いは当てにならない」なんて結果が出たら、あいつらの足りない頭が爆発して煙でも出るんじゃないかな？
+|语音内容英语=There are those in the Alliance who, upon seeing the Matrix's calculations, become hesitant and indecisive. If a divination ever dares to return "This reading is unreliable," I suspect their decaying minds would simply explode on the spot.
+|语音内容韩语=연맹의 누군가는 법진의 계산 결과를 보고 망설이며 우왕좌왕하곤 해. 어느 점괘의 결과가 「이번 점괘는 신뢰할 수 없다」라고 나온다면 무능한 그들의 뇌는 과부하에 걸려서 망가지겠지?
+}}
+{{角色语音
+|语音类型=分享
+|语音文件=爻光-分享
+|语音内容=以「遍智天君」的演算为灵感，玉阙仙舟营建了用以占卜未来的「十方光映法界」。那以琳琅珠宝织就的密网，倒映着大千世界的影像，重光叠照，渐至无穷——拜一次事故所赐，我得以遍观不同可能。喏，所谓「变数」，不就是「转机」的代名词么？
+|语音内容日语=「遍知天君」の演算から着想を得て、仙舟「玉殿」は未来を占うための「十方光映法界」を編み出した。無数の宝石で織られた細やかな網はこの世界のすべてを映し出し、幾たびにも重なり続ける映像はやがて無限へと近づいていく——そして、とある事故をきっかけに、私はそこに映るあらゆる可能性を見通せるようになった。「予測不能な事態」って、時には「転機」にもなるものなの。
+|语音内容英语=Inspired by the extrapolations of Wisdomwalker, the Yuque constructed the Deca-Light Reflection Barrier for divining the future. A jeweled web that mirrors the world itself, its radiance multiplying without end. And thanks to a little... mishap, I once glimpsed every possible outcome through it. Heh, that so-called "variability"? That's just another word for "opportunity."
+|语音内容韩语=「{{注音|전지 천군|누스}}」의 연산에서 영감을 얻어 옥궐 선주는 미래를 점치는 「십방광영법계」를 만들었어. 화려한 보석으로 엮은 촘촘한 그물이 광활한 세상의 모습을 비추고, 층층이 겹친 빛이 끝없이 뻗어나가지——그 한 번의 사고 덕에 난 여러 가지 가능성을 살필 수 있었어. 음, 「변수」라는 건 결국 「전환점」의 대명사가 아닐까?
+}}
+{{角色语音
+|语音类型=见闻
+|语音文件=爻光-见闻
+|语音内容=帝弓所赐威灵，名为「时轮天雉明王」——那是属于巡猎的猎手之「眼」，本座喜欢唤它「小时」。总觉得它在盯着你？谁让你是银河的大英雄呢？
+|语音内容日语=帝弓から賜った威霊「時輪天雉明王」は、巡狩の狩人の「眼」に当たるものなの。私はいつも「時ちゃん」って呼んでるけど。あれ？なんか時ちゃん、君をじっと見てない？ふふっ、仕方ないか。君は銀河の大英雄なんだから。
+|语音内容英语=The Reignbow granted me a Spiritus known as the Kālacakra Skyplume — the "eye" of The Hunt itself. I just call it "Little Bird." Feel it watching you? Well, that's only natural. The cosmos's shining hero deserves an audience.
+|语音内容韩语=천궁이 하사한 위령의 이름은 「시륜천치명왕」이야——그건 수렵의 사냥꾼의 「눈」이지. 난 그걸 「시간」으로 바꿔 부르길 좋아해. 왠지 널 계속 지켜보고 있는 것 같은걸? 그러게 누가 은하의 대영웅이 되래?
+}}
+{{角色语音
+|语音类型=关于开拓者
+|语音文件=爻光-关于开拓者
+|语音内容=你的未来不在我的眼中，而在你的脚下。至于那个小秘密嘛…只能天知，地知，你知，我不知。
+|语音内容日语=君の未来は私の眼の中ではなく、君自身の足元にある。あの秘密については…神様と君のみぞ知る。私には何もわからないの。
+|语音内容英语=Your future does not lie within my sight, but rather beneath your own feet. As for that little secret... Well, only the heavens, the earth, and you know. I know nothing of it.
+|语音内容韩语=너의 미래는 내 눈이 아니라 너의 발밑에 달려 있어. 그 작은 비밀에 관해서라면… 하늘이 알고, 땅이 알고, 넌 알지만, 난 알 수 없지
+}}
+{{角色语音
+|语音类型=关于景元
+|语音文件=爻光-关于景元
+|语音内容=别人都说我与这位「神策将军」处处竞争，岂不知我们只是各自说些实话罢了。表面和气无益于仙舟发展，想搅动这平静的潭水，掀起百舸争流的盛况，也只得本座来演个红脸。
+|语音内容日语=私と「神策将軍」は何かと張り合ってるって言われるけど、私たちはただ素直に思ったことを口にしているだけなの。仲良しこよしをやったところで、仙舟の発展には繋がらない。凪いだ水面をかき乱し、百の船が競い合うあの活気を取り戻すために、私たちが盛り上げ役を買って出るしかなかったってわけ。
+|语音内容英语=People say I'm always competing with the Divine Foresight, but little do they know we're just being honest with each other. Superficial harmony won't help the Xianzhou's development. If someone needs to play the stalwart to stir up these still waters and spark a grand competition of a hundred ships, then I'll gladly take on that role.
+|语音内容韩语=다른 사람은 내가 「신책 장군」과 매번 다툰다는데, 우린 그저 서로의 진실을 말하는 것뿐이야. 겉으로 화목한 건 선주의 발전에 도움이 되지 않는다고. 평온한 물을 뒤흔들어 수백 척의 배가 물살을 다투는 성황을 일으키고 싶다면, 내가 나서서 맡아줘야 하지
+}}
+{{角色语音
+|语音类型=关于符玄
+|语音文件=爻光-关于符玄
+|语音内容=我这师妹啊…来「玉阙」述职时，只是叫她多留几日都不肯，偏生要准时回去。师妹小时候还总爱和我争胜，如今较劲的对象却换成了那位罗浮将军…明明是我先认识她的。
+|语音内容日语=あの子ね…以前「玉殿」に業務報告に来た時、何日か泊まっていけばって勧めたのに全然聞いてくれなくて、予定通りに帰っちゃったの。幼い頃はよく張り合ってきたのに、最近はあの羅浮の将軍に矛先を変えたみたい…こっちのほうがずっと付き合いが長いのに。
+|语音内容英语=Ah, my dear junior soror... Even when she comes to report to the Yuque, she doesn't stay a day longer than necessary, insisting on returning right on schedule. She used to love competing with me when she was little, but now her rival has become that General of the Luofu... even though I knew her first.
+|语音内容韩语=사매는 말이지… 「옥궐」에 보고하러 왔을 때 며칠만 더 머무르라 해도 거절하고 기어코 제 시간에 돌아가버려. 어릴 땐 나와 겨루기를 참 좋아했는데, 지금은 그 대상이 나부 장군으로 바뀌었지…. 먼저 인연을 맺은 건 나인데도 말이야
+}}
+{{角色语音
+|语音类型=关于忘归人
+|语音文件=爻光-关于忘归人
+|语音内容=都说商会的狐人善于见风使舵，我看她的舵倒是稳得很——为生民请命，斥星神之不公，这番气魄确是难得，我喜欢。
+|语音内容日语=商会の狐族は風向きを読んで舵を切るのが上手いと言われているの。そして、あの子の舵はずいぶん安定しているように見える。民のために願い、星神の不当を糾弾する——その気迫は稀有なもので、私はとても気に入っているのよ。
+|语音内容英语=They say foxians from the merchant guild are good at going whichever way the wind blows, but her rudder stays remarkably steady. Speaking up for the common folk, calling out the Aeons' injustice... That kind of boldness is rare, and I like it.
+|语音内容韩语=상회의 여우족은 바람을 보고 노를 젓는다고 하지. 그녀의 솜씨는 정말 안정적이야——백성을 위해 목소리를 내고 에이언즈의 불공평함을 비난하는 그 기백이란, 참 보기 드물지. 마음에 들어
+}}
+{{角色语音
+|语音类型=关于火花
+|语音文件=爻光-关于火花
+|语音内容=小妮子就像一颗炮仗，总能炸得人措手不及。若她愿意跟我一起玩点什么…啧啧，我们一定能干出些前无古人的新鲜事。
+|语音内容日语=あの子は爆竹みたいに、突拍子もない爆発で人を驚かせる。一緒に何かすることになれば…ふふっ、きっと前代未聞の面白いことをやれるでしょうね。
+|语音内容英语=That girl is like a firecracker, always catching people off-guard. If she were willing to make some mischief with me... Hmm, we could definitely accomplish things no one's done before.
+|语音内容韩语=그 꼬맹이는 폭죽처럼 팡팡 터져서 사람들을 어쩔 줄 모르게 해. 만약 나한테 같이 놀자고 한다면… 쓰읍, 분명 전에 없던 새로운 일을 할 수 있겠지?
+}}
+{{角色语音
+|语音类型=关于姬子
+|语音文件=爻光-关于姬子
+|语音内容=锋芒内隐，行事低调…即便是你，对她的过去也知之甚少吧？然而人终其一生总要回到出发的地方，然后，从那里再度启程。
+|语音内容日语=トゲを見せず、慎み深く立ち振る舞う…そんな彼女の過去を、君でさえあまり知らないのでしょう？でも人はいつか、かつて出発した場所へと立ち戻り、そこから再び旅立たなければならないの。
+|语音内容英语=She keeps her edge hidden and doesn't draw attention to herself... Even you know very little about her past, don't you? But everyone must return to where they started at some point in life, and from there, embark on a new journey.
+|语音内容韩语=재능을 숨기고 행실을 낮추는 사람이야…. 너도 그녀의 과거에 대해선 아는 게 거의 없지 않아? 하지만 사람은 언제나 출발한 지점으로 돌아가기 마련인 법. 그리고, 그곳에서 다시 여정을 시작하지
+}}
+{{角色语音
+|语音类型=关于星期日
+|语音文件=爻光-关于星期日
+|语音内容=仙舟将军引匹诺康尼前话事人入局，是不是听上去就很不可思议？本座要的便是这般「不可测度」的转折，至于前路的惊喜，拭目以待吧。
+|语音内容日语=仙舟の将軍がピノコニーの元意思決定者を誘導して、ゲームに参加させた…どう？なかなか奇妙な話でしょ？こういう「計り知れない」転機こそ、私が求めていたものなの。この先に何が待ち受けているのか——それは今後のお楽しみよ。
+|语音内容英语=A Xianzhou General roping in Penacony's former top brass? Sounds unbelievable, doesn't it? But that's exactly the kind of "unpredictable" twist I'm after. As for what surprises lie ahead... Well, we'll just have to wait and see.
+|语音内容韩语=선주 장군이 페나코니의 전 결정권자를 끌어들이다니, 참 불가사의한 일이지? 내가 원한 게 바로 그 「예상 불가」한 전환점이야. 앞길에 있을 놀라움을 기대해 줘
+}}
+{{角色语音
+|语音类型=关于青雀
+|语音文件=爻光-关于青雀
+|语音内容=很多人终其一生都心比天高，唯有她知道「难得糊涂」的妙处——哎，你别不信，这可是成为将军的必备素质。
+|语音内容日语=ほとんどの人は死ぬまでプライドを手放すことができない。そんな中、彼女は「糊塗は得難し」の妙を備える数少ない1人よ。信じてくれないかもしれないけど、これは将軍になるのに絶対に欠かせない素質なの。
+|语音内容英语=Many spend their whole lives chasing their dreams, but she alone knows that "ignorance is bliss".. hey, don't laugh. That's actually an essential quality for becoming a General.
+|语音内容韩语=많은 사람이 죽을 때까지 교만하며 살지만, 그 애만은 「어리석은 척하기」의 묘미를 아는 사람이지——휴, 못 믿겠지만 이건 장군이 되기 위한 필수 덕목이란다
+}}
+{{角色语音
+|语音类型=关于飞霄
+|语音文件=爻光-关于飞霄
+|语音内容=天击将军就如「巡猎」之爪，「眼」无「爪」则弱，「爪」无「眼」则盲。她爱听我的点子，我也信任她的指挥，只是她每次给我的健身建议——要弃了孔雀舞，改练雀形拳，不免太高看了我些。
+|语音内容日语=天撃将軍は「巡狩」の牙みたいな存在かな。「眼」だけじゃ力が足りず、「牙」だけでは状況を見極められない。だから、彼女は私の意見を喜んで聞いてくれるし、私も彼女の指揮を信頼している。ただ、鍛錬を熱心に勧めてくれるのはありがたいけど、その内容にちょっと困ってて。孔雀の舞をやめて孔雀拳を本気で修練するよう言われてもね…私、そういうタイプじゃないし……
+|语音内容英语=The Merlin's Claw acts as the talons of The Hunt. "Eyes" without "talons" are weak, and "talons" without "eyes" are blind. She loves hearing my ideas, and I trust her commands. Although every time she gives me fitness advice — telling me to ditch the peacock dance for the sparrow fist — she's giving me a bit too much credit.
+|语音内容韩语=천격 장군은 「수렵」의 발톱 같아. 「발톱」 없는 「눈」은 약하고, 「눈」 없는 「발톱」은 앞을 못 보지. 그녀는 내 생각을 듣길 좋아하고, 나도 그녀의 지휘를 믿어. 다만——공작춤을 버리고 공작형권으로 바꾸라니, 괜히 날 높이 평가하는 것 같다니까
+}}
+{{角色语音
+|语音类型=关于镜流
+|语音文件=爻光-关于镜流
+|语音内容=不论是利用「繁育」的残骸，燃烧「毁灭」的金血，甚至借用「丰饶」本身的力量，我都不介意。但可惜，她所描摹的图景，还未让我心服口服。
+|语音内容日语=「燼滅」の金色の血を燃やすために、「繁殖」の残骸を利用したり、「豊穣」自身の力を拝借したりすることは、効果があるのなら私も異論はないよ。ただ残念なことに、彼女の描く未来予想図は、まだ私を納得させていないの。
+|语音内容英语=I don't mind her utilizing the remnants of the Propagation, burning the golden blood of the Destruction, or even borrowing the power of the Abundance itself. It's just that the picture she's painted, unfortunately, has yet to fully convince me.
+|语音内容韩语=「번식」의 잔해를 이용하거나 「파멸」의 황금 피를 불태우거나, 심지어 「풍요」 본연의 힘을 빌리는 것까지도 난 개의치 않아. 그녀가 그린 그림은 아직 날 납득시키지 못했지만 말이지
+}}
+{{角色语音
+|语音类型=关于不死途
+|语音文件=爻光-关于不死途
+|语音内容=有些人的未来就像一颗子弹的轨迹，永远不能回头，永远只能朝着一个方向，直至穿透敌人的心脏。
+|语音内容日语=ある者たちの未来は、まるで弾丸の軌跡のよう。引き返すことはできず、ただ1つの方向へと突き進み——敵の心臓を貫くまで止まらないの。
+|语音内容英语=Some people's futures are like the trajectory of a bullet, never able to turn back, forever doomed to fly in a singular direction until they pierce their enemy's heart.
+|语音内容韩语=어떤 이들의 미래는 총알의 궤적과도 같아서 영원히 되돌아갈 수 없고, 적의 심장을 관통할 때까지 영원히 한 방향으로만 나아가지
+}}
+{{角色语音
+|语音类型=关于银狼LV.999
+|语音文件=爻光-关于银狼LV.999
+|语音内容=想当年，我又擅长演算，又爱找乐子，还从事情报工作——是不是也能像她一样当个骇客？真想和她对上一局。
+|语音内容日语=昔は演算も得意で、面白いことを見つけるのも好きで、情報を扱う仕事もしていたの——もしかしたら、彼女みたいにハッカーになることもできたかも？ふふっ、一勝負してみたい。
+|语音内容英语=Back in the day, I was good at mathematical calculations, loved having fun, and worked in intelligence... Could I have been a hacker just like her? I'd really love to face off against her in a match.
+|语音内容韩语=옛날에 난 연산도 잘했고, 재밌는 것들도 잘 찾아다녔고, 정보 업무까지 했었는데——나도 그녀처럼 해커가 될 수 있었으려나? 한 판 붙어보고 싶네
+}}
+{{角色语音
+|语音类型=关于绯英
+|语音文件=爻光-关于绯英
+|语音内容=她可有一肚子的乐园野史能讲…不管多么离谱，一想到是在二相乐园，我也就统统笑纳了。
+|语音内容日语=彼女は二相楽園の野史にとても詳しい…どんなに荒唐無稽な話でも、二相楽園のことだと思えば、なんだってありよね。
+|语音内容英语=She's got a whole trove of tall tales about the arcadia to share... But no matter how absurd they sound, considering this is Planarcadia we're talking about, I'm more than happy to nod along to every word.
+|语音内容韩语=그녀는 낙원의 야사를 한 보따리 풀어놓을 수 있을 거야…. 아무리 터무니없더라도, 이상 낙원이라는 걸 생각하면 전부 웃으면서 받아들일 수 있어
+}}
+{{角色语音
+|语音类型=关于千冶•刃
+|语音文件=爻光-关于千冶•刃
+|语音内容=你看，二相乐园确实是个命数交错，死中求生之地。有他的这一场蜕变，仙舟的胜算又多了几分。至于他曾是罗浮重犯…功过相抵不就是了？
+|语音内容日语=予想通り、二相楽園はまさに人々の命数が交錯し、死中に活を求める地。彼が新生を迎えたことで、仙舟の勝率がいくらか上がったみたい。羅浮の重罪人だった件は…ふふ、しっかり働いて償ってもらえばいいんじゃないかな？
+|语音内容英语=See? Planarcadia is a place where fates collide, where people fight to live through death. With what he's become, the Xianzhou now stands a better chance of victory. As for him being a former Luofu criminal... I'd say that merits and faults balance each other out, don't you think?
+|语音内容韩语=거봐, 이상 낙원은 확실히 운명이 교차하며 죽음 속에서 활로를 찾는 곳이야. 그의 탈바꿈 덕분에 선주의 승산도 한층 높아졌어. 그가 한때 나부의 중범죄자였다는 사실은… 세운 공으로 덮으면 그만 아니겠어?
+}}
+{{角色语音
+|语音类型=星魂激活
+|语音文件=爻光-星魂激活
+|语音内容=盈虚有数，宇宙无穷，都不过事在人为。
+|语音内容日语=月は満ち欠けを繰り返し、宇宙は無限に広がる…でも結局のところ、すべては人の手の中にあるの。
+|语音内容英语=The moon's cycles are fixed, the universe is boundless, and yet human effort decides success.
+|语音内容韩语=차고 기움은 일정하고 우주는 그 끝이 없지. 하지만 모든 일은 사람에게 달려 있어
+}}
+{{角色语音
+|语音类型=角色晋阶
+|语音文件=爻光-角色晋阶
+|语音内容=起伏涨落，不必介怀。
+|语音内容日语=浮き沈みなんてよくあることよ。いちいち気にすることはないの。
+|语音内容英语=Do not be troubled by waxing or waning.
+|语音内容韩语=흥과 망, 성과 쇠는 개의치 마
+}}
+{{角色语音
+|语音类型=角色满级
+|语音文件=爻光-角色满级
+|语音内容=若当真「法眼无遗」，岂非太无意趣？
+|语音内容日语=もし本当に「遺漏なき法眼」なんかになっちゃったら、逆に面白くなくなりそうよね？
+|语音内容英语=Would it not be uninteresting if the omniscia truly spared none?
+|语音内容韩语=정말로 「법안으로 세상만사를 알 수 있다」면, 너무 재미없지 않을까?
+}}
+{{角色语音
+|语音类型=行迹激活
+|语音文件=爻光-行迹激活
+|语音内容=此番道路，还会有更多的变数么？
+|语音内容日语=この先、さらに新たな変数が出てくるのかな？
+|语音内容英语=Does this road have more variables to come?
+|语音内容韩语=이 길엔, 앞으로 얼마나 더 많은 변수가 있을까?
+}}
+{{角色语音
+|语音类型=队伍编成•开拓者
+|语音文件=爻光-队伍编成•开拓者
+|语音内容=不出意料，你的命数依旧难以看清。
+|语音内容日语=やっぱり…君の運命は今でもはっきり視えない。
+|语音内容英语=As expected, your fate remains inscrutable.
+|语音内容韩语=예상한 대로, 너의 운명은 여전히 잘 보이지 않네
+}}
+{{角色语音
+|语音类型=队伍编成•景元
+|语音文件=爻光-队伍编成•景元
+|语音内容=「智光昭昭，不逊戎韬」，神策将军，我们来验验这句话的成色？
+|语音内容日语=「その智慧『戎韜』に劣らず」——神策将軍、その評判が事実かどうか見せてもらいましょう。
+|语音内容英语="Intellect rivaled only by military strategy..." Shall we put that to the test, Divine Foresight?
+|语音内容韩语=「융도만큼 지혜롭다」, 신책 장군, 이 말의 진위를 시험해 볼까요?
+}}
+{{角色语音
+|语音类型=队伍编成•镜流
+|语音文件=爻光-队伍编成•镜流
+|语音内容=你的剑，还如从前般锋利么？
+|语音内容日语=その剣は昔のように鋭いままなのかな？
+|语音内容英语=Is your blade still as keen as it was?
+|语音内容韩语=당신의 검은 아직도 예전처럼 날카로운가요?
+}}
+{{角色语音
+|语音类型=队伍编成•忘归人
+|语音文件=爻光-队伍编成•忘归人
+|语音内容=沟通交际之事，还得麻烦你掌控咯~
+|语音内容日语=交渉ごととか人付き合いとかは君に任せたよ。
+|语音内容英语=If I could trouble you to take charge of correspondences⁓
+|语音内容韩语=그럼 소통과 교류를 부탁하지
+}}
+{{角色语音
+|语音类型=队伍编成•符玄
+|语音文件=爻光-队伍编成•符玄
+|语音内容=师妹，还是像从前那般配合可好？
+|语音内容日语=符玄、昔みたいに力を合わせましょう。
+|语音内容英语=Junior soror, shall we stick to our previous methodology?
+|语音内容韩语=사매, 예전처럼 잘 협조해 주면 좋겠어
+}}
+{{角色语音
+|语音类型=队伍编成•火花
+|语音文件=爻光-队伍编成•火花
+|语音内容=小妮子，这次的乐子，可不能比上次的逊色呐。
+|语音内容日语=火花さん、この前みたいにまた愉しませてくれる？
+|语音内容英语=This engagement must be no less constructive than the last, young lady.
+|语音内容韩语=꼬맹이, 이번에도 이전만큼 즐겁게 해줄 거지?
+}}
+{{角色语音
+|语音类型=队伍编成•姬子
+|语音文件=爻光-队伍编成•姬子
+|语音内容=领航员，愿我们合作愉快。
+|语音内容日语=ナビゲーターさん、うまく協力しましょうね。
+|语音内容英语=May our cooperation bear fruit, Navigator.
+|语音内容韩语=항법사님, 잘 부탁드립니다
+}}
+{{角色语音
+|语音类型=队伍编成•星期日
+|语音文件=爻光-队伍编成•星期日
+|语音内容=不必紧张，本座从不强人所难。
+|语音内容日语=そう警戒しなくてもいいじゃない。私は無理強いはしない主義よ。
+|语音内容英语=Worry not, I never force anyone to do anything.
+|语音内容韩语=긴장할 필요 없어요. 본좌는 타인을 강요하는 법이 없으니
+}}
+{{角色语音
+|语音类型=队伍编成•青雀
+|语音文件=爻光-队伍编成•青雀
+|语音内容=小雀儿，祝你有好手气~
+|语音内容日语=青雀、幸運を祈っているね。
+|语音内容英语=Good fortune, little Que⁓
+|语音内容韩语=청작, 행운을 빌게~
+}}
+{{角色语音
+|语音类型=队伍编成•飞霄
+|语音文件=爻光-队伍编成•飞霄
+|语音内容=不见天击将军的这些日子里…我又想到了些妙点子，想听听么？
+|语音内容日语=会っていない間に…またいいことをいくつか思いついたの。聞きたい？
+|语音内容英语=In the days apart from the Merlin's Claw... I thought up a few wonderful things. Care to listen?
+|语音内容韩语=천격 장군을 못 본 새… 또 묘수가 생각났는데, 한번 들어보실래요?
+}}
+{{角色语音
+|语音类型=队伍编成•不死途
+|语音文件=爻光-队伍编成•不死途
+|语音内容=终于，你准备露出獠牙了么？
+|语音内容日语=やっと牙を見せてくれるの？
+|语音内容英语=Are you finally ready to bare your fangs?
+|语音内容韩语=드디어, 송곳니를 드러낼 준비가 됐나요?
+}}
+{{角色语音
+|语音类型=队伍编成•绯英
+|语音文件=爻光-队伍编成•绯英
+|语音内容=虽然看不清你的未来…但敌人的吉凶我倒是一清二楚。
+|语音内容日语=君の未来はよく視えないけど…ふふっ、敵の吉凶ははっきり視えたよ。
+|语音内容英语=Though I can't see your future clearly... the Weal and Woe of our enemies is crystal clear to me.
+|语音内容韩语=당신의 미래는 잘 안 보이지만… 적의 길흉은 훤히 꿰뚫고 있답니다
+}}
+{{角色语音
+|语音类型=队伍编成•银狼LV.999
+|语音文件=爻光-队伍编成•银狼LV.999
+|语音内容=有高手在，此局百无禁忌啊~
+|语音内容日语=達人がいるみたいだし、この勝負、何も恐れる必要はなさそうね。
+|语音内容英语=With an expert on our side, all bets are off~
+|语音内容韩语=고수가 있으니 이번 판은 걱정 없겠어~
+}}
+{{角色语音
+|语音类型=队伍编成•千冶•刃
+|语音文件=爻光-队伍编成•千冶•刃
+|语音内容=不要闹得太难看，我就睁一只眼闭一只眼咯。
+|语音内容日语=あんまり派手に暴れなければ、目をつぶってあげる。
+|语音内容英语=As long as it doesn't get too ugly, I'll turn a blind eye.
+|语音内容韩语=너무 난처하게 굴지만 않으면 눈감아 주지
+}}
+{{切换板|内容结束}}
+{{切换板|折叠内容}}
+{{角色语音
+|语音类型=战斗开始•弱点击破
+|语音文件=爻光-战斗开始•弱点击破
+|语音内容=有此一劫…怪我咯？
+|语音内容日语=これが君の運命…私のせいにしないでね？
+|语音内容英语=Trouble ahead... What? It's my fault?
+|语音内容韩语=이번 고난은… 내 탓인가?
+}}
+{{角色语音
+|语音类型=战斗开始•弱点击破(2x)
+|语音文件=爻光-战斗开始•弱点击破-2x
+|语音内容=
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=战斗开始•危险预警
+|语音文件=爻光-战斗开始•危险预警
+|语音内容=机遇险中求，大胆来吧。
+|语音内容日语=虎穴に入らずんば虎子を得ず。
+|语音内容英语=Fortune favors the bold. Make your move.
+|语音内容韩语=기회는 위험 속에 있는 법, 과감하게 해 봐
+}}
+{{角色语音
+|语音类型=战斗开始•危险预警(2x)
+|语音文件=爻光-战斗开始•危险预警-2x
+|语音内容=
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=回合开始•一
+|语音文件=爻光-回合开始•一
+|语音内容=卜签告诉我，你会受些皮肉之苦。
+|语音内容日语=札が君の不幸を告げている。
+|语音内容英语=Divination tells me that this will hurt.
+|语音内容韩语=점괘를 보니, 육신의 고통을 겪겠군
+}}
+{{角色语音
+|语音类型=回合开始•一(2x)
+|语音文件=爻光-回合开始•一-2x
+|语音内容=
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=回合开始•二
+|语音文件=爻光-回合开始•二
+|语音内容=来搅局？本座也恰有此意。
+|语音内容日语=邪魔する気？偶然ね、私もそのつもりなの。
+|语音内容英语=Troublemaker? I'd like to be one too.
+|语音内容韩语=훼방? 본좌도 그럴 생각이야
+}}
+{{角色语音
+|语音类型=回合开始•二(2x)
+|语音文件=爻光-回合开始•二-2x
+|语音内容=
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=回合待机
+|语音文件=爻光-回合待机
+|语音内容=今日宜强攻，信我的。
+|语音内容日语=今日は攻めるが吉よ。信じて。
+|语音内容英语=Today's a good day for attacking. Trust me.
+|语音内容韩语=오늘은 강공이 좋겠군, 날 믿어
+}}
+{{角色语音
+|语音类型=普攻
+|语音文件=爻光-普攻
+|语音内容=手到擒来。
+|语音内容日语=朝飯前ね。
+|语音内容英语=As easy as that.
+|语音内容韩语=식은 죽 먹기지
+}}
+{{角色语音
+|语音类型=战技•一
+|语音文件=爻光-战技•一
+|语音内容=景星，高照。
+|语音内容日语=吉星、高照。
+|语音内容英语=Stars of fortune favor us.
+|语音内容韩语=상서로운 별, 비춰라
+}}
+{{角色语音
+|语音类型=战技•一(2x)
+|语音文件=爻光-战技•一-2x
+|语音内容=景星高照。
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=战技•二
+|语音文件=爻光-战技•二
+|语音内容=劫云，散尽。
+|语音内容日语=邪雲、一掃。
+|语音内容英语=Baneful clouds, scatter!
+|语音内容韩语=재난의 구름, 흩어져라
+}}
+{{角色语音
+|语音类型=战技•二(2x)
+|语音文件=爻光-战技•二-2x
+|语音内容=劫云散尽。
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=轻受击
+|语音文件=爻光-轻受击
+|语音内容=焉知非福？
+|语音内容日语=災いにあらず。
+|语音内容英语=Blessing in disguise.
+|语音内容韩语=복이 될지 누가 알겠어?
+}}
+{{角色语音
+|语音类型=重受击
+|语音文件=爻光-重受击
+|语音内容=险兆啊……
+|语音内容日语=不穏な兆し……
+|语音内容英语=An evil portent...
+|语音内容韩语=대흉……
+}}
+{{角色语音
+|语音类型=欢愉技•一
+|语音文件=爻光-欢愉技•一
+|语音内容=祝你大运正当头，开门红！
+|语音内容日语=君に幸があらんことを、招福！
+|语音内容英语=May you have the best of luck. To an explosive start!
+|语音内容韩语=대운이 찾아오고, 순조로운 출발이 되길!
+}}
+{{角色语音
+|语音类型=欢愉技•一(2x)
+|语音文件=爻光-欢愉技•一(2x)
+|语音内容=大运当头，开门红！
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=欢愉技•二
+|语音文件=爻光-欢愉技•二
+|语音内容=赠你一支下下签，请笑纳。
+|语音内容日语=札が告げる兆しは、大凶よ。
+|语音内容英语=Here's a bad omen slip. No need to thank me~
+|语音内容韩语=최악의 운세를 줄 테니, 기쁘게 받아
+}}
+{{角色语音
+|语音类型=欢愉技•二(2x)
+|语音文件=爻光-欢愉技•二(2x)
+|语音内容=下下签，请笑纳。
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=终结技•激活
+|语音文件=爻光-终结技•激活
+|语音内容=世人总道天意难违……
+|语音内容日语=人は天命に抗うこと能わずと言う……
+|语音内容英语=People always say that the will of heaven can't be overturned...
+|语音内容韩语=하늘의 뜻은 거스르기 어렵다고 하지만……
+}}
+{{角色语音
+|语音类型=终结技•施放
+|语音文件=爻光-终结技•施放
+|语音内容=本座偏要，执此一签，观照诸天。
+|语音内容日语=それでも私はこの札をもって、諸天を視つくさん。
+|语音内容英语=But I wish to observe the heavens with my divinations.
+|语音内容韩语=본좌는 이 점괘로 하늘을 관조하리
+}}
+{{角色语音
+|语音类型=终结技•施放(2x)
+|语音文件=爻光-终结技•施放-2x
+|语音内容=执此一签，观照诸天。
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=无法战斗
+|语音文件=爻光-无法战斗
+|语音内容=我不信…命定如此…
+|语音内容日语=こんな運命…信じない……
+|语音内容英语=This can't be fate...
+|语音内容韩语=거짓말… 운명이 이렇다니…
+}}
+{{角色语音
+|语音类型=重回战斗
+|语音文件=爻光-重回战斗
+|语音内容=吉人自有天相。
+|语音内容日语=徳あらば天助く。
+|语音内容英语=Heaven blesses the kind.
+|语音内容韩语=착한 사람에겐 천운이 따르는 법
+}}
+{{角色语音
+|语音类型=回复生命
+|语音文件=爻光-回复生命
+|语音内容=多谢你的美意。
+|语音内容日语=お気遣いに感謝。
+|语音内容英语=Thank you for your help.
+|语音内容韩语=호의 고맙군
+}}
+{{角色语音
+|语音类型=秘技
+|语音文件=爻光-秘技
+|语音内容=光映十方，百无禁忌。
+|语音内容日语=十方に光、すべて障りなし。
+|语音内容英语=All's revealed in divining light.
+|语音内容韩语=빛이 십방을 비추니, 거리낄 게 없군
+}}
+{{角色语音
+|语音类型=战斗胜利
+|语音文件=爻光-战斗胜利
+|语音内容=法眼之中，仍有无限可能。
+|语音内容日语=法眼には、まだ無限の可能性が映っている。
+|语音内容英语=Limitless possibilities still exist within the omniscia.
+|语音内容韩语=법안에는 무한한 가능성이 있지
+}}
+{{角色语音
+|语音类型=开启战利品•一
+|语音文件=爻光-开启战利品•一
+|语音内容=和你一起，果真惊喜连连。
+|语音内容日语=君といると、いつも嬉しい驚きに満ちているのよね。
+|语音内容英语=Surprises sure go hand-in-hand with you.
+|语音内容韩语=너와 함께이니 놀라움의 연속이군
+}}
+{{角色语音
+|语音类型=开启战利品•二
+|语音文件=爻光-开启战利品•二
+|语音内容=这儿风水不错，记下了。
+|语音内容日语=ここの風水なかなかね。覚えておきましょう。
+|语音内容英语=The feng shui here's pretty good. I've made a note of it.
+|语音内容韩语=이곳은 풍수가 좋네, 기억해 두지
+}}
+{{角色语音
+|语音类型=开启贵重战利品
+|语音文件=爻光-开启贵重战利品
+|语音内容=看看，这就是爻老板的手气。
+|语音内容日语=ね、私って運がいいでしょう？
+|语音内容英语=See? This is Madam Yao's luck.
+|语音内容韩语=어때, 이게 바로 효 사장의 행운이야
+}}
+{{角色语音
+|语音类型=解谜成功•一
+|语音文件=爻光-解谜成功•一
+|语音内容=就拿这个来考验本座？
+|语音内容日语=こんなもので私を試したつもり？
+|语音内容英语=You're using this to test ME, a general?
+|语音内容韩语=이걸로 본좌를 시험하는 건가?
+}}
+{{角色语音
+|语音类型=解谜成功•二
+|语音文件=爻光-解谜成功•二
+|语音内容=哎呀，这都不用掐指一算呐。
+|语音内容日语=はあ…占うまでもなかった。
+|语音内容英语=Oh please. This didn't even need any calculations.
+|语音内容韩语=하하, 이건 굳이 점칠 필요도 없어
+}}
+{{角色语音
+|语音类型=发现敌方目标
+|语音文件=爻光-发现敌方目标
+|语音内容=今天是什么好日子？
+|语音内容日语=あら、今日は運がいいのね。
+|语音内容英语=Is today a special day?
+|语音内容韩语=오늘 무슨 기념일이야?
+}}
+{{角色语音
+|语音类型=返回城镇
+|语音文件=爻光-返回城镇
+|语音内容=闲暇易得…可惜，本座的目光总难为现在停留。
+|语音内容日语=暇を得るのは容易いけど…私の視線を「今」に留まらせるのは難しいの。
+|语音内容英语=Leisure comes easy... Pity that I struggle to keep my sights on the present.
+|语音内容韩语=한가로움은 얻기 쉬운 법…. 아쉽지만, 본좌의 시선은 현재에 머물러 있지 않아
+}}
+{{切换板|内容结束}}
+{{切换板|结束}}
+== 无文本语音 ==
+{| class="wikitable" style="width:100%"
+|-
+! 语音类型 !! 中 !! 日 !! 英 !! 韩
+|-
+| style="width:25%;text-align:center" | 触发战斗
+| {{player|爻光-触发战斗•一}}{{player|爻光-触发战斗•二}}{{player|爻光-触发战斗•三}}
+| {{player|日-爻光-触发战斗•一}}{{player|日-爻光-触发战斗•二}}{{player|日-爻光-触发战斗•三}}
+| {{player|英-爻光-触发战斗•一}}{{player|英-爻光-触发战斗•二}}{{player|英-爻光-触发战斗•三}}
+| {{player|韩-爻光-触发战斗•一}}{{player|韩-爻光-触发战斗•二}}{{player|韩-爻光-触发战斗•三}}
+|-
+| style="width:25%;text-align:center" | 普攻
+| {{player|爻光-普攻-无文本•一}}{{player|爻光-普攻-无文本•二}}{{player|爻光-普攻-无文本•三}}{{player|爻光-普攻-无文本•四}}
+| {{player|日-爻光-普攻-无文本•一}}{{player|日-爻光-普攻-无文本•二}}{{player|日-爻光-普攻-无文本•三}}{{player|日-爻光-普攻-无文本•四}}
+| {{player|英-爻光-普攻-无文本•一}}{{player|英-爻光-普攻-无文本•二}}{{player|英-爻光-普攻-无文本•三}}{{player|英-爻光-普攻-无文本•四}}
+| {{player|韩-爻光-普攻-无文本•一}}{{player|韩-爻光-普攻-无文本•二}}{{player|韩-爻光-普攻-无文本•三}}{{player|韩-爻光-普攻-无文本•四}}
+|-
+| style="width:25%;text-align:center" | 轻受击
+| {{player|爻光-轻受击-无文本•一}}{{player|爻光-轻受击-无文本•二}}{{player|爻光-轻受击-无文本•三}}{{player|爻光-轻受击-无文本•四}}
+| {{player|日-爻光-轻受击-无文本•一}}{{player|日-爻光-轻受击-无文本•二}}{{player|日-爻光-轻受击-无文本•三}}{{player|日-爻光-轻受击-无文本•四}}
+| {{player|英-爻光-轻受击-无文本•一}}{{player|英-爻光-轻受击-无文本•二}}{{player|英-爻光-轻受击-无文本•三}}{{player|英-爻光-轻受击-无文本•四}}
+| {{player|韩-爻光-轻受击-无文本•一}}{{player|韩-爻光-轻受击-无文本•二}}{{player|韩-爻光-轻受击-无文本•三}}{{player|韩-爻光-轻受击-无文本•四}}
+|-
+| style="width:25%;text-align:center" | 重受击
+| {{player|爻光-重受击-无文本•一}}{{player|爻光-重受击-无文本•二}}{{player|爻光-重受击-无文本•三}}{{player|爻光-重受击-无文本•四}}
+| {{player|日-爻光-重受击-无文本•一}}{{player|日-爻光-重受击-无文本•二}}{{player|日-爻光-重受击-无文本•三}}{{player|日-爻光-重受击-无文本•四}}
+| {{player|英-爻光-重受击-无文本•一}}{{player|英-爻光-重受击-无文本•二}}{{player|英-爻光-重受击-无文本•三}}{{player|英-爻光-重受击-无文本•四}}
+| {{player|韩-爻光-重受击-无文本•一}}{{player|韩-爻光-重受击-无文本•二}}{{player|韩-爻光-重受击-无文本•三}}{{player|韩-爻光-重受击-无文本•四}}
+|}

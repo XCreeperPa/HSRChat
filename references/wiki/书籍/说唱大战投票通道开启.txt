@@ -1,0 +1,43 @@
+{{书籍
+|书籍名=说唱大战投票通道开启
+|卷数=1<!-- 填写数字 -->
+|描述=流浪者营地中某项赛事的宣传画。你有充分的理由怀疑这幅广告出自一名说唱歌手之手。
+|编号=2058<!-- 按照游戏内显示顺序编号，第一位为所属编号，共四位 -->
+|所属=2<!-- 选填数字：1=空间站「黑塔」2=雅利洛-Ⅵ 3=仙舟「罗浮」 -->
+|类型=资料<!-- 选填：书籍、资料、信件 -->
+}}
+
+{{书籍/分卷
+|名称=说唱大战投票通道开启
+|卷数=1
+|获取方式=雅利洛Ⅵ机械聚落拾取
+|内容=
+<i>*这张海报完全由五彩斑斓的高饱和颜色构成，在这样一个满目疮痍的流浪者营地里尤为刺眼。*</i><br>
+<br>
+<center><span style=font-size:16.8px>说唱大战新赛季投票通道开启</span></center>
+<center><span style=font-size:16.8px>说唱爱好者火热募集中！</span></center>
+<br>
+<center>哟</center>
+<center>哟</center>
+<center>对生活感到无趣的你是否想要来上一点挑战</center>
+<center>那就快来握紧拳头当作麦克风参加说唱大战</center>
+<center>不用担心自己的节奏和韵脚是否真的会太烂</center>
+<center>只要拿出勇气踏上舞台就连掘掘博士都会为你点赞</center>
+<br>
+<center>亦或是你只想在舞台之下做个仰望的旁观者</center>
+<center>那么这里也有机会让你把舞台气氛炒到火热</center>
+<center>要知道说唱大战全新赛季投票通道已经开设</center>
+<center>你听过的没听过的说唱爱好者全都花名在册</center>
+<center>犹豫不决踌躇不前你究竟还在踯躅思量什么</center>
+<center>可千万不要白白浪费了自己的宝贵投票名额</center>
+<br>
+<center><span style=font-size:16.8px>史瓦罗基地史上规模最大说唱大战</span></center>
+<center><span style=font-size:16.8px>全新赛季正式启动！</span></center>
+<center><span style=font-size:16.8px>八十八度矿底？史派克狗狗？无敌大老爹？</span></center>
+<center><span style=font-size:16.8px>大咖云集，今晚开秀！</span></center>
+<center><span style=font-size:16.8px>决定选手去留？</span></center>
+<center><span style=font-size:16.8px>唱响豪华舞台？</span></center>
+<center><span style=font-size:16.8px>全部都由你说了算！</span></center>
+<br>
+<center>关于本赛季说唱大战参赛/投票方式详情，欢迎咨询「掘掘博士」！</center>
+}}

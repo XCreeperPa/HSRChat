@@ -1,0 +1,105 @@
+{{书籍
+|书籍名=来自妖精的信
+|卷数=5<!-- 仅填写数字 -->
+|编号=5121<!-- 按照游戏内显示顺序编号，第一位为所属编号，共四位 -->
+|描述=在迷路迷境的邮箱中发现的信，收件人一栏写着你的名字。寄托了妖精们满满的祝福。
+|所属=5
+|类型=书籍
+|实装版本=3.4
+|相关角色=开拓者
+}}
+
+{{书籍/分卷
+|名称=第一封
+|卷数=1
+|实装版本=3.4
+|获取方式=哀丽秘榭迷路迷境界域定锚，视线右转 45°，直走到村长家，和邮箱交互一次获取。
+|内容=写给外面的伙伴开拓者：<br />
+<br />
+<p style="text-align: center">去多和妖精们交朋友迷，</p>
+<p style="text-align: center">大家都很热情好客。</p>
+<p style="text-align: center">毕竟，通往迷境的路，</p>
+<p style="text-align: center">只有天真无邪的孩子才能找到。</p>
+<br />
+<p style="text-align: center">随信附赠一些小礼物，</p>
+<p style="text-align: center">希望你在迷境里玩得开心迷！</p>
+<br />
+<p style="text-align: right">多哆啦迷口述，徕啦迷代笔</p>
+}}
+
+{{书籍/分卷
+|名称=第二封
+|卷数=2
+|实装版本=3.4
+|获取方式=同「第一封」，交互两次获取。需要传送到其它地图后回来才会刷新，可以通过进入角色试用后立即退出达到刷新目的。
+|内容=亲爱的开拓者：<br />
+<br />
+<p style="text-align: center">村长说，你去过很多地方，</p>
+<p style="text-align: center">经历过很多冒险。</p>
+<p style="text-align: center">好想好想，在树洞旁，</p>
+<p style="text-align: center">听你讲讲旅途中的见闻。</p>
+<br />
+<p style="text-align: center">大树会记住你的故事，</p>
+<p style="text-align: center">我也会记住你的故事。</p>
+<br />
+<p style="text-align: right">崇拜你的啦嘻嘻迷</p>
+}}
+
+{{书籍/分卷
+|名称=第三封
+|卷数=3
+|实装版本=3.4
+|获取方式=同「第二封」，交互三次获取。
+|内容=写给伙伴开拓者：<br />
+<br />
+<p style="text-align: center">你知道吗？花朵也有脾气，</p>
+<p style="text-align: center">开心的时候昂首挺胸，</p>
+<p style="text-align: center">伤心的时候耷拉着脑袋。</p>
+<p style="text-align: center">作为园丁，我会照顾好它们，</p>
+<p style="text-align: center">谁不开心，我就浇浇水。</p>
+<br />
+<p style="text-align: center">你来到后，我制作了一个大花洒，</p>
+<p style="text-align: center">大大的水流，冲走多多的忧愁，</p>
+<p style="text-align: center">作为朋友，我想照顾好你。</p>
+<br />
+<p style="text-align: right">关心你的嗦啦迷</p>
+}}
+
+{{书籍/分卷
+|名称=第四封
+|卷数=4
+|实装版本=3.4
+|获取方式=同「第二封」，交互四次获取。
+|内容=欢迎你，开拓者：<br />
+<br />
+<p style="text-align: center">我最喜欢的事情是过节日，</p>
+<p style="text-align: center">大家欢聚一堂，载歌载舞。</p>
+<p style="text-align: center">真希望时间过得快些，再快些，</p>
+<p style="text-align: center">到下次聚会，教你跳妖精的舞蹈。</p>
+<br />
+<p style="text-align: center">每当节庆开始，我又多想，</p>
+<p style="text-align: center">时间能过得慢些，再慢些。</p>
+<p style="text-align: center">不是贪羡灯笼柿与刺刺球，</p>
+<p style="text-align: center">而是想和朋友们多玩一会。</p>
+<br />
+<p style="text-align: right">想和你一起玩的啦啦迷</p>
+}}
+
+{{书籍/分卷
+|名称=第五封
+|卷数=5
+|实装版本=3.4
+|获取方式=同「第二封」，交互五次获取。
+|内容=致远道而来的开拓者：<br />
+<br />
+<p style="text-align: center">我有很多本小册子，</p>
+<p style="text-align: center">以我的朋友们命名。</p>
+<p style="text-align: center">共同经历的开心事情，</p>
+<p style="text-align: center">全都会被我记录下来。</p>
+<p style="text-align: center">沉甸甸的书页，是回忆的重量。</p>
+<br />
+<p style="text-align: center">我为你预备着很大很厚的一本，</p>
+<p style="text-align: center">因为和你一起，从不缺乏开心。</p>
+<br />
+<p style="text-align: right">热情的嘻啦迷</p>
+}}

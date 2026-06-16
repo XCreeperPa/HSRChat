@@ -1,0 +1,607 @@
+{{角色语音表头|灵砂|未完善=是}}
+== 正式语音 ==
+{{切换板|开始}}
+{{切换板|默认显示|互动语音}}
+{{切换板|默认折叠|战斗语音}}
+{{切换板|显示内容}}
+{{角色语音
+|语音类型=初次见面
+|语音文件=灵砂-初次见面
+|语音内容=初次见面，妾身名唤灵砂，自朱明学成归来，忝任罗浮丹鼎司司鼎。若您身体不适，我可以随时为您安排医士。
+|语音内容日语=はじめまして、霊砂と申します。朱明で知識を学び、羅浮に戻ってきて丹鼎司の司鼎を務めています。体調が悪い時はいつでも医士を手配しますよ。
+|语音内容英语=It's a pleasure to meet you. You may call me Lingsha. I have returned to serve as the Head of the Luofu's Alchemy Commission after completing my studies on the Zhuming. If you are feeling unwell, I can arrange a healer for you at any time.
+|语音内容韩语=만나서 반가워요, 전 영사라고 합니다. 주명에서 공부하고 돌아와 나부 단정사 사정을 맡았죠. 몸이 안 좋으시면 언제든지 의사를 불러드릴게요
+}}
+{{角色语音
+|语音类型=问候
+|语音文件=灵砂-问候
+|语音内容=最近顺利吗？妾身如往常一样，职场诸事不顺。列车无名客来去自由，真令人羡慕呀。
+|语音内容日语=最近はどうですか？私の方は相変わらずで、仕事はあまり順調ではありません。列車で自由に旅するナナシビトたちが羨ましいです。
+|语音内容英语=How are things going lately? Work is not going well, as usual. I envy the Nameless of the Express, as they can come and go as they please.
+|语音内容韩语=요즘 잘 지내고 계세요? 전 늘 그렇듯 직장에서의 만사가 순조롭지 않네요. 자유롭게 오고 가는 열차 무명객이라니 정말 부러워요
+}}
+{{角色语音
+|语音类型=道别
+|语音文件=灵砂-道别
+|语音内容=我闻得您身上有烦恼的味道，因此用朱明的安息散、炎龙涎，混上沉霞烬，调了一剂焚香，取名「忘忧」。分您一些吧？
+|语音内容日语=あなたから苦悩の匂いがしました。ですから、朱明の{{注音|安息散|あんそくさん}}と{{注音|炎龍涎|えんりゅうだ}}を{{注音|沈霞燼|ちんかじん}}に混ぜ、{{注音|焚香|ふんこう}}を作りました。名前は「{{注音|忘憂|ぼうゆう}}」、どうぞ。
+|语音内容英语=I smelled the scent of anxiety on you, so I used the Zhuming's sleeping powder and flame ambergris, mixed with sunset cinders, to make an incense called "Forget All Worries." Let me share some with you.
+|语音内容韩语=당신에게서 고민의 냄새가 풍기네요. 주명의 안식산과 염용연에 침하신을 더해, 「망우(忘憂)」라는 이름의 향을 만들었답니다. 좀 나눠 드릴까요?
+}}
+{{角色语音
+|语音类型=关于自己•出身
+|语音文件=灵砂-关于自己•出身
+|语音内容=我是土生土长的罗浮持明，曾以「丹朱」之名拜师求艺。但师父陷入政争，被流放他乡，我也随她远走。如今改换姓名「衣锦还乡」，真是感慨万千。
+|语音内容日语=私は羅浮で生まれ育った持明族です。かつては「丹朱」という名で、師匠のもとで多くのことを学びました。しかし、彼女は政争に巻き込まれ、異邦の地に追放されてしまったので、私も後を追ったのです。今は名前を変え「故郷に錦を飾る」ことができたので、とても感慨深いです。
+|语音内容英语=I am a Vidyadhara, born and raised on the Luofu, and I once studied the healing arts under the name of "Dan Zhu." But my master became bogged down in politics and was banished to a place far from home. I followed her there. Now that I've changed my name and come home, many complicated feelings have returned.
+|语音内容韩语=전 나부 비디아다라에서 나고 자랐어요. 「단주」라는 이름으로 스승님을 모셨지만, 스승님은 정쟁에 휘말려 타향으로 추방되셨고 저도 스승님과 함께 떠났죠. 그리고 이렇게 이름을 바꾸고 「금의환향」하다니, 만감이 교차하네요
+}}
+{{角色语音
+|语音类型=关于自己•烟萝琼枝
+|语音文件=灵砂-关于自己•烟萝琼枝
+|语音内容=这香炉名唤「烟萝琼枝」，是施行医术的必要设备。我受学于朱明龙尊炎庭君一脉，研习医术「金鳞燃犀」，要用上这香炉方能随心应手。至于这炉中所炼的烟兽…就当它是秘传吧~
+|语音内容日语=この「{{注音|煙蘿|えんら}}の{{注音|玉枝|ぎょくし}}」は治療を施す際の必需品です。私は朱明の龍尊である{{注音|炎庭君|えんていくん}}の門下で「{{注音|金鱗燃犀|きんりんねんさい}}」という医術を学びました。この香炉を使うことで治療ができるのですが、中で錬成された{{注音|煙獣|えんじゅう}}に関しては…ふふ、秘伝だと言っておきますね。
+|语音内容英语=This incense burner is called "Ruby Tendrils." It's a necessary device for practicing the art of healing. I studied under the lineage of the Zhuming's high elder, Ardens Regia, and researched the "Piercing Gaze" art of healing. Only by using this incense burner can one practice this art with ease. As for what creature is inside the burner... Let's just say it's a trade secret~
+|语音内容韩语=이 향로의 이름은 「연라옥지」로, 의술을 행하는데 반드시 필요한 장치랍니다. 전 주명 용존 염정군 아래서 배우며, 의술 「금린연서」를 연구했어요. 이 향로를 사용하면 치료도 마음대로 가능하죠. 이 향로에 달궈진 연기 동물에 대해선… 비밀로 할게요~
+}}
+{{角色语音
+|语音类型=闲谈•罗浮丹鼎司
+|语音文件=灵砂-闲谈•罗浮丹鼎司
+|语音内容=依妾身之见，丹鼎司的根本问题在于内耗。医士与丹士，不热心于治病救人，也不醉心于学术研究，唯独惦记着争权夺利，如何顾及漏网的莳者与心怀叵测的龙师？
+|语音内容日语=私の見立てでは、丹鼎司の根本的な問題は内部紛争です。医士と丹士は、熱心に病人を救うでもなく、学術の研究に没頭するでもなく、権利争いに固執してばかり。それでどうやって法の網をかいくぐった{{注音|蒔者|じしゃ}}と、企み事をする龍師の対処をするというのでしょう？
+|语音内容英语=From my point of view, the fundamental problem with the Alchemy Commission is internal strife. The healers and alchemists are not earnest about curing sickness, nor are they wholly interested in academic research. Their only concern is the struggle for power. How should we attend to the Disciples who slipped through the cracks and the scheming Preceptors...?
+|语音内容韩语=제가 보기에 단정사의 근본적인 문제는 내부 분쟁에 있는 것 같아요. 의사와 연단사는 병든 사람들을 열심히 치료하지도 않고, 학술 연구에도 몰두하지 않으며, 권력 싸움만 생각하죠. 법망을 피해 간 약왕의 제자들과 속을 알 수 없는 용의 군사를 어떡해야 할까요?
+}}
+{{角色语音
+|语音类型=闲谈•情绪管理
+|语音文件=灵砂-闲谈•情绪管理
+|语音内容=想让事情顺利推进下去，就得学会情绪管理，像这样——世界如此美妙，我却如此暴躁，深呼吸…呼……
+|语音内容日语=物事をうまく進めるには、感情を管理しないといけません。今からやり方をお見せしますね——こころの怒りを絶ち、おもての怒りを棄て、人のたがふを怒らざれ。そして深呼吸……すう…はあ……
+|语音内容英语=If you want things to go smoothly, you need to learn to manage your emotions, like this: The world is so beautiful, yet I am so irritable. Deep breaths...
+|语音内容韩语=일을 잘 진행하려면 감정 다스리는 법을 배워야 해요. 이렇게——세상이 아름다운데 제가 이렇게 화내서야 될까요, 심호흡… 후우……
+}}
+{{角色语音
+|语音类型=闲谈•气味
+|语音文件=灵砂-闲谈•气味
+|语音内容=气味能传达很多信息——情绪、健康状况、病征、谎言…都瞒不过我的鼻子。但话说回来，我这鼻子万不能有任何闪失。要是遇上什么不好闻的东西，妾身宁愿活活憋死，也是不肯吸一口气的。
+|语音内容日语=匂いはさまざまなことを教えてくれます——感情、健康状態、病気の症状、嘘…全部私の鼻から隠すことはできません。逆に言えば、この鼻に何かあってはいけませんので、臭い匂いがしたら窒息死しようとも呼吸することをやめます。
+|语音内容英语=Scents can transmit a lot of information: emotions, physical condition, symptoms, lies... My nose can detect all of these. On the other hand, I mustn't let anything happen to my nose. If I detect something that smells bad, I'd rather suffocate to death than take a breath.
+|语音内容韩语=냄새는 많은 정보를 전달할 수 있어요. 감정, 건강 상태, 병의 증세, 거짓말…. 제 코는 속일 수 없죠. 하지만 다르게 말하면 제 코에는 그 어떤 문제도 생겨선 안 된다는 거예요. 이상한 냄새를 풍기는 무언가를 만나게 된다면, 숨을 쉴 바엔 차라리 숨을 참고 죽음을 택하겠어요
+}}
+{{角色语音
+|语音类型=爱好
+|语音文件=灵砂-爱好
+|语音内容=你了解「调香」吗？调香恰似为人处世，唯有「前调」、「中调」和「后调」紧密融洽，才能造就一味好香。
+|语音内容日语=「調香」をご存じですか？これは世渡りと同じです。「前調」、「中調」、「後調」がうまく混ざり合ってこそ、いい香りが出来上がるのです。
+|语音内容英语=Are you familiar with perfumery? Making perfumes is just like dealing with people — only when the top, middle, and base notes are in perfect harmony can one create a good fragrance.
+|语音内容韩语=「조향」에 대해 아시나요? 조향은 마치 사람들이 어울려 사는 것 같아요. 「첫향」, 「중간향」, 「잔향」이 잘 어울려야 좋은 향이 나거든요
+}}
+{{角色语音
+|语音类型=烦恼
+|语音文件=灵砂-烦恼
+|语音内容=我不过一介医士，平生最恨舞弄权术之辈。可要想在丹鼎司站稳脚跟，也不得不使些手段，让那些弄权者无计可施才行。
+|语音内容日语=私は一介の医士で、権力を振りかざす人が一番嫌いです。丹鼎司で地位を築くためには、時には手段を選ばずにそういう人たちを牽制する必要がありました。
+|语音内容英语=I am just a healer, and I've always hated those who play political games. But if you want to gain a foothold in the Alchemy Commission, you must have some means to stop those who abuse their power.
+|语音内容韩语=전 일개 의사일 뿐이고, 평생 권모술수를 부리는 사람을 싫어해 왔죠. 하지만 단정사에서 자리를 잡으려면 수단을 가리지 않고 그런 권력자들이 아무것도 못 하게끔 할 필요가 있어요
+}}
+{{角色语音
+|语音类型=分享
+|语音文件=灵砂-分享
+|语音内容=飞霄将军罹患之顽疾，并非妾身所能医治。但那位椒丘大夫也许能想出些奇招…他最擅长的莫过于此了。
+|语音内容日语=飛霄将軍の病は私では治せません。しかし、椒丘さんでしたら何か方法を思いつくかもしれませんね…彼はそういうのが得意ですから。
+|语音内容英语=I am not able to cure the illness that General Feixiao suffers from. That doctor Jiaoqiu, though, might have some tricks up his sleeve... He is the best at this.
+|语音内容韩语=비소 장군님의 끈질긴 병은 제가 치료할 수 있는 게 아니에요. 하지만 그 초구 선생께선 기발한 방법을 생각해 낼지도 모르죠…. 그분은 이런 걸 제일 잘하거든요
+}}
+{{角色语音
+|语音类型=见闻
+|语音文件=灵砂-见闻
+|语音内容=我做随军医士时，主要为朱明部队「曦驭军」的战士们祓除魔念。在承受巨大压力时，人与岁阳间的连结会变得不稳定，这时候就要靠熏香了。
+|语音内容日语=私が軍医をしていた時は、主に朱明の「{{注音|御陽軍|おんようぐん}}」の戦士のために拡大した執念を取り除いていました。精神的苦痛を受けた時、人と歳陽の間の結びつきは不安定になります。こういう時に薫香が必要になるのです。
+|语音内容英语=When I served as a military healer, I mainly purged evil from the soldiers of the Zhuming's Dawn Army. The connection between a person and a heliobus becomes unstable under immense pressure, and at times like this, we must rely on incense.
+|语音内容韩语=제가 종군 의사로 일했을 때, 주로 주명 부대인 「희어군」 전사들의 마념을 제거해 줬어요. 거대한 압박을 받으면 사람과 세양 간의 연결이 불안정해지는데, 그럴 때는 향에 의지해야 하죠
+}}
+{{角色语音
+|语音类型=关于怀炎
+|语音文件=灵砂-关于怀炎
+|语音内容=妾身与怀炎将军算不得多熟，但也曾为他制备熏香。嗐，别看老将军平时一派乐呵的样子…发起怒来的烟硝火气，可是冲得很呐。
+|语音内容日语=懐炎将軍のことはそんなに詳しくないですが、彼のためにお香を用意したことがあります。ふふ、あの方は普段は好々爺ですが…怒ると煙硝や火の匂いが強くするんです。
+|语音内容英语=I would not consider myself close to General Huaiyan, but I have prepared incense for him before. Don't be fooled by the old general's usual cheerful demeanor... When he gets angry, it's like there's steam coming out of his ears.
+|语音内容韩语=회염 장군님과 잘 아는 사이는 아니지만, 그분을 위해 직접 향을 제조한 적이 있어요. 휴, 장군님이 평소엔 유쾌해 보이시지만… 화내실 때 풍기는 기운은 굉장하시답니다
+}}
+{{角色语音
+|语音类型=关于云璃
+|语音文件=灵砂-关于云璃
+|语音内容=云璃的气味清甜明快，就像乳香。来看望我时，她还会像小动物一样坐在我的膝上，谁能忍得住不凑近吸一口呢…啊，光回忆起来都觉得快乐……
+|语音内容日语=雲璃の匂いは甘く爽やかで、乳香のようです。私に会いに来ると、小動物のように膝の上に座ってくるのですが、その時は彼女の匂いを吸わずにはいられません…ああ、思い出しただけで幸せな気持ちになります。
+|语音内容英语=Yunli's scent is fresh and sweet, just like frankincense. When she comes to see me, she's like a little animal, crawling onto my lap. Who could resist leaning down and taking in a deep breath? Even just thinking about it makes me happy...
+|语音内容韩语=운리의 향은 시원하고 달콤해서 마치 유향 같아요. 저를 찾아올 때면 작은 동물처럼 제 무릎에 앉아서 저도 모르게 가까이 다가가 숨을 들이마시게 되죠…. 아, 생각만 해도 즐겁네요……
+}}
+{{角色语音
+|语音类型=关于景元
+|语音文件=灵砂-关于景元
+|语音内容=师父和景元将军之间有些…不愉快的过往。但对于成年人来说，所谓「私人恩怨」可实在是太奢侈了！
+|语音内容日语=師匠と景元将軍の間には…あまりよくない過去があります。ただ、大人にとって「個人的な恨み」というものはあまりにも贅沢ですね。
+|语音内容英语=My master and General Jing Yuan have an... unpleasant history with each other. But personal grudges are a luxury that adults cannot afford!
+|语音内容韩语=스승님과 경원 장군님 사이에는… 유쾌하지 않은 과거가 있어요. 하지만 어른들에게 소위 「사적인 원한」이란 너무 사치스러운 것이죠!
+}}
+{{角色语音
+|语音类型=关于彦卿
+|语音文件=灵砂-关于彦卿
+|语音内容=这位罗浮小剑士的味道和他的为人一样干净，只有雨后的清香。唔，该说他心志干净呢，还是性格太单纯了？
+|语音内容日语=この羅浮の幼い剣士の匂いは、彼の人となりと同じように清らかで、雨の後のように爽やかです。んー、それは彼の心が清らかだからでしょうか？それとも彼の性格が単純だからでしょうか？
+|语音内容英语=The smell of this Luofu swordmaster is as pure as his character — I only detect the scent of rain. Hmm, does this mean that his will is pure, or that he is too naive?
+|语音内容韩语=이 나부 꼬마 검객의 냄새는 그의 인품처럼 맑고, 비 내린 뒤의 상쾌한 향이에요. 음, 마음이 순수하다고 해야 할까요, 아니면 성격이 단순하다고 해야 할까요?
+}}
+{{角色语音
+|语音类型=关于云华
+|语音文件=灵砂-关于云华
+|语音内容=师父会遭歹人构陷，某种意义上因为她是一个心地善良、开诚布公的人。面对利口之覆邦家者，不可心怀一丝善意。
+|语音内容日语=師匠が陥れられたのは、彼女が優しく、誠実で利己を一切考えない人だったからでしょう。口が巧く国をひっくり返すような悪者を前にする時、善意の心は少しも持ってはいけないのです。
+|语音内容英语=My master was framed by criminals, in a sense because she was a kind and open soul. When faced with villains who would destroy everything, you must not harbor any good will.
+|语音内容韩语=스승님이 모함에 빠진 건 어떻게 보면 스승님께서 마음씨가 착하고 솔직하시기 때문이에요. 나쁜 입으로 나라를 뒤집으려는 자들에겐 조금의 선의도 주어선 안 되죠
+}}
+{{角色语音
+|语音类型=关于飞霄
+|语音文件=灵砂-关于飞霄
+|语音内容=妾身曾亲眼见识过她作战。比起将军，她更是位武者——早前，她决死冲锋的气魄下总有一丝恐惧的味道，但如今已所剩无几了。
+|语音内容日语=以前、彼女の戦いをこの目で見たことがあります。将軍というより彼女は武者でした。かつては死に向かって突き進む気迫に、恐怖の匂いが少し混じっていましたが、今はもうほとんどないですね。
+|语音内容英语=I once witnessed her in battle with my own eyes. She is more like a warrior than a general. There used to be a faint scent of fear beneath her boldness and willingness to charge into life-or-death situations, but now that is almost gone.
+|语音内容韩语=그분의 전투를 직접 본 적이 있어요. 장군이라기 보단 무사다웠죠. 예전에는 필사적으로 돌격하는 그녀의 기백에 항상 공포의 냄새가 났는데, 지금은 얼마 남아 있지 않네요
+}}
+{{角色语音
+|语音类型=关于椒丘
+|语音文件=灵砂-关于椒丘
+|语音内容=如果一个人看起来像个火锅，闻起来像个火锅，办起事来更像个火锅…那我只能将他诊断为一个火锅。
+|语音内容日语=見るからに火鍋っぽくて、その匂いもやり口も火鍋のようだったら…私は彼を火鍋であると診断を下すしかないですね。
+|语音内容英语=If it looks like a hot pot, smells like a hot pot, and acts like a hot pot... I can only diagnose him as being a hot pot.
+|语音内容韩语=사람이 훠궈 같고, 훠궈의 냄새를 풍기고, 일 처리도 훠궈 같이 한다면…. 전 그를 훠궈라고 판단할 수밖에요
+}}
+{{角色语音
+|语音类型=关于貊泽
+|语音文件=灵砂-关于貊泽
+|语音内容=他的味道淡得几乎察觉不到，却又裹挟着一股刺鼻的铁锈，想必是个有许多故事的人物。
+|语音内容日语=彼自身の匂いは薄くてほとんど感じられないのに、鼻に突き刺さる鉄の匂いがします。きっと背後に色んな物語がある人なのでしょう。
+|语音内容英语=His scent is so faint it's almost imperceptible, but it also carries a pungent smell of rust. He must have many stories to tell.
+|语音内容韩语=그의 냄새는 거의 느낄 수 없을 정도로 희미하지만 코를 찌르는 쇳냄새가 섞여 있어요. 틀림없이 많은 이야기가 있는 사람일 거예요
+}}
+{{角色语音
+|语音类型=关于白露
+|语音文件=灵砂-关于白露
+|语音内容=要论医道，妾身与罗浮龙尊当然不能相提并论。但在这宦海沉浮中，我倒还自负能护她周全。
+|语音内容日语=医術の話なら、私など羅浮の龍尊と比べものにならないでしょう。ただ、この波乱に満ちた場所で、彼女をしっかり守れる自信はあります。
+|语音内容英语=In the art of healing, I certainly could not compare to the Luofu's high elder. But in these games of politics, I still take pride in being able to protect her.
+|语音内容韩语=의술을 논하자면, 전 나부 용존과 저를 비교할 수도 없죠. 하지만 파란이 가득한 이곳에서 그녀를 잘 보호할 수 있다고는 자부할 수 있어요
+}}
+{{角色语音
+|语音类型=关于驭空
+|语音文件=灵砂-关于驭空
+|语音内容=三十年前的战争改变了许多人，她身上总是萦绕着一股悲伤的气息。我虽与她多年未见，但气味不会骗人——驭空仍然是那个驭空，尽管她自己都没有注意到。
+|语音内容日语=30年前の戦争は多くの人を変えてしまった。彼女はいつも悲しみの匂いを纏っています。長い間会っていませんでしたが、匂いは嘘をつかない——御空は今も昔のままですよ。彼女自身が気づいていなかったとしても。
+|语音内容英语=The war thirty years ago changed many people. The scent of sorrow always surrounds her now. Although I have not seen her in many years, smells do not lie — Yukong is still the same Yukong, even if she herself does not realize it.
+|语音内容韩语=30년 전의 전쟁은 많은 사람을 바꿨고, 그녀의 몸에선 언제나 슬픈 기운이 감돌고 있죠. 비록 오랫동안 뵌 적은 없지만, 냄새는 거짓말을 하지 않는 법——그녀 자신조차 눈치채지 못했지만, 어공 님은 여전히 어공 님이세요
+}}
+{{角色语音
+|语音类型=关于符玄
+|语音文件=灵砂-关于符玄
+|语音内容=符太卜有事没事就来找我讨糖水喝。我说了很多次，糖水喝太多于健康无益，可她偏要喝，还说「喝不到糖水更有碍健康」…真是一点办法都没有啊。
+|语音内容日语=太卜様はいつも私のところに来て、砂糖水を要求してきます。砂糖水の飲み過ぎは健康によくないと何度も言っているのですが、聞いてくれなくて…そのうえ「砂糖水を飲めない方が体に障る」って反論してくるんです。本当にどうしようもないお方ですよ。
+|语音内容英语=Diviner Fu comes to me asking for sugary drinks whether she is ill or not. I've told her many times that drinking too much has no health benefits, but she insists on drinking it anyway. She even says, "Not being able to have sugary drinks is bad for my health." What can you do...
+|语音内容韩语=부 태복은 일이 있든 없든 저한테 와서 설탕물을 달라고 해요. 제가 설탕물은 많이 마시면 몸에 안 좋다고 그렇게 얘기했는데도 계속 마시더라고요. 「설탕물을 안 마시면 건강에 더 안 좋다」나 뭐라나…. 정말 어찌할 방법이 없네요
+}}
+{{角色语音
+|语音类型=关于青雀
+|语音文件=灵砂-关于青雀
+|语音内容=回到罗浮以后，妾身俗务缠身，只剩下了三件乐事——吃饭、调香、逗青雀。
+|语音内容日语=羅浮に戻った後は雑務に追われています。そんな私に残された楽しみは3つだけ——食事、調香、青雀をからかうことです。
+|语音内容英语=Since returning to the Luofu, I've been buried in work. There are only three things that bring me joy: eating food, making perfumes, and teasing Qingque.
+|语音内容韩语=나부로 돌아온 뒤로 일에만 얽매이다 보니, 끼니와 조향, 그리고 청작을 놀리는 이 세 가지 즐거움만 남았네요
+}}
+{{角色语音
+|语音类型=关于藿藿
+|语音文件=灵砂-关于藿藿
+|语音内容=即使在朱明，也难有战士能与岁阳共生得如此融洽，几近于一心同体。这个一身软糯香气的小姑娘，可真是不简单啊～
+|语音内容日语=朱明でも、歳陽と一心同体と言えるほど融合できる戦士は少ないです。この全身からふわふわした匂いのする少女は本当にすごいですね。
+|语音内容英语=Even on the Zhuming, it's rare to see a soldier and a heliobus have such a symbiotic relationship, as if they are of one heart and mind. This soft-scented girl is really something~
+|语音内容韩语=주명에서도 이렇게까지 세양과 일심동체라고 할 수 있을 정도로 잘 지내는 전사는 드물어요. 부드러운 냄새를 풍기는 꼬마 아가씨가 정말 대단하죠~
+}}
+{{角色语音
+|语音类型=关于尾巴
+|语音文件=灵砂-关于尾巴
+|语音内容=罗浮实在是有些保守，若是在朱明，遇上这般有能力，又分毫不打算危害人间的岁阳，可是绝对不会把它给封印起来的。
+|语音内容日语=羅浮はあまりにも保守的です。これほどの能力を持ち、そして人を傷つけない歳陽なんて、朱明でしたら絶対に封印なんかしませんよ。
+|语音内容英语=The Luofu really is a bit conservative. If we encountered a heliobus on the Zhuming that was this capable and had no harmful intentions, we would definitely not seal it up.
+|语音内容韩语=나부는 정말 보수적이에요. 주명이었다면 이렇게 능력이 있고 사람을 해칠 생각이 없는 세양을 절대 봉인하지 않을 걸요?
+}}
+{{角色语音
+|语音类型=星魂激活
+|语音文件=灵砂-星魂激活
+|语音内容=氤氲无穷，篆烟不息。
+|语音内容日语=限りなき{{注音|雲霧|うんむ}}、{{注音|連綿|れんめん}}と続く{{注音|篆煙|てんえん}}。
+|语音内容英语=Boundless mist and endless smoke.
+|语音内容韩语=무한한 안개, 끝없는 연기
+}}
+{{角色语音
+|语音类型=角色晋阶
+|语音文件=灵砂-角色晋阶
+|语音内容=红罗复斗帐，四角垂香囊。
+|语音内容日语={{注音|紅羅|こうら}}の帳、四角に香り袋。
+|语音内容英语=Under a red silken canopy, fragrant spices swing from each corner.
+|语音内容韩语=붉은 비단이 장막을 내리고, 사각엔 향낭이 드리우네
+}}
+{{角色语音
+|语音类型=角色满级
+|语音文件=灵砂-角色满级
+|语音内容=非徒闻道至于此，金玉谁家不满堂？
+|语音内容日语=道聞かずして、金やヒスイを持つ者などいようか？
+|语音内容英语=Having grasped such profound truths... Whose home isn't overflowing with riches?
+|语音内容韩语=깊은 이치를 깨닫고도 부를 누리지 않는 집이 있을까?
+}}
+{{角色语音
+|语音类型=行迹激活
+|语音文件=灵砂-行迹激活
+|语音内容=炉中无火烟自出。
+|语音内容日语=火がなくとも、煙は自ずと立ちのぼるもの。
+|语音内容英语=The smoke rises from the fireless stove.
+|语音内容韩语=불이 없어도 연기는 스스로 피어오르지
+}}
+{{角色语音
+|语音类型=队伍编成•开拓者
+|语音文件=灵砂-队伍编成•开拓者
+|语音内容=有你在，妾身也能算安心些了～
+|语音内容日语=あなたがいると、安心できます。
+|语音内容英语=With you here, I feel a bit more at ease.
+|语音内容韩语=당신이 있어서 저도 안심할 수 있겠어요~
+}}
+{{角色语音
+|语音类型=队伍编成•云璃
+|语音文件=灵砂-队伍编成•云璃
+|语音内容=云璃，小心点，可别受伤了。
+|语音内容日语=雲璃、怪我しないように気をつけてくださいね。
+|语音内容英语=Yunli, be careful, don't get hurt.
+|语音内容韩语=운리, 안 다치게 조심해
+}}
+{{角色语音
+|语音类型=队伍编成•景元
+|语音文件=灵砂-队伍编成•景元
+|语音内容=景元将军，请放心信任妾身吧。
+|语音内容日语=景元将軍、私にお任せください。
+|语音内容英语=General Jing Yuan, please put your faith in me.
+|语音内容韩语=경원 장군님, 걱정 말고 절 믿으세요
+}}
+{{角色语音
+|语音类型=队伍编成•飞霄
+|语音文件=灵砂-队伍编成•飞霄
+|语音内容=能再见飞霄将军的英姿，我可真是好福气。
+|语音内容日语=また飛霄将軍の英姿を拝めるなんて、私は運がいいですね。
+|语音内容英语=To bear witness to the great General Feixiao's heroism again is truly fortunate.
+|语音内容韩语=비소 장군님의 멋진 모습을 다시 볼 수 있다니, 전 정말 운이 좋네요
+}}
+{{角色语音
+|语音类型=队伍编成•椒丘
+|语音文件=灵砂-队伍编成•椒丘
+|语音内容=这次也要靠你的鬼点子化险为夷了。
+|语音内容日语=今回もあなたの悪知恵に頼らせてもらいますね。
+|语音内容英语=We'll have to rely on your clever tricks to turn the tide again.
+|语音内容韩语=이번에도 당신의 교묘한 술수로 위기를 넘기겠네요
+}}
+{{角色语音
+|语音类型=队伍编成•貊泽
+|语音文件=灵砂-队伍编成•貊泽
+|语音内容=在阴影中解决问题，倒不失为一个好办法。
+|语音内容日语=影の中で問題を解決するという考えは、悪くないと思います。
+|语音内容英语=Resolving problems in the shadows can be a good strategy.
+|语音内容韩语=그림자 속에서 문제를 해결하는 것도 좋은 방법이죠
+}}
+{{角色语音
+|语音类型=队伍编成•白露
+|语音文件=灵砂-队伍编成•白露
+|语音内容=龙女大人，我们互相保护，定能渡过难关。
+|语音内容日语=龍女様。私たちがお互い守り合えば、どんな難関でも乗り越えられるでしょう。
+|语音内容英语=Dragon Lady, let us safeguard one another. Together, we can overcome any adversity.
+|语音内容韩语=용녀님, 저희가 서로를 지켜주면 반드시 어려움을 극복할 수 있을 거예요
+}}
+{{角色语音
+|语音类型=队伍编成•驭空
+|语音文件=灵砂-队伍编成•驭空
+|语音内容=驭空大人，你果然没变～
+|语音内容日语=御空様、あなたはやはりお変わりありませんね～
+|语音内容英语=Madam Yukong, you haven't changed at all~
+|语音内容韩语=어공 님 역시 변함없으시네요~
+}}
+{{角色语音
+|语音类型=队伍编成•符玄
+|语音文件=灵砂-队伍编成•符玄
+|语音内容=太卜大人定是算到了我们此番可以平安无事。
+|语音内容日语=きっと、太卜様の占いに吉兆が出たのでしょう。
+|语音内容英语=Master Diviner, you must have foreseen that we could get through this unscathed.
+|语音内容韩语=분명 태복님의 점괘에 저희가 무사할 거라고 나온 거겠죠
+}}
+{{角色语音
+|语音类型=队伍编成•青雀
+|语音文件=灵砂-队伍编成•青雀
+|语音内容=青雀加油！放心，躲你身后是开玩笑啦…我会保护你的。
+|语音内容日语=頑張ってください、青雀！あなたの後ろに隠れるって言ったのは冗談ですので安心して…私が守ってあげますから。
+|语音内容英语=Come on, Qingque! Don't worry, I was kidding about hiding behind you... I will protect you.
+|语音内容韩语=청작 힘내! 걱정 마, 뒤에 숨는다는 건 농담이니까…. 내가 지켜줄게
+}}
+{{切换板|内容结束}}
+{{切换板|折叠内容}}
+{{角色语音
+|语音类型=战斗开始•弱点击破
+|语音文件=灵砂-战斗开始•弱点击破
+|语音内容=尽情沉醉其中吧。
+|语音内容日语=酔い痴れなさい。
+|语音内容英语=Immerse yourself in it as you desire.
+|语音内容韩语=마음껏 취해보세요
+}}
+{{角色语音
+|语音类型=战斗开始•弱点击破(2x)
+|语音文件=灵砂-战斗开始•弱点击破-2x
+|语音内容=
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=战斗开始•危险预警
+|语音文件=灵砂-战斗开始•危险预警
+|语音内容=…恶浊之气。
+|语音内容日语=…濁悪の気。
+|语音内容英语=...The stench of evil.
+|语音内容韩语=…추악한 기운이군요
+}}
+{{角色语音
+|语音类型=战斗开始•危险预警(2x)
+|语音文件=灵砂-战斗开始•危险预警-2x
+|语音内容=
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=回合开始•一
+|语音文件=灵砂-回合开始•一
+|语音内容=腥膻恶臭快些散去如何？
+|语音内容日语=悪臭のもとを断たなければ。
+|语音内容英语=How about we dissipate that foul stench quickly?
+|语音内容韩语=악취는 빨리 제거하는 게 어때요?
+}}
+{{角色语音
+|语音类型=回合开始•一(2x)
+|语音文件=灵砂-回合开始•一-2x
+|语音内容=
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=回合开始•二
+|语音文件=灵砂-回合开始•二
+|语音内容=还得让妾身来正本清源…
+|语音内容日语=私が手を下さないといけないのですか？
+|语音内容英语=Please, allow me to purge the root of this problem.
+|语音内容韩语=제가 직접 나서야 하다니…
+}}
+{{角色语音
+|语音类型=回合开始•二(2x)
+|语音文件=灵砂-回合开始•二-2x
+|语音内容=
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=回合待机
+|语音文件=灵砂-回合待机
+|语音内容=这就倦了？需要提提神么？
+|语音内容日语=お疲れのようですね、眠気を覚ましてあげましょうか？
+|语音内容英语=Feeling tired already? Do you require invigoration?
+|语音内容韩语=벌써 피곤하신가요? 기운차리게 해드릴까요?
+}}
+{{角色语音
+|语音类型=普攻
+|语音文件=灵砂-普攻
+|语音内容=有破绽哦。
+|语音内容日语=隙あり。
+|语音内容英语=Oh, a weakness.
+|语音内容韩语=빈틈이 있군요
+}}
+{{角色语音
+|语音类型=战技•一
+|语音文件=灵砂-战技•一
+|语音内容=去污除秽，请。
+|语音内容日语=穢れを払いましょう。
+|语音内容英语=Time to cleanse the filth, wouldn't you agree?
+|语音内容韩语=불결한 걸 씻어드리죠
+}}
+{{角色语音
+|语音类型=战技•一(2x)
+|语音文件=灵砂-战技•一-2x
+|语音内容=
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=战技•二
+|语音文件=灵砂-战技•二
+|语音内容=身心，需清净。
+|语音内容日语=身も心も、清らかに。
+|语音内容英语=Both body and mind must be pure.
+|语音内容韩语=심신은 깨끗해야 해요
+}}
+{{角色语音
+|语音类型=战技•二(2x)
+|语音文件=灵砂-战技•二-2x
+|语音内容=
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=轻受击
+|语音文件=灵砂-轻受击
+|语音内容=莫生气……
+|语音内容日语=怒ってはダメ……
+|语音内容英语=Get it together...
+|语音内容韩语=화내지 말자……
+}}
+{{角色语音
+|语音类型=重受击
+|语音文件=灵砂-重受击
+|语音内容=冥顽不灵。
+|语音内容日语=冥頑不霊ですね。
+|语音内容英语=You're a stubborn one.
+|语音内容韩语=고집을 부리시는군요
+}}
+{{角色语音
+|语音类型=终结技•激活
+|语音文件=灵砂-终结技•激活
+|语音内容=金鳞燃犀，洞若观火。
+|语音内容日语={{注音|金鱗燃犀|きんりんねんさい}}、火を見るより明らかです。
+|语音内容英语=The truth burns clear as a flame.
+|语音内容韩语=불 보듯이 뻔하군요
+}}
+{{角色语音
+|语音类型=终结技•施放
+|语音文件=灵砂-终结技•施放
+|语音内容=世间种种…不过是过眼云烟。
+|语音内容日语=この世のすべては…過ぎ行く{{注音|雲煙|うんえん}}にすぎません。
+|语音内容英语=Everything in this world... is merely fleeting.
+|语音内容韩语=세상 만물은… 금방 사라지는 연기와도 같죠
+}}
+{{角色语音
+|语音类型=终结技•施放(2x)
+|语音文件=灵砂-终结技•施放-2x
+|语音内容=
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=无法战斗
+|语音文件=灵砂-无法战斗
+|语音内容=烟消…火灭……
+|语音内容日语=炎が消えて…煙も……
+|语音内容英语=The smoke is gone... the fire is out...
+|语音内容韩语=연기처럼… 사라지리……
+}}
+{{角色语音
+|语音类型=重回战斗
+|语音文件=灵砂-重回战斗
+|语音内容=起死回生之术，令人仰止。
+|语音内容日语=起死回生の術、感服しました。
+|语音内容英语=The art of resurrection is astonishing to behold.
+|语音内容韩语=기사회생의 술법이라니, 놀랍군요
+}}
+{{角色语音
+|语音类型=回复生命
+|语音文件=灵砂-回复生命
+|语音内容=沁人心脾。
+|语音内容日语=沁みますね……
+|语音内容英语=Refreshing to the soul.
+|语音内容韩语=마음이 편안해지네요
+}}
+{{角色语音
+|语音类型=秘技
+|语音文件=灵砂-秘技
+|语音内容=炉香袅孤碧，云缕霏数千。
+|语音内容日语={{注音|炉香嫋嫋|ろこうじょうじょう}}、蒼天へ昇る。
+|语音内容英语=Incense ascends, entwined with ethereal clouds.
+|语音内容韩语=향이 피어오르고, 구름처럼 흩날리네
+}}
+{{角色语音
+|语音类型=战斗胜利
+|语音文件=灵砂-战斗胜利
+|语音内容=这样便好闻多了。
+|语音内容日语=これで匂いがマシになりました。
+|语音内容英语=This aroma is much better.
+|语音内容韩语=이제 향이 더 좋아졌군요
+}}
+{{角色语音
+|语音类型=开启战利品•一
+|语音文件=灵砂-开启战利品•一
+|语音内容=吐故纳新。
+|语音内容日语=古いものは捨てて、新しいものを取り入れましょう。
+|语音内容英语=Breathe out the old and inhale the new.
+|语音内容韩语=옛것을 뱉고, 새것을 흡입해야죠
+}}
+{{角色语音
+|语音类型=开启战利品•二
+|语音文件=灵砂-开启战利品•二
+|语音内容=神清气爽。
+|语音内容日语=清々しい気分です。
+|语音内容英语=Refreshed and invigorated.
+|语音内容韩语=상쾌한 기분이네요
+}}
+{{角色语音
+|语音类型=开启贵重战利品
+|语音文件=灵砂-开启贵重战利品
+|语音内容=异香扑鼻，果然有宝物。
+|语音内容日语=いい香りがすると思ったら、やっぱりお宝がありましたね。
+|语音内容英语=An exotic fragrance hits the nose — indeed, this must be treasure.
+|语音内容韩语=특이한 향이 나더라니, 역시 보물이 있었네요
+}}
+{{角色语音
+|语音类型=解谜成功•一
+|语音文件=灵砂-解谜成功•一
+|语音内容=解谜亦如制香，差之毫厘失之千里。
+|语音内容日语=謎解きは調香と同じで、少しでも間違えると正しい結果には辿り着けないのです。
+|语音内容英语=Solving a puzzle is like making incense: The smallest of differences can cause the largest changes.
+|语音内容韩语=수수께끼는 향과 같아요. 한 번의 실수로 크게 달라지죠
+}}
+{{角色语音
+|语音类型=解谜成功•二
+|语音文件=灵砂-解谜成功•二
+|语音内容=条分缕析，制胜之法。
+|语音内容日语=勝利の法は、綿密な分析にあり。
+|语音内容英语=Careful analysis is the key to victory.
+|语音内容韩语=정밀한 분석이 바로 승리의 관건이죠
+}}
+{{角色语音
+|语音类型=发现敌方目标
+|语音文件=灵砂-发现敌方目标
+|语音内容=辛辣、刺激…来者不善啊。
+|语音内容日语=鼻を突くような臭い…明らかに悪意がありますね。
+|语音内容英语=Spicy, stimulating... something ominous has arrived.
+|语音内容韩语=맵고 자극적인 향… 불길한 게 왔네요
+}}
+{{角色语音
+|语音类型=返回城镇
+|语音文件=灵砂-返回城镇
+|语音内容=人间烟火气…还是那样令人留恋。
+|语音内容日语=この賑やかな雰囲気…いつも懐かしく感じます。
+|语音内容英语=The hustle and bustle of the world... still so charming.
+|语音内容韩语=속세의 향기는… 언제나 그립네요
+}}
+{{切换板|内容结束}}
+{{切换板|结束}}
+== 无文本语音 ==
+{| class="wikitable" style="width:100%"
+|-
+! 语音类型 !! 中 !! 日 !! 英 !! 韩
+|-
+| style="width:25%;text-align:center" | 触发战斗
+| {{player|灵砂-触发战斗•一}}{{player|灵砂-触发战斗•二}}{{player|灵砂-触发战斗•三}}
+| {{player|日-灵砂-触发战斗•一}}{{player|日-灵砂-触发战斗•二}}{{player|日-灵砂-触发战斗•三}}
+| {{player|英-灵砂-触发战斗•一}}{{player|英-灵砂-触发战斗•二}}{{player|英-灵砂-触发战斗•三}}
+| {{player|韩-灵砂-触发战斗•一}}{{player|韩-灵砂-触发战斗•二}}{{player|韩-灵砂-触发战斗•三}}
+|-
+| style="width:25%;text-align:center" | 普攻
+| {{player|灵砂-普攻-无文本•一}}{{player|灵砂-普攻-无文本•二}}{{player|灵砂-普攻-无文本•三}}{{player|灵砂-普攻-无文本•四}}
+| {{player|日-灵砂-普攻-无文本•一}}{{player|日-灵砂-普攻-无文本•二}}{{player|日-灵砂-普攻-无文本•三}}{{player|日-灵砂-普攻-无文本•四}}
+| {{player|英-灵砂-普攻-无文本•一}}{{player|英-灵砂-普攻-无文本•二}}{{player|英-灵砂-普攻-无文本•三}}{{player|英-灵砂-普攻-无文本•四}}
+| {{player|韩-灵砂-普攻-无文本•一}}{{player|韩-灵砂-普攻-无文本•二}}{{player|韩-灵砂-普攻-无文本•三}}{{player|韩-灵砂-普攻-无文本•四}}
+|-
+| style="width:25%;text-align:center" | 轻受击
+| {{player|灵砂-轻受击-无文本•一}}{{player|灵砂-轻受击-无文本•二}}{{player|灵砂-轻受击-无文本•三}}{{player|灵砂-轻受击-无文本•四}}
+| {{player|日-灵砂-轻受击-无文本•一}}{{player|日-灵砂-轻受击-无文本•二}}{{player|日-灵砂-轻受击-无文本•三}}{{player|日-灵砂-轻受击-无文本•四}}
+| {{player|英-灵砂-轻受击-无文本•一}}{{player|英-灵砂-轻受击-无文本•二}}{{player|英-灵砂-轻受击-无文本•三}}{{player|英-灵砂-轻受击-无文本•四}}
+| {{player|韩-灵砂-轻受击-无文本•一}}{{player|韩-灵砂-轻受击-无文本•二}}{{player|韩-灵砂-轻受击-无文本•三}}{{player|韩-灵砂-轻受击-无文本•四}}
+|-
+| style="width:25%;text-align:center" | 重受击
+| {{player|灵砂-重受击-无文本•一}}{{player|灵砂-重受击-无文本•二}}{{player|灵砂-重受击-无文本•三}}{{player|灵砂-重受击-无文本•四}}
+| {{player|日-灵砂-重受击-无文本•一}}{{player|日-灵砂-重受击-无文本•二}}{{player|日-灵砂-重受击-无文本•三}}{{player|日-灵砂-重受击-无文本•四}}
+| {{player|英-灵砂-重受击-无文本•一}}{{player|英-灵砂-重受击-无文本•二}}{{player|英-灵砂-重受击-无文本•三}}{{player|英-灵砂-重受击-无文本•四}}
+| {{player|韩-灵砂-重受击-无文本•一}}{{player|韩-灵砂-重受击-无文本•二}}{{player|韩-灵砂-重受击-无文本•三}}{{player|韩-灵砂-重受击-无文本•四}}
+|}

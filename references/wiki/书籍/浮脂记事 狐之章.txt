@@ -1,0 +1,70 @@
+{{书籍
+|书籍名=浮脂记事 狐之章
+|卷数=2<!-- 仅填写数字 -->
+|编号=6019<!-- 按照游戏内显示顺序编号，第一位为所属编号，共四位 -->
+|描述=似乎是上古时代，诗还没有在古弁才天国消亡的时期，无名诗人留下的作品。这篇应该是其中一部的卷首。
+|所属=6
+|类型=卡带
+|实装版本=4.0
+|相关角色=
+|相关任务=
+}}
+
+{{书籍/分卷
+|名称=其一
+|卷数=1
+|实装版本=4.0
+|获取方式=完成「世界尽头」酒馆所有「浮脂溯源&bull;二次元ROTATE！」后，回到二维市@娱乐广场内进入「浮脂记事」的世界，拜访小狐狸首领，获取阅读物。
+|内容=<p style="text-align: center">狐狸是最聪明的动物</p>
+<p style="text-align: center">他们知晓如何获得大地的礼物</p>
+<p style="text-align: center">温泉池边的硫磺</p>
+<p style="text-align: center">鸟粪堆里的火硝</p>
+<p style="text-align: center">最聪明的动物在泥坑里洗澡</p>
+<p style="text-align: center">好让火红的皮毛不会点着炸药</p>
+<p style="text-align: center"> </p>
+<p style="text-align: center">天火灼烧着没有名字的海岸</p>
+<p style="text-align: center">此事发生在不久之前的夜晚</p>
+<p style="text-align: center">流星的暴雨在夜空乍现</p>
+<p style="text-align: center">只有狐狸们知道，那也是鲸落的碎片</p>
+<p style="text-align: center"> </p>
+<p style="text-align: center">最聪明的动物在滩涂地上寻找</p>
+<p style="text-align: center">不放过琥珀、龙涎香、以及沉船的星海玻璃</p>
+<p style="text-align: center">珍珠在这里并不稀奇</p>
+<p style="text-align: center">周期蚌咧开长长的大嘴</p>
+<p style="text-align: center">镧系和锕系就藏在它的外套膜里</p>
+<p style="text-align: center"> </p>
+<p style="text-align: center">黏土的大锅，孕育炼金的法术</p>
+<p style="text-align: center">世上的眼泪太多</p>
+<p style="text-align: center">缺少的是真正的财富</p>
+<p style="text-align: center">在那些没有月光的岁月</p>
+<p style="text-align: center">星空只会反射狐狸们狡黠的笑容</p>
+}}
+
+{{书籍/分卷
+|名称=其七
+|卷数=2
+|实装版本=4.2
+|获取方式=完成海原电视塔所有「浮脂溯源&bull;二次元ROTATE！」后，回到二维市@娱乐广场内进入「浮脂记事」的世界，拜访小狐狸首领，获取阅读物。
+|内容=<p style="text-align: center">红绿灯上下飞窜</p>
+<p style="text-align: center">交通信号是一片混乱</p>
+<p style="text-align: center">狐狸焦躁难耐</p>
+<p style="text-align: center">流动性危机，就要到来</p>
+<p style="text-align: center"> </p>
+<p style="text-align: center">快扔掉你们的扁担</p>
+<p style="text-align: center">它们会变成可怕的杠杆</p>
+<p style="text-align: center">快站上黄金的舞台</p>
+<p style="text-align: center">抄底的日子，指日可待</p>
+<p style="text-align: center"> </p>
+<p style="text-align: center">南方的村庄雨下个没完</p>
+<p style="text-align: center">乌鸦的羽毛装饰着漆黑军团</p>
+<p style="text-align: center">狐狸焦躁难耐</p>
+<p style="text-align: center">烬土的战争，就要到来</p>
+<p style="text-align: center"> </p>
+<p style="text-align: center">快扔掉你们的细软</p>
+<p style="text-align: center">它们只会引来制导炸弹</p>
+<p style="text-align: center">快站上绘世的舞台</p>
+<p style="text-align: center">入画的日子，指日可待</p>
+<p style="text-align: center"> </p>
+<p style="text-align: center">挽歌厌倦了星海</p>
+<p style="text-align: center">智慧期盼着乐园</p>
+}}

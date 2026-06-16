@@ -1,0 +1,100 @@
+{{书籍
+|书籍名=欧洛尼斯祭坛祷词集
+|卷数=1<!-- 仅填写数字 -->
+|编号=5115<!-- 按照游戏内显示顺序编号，第一位为所属编号，共四位 -->
+|描述=记录祭祀欧洛尼斯仪式用语的小册子，内容足以覆盖村庄日常生活所需的各种场景。
+|所属=5
+|类型=书籍
+|实装版本=3.4
+|相关角色=
+|相关任务=
+}}
+
+{{书籍/分卷
+|名称=欧洛尼斯祭坛祷词集
+|卷数=1
+|实装版本=3.4
+|获取方式=哀丽秘榭远行渡口界域定锚，右转直走到欧洛尼斯神像跟前，神像脚边拾取。
+|内容=''「记忆并非过去的囚牢，而是未来的指引。欧洛尼斯教导我们，唯有铭记历史，方能预见将来。」''<br />
+<br />
+<p style="text-align: center">【黄昏祷词】</p>
+<p style="text-align: center">''——于日暮时分吟诵''</p>
+<p style="text-align: center">无垠星海的守望者啊，</p>
+<p style="text-align: center">&nbsp;永夜天帷的织造者啊，</p>
+<p style="text-align: center">&nbsp;欧洛尼斯，预见未来者，</p>
+<p style="text-align: center">&nbsp;我等于此献上虔诚。</p>
+<p style="text-align: center">如你遮蔽天幕，</p>
+<p style="text-align: center">&nbsp;让艾格勒之眼闭合，</p>
+<p style="text-align: center">&nbsp;亦请垂怜我等，</p>
+&nbsp;<p style="text-align: center">护佑我们穿行暗夜。</p>
+<p style="text-align: center">今昔未来尽在您掌，</p>
+&nbsp;<p style="text-align: center">命运之线穿梭您指，</p>
+&nbsp;<p style="text-align: center">无尽时光皆听您呼唤，</p>
+<p style="text-align: center">请接受我等敬献。</p>
+<br />
+<p style="text-align: center">【祭司入职誓词】</p>
+<p style="text-align: center">我将如星辰般守夜，</p>
+<p style="text-align: center">&nbsp;如时间般沉默，</p>
+<p style="text-align: center">&nbsp;如命运般无悔。</p>
+<p style="text-align: center">我将担起天帷的重量，</p>
+<p style="text-align: center">&nbsp;我将守护预言的秘密，</p>
+<p style="text-align: center">&nbsp;我将成为黑夜的仆从。</p>
+<p style="text-align: center">无论星光如何微弱，</p>
+<p style="text-align: center">&nbsp;无论道路如何黯淡，</p>
+<p style="text-align: center">&nbsp;我将追随永夜的呼唤，</p>
+<p style="text-align: center">&nbsp;直至我的灵魂归于天帷之中。</p>
+<br />
+<p style="text-align: center">【村民祈愿词】</p>
+<p style="text-align: center">''——日常祈愿简词''</p>
+<p style="text-align: center">欧洛尼斯大人，</p>
+&nbsp;<p style="text-align: center">请指引我们前行的路，</p>
+<p style="text-align: center">&nbsp;请护佑我们一夜安眠，</p>
+<p style="text-align: center">&nbsp;请赐予我们来日智慧。</p>
+<br />
+<p style="text-align: center">【丰收祝祷词】</p>
+<p style="text-align: center">''——播种与收获时节的祝祷''</p>
+<p style="text-align: center">欧洛尼斯啊，时间的主宰，</p>
+<p style="text-align: center">&nbsp;请计算我们播种的日子，</p>
+<p style="text-align: center">&nbsp;请记录我们耕耘的时辰，</p>
+<p style="text-align: center">&nbsp;请衡量我们收获的时刻。</p>
+<p style="text-align: center">正如您的夜幕孕育光明，</p>
+<p style="text-align: center">&nbsp;让我们的种子在黑暗中茁壮，</p>
+<p style="text-align: center">&nbsp;待到您命定的时刻，</p>
+<p style="text-align: center">&nbsp;便能结出满载的谷子。</p>
+<br />
+<p style="text-align: center">【求梦祷词】</p>
+<p style="text-align: center">''——睡前祈祷，祈求启示梦境''</p>
+<p style="text-align: center">带我穿越黑暗，欧洛尼斯，</p>
+<p style="text-align: center">&nbsp;让我的梦境如星河般明亮。</p>
+<p style="text-align: center">&nbsp;在我闭眼之时，</p>
+<p style="text-align: center">&nbsp;请向我展示那远方的景象。</p>
+<p style="text-align: center">过去已逝，未来未至，</p>
+<p style="text-align: center">&nbsp;唯有现在属于我们。</p>
+<p style="text-align: center">&nbsp;但在梦境的秘境中，</p>
+<p style="text-align: center">&nbsp;愿您让我瞥见命运的剪影。</p>
+<br />
+<p style="text-align: center">【星象回溯祷词】</p>
+<p style="text-align: center">''——正式天文仪式用词''</p>
+<p style="text-align: center">时间之河流向何方？</p>
+<p style="text-align: center">&nbsp;欧洛尼斯之眼窥见一切。</p>
+<p style="text-align: center">&nbsp;过往记忆如星辰闪烁，</p>
+<p style="text-align: center">&nbsp;请赐予我们追寻的力量。</p>
+<p style="text-align: center">天幕轮转，命运编织，</p>
+<p style="text-align: center">&nbsp;我们在您的凝视下解读天象，</p>
+<p style="text-align: center">&nbsp;企盼从中寻得真理的光芒。</p>
+<br />
+<p style="text-align: center">【年轮谢礼】</p>
+<p style="text-align: center">''——生日感恩祷词''</p>
+<p style="text-align: center">又一年过去，欧洛尼斯，</p>
+<p style="text-align: center">&nbsp;又一圈年轮在我生命中刻下。</p>
+<p style="text-align: center">&nbsp;感谢您赐予我时间的宝贵礼物，</p>
+<p style="text-align: center">&nbsp;让我在这世间多行走一年。</p>
+<p style="text-align: center">您编织的命运，</p>
+<p style="text-align: center">&nbsp;或喜或悲，或苦或甜，</p>
+<p style="text-align: center">&nbsp;我都甘之如饴，</p>
+<p style="text-align: center">&nbsp;因为这是您为我安排的旅程。</p>
+<p style="text-align: center">愿在未来的日子里，</p>
+<p style="text-align: center">&nbsp;我能更加珍惜每一刻，</p>
+<p style="text-align: center">&nbsp;如您珍视每一颗星辰，</p>
+<p style="text-align: center">&nbsp;如您眷顾每一段记忆。</p>
+}}

@@ -1,0 +1,68 @@
+{{书籍
+|书籍名=未寄出的树庭定期报告
+|卷数=1<!-- 仅填写数字 -->
+|编号=5066<!-- 按照游戏内显示顺序编号，第一位为所属编号，共四位 -->
+|描述=神悟树庭与奥赫玛的定期通讯信件，因灾害而未能即时送出。
+|所属=5
+|类型=资料
+|实装版本=3.1
+}}
+
+{{书籍/分卷
+|名称=未寄出的树庭定期报告
+|卷数=1
+|实装版本=3.1
+|获取方式=「呓语密林」神悟树庭经纬小径界域定锚，穿过小径来到小平台上，在（附近唯一）一只雅努斯的神速赐福小猪附近地面拾取。
+|内容=致圣城的邻人：<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;此为光历4931年的第二次通讯。<br />
+•&nbsp;成果汇报<br />
+•&nbsp;请款<br />
+•&nbsp;请求物资<br />
+•&nbsp;其他<br />
+<br />
+<span style="font-size: 1.4em">成果汇报</span><br />
+1、莲食学派<br />
+草药对黑潮侵蚀的抵御一题未有显著进展。<br />
+新型改良谷物品种的产量提升了800%。<br />
+<br />
+2、山羊学派<br />
+奇美拉的新式康复药剂研发成功，实验表明，平均一季投放会促使其工作效率加速87%（±6%，个体间存在差异）<br />
+长线报告：「远离万帷网三年后，这是他身体发生的变化」<br />
+<br />
+赤陶学派<br />
+研究报告：视野中颜色对情绪产生的影响（详见附文）<br />
+研究报告：艺术的最小单位<br />
+<br />
+4、绳结学派<br />
+研究报告：信息加密与解密方案更新<br />
+研究报告：从分形结构延伸出的思考——我们有方法预测一切吗？<br />
+<br />
+5、敬拜学派<br />
+多重信仰者用祭具品类仍在研发，灾厄泰坦相关内容延后处理。<br />
+<br />
+6、曳石学派<br />
+我们的成果将会是这位传信信使，他会在二日内从树庭跑抵奥赫玛，敬请见证。<br />
+<br />
+7、智种学派<br />
+无报告。<br />
+<br />
+<span style="font-size: 1.4em">请款</span><br />
+常态款项&nbsp;30000000<br />
+新课题赞助款&nbsp;5000000<br />
+传信信使薪酬&nbsp;5420<br />
+撰写费（按字数计费）&nbsp;40.1<br />
+合计：<br />
+利衡币&nbsp;35005460.1<br />
+因计算或存在困难，「.1」可被减省。<br />
+<br />
+<span style="font-size: 1.4em">请求物资</span><br />
+空置石板x5000<br />
+传信石版x1（损坏过重）<br />
+种质库的最新信息副件<br />
+<br />
+<span style="font-size: 1.4em">其他</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />
+树庭侧希望能聘用数位山之民，负责简单安保工作，我方会负责提供饮食起居。<br />
+<br />
+以上，愿瑟希斯的恩典永伴你我。<br />
+<p style="text-align: right">－—神悟树庭学者一同</p>
+}}

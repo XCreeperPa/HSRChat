@@ -1,0 +1,34 @@
+{{书籍
+|书籍名=拳手招募单
+|卷数=1<!-- 填写数字 -->
+|描述=下层区到处派发的搏击俱乐部招聘传单，上面的宣传词写得比说唱还动听。
+|编号=2060<!-- 按照游戏内显示顺序编号，第一位为所属编号，共四位 -->
+|所属=2<!-- 选填数字：1=空间站「黑塔」2=雅利洛-Ⅵ 3=仙舟「罗浮」 -->
+|类型=资料<!-- 选填：书籍、资料、信件 -->
+}}
+
+{{书籍/分卷
+|名称=拳手招募单
+|卷数=1
+|获取方式=雅利洛Ⅵ磐岩镇拳击俱乐部旁交互获得
+|内容=
+<span style=font-size:15.4px><center>搏击俱乐部拳手招募！</center></span>
+<br>
+<center>你，是否考虑过改变平平无奇的人生——</center>
+<center>从被人讥讽嘲笑变成万众瞩目的明星。</center>
+<br>
+<center>又或者你有天生引人瞩目的才华，</center>
+<center>却苦于无人知晓，</center>
+<center>搏击俱乐部等的就是你。</center>
+<br>
+<span style=font-size:15.4px><center>不需要千锤百炼的格斗技巧</center></span>
+<span style=font-size:15.4px><center>也不需要四肢健全的过人体质</center></span>
+<span style=font-size:15.4px><center>只要有成为焦点的潜质</center></span>
+<span style=font-size:15.4px><center>再加上改变自己的勇气</center></span>
+<span style=font-size:15.4px><center>我们就会将你打造成独一无二的英雄！</center></span>
+<br>
+<center>报名要求：成年即可！</center>
+<center>最具慧眼的史考特老板深知，英雄不问出处</center>
+<center>只要你已成年，不问性别、出身与参赛目的</center>
+<center>我们接受一切符合条件者的报名！</center>
+}}

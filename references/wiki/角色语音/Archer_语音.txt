@@ -1,0 +1,448 @@
+{{角色语音表头|Archer|未完善=是}}
+{{切换板|开始}}
+{{切换板|默认显示|互动语音}}
+{{切换板|默认折叠|战斗语音}}
+{{切换板|显示内容}}
+{{角色语音
+|语音类型=初次见面
+|语音文件=Archer-初次见面
+|语音内容=初次见面，叫我Archer就好。幸好你我并不是需要相互厮杀的关系，那就尽可能友好相处吧。
+|语音内容日语=初めまして。私のことはアーチャーと呼んでくれればいい。幸い、殺し合うような因縁もないようだ。可能なかぎり、仲良くやっていくとしよう。
+|语音内容英语=First meeting, huh? Just call me Archer. Lucky for us, we're not here to kill each other, so let's keep things civil, if we can.
+|语音内容韩语=초면이군, 아처라고 불러. 다행히 서로 죽고 죽이는 사이는 아닌 것 같으니 사이좋게 지내보자고
+}}
+{{角色语音
+|语音类型=问候
+|语音文件=Archer-问候
+|语音内容=喔，又见面了。好在你是个聪明人，交流起来比较省力。
+|语音内容日语=ああ、また会ったな。君が聡明な人間でよかったよ。なにしろ話が早いからな。
+|语音内容英语=Oh, back again, huh? I'm glad you've got a good head on your shoulders... makes conversations a lot less tedious.
+|语音内容韩语=오, 또 만났군. 네가 똑똑한 사람이라 다행이야. 이야기가 잘 통하니까
+}}
+{{角色语音
+|语音类型=道别
+|语音文件=Archer-道别
+|语音内容=哦对了，分别之前，给你个忠告吧——珍惜你年轻时的朋友。就算时移势迁，友情依旧是如宝石般珍贵的存在。
+|语音内容日语=まあ、なんだ。帰る前に1つくらいは忠告を。若い日々に得た友人は大切にするといい。どれほど時間が過ぎても光輝く、宝石のようなものだからね。
+|语音内容英语=Oh, before we part, let me give you a piece of advice — cherish the friends you make in your youth. Even when the world shifts around you, those bonds are worth their weight in gold.
+|语音内容韩语=음. 가기 전에 충고 하나 하지. 젊은 시절에 사귄 친구들을 소중히 여기도록 해. 시간이 아무리 흘러도 우정은 여전히 보석처럼 귀중하거든
+}}
+{{角色语音
+|语音类型=关于自己•真名
+|语音文件=Archer-关于自己•真名
+|语音内容=作为从者，本该把自己的名字藏起来。但鉴于这个世界根本没人认识我，我还是开诚布公吧——我叫「卫宫士郎」，请多指教。
+|语音内容日语=サーヴァントたるもの真名は本来隠すべきものだが、この世界には私を知る者もいないだろう——私は「エミヤ」、よろしく頼む。
+|语音内容英语=As a Servant, I'm supposed to keep my True Name hidden. But since no one here would recognize me anyway, I might as well be honest — my name is Emiya. It's a pleasure.
+|语音内容韩语=서번트로서 진명을 숨겨야 하지만, 이 세계에는 나를 아는 자가 없을 테지. 내 이름은 「에미야 시로」, 잘 부탁한다
+}}
+{{角色语音
+|语音类型=闲谈•投影魔术
+|语音文件=Archer-闲谈•投影魔术
+|语音内容=没想到，我只是在匹诺康尼尝试投影了一瓶苏乐达，就碰上了工厂的员工向我索要版权费。
+|语音内容日语=やれやれ、ピノコニーでスラーダの投影を試みただけだというのに、工場のスタッフにライセンス料を取られる羽目になるとはな。
+|语音内容英语=Who would've thought? I project one bottle of SoulGlad in Penacony, and suddenly I'm being accosted by some factory rep over copyright fees? Unbelievable.
+|语音内容韩语=페나코니에서 솔글래드의 투영을 시도했을 뿐인데, 공장 직원이 저작권료를 요구할 줄이야
+}}
+{{角色语音
+|语音类型=闲谈•家政
+|语音文件=Archer-闲谈•家政
+|语音内容=匹诺康尼的街道与房间明明一尘不染，但不知为何我却因无从打扫而有些郁闷…也得改改这毛病了。
+|语音内容日语=ピノコニーの街中や室内に埃ひとつないのは結構なことだが、掃除の必要がないとなるとそれはそれでもどかしいものだ…いい加減、この体質を治さなければな。
+|语音内容英语=Everything in Penacony is so clean... too clean, actually. Not being able to clean anything is oddly depressing... I really need to break this habit of mine.        
+|语音内容韩语=페나코니의 거리나 실내에 먼지 하나 없는 건 꽤 좋은 일이지만, 청소할 필요가 없다고 하니 그건 그것대로 답답한 일이군…. 이제 이 습관을 고쳐야겠어
+}}
+{{角色语音
+|语音类型=闲谈•英灵
+|语音文件=Archer-闲谈•英灵
+|语音内容=我们这些异界英灵，都是自名唤「英灵座」的存在中拷贝出的副本。但匹诺康尼的英灵又是从何而来呢？莫非在这个世界，也有什么东西一刻不停记录着历史？
+|语音内容日语=私たちのように他の世界から来たサーヴァントは「英霊の座」と呼ばれる場所から複製された存在だ。しかし、ピノコニーの英霊はどこから来ているのだろうか？もしかすると、この 世界にも絶えず歴史を刻み続ける何かがあるのかもしれない。
+|语音内容英语=We, the Heroic Spirits, are copies drawn from the Throne of Heroes. But the Heroic Spirits of Penacony... where do they come from? Does this world have its own version of the Throne, ceaselessly recording every detail of history?
+|语音内容韩语=우리처럼 다른 세계에서 온 서번트는 「영령의 좌」라고 불리는 곳에서 복제된 존재다. 하지만 페나코니의 영령은 어디서 온 걸까? 어쩌면 이 세계에도 끊임없이 역사를 새겨나 가는 무언가가 있을지도 모르겠군
+}}
+{{角色语音
+|语音类型=爱好
+|语音文件=Archer-爱好
+|语音内容=我还挺喜欢做饭的。但在匹诺康尼，烹饪的方式似乎与其他地方不同…呵，看来我没机会展示完整的手艺咯。
+|语音内容日语=料理を作るのが比較的好きなんだが、ピノコニーでは調理の勝手が違う…残念ながら、私の腕を披露する機会はなさそうだ。
+|语音内容英语=I actually enjoy cooking. But here in Penacony, the way things are done seems... different. Heh, guess I won't get the chance to show off my all my skills. Pity.    
+|语音内容韩语=난 요리하는 걸 좋아하지만 페나코니의 요리 방식은 다른 곳과 전혀 달라…. 유감스럽게도 내 솜씨를 선보일 기회가 없을 것 같군
+}}
+{{角色语音
+|语音类型=烦恼
+|语音文件=Archer-烦恼
+|语音内容=人总会成长，一个心智健康的正常人会不断否定过去的自己。你应该庆幸，你不必和过去那个不成熟的自己打交道…不，不如说这才是常态。就算赢了自己，伤痕也不会消失。
+|语音内容日语=人は成長していくため、健常な心を持つ者であれば過去の自分を否定し続けることになる。かつての未熟な自分と関わらなくて済むことは幸運……いや、健全なことだと思いたまえ。自 分に勝ったところで、傷が消える訳じゃない。
+|语音内容英语=Growth is inevitable. A sound mind is always moving forward, always evolving, always rejecting its past self. You should be glad you don't have to deal with the immature person you used to be... though, really, that's just life... Even if you conquer your past, the scars it leaves don't disappear.
+|语音内容韩语=사람은 성장해 나가기 때문에, 건강한 마음을 가진 사람이라면 과거의 자신을 계속 부정하게 되지. 한때 미숙했던 자신과 관계를 끊을 수 있다는 건 행운… 아니, 그게 일반적이 라 할 수 있지. 자신을 이겼다고 해서 상처가 사라지는 것은 아니야
+}}
+{{角色语音
+|语音类型=分享
+|语音文件=Archer-分享
+|语音内容=「做正确的事」和「把事做正确」，是截然不同的两件事。在我看来，后者比前者更加重要。
+|语音内容日语=「正しいことをする」と「正しく何かをする」では、まるで意味が異なる。私にとって、後者は前者よりも大事だ。
+|语音内容英语="Doing the right thing" and "doing things right" are two completely different matters. And in my opinion, the latter is what really makes the difference.
+|语音内容韩语=「옳은 일을 하는 것」과 「일을 올바르게 하는 것」은 의미가 전혀 다르지. 나에겐 후자가 전자보다 더 중요해
+}}
+{{角色语音
+|语音类型=见闻
+|语音文件=Archer-见闻
+|语音内容=在梦境中做饭不必清理厨余和餐具，方便是方便，但也少了一种仪式感。
+|语音内容日语=夢境では料理をしても生ゴミが出ず、皿洗いも不要だ。便利なのは確かだが、料理の特別感もなぜだか減っている気がするよ。
+|语音内容英语=Cooking in the Dreamscape is so easy. No mess, no dishes. But honestly, it feels like something's missing... like all the little rituals that make it special.       
+|语音内容韩语=꿈속에서는 요리를 해도 음식물 쓰레기가 나오지 않고, 설거지를 할 필요도 없어. 편리한 건 확실하지만, 요리의 특별함도 왠지 줄어든 기분이야
+}}
+{{角色语音
+|语音类型=关于Saber
+|语音文件=Archer-关于Saber
+|语音内容=她是我的旧识。既然能召唤她做你的从者，说明你也是个正直的人。不必迷茫，保持这样继续前进吧。
+|语音内容日语=古い知り合いだ。彼女をサーヴァントとして喚べたのなら、キミはまっとうな人間なのだろう。そのまま、迷わず進みたまえ。
+|语音内容英语=She's an old acquaintance of mine. The fact that you've summoned her as your Servant tells me you're a person of integrity. Don't doubt yourself, stay the course, and keep pushing ahead.
+|语音内容韩语=오래된 지인이야. 그녀를 서번트로 소환해 냈다는 건, 네가 올바른 사람이라는 뜻이겠지. 그대로 망설임 없이 나아가면 돼
+}}
+{{角色语音
+|语音类型=关于Lancer
+|语音文件=Archer-关于Lancer
+|语音内容=Lancer这个职阶似乎总会涌现出一些不幸的从者…不，不是说每个Lancer都是这样…只有那位英灵，不止他本人，连召唤他的人往往也运气不怎么好。
+|语音内容日语=ランサークラスのサーヴァントは運に恵まれない者が多いようだな。ああいや、ランサーすべてがそうという訳でもないが…あの英霊にかぎってなら、本人も運がなければ召喚した者も運がない。
+|语音内容英语=The Lancer class seems to attract its fair share of unfortunate Servants... Not every one of them, but there's one Heroic Spirit... His luck is so bad, it even affects the people who summon him.
+|语音内容韩语=랜서 클래스의 서번트는 운이 따르지 않는 자가 많은 것 같군. 아, 아니, 모든 랜서가 그렇다는 건 아니지만… 저 영령에 한해서라면, 본인도 운이 없고 소환한 자도 운이 없지  
+}}
+{{角色语音
+|语音类型=关于砂金
+|语音文件=Archer-关于砂金
+|语音内容=御主与从者往往有着相似性，至于我们，大概是心底都存有某种执念吧…不知道在他看来，这是一种幸或是不幸呢？
+|语音内容日语=マスターとサーヴァントは似ているケースが多い。あの男と私の場合は…おそらくどちらも心の奥底に何かしらの執念があるのだろう…彼のそれは、幸と不幸の一体どちらなのだろうな ？
+|语音内容英语=Masters and Servants tend to be alike in some way. For us, it's probably some obsession we can't seem to shake. But I wonder if he sees this as a blessing or a curse?
+|语音内容韩语=마스터와 서번트는 서로 닮은 경우가 많아. 그 남자와 나의 경우는… 아마 둘 다 마음속 깊은 곳에 어떤 집념이 있다는 것이겠지… 그의 집념은 행복과 불행 중 어느 쪽일까?     
+}}
+{{角色语音
+|语音类型=关于波提欧
+|语音文件=Archer-关于波提欧
+|语音内容=看起来很冲动，但处事条理却意外清晰…哼，算是个跟我投脾气的家伙吧。
+|语音内容日语=一見、感情のままに行動する男に見えるが、意外にも計画性がある…ふっ、私と気が合いそうだ。
+|语音内容英语=Seems to act on impulse, but there's a method to his madness... Hmph, guess he's the kind of person I can get along with.
+|语音内容韩语=언뜻 보면 감정적인 것처럼 보이지만, 의외로 계획적이야…. 흥, 나와 잘 맞을 것 같군
+}}
+{{角色语音
+|语音类型=关于帕姆
+|语音文件=Archer-关于帕姆
+|语音内容=它的手脚那么短，竟然还能将家务操持得井井有条？！真是不可貌相，不，应该说不愧是和外表一样完美的列车长啊。看来你们的旅途还真不错呀。
+|语音内容日语=あの短い手足で家事を切り盛りしている、だと……！？見た目にそぐわず、いや、見た目通り完璧な車掌ということか。なるほど。いい旅を送っているな。
+|语音内容英语=Who would've thought with such short limbs they could handle chores so efficiently? Appearances really are deceiving. Uhh, on second thought, I should say the conductor is just as perfect as they look. It's no wonder your journey's going so well.
+|语音内容韩语=그 짧은 팔다리로 가사를 잘 해내고 있다고…? 겉모습과는 달리… 아니, 겉모습 그대로 완벽한 차장이라는 건가. 좋은 여행을 하고 있는 모양이군
+}}
+{{角色语音
+|语音类型=关于「音符小姐」
+|语音文件=Archer-关于「音符小姐」
+|语音内容=能够成为英灵，本身已经是对她能力和资质的承认，她不用妄自菲薄。
+|语音内容日语=英霊になれたということは、彼女には並々ならぬ能力と資質があったという証だ。自分を卑下する必要などない。
+|语音内容英语=The mere fact that she's a Heroic Spirit proves her abilities and merit. She has no reason to underestimate herself.
+|语音内容韩语=영령이 되었다는 것은, 그녀에게 비범한 능력과 자질이 있다는 증거지. 그녀가 너무 비관하지 말았으면 좋겠군
+}}
+{{角色语音
+|语音类型=关于斯科特
+|语音文件=Archer-关于斯科特
+|语音内容=如果他遇到的每个对手都像你一样，那他会成为一个好人的。
+|语音内容日语=彼の出会ってきたすべての相手が君のような者であれば、きっと良い人間になれていただろう。
+|语音内容英语=If every opponent he faced was like you, he'd probably turn out to be a decent person.
+|语音内容韩语=그가 만났던 모든 사람들이 너와 같았다면, 분명 좋은 사람이 되었겠지
+}}
+{{角色语音
+|语音类型=关于葛瑞迪先生
+|语音文件=Archer-关于葛瑞迪先生
+|语音内容=在这儿，像他这样理解「电影」的人不多吧？否则我必须要指出，你们世界的品味还有待提高。
+|语音内容日语=彼のように「映画」を解釈する人間は、この世界にそう多くないのだろう？でないと、君たちの世界のセンスはまだまだだと言わざるを得ない。
+|语音内容英语=Not many in this world seem to appreciate "film" the way he does. If they did, I'd have to be blunt, your world's taste in movies leaves a lot to be desired.        
+|语音内容韩语=그자처럼 「영화」를 해석하는 사람은 이 세상에 그리 많지 않겠지? 그게 아니라면 너희 세계의 센스는 아직 멀었다고 말할 수밖에 없을 것 같군
+}}
+{{角色语音
+|语音类型=关于老奥帝
+|语音文件=Archer-关于老奥帝
+|语音内容=人类嘛，到什么年纪就该做什么事。该乖乖入土的年纪，就不要总惦记着兴风作浪了。
+|语音内容日语=人間には年相応の役目というものがある。あの世に旅立つ年齢に達したのなら、波風を立てることばかり考えるべきではない。
+|语音内容英语=People ought to act their age. If it's time to be six feet under, they shouldn't be out there causing chaos.
+|语音内容韩语=인간은 나이에 맞게 행동해야 해. 저승으로 떠날 나이가 되었다면, 파란을 일으킬 생각만 해서는 안 되지
+}}
+{{角色语音
+|语音类型=星魂激活
+|语音文件=Archer-星魂激活
+|语音内容=守护者的未来，在此注定。
+|语音内容日语=守護者の未来は、ここに定まる。
+|语音内容英语=A Guardian's future is decided here.
+|语音内容韩语=수호자의 미래는 여기서 정해진다
+}}
+{{角色语音
+|语音类型=角色晋阶
+|语音文件=Archer-角色晋阶
+|语音内容=任务还没结束，不能松懈啊。
+|语音内容日语=任務はまだ終わっていない。油断するな。
+|语音内容英语=The mission's not done, so neither am I.
+|语音内容韩语=임무는 아직 끝나지 않았다. 방심하지 마라
+}}
+{{角色语音
+|语音类型=角色满级
+|语音文件=Archer-角色满级
+|语音内容=准备万无一失。以现在的状态，随时都能应对战斗。
+|语音内容日语=万全の仕上がりだ、文句のつけようがない。この調子であれば、いつでも戦闘に臨める。
+|语音内容英语=The preparations are flawless. The way I am now, I can fight anytime.
+|语音内容韩语=만반의 준비가 되었다. 흠잡을 데가 없군. 이 상태라면 언제든지 전투에 임할 수 있다
+}}
+{{角色语音
+|语音类型=行迹激活
+|语音文件=Archer-行迹激活
+|语音内容=这感觉真不错，像找回了失去的东西。
+|语音内容日语=悪くない感覚だ。無くしたものが戻るようだよ。
+|语音内容英语=This feels pretty good. Almost like finding what I had once lost.
+|语音内容韩语=나쁘지 않군. 잃어버렸던 것이 다시 돌아오는 것 같아
+}}
+{{角色语音
+|语音类型=队伍编成•开拓者
+|语音文件=Archer-队伍编成•开拓者
+|语音内容=强敌么…我会暗中支援的。
+|语音内容日语=強敵か？では、陰ながら手を貸そう。
+|语音内容英语=A formidable opponent? Hmph... I'll support you from behind the scenes.
+|语音内容韩语=강적인가? 그렇다면 뒤에서 은밀히 도와주마
+}}
+{{角色语音
+|语音类型=队伍编成•Saber
+|语音文件=Archer-队伍编成•Saber
+|语音内容=呵，即使在星海之中，圣剑的光辉还是一如既往。
+|语音内容日语=フッ。星の海であっても聖剣の輝きは変わらないらしい。
+|语音内容英语=Heh. The Holy Sword's brilliance remains the same, even amidst the stars.
+|语音内容韩语=훗, 별바다에서도 성검의 빛은 여전하군
+}}
+{{切换板|内容结束}}
+{{切换板|折叠内容}}
+{{角色语音
+|语音类型=战斗开始•弱点击破
+|语音文件=Archer-战斗开始•弱点击破
+|语音内容=好机会，该斩除祸患了！
+|语音内容日语=機は熟した。災禍を断つ。
+|语音内容英语=A chance to deal with the problem at its root!
+|语音内容韩语=때는 무르익었다. 화근을 끊어주마!
+}}
+{{角色语音
+|语音类型=战斗开始•危险预警
+|语音文件=Archer-战斗开始•危险预警
+|语音内容=嗯…，接下来准备怎么做？
+|语音内容日语=…さて、どうする？
+|语音内容英语=Hmm... What do you plan to do next?
+|语音内容韩语=…자, 이제 어떻게 할 거지?
+}}
+{{角色语音
+|语音类型=回合开始•一
+|语音文件=Archer-回合开始•一
+|语音内容=到我了？真是够忙的。
+|语音内容日语=私の出番か？ まったく、忙しいことだ。
+|语音内容英语=My turn? So much work.
+|语音内容韩语=내 차롄가? 참, 정신없군
+}}
+{{角色语音
+|语音类型=回合开始•二
+|语音文件=Archer-回合开始•二
+|语音内容=真是不长记性。
+|语音内容日语=フン、懲りない奴だ。
+|语音内容英语=You don't learn, do you?
+|语音内容韩语=지겹지도 않은 모양이군
+}}
+{{角色语音
+|语音类型=回合待机
+|语音文件=Archer-回合待机
+|语音内容=不急于动手吗？嗯，再观望一下也好。
+|语音内容日语=まだ動くつもりはないのか？まあいい…しばし様子見としよう。
+|语音内容英语=In no hurry to strike? Hmm, it won't hurt to observe a bit longer.
+|语音内容韩语=아직 움직일 생각이 없는 건가? 뭐, 좋다…. 잠시 상황을 지켜보도록 하지
+}}
+{{角色语音
+|语音类型=普攻
+|语音文件=Archer-普攻
+|语音内容=干将，莫邪！
+|语音内容日语=干将・莫耶！
+|语音内容英语=Kanshou! Bakuya!
+|语音内容韩语=간장, 막야!
+}}
+{{角色语音
+|语音类型=追加攻击•一
+|语音文件=Archer-追加攻击•一
+|语音内容=鹤翼三连！
+|语音内容日语=鶴翼三連！
+|语音内容英语=Triple Crane Wings!
+|语音内容韩语=학익삼련!
+}}
+{{角色语音
+|语音类型=追加攻击•二
+|语音文件=Archer-追加攻击•二
+|语音内容=穿山断水！
+|语音内容日语=穿山断水！
+|语音内容英语=Cleaving the world!
+|语音内容韩语=천산단수!
+}}
+{{角色语音
+|语音类型=战技•一
+|语音文件=Archer-战技•一
+|语音内容=Trace on！
+|语音内容日语=投影、開始！
+|语音内容英语=Trace on!
+|语音内容韩语=트레이스 온!
+}}
+{{角色语音
+|语音类型=战技•二
+|语音文件=Archer-战技•二
+|语音内容=Caladbolg II！
+|语音内容日语=偽・螺旋剣！
+|语音内容英语=Caladbolg II!
+|语音内容韩语=칼라드볼그 II!
+}}
+{{角色语音
+|语音类型=【回路连接】战技•一
+|语音文件=Archer-【回路连接】战技•一
+|语音内容=别想跑。
+|语音内容日语=どこに行く。
+|语音内容英语=Don't think of running.
+|语音内容韩语=어딜 가는 거냐
+}}
+{{角色语音
+|语音类型=【回路连接】战技•二
+|语音文件=Archer-【回路连接】战技•二
+|语音内容=你无处可躲！
+|语音内容日语=逃げ場はない！
+|语音内容英语=You have nowhere to hide!
+|语音内容韩语=도망칠 곳은 없다!
+}}
+{{角色语音
+|语音类型=轻受击
+|语音文件=Archer-轻受击
+|语音内容=多用点力吧…
+|语音内容日语=この程度か……
+|语音内容英语=Try harder...
+|语音内容韩语=겨우 이 정도인가…
+}}
+{{角色语音
+|语音类型=重受击
+|语音文件=Archer-重受击
+|语音内容=又正面迎敌……
+|语音内容日语=…また正面からか……
+|语音内容英语=A frontal encounter again...
+|语音内容韩语=또 정면에서인가……
+}}
+{{角色语音
+|语音类型=终结技•激活
+|语音文件=Archer-终结技•激活
+|语音内容=I am the bone of my sword. Steel is my body, and fire is my blood. I have created over a thousand blades. Unknown to Death. Nor known to Life. Have withstood pain to create many weapons. Yet, those hands will never hold anything. So as I pray—
+|语音内容日语=――体は剣で出来ている。
+血潮は鉄で、心は硝子。
+幾たびの戦場を越えて不敗。
+ただの一度も敗走はなく、
+ただの一度も理解されない。
+彼の者は常に独り、剣の丘で勝利に酔う。
+故に、生涯に意味はなく。
+その体は——
+|语音内容英语=I am the bone of my sword. Steel is my body, and fire is my blood. I have created over a thousand blades. Unknown to Death. Nor known to Life. Have withstood pain to create many weapons. Yet, those hands will never hold anything. So as I pray—
+|语音内容韩语=I am the bone of my sword. Steel is my body, and fire is my blood. I have created over a thousand blades. Unknown to Death. Nor known to Life. Have withstood pain to create many weapons. Yet, those hands will never hold anything. So as I pray—
+}}
+{{角色语音
+|语音类型=终结技•施放
+|语音文件=Archer-终结技•施放
+|语音内容=Unlimited Blade Works.
+|语音内容日语=きっと剣で出来ていた。
+|语音内容英语=Unlimited Blade Works.
+|语音内容韩语=UNLIMITED BLADE WORKS
+}}
+{{角色语音
+|语音类型=无法战斗
+|语音文件=Archer-无法战斗
+|语音内容=是我…败了…
+|语音内容日语=私の…敗北だ……
+|语音内容英语=I... lost...
+|语音内容韩语=나의… 패배다…
+}}
+{{角色语音
+|语音类型=重回战斗
+|语音文件=Archer-重回战斗
+|语音内容=看我一雪前耻！
+|语音内容日语=無様を見せた。取り返すぞ！
+|语音内容英语=I'll avenge this!
+|语音内容韩语=꼴사나운 모습을 보였군. 되갚아주마!
+}}
+{{角色语音
+|语音类型=回复生命
+|语音文件=Archer-回复生命
+|语音内容=可靠的同伴！正确的判断。
+|语音内容日语=頼りになるな。いい判断だ。
+|语音内容英语=A reliable friend and the correct judgment.
+|语音内容韩语=믿음직하군! 좋은 판단이다
+}}
+{{角色语音
+|语音类型=秘技
+|语音文件=Archer-秘技
+|语音内容=Broken Phantasm！
+|语音内容日语=壊れた幻想！
+|语音内容英语=Broken Phantasm!
+|语音内容韩语=브로큰 판타즘!
+}}
+{{角色语音
+|语音类型=战斗胜利
+|语音文件=Archer-战斗胜利
+|语音内容=我还以为要苦战一场呢。
+|语音内容日语=もう少し手応えがあると思ったがね。
+|语音内容英语=I thought it was going to be a tough battle.
+|语音内容韩语=힘든 싸움이 될 줄 알았건만
+}}
+{{角色语音
+|语音类型=开启战利品•一
+|语音文件=Archer-开启战利品•一
+|语音内容=…算了，人要知足。
+|语音内容日语=…フン、「足るを知る」とも言うしな。
+|语音内容英语=...Never mind. It's good to appreciate what you have.
+|语音内容韩语=…흥, 만족할 줄 알아야 된다는 말도 있으니
+}}
+{{角色语音
+|语音类型=开启战利品•二
+|语音文件=Archer-开启战利品•二
+|语音内容=可别大手大脚，省着点花。
+|语音内容日语=倹約は美徳だ。しっかりしまっておけ。
+|语音内容英语=Don't spend it all now.
+|语音内容韩语=절약은 미덕이다. 잘 간수해 두라고
+}}
+{{角色语音
+|语音类型=开启贵重战利品
+|语音文件=Archer-开启贵重战利品
+|语音内容=颇有收获嘛…
+|语音内容日语=フッ…なかなかの収穫じゃないか。
+|语音内容英语=That's quite the loot...
+|语音内容韩语=수확이 꽤 괜찮군…
+}}
+{{角色语音
+|语音类型=解谜成功•一
+|语音文件=Archer-解谜成功•一
+|语音内容=值得大费周章吗？
+|语音内容日语=そう手間のかかるものでもなかっただろう。
+|语音内容英语=Was that really worth the fuss?
+|语音内容韩语=그렇게 번거로운 것도 아니었을 텐데
+}}
+{{角色语音
+|语音类型=解谜成功•二
+|语音文件=Archer-解谜成功•二
+|语音内容=不算什么难题。
+|语音内容日语=フン、さして難しくもない。
+|语音内容英语=That wasn't much of a problem.
+|语音内容韩语=별거 아니군
+}}
+{{角色语音
+|语音类型=发现敌方目标
+|语音文件=Archer-发现敌方目标
+|语音内容=是个麻烦的对手，该警惕起来了！
+|语音内容日语=厄介な相手だ、油断するな！
+|语音内容英语=It's a tough opponent. Be on your toes!
+|语音内容韩语=까다로운 상대야. 방심하지 말라고!
+}}
+{{角色语音
+|语音类型=返回城镇
+|语音文件=Archer-返回城镇
+|语音内容=该是休息时间了吧？随便一点。
+|语音内容日语=ここからは休憩時間でいいんだな？ では、適当にくつろぐとしよう。
+|语音内容英语=It's about time for a break, no? Let's relax a bit.
+|语音内容韩语=지금부터는 쉬어도 되는 거지? 그럼 편하게 쉬어
+}}
+{{切换板|内容结束}}
+{{切换板|结束}}

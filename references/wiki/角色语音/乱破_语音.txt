@@ -1,0 +1,535 @@
+{{角色语音表头|乱破|未完善=是}}
+== 正式语音 ==
+{{切换板|开始}}
+{{切换板|默认显示|互动语音}}
+{{切换板|默认折叠|战斗语音}}
+{{切换板|显示内容}}
+{{角色语音
+|语音类型=初次见面
+|语音文件=乱破-初次见面
+|语音内容=别来无恙，球棒•忍者！阁下之忍道有如万丈光芒，《银河忍法帖》有云：「地狱之端必有光明，照尽世间黑暗。」
+|语音内容日语=久しぶりだな、バット・忍者サン！お主の忍道は光り輝いているぞ。『銀河忍法帖』にもこう書いてある——「地獄の果てには必ず世の闇を照らし尽くす光がある」
+|语音内容英语=Long time no see, Baseball Bat Ninja! Your way of the ninja shines like a thousand rays of light. As the'' Cosmic Ninjutsu Inscriptions'' read, "At the end of hell, there is light that illuminates all the darkness in the world."
+|语音内容韩语=안녕, 야구 방망이•닌자! 귀공의 닌자의 길은 찬란한 빛과도 같군. ≪은하인법첩≫에 이런 말이 있어. 「지옥의 끝엔 반드시 빛이 있고, 그 빛은 세상의 어둠을 밝히리」
+}}
+{{角色语音
+|语音类型=问候
+|语音文件=乱破-问候
+|语音内容=浮生如夜露，难断生老死苦——球棒•忍者，夜露死苦。
+|语音内容日语=はかなき世は夜露のごとく、生老病死の苦しみを断つことは難しい。バット・忍者サン、夜露死苦。
+|语音内容英语=Life is as fleeting as night dew, hard to sever from the sufferings of birth, aging, sickness, and death... Baseball Bat Ninja, yoroshiku.
+|语音内容韩语=인생은 밤이슬(夜露)과 같아서 죽음의 고통(死苦)을 끊기 어렵군——야구 방망이•닌자, 요로시쿠(夜露死苦)
+}}
+{{角色语音
+|语音类型=道别
+|语音文件=乱破-道别
+|语音内容=诸行无常，此去一别或许便是永别。愿阁下之忍道勇气凛凛、盛者不衰。再会！
+|语音内容日语=諸行無常、今回の別れが永遠の別れになるかもな。お主の勇ましい忍道が、輝き続けることを願っているぞ。さらばだ！
+|语音内容英语=All things are impermanent, this departure may be our final farewell. May your way of the ninja be ever courageous and enduring. Until we meet again!
+|语音内容韩语=제행무상, 이번 이별이 어쩌면 영원한 이별일지도 모르지. 귀공의 닌자의 길에 용기가 가득하고 영원히 쇠락하지 않길 바라. 또 만나!
+}}
+{{角色语音
+|语音类型=关于自己•身份
+|语音文件=乱破-关于自己•身份
+|语音内容=在下忍号「乱破」，意指「一心不乱、破邪显正」，恰如大岚神之箭矢，无所不及、无往不利。
+|语音内容日语=拙者の忍号「乱破」は、「一心不乱に邪道を破り、正道を示す」という意味だ。大嵐の神の矢のように、勝てない戦などない。
+|语音内容英语=My ninja name is Rappa, which means "to be of a steady heart, destroying evil and unveiling righteousness." It is just like the arrows of the Great Lan, far-reaching and all-prevailing.
+|语音内容韩语=내 {{注音|닌자 이름|닌호}}은 「라파」, 「일심불란, 파사현정」의 의미를 담고 있어. 대란신의 화살처럼, 닿지 않는 곳이 없고 막을 수 있는 자가 없지
+}}
+{{角色语音
+|语音类型=关于自己•忍法
+|语音文件=乱破-关于自己•忍法
+|语音内容=银河忍法千变万化，但祓除恶党的忍•信念，未来永劫不变不移。
+|语音内容日语=銀河忍法は千変万化だが、悪党を滅するというシノビ・ビリーフは未来永劫変わることはない。
+|语音内容英语=Cosmic Ninjutsu is ever-changing, but the ninja belief in exorcising evil will never change.
+|语音内容韩语=은하 인법은 변화무쌍하지만, 악당을 제거한다는 닌자•신념은 영원히 변하지 않아
+}}
+{{角色语音
+|语音类型=关于自己•忍具
+|语音文件=乱破-关于自己•忍具
+|语音内容=寿司绝非米饭、俳句绝非歌词，在下手中兵器也绝非器械，乃是以忍法铸造、以忍魂灌注、以忍术驾驭、付诸以忍道的「忍•科学」。
+|语音内容日语=寿司はただの飯ではなく、俳句はただの歌詞ではないように、拙者が使う忍具はただの武器ではない。これは忍法で鋳造してシノビ・ソウルを注ぎ、忍道を応用した「シノビ・サイエンス」だ。
+|语音内容英语=Sushi is absolutely not rice. Haikus are absolutely not song lyrics. And these weapons are absolutely not equipment. They are "ninja tech" — forged with ninja methods, instilled with ninja spirit, controlled with ninjutsu, and put into use for the way of the ninja.
+|语音内容韩语=스시가 쌀밥이 아니고 하이쿠가 가사가 아니듯이, 소인의 손에 병기 또한 기계가 아닌 인법으로 주조하고, 인혼을 주입해서, 인술로 다루는 닌자의 길에 걸맞은 「닌자•과학」이라 할 수 있어
+}}
+{{角色语音
+|语音类型=闲谈•忍道•真言
+|语音文件=乱破-闲谈•忍道•真言
+|语音内容=星空之下，遍布恶煞，无助的人呐在暗处挣扎。无字的忍法用血泪写下，无私的忍侠由夜幕接纳。言语道断、忍法缭乱，无道恶逆only way烟消云散。乱潮间将恶党全部抹杀，破晓前来点亮炫目火花。
+|语音内容日语=星の下、悪の棲家、無力な者がもがく今。涙の芸術、文字なき忍法、夜の帷に、溶け込む忍侠、言語道断、忍法繚乱、悪道許さん奥義は絢爛。乱戦の中で悪党制裁、夜明けの前に花火満開。
+|语音内容英语=Under starry skies, evil low 'n' high, helpless folk in the dark fightin' for their lives. Silent ninja arts written down in red tears, noble ninja hearts in the night joined here. Words broken down, ninjutsu shines loud, brutal villains' only way, take 'em all out. Stormy tides crashin' forth, all evil slain, come the dawn, shining sparks lightin' up again.
+|语音内容韩语=별하늘 아래 악이 깔리고, 무력한 자들은 몸부림치네. 공백의 인법은 혈루(血淚)로 적고, 닌자는 밤의 장막에 몸을 맡기네. 진리는 심오하고 인법이 난무하니, 흔적 없이 사라지는 것이 무도한 악의 only way. 난파 속 악당을 말살시키고, 동트기 전 눈부신 불꽃을 밝히리
+}}
+{{角色语音
+|语音类型=爱好
+|语音文件=乱破-爱好
+|语音内容=承平之日亦不能怠慢修行。吟诵{{注音|忍•真言|说唱}}、绘制{{注音|缭乱•忍符|涂鸦}}、修习{{注音|忍•法帖|漫画}}，这便是「益者三乐」。
+|语音内容日语=平和な日でも修行を怠ってはいけない。{{注音|シノビ・マントラ|ラップ}}を吟じ、{{注音|繚乱・忍符|落書き}}を描き、{{注音|シノビ・マキモノ|マンガ}}で勉強する。これこそまさに「{{注音|益者三楽|えきしゃさんごう}}」だ。
+|语音内容英语=On peaceful days, one must not neglect one's training. Reciting {{注音|ninja mantras|rapping}}, crafting {{注音|Dazzling Ninja Seals|graffiti}}, and studying {{注音|ninja scrolls|manga}} — these are the "Three Joys of Enrichment".
+|语音内容韩语=평화로운 날에도 수행을 게을리할 순 없어. {{注音|닌자•진언|랩}}을 외우고, {{注音|요란•닌자 부적|그래피티}}을 그리며, {{注音|닌자•법첩|만화}}의 인술을 익혀야 해. 이것이 바로 닌자의 세 가지 즐거움이지
+}}
+{{角色语音
+|语音类型=烦恼
+|语音文件=乱破-烦恼
+|语音内容=各地恶代官都不喜欢在下绘制缭乱•忍符，在下曾在名为地•铁的驿站中与一名奉行人周旋了七日七夜，那段往事似乎还被人做成了{{注音|超•幻境|游戏}}。
+|语音内容日语=各地の悪代官は皆、拙者が描く繚乱・忍符を嫌い、警戒していた。そして拙者は、その監視を任されていた1人の奉行人とチカ・テツという名の宿場で、7日7晩戦い続けたことがある。その時の戦いをもとに、ある{{注音|スーパー・幻境|ゲーム}}が作られたらしい。
+|语音内容英语=Evil officials all over dislike me drawing my Dazzling Ninja Seals. I once spent seven days and nights in a station called "Sub-Way" contending with an acolyte, and that incident appears to have been made into a {{注音|Super Fantasia|game}}.
+|语音内容韩语=각지의 악당들은 내가 요란•닌자 부적을 그리는 걸 싫어해. 예전엔 지하•철 역에서 봉행인과 꼬박 7일 밤낮으로 싸웠었어. 그 과거는 누군가에 의해 {{注音|초•환영|게임}}으로 만들어진 것 같더라고
+}}
+{{角色语音
+|语音类型=分享•生命
+|语音文件=乱破-分享•生命
+|语音内容=人生一世无非借来之物，何不尽情享用再交还苍天？《银河忍法帖》有云：「借时为五、还时四，本来无一物，休道莫须有。」
+|语音内容日语=人の一生はしょせん借り物に過ぎない。『銀河忍法帖』にもこう書いてある——「借りた五つから四つ返し、本来空へと戻る」…せっかくなら、思い切り楽しんでから天に返そうではないか。
+|语音内容英语=Life is but borrowing, why not enjoy it to the fullest and return it to the heavens? As the'' Cosmic Ninjutsu Inscriptions'' read: "Borrow five, return four, there was nothing at first, so speak not of what never existed."
+|语音内容韩语=우리 인생은 잠시 빌려온 것뿐이니, 마음껏 즐기고 다시 하늘에 돌려주는 게 좋지 않을까? ≪은하인법첩≫에 이런 말이 있어. 「빌릴 때는 다섯, 돌려줄 때는 넷이어라. 본래 아무것도 없는데, 어찌 없는 것에 대해 말할 수 있는가」
+}}
+{{角色语音
+|语音类型=见闻•爱
+|语音文件=乱破-见闻•爱
+|语音内容=苦茶大师曾教导在下，「爱」乃是构成天地万物的忍力本源。同气相求、爱罗武勇——这便是爱死天流•忍法的奥义。
+|语音内容日语=「愛」は天地万物を構成するシノビ・パワーの源だと、マスター・苦茶から教わった。同気相求める、愛羅武勇——これこそが忍法・愛死天流の奥義だ。
+|语音内容英语=Master Kucha once taught me that "love" is the fundamental source of perseverance that constitutes everything in the world. Seeking like-minded individuals, and deep love — this is the essence of the Secret Ninjutsu Technique: Aishiteru.
+|语音内容韩语=쿠차 대사는 「사랑」이 세상 만물을 구성하는 닌자의 힘의 근원이라고 가르쳐 줬어. 동기상구, {{注音|애라무용(愛羅武勇)|아이러브유}}——이것이 바로 {{注音|애사천류(愛死天流)|아이시테루}}•인법의 오의라고 할 수 있지
+}}
+{{角色语音
+|语音类型=关于银枪•修罗殿下
+|语音文件=乱破-关于银枪•修罗殿下
+|语音内容=银枪•修罗殿下的弹丸，万里封喉；银枪•修罗殿下的意志，金刚不坏。若用银枪•修罗殿下的弹丸射击他的意志…抱歉，话题似乎不该是这个流向。
+|语音内容日语=シルバーガン・修羅サンの弾丸は万里の彼方からなんでも射抜き、シルバーガン・修羅サンの意志は金剛のように砕けない。だが、シルバーガン・修羅サンの弾丸でシルバーガン・修羅サンの意志を撃つとどうなるんだ…？…すまない、話が逸れたな。
+|语音内容英语=The bullet of Lord Silvergun Shura seals throats far and wide. The will of Silvergun Shura is indestructible. If you fire at his will with the bullet of Silvergun Shura... Sorry, seems like the conversation went in an unexpected direction.
+|语音内容韩语=은총•수라 전하의 탄환은 만 리 밖 표적의 목도 꿰뚫을 수 있고, 은총•수라 전하의 의지는 절대 무너지지 않지. 근데 만약 은총•수라 전하의 탄환으로 그의 의지를 쏜다면…. 미안, 이야기가 이상하게 흘렀네
+}}
+{{角色语音
+|语音类型=关于飞龙•忍者
+|语音文件=乱破-关于飞龙•忍者
+|语音内容=此人忍法高超、谈吐不凡，可称得上是文武两道的忍者•大师。在下尚不能追及彼等心境，仍当修行！
+|语音内容日语=飛龍・忍者サンは高妙な忍法を扱うことができ、話術も巧みで…言わば文武両道の忍者・マスターだ。拙者はまだまだ、彼の境地に辿り着けていない。うむ、修行に励むのみだ！
+|语音内容英语=This person's ninjutsu is superb, and his eloquence is extraordinary, making him a ninja master of both literary and martial arts. I cannot yet attain his state of mind, so I must continue to practice!
+|语音内容韩语=그는 인법도 뛰어나고 말투나 행동이 예사롭지 않아. 문무를 겸비한 닌자•대사라고 할 수 있지. 소인은 아직 그들의 경지에 도달하지 못하였으니, 수행을 게을리할 수 없어!
+}}
+{{角色语音
+|语音类型=关于琉璃•忍者
+|语音文件=乱破-关于琉璃•忍者
+|语音内容=她曾因不知来路而痛苦，但依旧砥砺前行。《银河忍法帖》有云：「浮生一刹，在内不在外、在去不在来、在此不在彼。」
+|语音内容日语=過去の軌跡を失っているという苦しみに耐えながら、瑠璃・忍者サンは前に進んでいる。『銀河忍法帖』にもこう書いてある——「はかなき世は一瞬なり。内にありて外にあらず。行く場所にありて通りし場所にあらず。ここにありて他の何処にもあらず」
+|语音内容英语=She once suffered from not knowing her origins but continued to forge ahead. As the'' Cosmic Ninjutsu Inscriptions'' read: "Life is fleeting, it exists within, not out, in departure, not arrival, in here, not elsewhere."
+|语音内容韩语=그녀는 자신의 과거를 몰라 힘들어했지만, 여전히 앞으로 나아가고 있어. ≪은하인법첩≫에 이런 말이 있지. 「찰나의 덧없는 삶, 안에 있으면 밖에 없고, 가면 오지 않고, 이곳에 있으면 저곳엔 없는 것이라」
+}}
+{{角色语音
+|语音类型=关于虾蟇•忍者
+|语音文件=乱破-关于虾蟇•忍者
+|语音内容=他遍查显世、辑录万物，只为求得忍道正法。可凡所有相皆是虚妄，《银河忍法帖》有云：「梦是无梦，空是不空，不去不来，惟在当中。 」
+|语音内容日语=ガマ・忍者サンは忍道の正法を知るためだけに、世の中を調べ尽くし、万物を記録した。だが、形ある物はすべて偽りだ。『銀河忍法帖』にもこう書いてある——「夢は夢にあらず、空は空にあらず。真実は過去や未来に存在せず、ただ今己の心の中にある」
+|语音内容英语=He traverses the visible world, compiling all things in search of the true way of the ninja. Yet all phenomena are mere illusions. As the'' Cosmic Ninjutsu Inscriptions'' read: "Dreams are dreamless, emptiness is not empty, neither coming nor going, only in the middle."
+|语音内容韩语=그는 진정한 닌자의 길을 찾기 위해 구도자처럼 세상을 돌아다니며 만물을 기록해. 하지만 무릇 형상이 있는 것들은 전부 허상에 불과하지. ≪은하인법첩≫에 이런 말이 있어. 「현실이 있기에 꿈이 존재하고, 실체가 있기에 공허도 존재하니, 구도의 길은 나타나지도 사라지지도 않으며 모든 사물 속에 존재한다」
+}}
+{{角色语音
+|语音类型=关于歌舞•忍者
+|语音文件=乱破-关于歌舞•忍者
+|语音内容=何其优美之音律？歌声响起时，在下亦哀嚎在地。一期荣花一世人，花亦花来人亦人，呜呼！
+|语音内容日语=なんと優美な音律だ！シンガー・忍者サンの歌声を聴くと、思わず地に伏し、溢れる涙が止まらなくなってしまう。花が散り際を知っているように人もそうありたい、嗚呼！
+|语音内容英语=What a beautiful melody! When the singing begins, I too lament on the ground. The season of glory blooms only once in a lifetime. Alas, flowers and people come and go!
+|语音内容韩语=이 얼마나 아름다운 선율이야! 노랫소리가 울려 퍼질 때, 난 바닥에 주저앉아 슬피 울부짖었지. 한 번 피어난 꽃은 한 사람의 일생과 같고, 꽃은 꽃대로 피어나고 사람은 사람대로 살아간다. 아아!
+}}
+{{角色语音
+|语音类型=关于御猿•邪忍
+|语音文件=乱破-关于御猿•邪忍
+|语音内容=末法之世、邪忍强盛。所幸，无论御猿•邪忍多么强大，亦难逃是生灭法。生者必灭，而罪业不灭，大岚神的神威终将示现。
+|语音内容日语=この悟りのない世の中に、忍邪の勢力は増す一方だ。だが、どれほど御猿・忍邪サンが力をつけようと、万物は生滅するという運命から逃れられない。そしてその罪も、いずれ大嵐の神に裁かれるだろう。
+|语音内容英语=In the Mappou Age of the Dharma, the evil ninja thrives. Fortunately, no matter how powerful the Evil Ninja Osaru is, it is difficult to escape the law of birth and death. Those who are born must die, and karma will not be extinguished. The divine power of the Great Lan will eventually manifest.
+|语音内容韩语=말법의 시대에 사닌이 강성해졌어. 하지만 원숭이 통치자•사닌이 아무리 강해도 생멸의 법칙은 피할 수 없지. 살아있는 자는 반드시 멸망하지만, 죄업은 사라지지 않으니 대란신의 신령한 위엄이 결국 드러나게 될 거야
+}}
+{{角色语音
+|语音类型=关于「机械热潮」
+|语音文件=乱破-关于「机械热潮」
+|语音内容=来自雪国的忍音•繁弦急管！此等绕梁之音，定能令春风骀荡，悄然登至白云上。
+|语音内容日语=雪国で結成されたシノビ・ロックバンド！そのたえなる音律は、そよぐ春風とともにゆるやかに白雲の上まで響くだろう。
+|语音内容英语=The swift melody of the snow country's ninja music! Such melodious sounds are sure to sway like the spring breeze, quietly ascending to the white clouds above.
+|语音内容韩语=설국에서 온 닌자의 노래•번현급관! 이 아름다운 선율은 봄바람을 부드럽게 휘감아 흰 구름 위로 떠오르게 하겠지
+}}
+{{角色语音
+|语音类型=关于忍义手•赤鬼
+|语音文件=乱破-关于忍义手•赤鬼
+|语音内容=为观摩银枪•修罗殿下的决斗，在下曾亲身到访仙舟「罗浮」。其对手是一名使用忍•义手的赤鬼•忍者，战斗意志纯一无杂，绝非等闲之辈。
+|语音内容日语=シルバーガン・修羅サンの決闘を見るため、拙者は仙舟「羅浮」に行ったことがある。その決闘の相手は、シノビ・ジャスティスハンドの使い手、レッドヘッド・忍者サン。雑念が少しも混じっていない純粋な闘志の持ち主で、只者ではない気配を感じた。
+|语音内容英语=To witness the duel of Lord Silvergun Shura, I once visited The Xianzhou Luofu. His opponent was Red Oni Ninja who used a ninja prosthetic arm, with a pure and unwavering fighting spirit, far from ordinary.
+|语音内容韩语=은총•수라 전하의 결투를 보기 위해 직접 선주 「나부」를 찾았어. 상대는 닌자•의수를 사용하는 적귀•닌자였고, 그의 전투 의지는 순수하고 흔들림이 없었지. 절대 평범한 인물은 아닐 거야
+}}
+{{角色语音
+|语音类型=关于孤星•狼影
+|语音文件=乱破-关于孤星•狼影
+|语音内容=孤星•狼影大隐于市，在下曾有幸在其门下求取探侦之道。他虽无推断之才，却洞察人心；时常身无分文，然心有千钧！
+|语音内容日语=ロンリースター・ウルフシャドーサンは、ネオン街にひっそりと暮らす隠者だ。拙者もかつて、その門下に身を置き、探偵の道を学んだことがある。彼は推理の才こそないが、人の心の機微に聡い。よく無一文になるものの、その志の重さたるや千鈞に匹敵する！
+|语音内容英语=Solostar Wolfshade hides among the crowds. I was once fortunate enough to study the art of detection under him. Though he lacks the skills for deduction, he sees through people's hearts. And though he has not a single coin weighing him down, he carries an unimaginably heavy weight upon his soul.
+|语音内容韩语=고독한 별•늑대 그림자는 도시에 숨어 있는데, 소인은 영광스럽게도 한때 그 문하에서 탐정의 길을 구했어. 그는 추리에 소질이 없지만 마음을 꿰뚫어 보고, 늘 무일푼이지만 마음만큼은 천근의 무게를 지녔지!
+}}
+{{角色语音
+|语音类型=星魂激活
+|语音文件=乱破-星魂激活
+|语音内容=押忍！不来不去，无死无生。
+|语音内容日语=押忍！{{注音|万世不朽|ばんせいふきゅう}}、{{注音|永久不変|えいきゅうふへん}}。
+|语音内容英语=Ossu! Neither coming nor going, neither dying nor living.
+|语音内容韩语=하압! 불래불거, 무생무사
+}}
+{{角色语音
+|语音类型=角色晋阶
+|语音文件=乱破-角色晋阶
+|语音内容=押忍！四苦八苦，盛衰枯荣。
+|语音内容日语=押忍！{{注音|四苦八苦|しくはっく}}、{{注音|栄枯盛衰|えいこせいすい}}。
+|语音内容英语=Ossu! Enduring the four stresses and eight sufferings, experiencing prosperity and decline.
+|语音内容韩语=하압! 사고팔고, 영고성쇠
+}}
+{{角色语音
+|语音类型=角色满级
+|语音文件=乱破-角色满级
+|语音内容=此身如云难留名，不过朝露电光。
+|语音内容日语=この身はまさに{{注音|電光朝露|でんこうちょうろ}}、流れる雲のごとく名は残さん。
+|语音内容英语=This life is fleeting like a cloud, leaving no mark behind, like morning dew and lightning.
+|语音内容韩语=이 몸은 구름처럼 이름을 남기지. 인생은 덧없어
+}}
+{{角色语音
+|语音类型=行迹激活
+|语音文件=乱破-行迹激活
+|语音内容=无情！化恨成岚花尽散。
+|语音内容日语=無情！恨みは嵐の花となって散りゆく。
+|语音内容英语=Merciless! Hate turns to mist and scattered flowers.
+|语音内容韩语=무정! 증오는 짙은 안개와 꽃으로 흩어지리
+}}
+{{角色语音
+|语音类型=队伍编成•开拓者
+|语音文件=乱破-队伍编成•开拓者
+|语音内容=开拓者•忍者，请赐教。
+|语音内容日语=どうも、開拓者・忍者サン。
+|语音内容英语=Ninja Trailblazer, please impart me with your wisdom.
+|语音内容韩语=개척자•닌자, 부디 가르침을
+}}
+{{角色语音
+|语音类型=队伍编成•波提欧
+|语音文件=乱破-队伍编成•波提欧
+|语音内容=银枪•修罗殿下，令邪祟尝尝我等眼花缭乱的忍•联手吧！
+|语音内容日语=シルバーガン・修羅サン、我らの目も眩むシノビ・コラボを邪祟どもにお見舞いするぞ！
+|语音内容英语=Lord Silvergun Shura, let the evil fiendlings taste the power of our Dazzling Ninja Alliance!
+|语音内容韩语=은총•수라 전하, 사악한 자들에게 요란의 닌자•연맹의 맛을 보여주시죠!
+}}
+{{角色语音
+|语音类型=队伍编成•丹恒
+|语音文件=乱破-队伍编成•丹恒
+|语音内容=飞龙•忍者，有阁下相助，如得百人之力。
+|语音内容日语=飛龍・忍者サン、お主の力は百人の加勢に比敵する。
+|语音内容英语=Ninja Hiryū, with your help, we have the strength of a hundred.
+|语音内容韩语=비룡•닌자, 귀공의 도움은 백 명과도 같은 힘이 있어
+}}
+{{角色语音
+|语音类型=队伍编成•三月七
+|语音文件=乱破-队伍编成•三月七
+|语音内容=如此娴熟的冰遁•忍法，不愧是琉璃•忍者。
+|语音内容日语=さすが瑠璃・忍者サン、なんと見事な氷遁・忍法だ！
+|语音内容英语=Such mastery of the Ice Release ninjutsu, as expected of Ninja Ruri.
+|语音内容韩语=이렇게 능숙한 빙둔•인법이라니, 역시 유리•닌자야
+}}
+{{角色语音
+|语音类型=队伍编成•知更鸟
+|语音文件=乱破-队伍编成•知更鸟
+|语音内容=有阁下的音律•忍法相伴，我等定能击破一切邪瘴。
+|语音内容日语=お主のミュージック・忍法があれば、我らは一切の邪気を振り払える。
+|语音内容英语=With your Sound Release ninjutsu, we can surely wipe out all evil.
+|语音内容韩语=귀공의 음률•인법과 함께라면 모든 악을 무찌를 수 있을 거야
+}}
+{{角色语音
+|语音类型=队伍编成•不死途
+|语音文件=乱破-队伍编成•不不死途
+|语音内容=孤星•狼影阁下，让我等见识下你的诅影•忍法吧！
+|语音内容日语=ロンリースター・ウルフシャドーサン、お主の忍法・呪いシャドーを見せてくれ！
+|语音内容英语=O great Solostar Wolfshade! Please, show us your shadowcurse ninjutsu!
+|语音内容韩语=고독한 별•늑대 그림자 귀공, 그림자 저주•인법을 보여주세요!
+}}
+{{切换板|内容结束}}
+{{切换板|折叠内容}}
+{{角色语音
+|语音类型=战斗开始•弱点击破
+|语音文件=乱破-战斗开始•弱点击破
+|语音内容=面甲•粉碎！
+|语音内容日语=面具・粉砕！
+|语音内容英语=Mask: Shatter!
+|语音内容韩语=면갑•분쇄!
+}}
+{{角色语音
+|语音类型=战斗开始•弱点击破(2x)
+|语音文件=乱破-战斗开始•弱点击破-2x
+|语音内容=
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=战斗开始•危险预警
+|语音文件=乱破-战斗开始•危险预警
+|语音内容=此地即将化作壮绝狩猎之起点！
+|语音内容日语=この地は壮絶・狩猟の場となる！
+|语音内容英语=This place will soon become the starting point of a great hunt!
+|语音内容韩语=이곳은 곧 위대한 사냥의 시작점이 되리!
+}}
+{{角色语音
+|语音类型=战斗开始•危险预警(2x)
+|语音文件=乱破-战斗开始•危险预警-2x
+|语音内容=
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=回合开始•一
+|语音文件=乱破-回合开始•一
+|语音内容={{颜色|dbc291|缭乱•忍侠}}，前来讨伐！
+|语音内容日语={{颜色|dbc291|繚乱・忍侠}}、推参！
+|语音内容英语={{颜色|dbc291|Dazzling Ninja}}, here to vanquish!
+|语音内容韩语={{颜色|dbc291|요란•닌자}} 토벌하러 왔다!
+}}
+{{角色语音
+|语音类型=回合开始•一(2x)
+|语音文件=乱破-回合开始•一-2x
+|语音内容=
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=回合开始•二
+|语音文件=乱破-回合开始•二
+|语音内容=诸般邪祟，速速退下！
+|语音内容日语=邪祟ども、退くがいい！
+|语音内容英语=All manner of evil, leave at once!
+|语音内容韩语=요괴들이여 속히 물러가라!
+}}
+{{角色语音
+|语音类型=回合开始•二(2x)
+|语音文件=乱破-回合开始•二-2x
+|语音内容=
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=回合待机
+|语音文件=乱破-回合待机
+|语音内容=《银河忍法帖》有云：时机未现，静候其变。
+|语音内容日语=『銀河忍法帖』にはこう書かれている、「時機が来るまで静観せよ」。
+|语音内容英语=The'' Cosmic Ninjutsu Inscriptions'' state: When the time has not yet come, wait patiently for change.
+|语音内容韩语=≪은하인법첩≫에는 이런 말이 있지. 기회가 올 때까지 인내하라
+}}
+{{角色语音
+|语音类型=普攻
+|语音文件=乱破-普攻
+|语音内容=居合！
+|语音内容日语=居合！
+|语音内容英语=Iai!
+|语音内容韩语=거합!
+}}
+{{角色语音
+|语音类型=战技•一
+|语音文件=乱破-战技•一
+|语音内容=缭乱•忍法•锦墨绘！
+|语音内容日语=繚乱・忍法・錦絵！
+|语音内容英语=Dazzling: Brocade Ink Painting!
+|语音内容韩语=요란•인법•니시키에!
+}}
+{{角色语音
+|语音类型=战技•一(2x)
+|语音文件=乱破-战技•一-2x
+|语音内容=
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=战技•二
+|语音文件=乱破-战技•二
+|语音内容=缭乱•忍法•万彩绽！
+|语音内容日语=繚乱・忍法・鮮彩！
+|语音内容英语=Dazzling: Myriad Colors Burst!
+|语音内容韩语=요란•인법•센사이!
+}}
+{{角色语音
+|语音类型=战技•二(2x)
+|语音文件=乱破-战技•二-2x
+|语音内容=
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=轻受击
+|语音文件=乱破-轻受击
+|语音内容=无用！
+|语音内容日语=問題ない！
+|语音内容英语=Useless!
+|语音内容韩语=소용없어!
+}}
+{{角色语音
+|语音类型=重受击
+|语音文件=乱破-重受击
+|语音内容=诶哟不错！
+|语音内容日语=やるな！
+|语音内容英语=Not bad!
+|语音内容韩语=꽤 괜찮네!
+}}
+{{角色语音
+|语音类型=终结技•激活
+|语音文件=乱破-终结技•激活
+|语音内容=银河忍法，千变万化。
+|语音内容日语=銀河忍法、千変万化。
+|语音内容英语=Cosmic Ninjutsu is ever-changing.
+|语音内容韩语=은하인법, 변화무쌍
+}}
+{{角色语音
+|语音类型=终结技•激活动画
+|语音文件=乱破-终结技•激活动画
+|语音内容=此乃——「忍法•奥义•缭乱灭破杀阵」！
+|语音内容日语=いくぞ——「奥義・忍法・繚乱滅殺陣」！
+|语音内容英语=This is... Ninjutsu Secret Technique: Dazzling Obliteration!
+|语音内容韩语=받아라——「인법•오의•요란 멸파살진」!
+}}
+{{角色语音
+|语音类型=终结技•施放
+|语音文件=乱破-终结技•施放
+|语音内容=斩！断！破！
+|语音内容日语=斬！断！破っ！
+|语音内容英语=Slash! Cut! Cleave!
+|语音内容韩语=참! 단! 파!
+}}
+{{角色语音
+|语音类型=终结技•施放(2x)
+|语音文件=乱破-终结技•施放-2x
+|语音内容=
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=无法战斗
+|语音文件=乱破-无法战斗
+|语音内容=就此，告辞……
+|语音内容日语=さらばだ……
+|语音内容英语=With that, farewell...
+|语音内容韩语=이만, 물러갈게……
+}}
+{{角色语音
+|语音类型=重回战斗
+|语音文件=乱破-重回战斗
+|语音内容=忍法•转生？完璧无敌！
+|语音内容日语=忍法・転生？完全無敵！
+|语音内容英语=Ninjutsu: Reincarnation? Perfectly invincible!
+|语音内容韩语=인법•전생? 완벽무결!
+}}
+{{角色语音
+|语音类型=回复生命
+|语音文件=乱破-回复生命
+|语音内容=超绝欢喜！忍•医术！！
+|语音内容日语=超絶歓喜！シノビ・イジュツ！！
+|语音内容英语=Absolute bliss! Ninja Healing Art!
+|语音内容韩语=절대 행복! 닌자•의술!!
+}}
+{{角色语音
+|语音类型=秘技
+|语音文件=乱破-秘技
+|语音内容=忍步爆走！
+|语音内容日语=シノビ・ダッシュ！
+|语音内容英语=Ninja: Runawayfast technique!
+|语音内容韩语=인보폭주!
+}}
+{{角色语音
+|语音类型=战斗胜利
+|语音文件=乱破-战斗胜利
+|语音内容=在下会铭记汝等的辞世句，告辞。
+|语音内容日语=お主らの辞世の句は忘れない。さらばだ。
+|语音内容英语=I will remember your last words. Farewell.
+|语音内容韩语=그대의 사세구를 가슴속 깊이 새기지. 그럼 이만
+}}
+{{角色语音
+|语音类型=开启战利品•一
+|语音文件=乱破-开启战利品•一
+|语音内容=忍侠不可贪慕财物…但仍需傍身之财。
+|语音内容日语=忍侠は財宝に目を眩ませてはいけない…しかし路銀は必要だ。
+|语音内容英语=A ninja must not lust for wealth... but they still need some possessions.
+|语音内容韩语=닌자는 재물을 탐해선 안 되지만… 비상금은 필요하지
+}}
+{{角色语音
+|语音类型=开启战利品•二
+|语音文件=乱破-开启战利品•二
+|语音内容=大岚神赐下的奖赏，在下就收下了。
+|语音内容日语=大嵐の神より賜った褒賞、ありがたく頂こう。
+|语音内容英语=I accept this reward bestowed by the Great Lan.
+|语音内容韩语=대란신께서 내려주신 상을 감사히 받겠습니다
+}}
+{{角色语音
+|语音类型=开启贵重战利品
+|语音文件=乱破-开启贵重战利品
+|语音内容=是《银河忍法帖》中记叙的忍•宝！
+|语音内容日语=これは『銀河忍法帖』に書かれていたシノビ・トレジャー！
+|语音内容英语=It is the ninja treasure as foretold in the'' Cosmic Ninjutsu Inscriptions''!
+|语音内容韩语=≪은하인법첩≫에 기록된 닌자•보물이다!
+}}
+{{角色语音
+|语音类型=解谜成功•一
+|语音文件=乱破-解谜成功•一
+|语音内容=精妙的忍法机关，但难不倒在下。
+|语音内容日语=見事な忍法・からくりだが、拙者の手にかかれば造作もない。
+|语音内容英语=A clever ninja mechanism, but it poses no problem for me.
+|语音内容韩语=정교한 인법 기관장치지만 이 정도는 식은 죽 먹기야
+}}
+{{角色语音
+|语音类型=解谜成功•二
+|语音文件=乱破-解谜成功•二
+|语音内容=智慧的考验，亦是忍者必经的试炼。
+|语音内容日语=知恵の試練は、忍者の試練でもある。
+|语音内容英语=A test of wisdom is a trial that no ninja can avoid.
+|语音内容韩语=지혜의 시련은 닌자가 반드시 거쳐야 하는 시련이지
+}}
+{{角色语音
+|语音类型=发现敌方目标
+|语音文件=乱破-发现敌方目标
+|语音内容=大岚神在上，何等强劲的邪祟……
+|语音内容日语=おお、大嵐の神よ、なんと強力な邪祟だろうか……
+|语音内容英语=By the Great Lan above, such formidable evil...
+|语音内容韩语=대란신이시여, 이 얼마나 강력한 요괴인가……
+}}
+{{角色语音
+|语音类型=返回城镇
+|语音文件=乱破-返回城镇
+|语音内容=此地的忍力甚是黯淡，就让我等来挥洒缭乱•忍法的色彩吧！
+|语音内容日语=ここはシノビ・パワーが薄いな…拙者が繚乱・忍法で色彩を広めよう！
+|语音内容英语=The power of ninjutsu here is quite dim. I shall unleash the vibrant colors of Dazzling Ninjutsu!
+|语音内容韩语=이곳의 닌자의 힘은 너무나도 약하네. 요란•인법의 색채를 이곳에 흩뿌려야겠어!
+}}
+{{切换板|内容结束}}
+{{切换板|结束}}
+== 无文本语音 ==
+{| class="wikitable" style="width:100%"
+|-
+! 语音类型 !! 中 !! 日 !! 英 !! 韩
+|-
+| style="width:25%;text-align:center" | 触发战斗
+| {{player|乱破-触发战斗•一}}{{player|乱破-触发战斗•二}}{{player|乱破-触发战斗•三}}
+| {{player|日-乱破-触发战斗•一}}{{player|日-乱破-触发战斗•二}}{{player|日-乱破-触发战斗•三}}
+| {{player|英-乱破-触发战斗•一}}{{player|英-乱破-触发战斗•二}}{{player|英-乱破-触发战斗•三}}
+| {{player|韩-乱破-触发战斗•一}}{{player|韩-乱破-触发战斗•二}}{{player|韩-乱破-触发战斗•三}}
+|-
+| style="width:25%;text-align:center" | 普攻
+| {{player|乱破-普攻-无文本•一}}{{player|乱破-普攻-无文本•二}}{{player|乱破-普攻-无文本•三}}{{player|乱破-普攻-无文本•四}}
+| {{player|日-乱破-普攻-无文本•一}}{{player|日-乱破-普攻-无文本•二}}{{player|日-乱破-普攻-无文本•三}}{{player|日-乱破-普攻-无文本•四}}
+| {{player|英-乱破-普攻-无文本•一}}{{player|英-乱破-普攻-无文本•二}}{{player|英-乱破-普攻-无文本•三}}{{player|英-乱破-普攻-无文本•四}}
+| {{player|韩-乱破-普攻-无文本•一}}{{player|韩-乱破-普攻-无文本•二}}{{player|韩-乱破-普攻-无文本•三}}{{player|韩-乱破-普攻-无文本•四}}
+|-
+| style="width:25%;text-align:center" | 轻受击
+| {{player|乱破-轻受击-无文本•一}}{{player|乱破-轻受击-无文本•二}}{{player|乱破-轻受击-无文本•三}}{{player|乱破-轻受击-无文本•四}}
+| {{player|日-乱破-轻受击-无文本•一}}{{player|日-乱破-轻受击-无文本•二}}{{player|日-乱破-轻受击-无文本•三}}{{player|日-乱破-轻受击-无文本•四}}
+| {{player|英-乱破-轻受击-无文本•一}}{{player|英-乱破-轻受击-无文本•二}}{{player|英-乱破-轻受击-无文本•三}}{{player|英-乱破-轻受击-无文本•四}}
+| {{player|韩-乱破-轻受击-无文本•一}}{{player|韩-乱破-轻受击-无文本•二}}{{player|韩-乱破-轻受击-无文本•三}}{{player|韩-乱破-轻受击-无文本•四}}
+|-
+| style="width:25%;text-align:center" | 重受击
+| {{player|乱破-重受击-无文本•一}}{{player|乱破-重受击-无文本•二}}{{player|乱破-重受击-无文本•三}}{{player|乱破-重受击-无文本•四}}
+| {{player|日-乱破-重受击-无文本•一}}{{player|日-乱破-重受击-无文本•二}}{{player|日-乱破-重受击-无文本•三}}{{player|日-乱破-重受击-无文本•四}}
+| {{player|英-乱破-重受击-无文本•一}}{{player|英-乱破-重受击-无文本•二}}{{player|英-乱破-重受击-无文本•三}}{{player|英-乱破-重受击-无文本•四}}
+| {{player|韩-乱破-重受击-无文本•一}}{{player|韩-乱破-重受击-无文本•二}}{{player|韩-乱破-重受击-无文本•三}}{{player|韩-乱破-重受击-无文本•四}}
+|}

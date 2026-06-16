@@ -1,0 +1,631 @@
+{{角色语音表头|海瑟音|未完善=是}}
+== 正式语音 ==
+{{切换板|开始}}
+{{切换板|默认显示|互动语音}}
+{{切换板|默认折叠|战斗语音}}
+{{切换板|显示内容}}
+{{角色语音
+|语音类型=初次见面
+|语音文件=海瑟音-初次见面
+|语音内容=海列屈拉？那个名字早已随往日沉入了深海…原来是你，灰色的小鱼苗…还是叫我海瑟音吧。作为圣城的骑士统领，我会驻守于此，绝不允许命运的乱流扰乱你的视线。
+|语音内容日语=ヘレクトラ？それは過去と共に海底に沈んでいった…そうか、キミだったのか、灰色の小魚…やはりセイレンスと呼んでくれ。聖都の騎士を率いる者として、ワタシはここを守り抜く。キミの視線が、運命の乱流に惑わされないようにな。
+|语音内容英语=Helektra? That name has long since sunk into the depths of the past... Ah, it's you, little gray fry. Call me Hysilens. I am the Knight Commander of the holy city, and I will remain on watch. I will not let the storms of fate cloud your eyes.
+|语音内容韩语=헬렉트라? 그 이름은 과거와 함께 심해로 가라앉았어…. 너였구나, 작은 회색 물고기…! 날 그냥 히실렌스라고 불러줘. 거룩한 도시의 기사단장으로서 난 이곳을 지키지. 운명의 난류가 네 시선을 방해하는 건 절대 용납하지 않겠어
+}}
+{{角色语音
+|语音类型=问候
+|语音文件=海瑟音-问候
+|语音内容=盛宴在即，想来共演一曲么？
+|语音内容日语=もうすぐ宴が始まる。せっかくだ、共に1曲奏でてくれないか？
+|语音内容英语=The feast draws near. Shall we play a piece together?
+|语音内容韩语=성대한 연회가 코앞인데, 같이 한 곡 할래?
+}}
+{{角色语音
+|语音类型=道别
+|语音文件=海瑟音-道别
+|语音内容=人世如海，记得别被咬人的浪尾追上了，更别丢了方向。
+|语音内容日语=この世は海に似ている…牙を剥く波に呑まれぬよう、そして進むべき道を見失わないよう、くれぐれも気をつけることだ。
+|语音内容英语=Life is an ocean. Be careful not to get caught by the biting tail of the waves, and don't ever lose your course.
+|语音内容韩语=세상은 바다와 같아. 사람을 물어뜯는 파도에 쫓기거나 방향을 잃지 않도록 조심해야 하지
+}}
+{{角色语音
+|语音类型=关于自己•过去
+|语音文件=海瑟音-关于自己•过去
+|语音内容=被黑潮吞噬的剧场中，一场独奏持续了数百年之久…只是待到落幕，只剩下满地的骸骨，与仍在哀叹的浪潮。
+|语音内容日语=暗黒の潮に呑まれた劇場では、数百年にわたって独奏が響き続けていた…そして幕が下りた時、そこに残されていたのは、散らばる骸と嘆き続ける波だけだった。
+|语音内容英语=In a theater swallowed by the black tide, a solitary performance endured for hundreds of years... yet when the curtain finally fell, all that remained were scattered bones and the waves still mourning in sorrow.
+|语音内容韩语=검은 물결에 삼켜진 극장에서 수백 년 동안 이어진 독주… 막이 내렸을 무렵엔 여기저기 흩어져있는 유골과 탄식하는 파도만이 남았어
+}}
+{{角色语音
+|语音类型=关于自己•现在
+|语音文件=海瑟音-关于自己•现在
+|语音内容=我循着一盏最明亮、最灼热的灯火，一路游到了圣城。逐火的王要我成为剑旗，而我也在寻找挥剑的方向——无论是向那迷离的泡沫，还是搅扰我们欢宴的杂音。
+|语音内容日语=最も明るく、最も熱い灯火を頼りに泳ぎ続け、ワタシは聖都に辿り着いた。火追いの王はワタシに剣旗になることを求め、この身もまた、剣を振るう先を探していたんだ——果たして、この刃を向けるべきは彷徨う泡か、それとも宴の邪魔をする雑音か。
+|语音内容英语=I followed a light, the brightest, most scorching flame, and swam all the way to the holy city. The sovereign of Flame-Chase asked me to become Dux Gladiorum, and I was searching for where to point my blade... whether at the illusions of foam or at the noise that dares interrupt our feast.
+|语音内容韩语=난 가장 밝고 거세게 타오르는 등불을 따라 거룩한 도시까지 헤엄쳐왔어. 불을 쫓는 여정의 왕은 날 검으로 삼으려 했고, 나도 검을 휘두를 방향을 찾고 있었지——그 흐릿한 거품을 향해서든, 우리의 연회를 방해하는 잡음을 향해서든
+}}
+{{角色语音
+|语音类型=闲谈•剑与琴
+|语音文件=海瑟音-闲谈•剑与琴
+|语音内容=很久之前，我以海螺与珠贝精心打造了提琴。历经数次浴血，它变成了这般锋利的模样。如今，即便没有琴弦，洒血的悲鸣与潮汐的涌动已足以交织成悦耳的篇章。
+|语音内容日语=これは昔ホラガイと真珠で作ったバイオリンだ。何度も血を浴びるうちに、このように鋭くなった。今となっては、たとえ弦がなくとも、流れる血の慟哭と渦巻く潮の音だけで、心地よい旋律を奏でてくれるだろう。
+|语音内容英语=Long ago, I meticulously crafted a violin using conch shells and pearls. After countless battles drenched in blood, it has taken on this sharp, blade-like form. Now, even without strings, the wails of spilled blood and the surge of the tides are enough to compose a moving, melodious song.
+|语音内容韩语=아주 오래전, 난 소라와 조개껍데기로 정성스럽게 바이올린을 만들었어. 수차례 피를 뒤집어 쓴 끝에 이렇게 예리한 모습으로 변했지. 지금은 현이 없지만, 피가 흩뿌려지는 비명과 넘실대는 조수는 기분 좋은 악장을 엮어내기에 충분해
+}}
+{{角色语音
+|语音类型=闲谈•鲸歌
+|语音文件=海瑟音-闲谈•鲸歌
+|语音内容=有些鲸鱼的歌声，终其一生无法被同类听见…但它们的心跳，却比寻常更为炽热。
+|语音内容日语=一部のクジラの歌声は、生涯を通じて仲間に届くことはない…だが、そんな彼らの鼓動は、普通のそれよりもずっと熱いものなんだ。
+|语音内容英语=The songs of some whales can never be heard by their own kind... and yet their hearts beat more fervently and stronger than most.
+|语音内容韩语=어떤 고래들의 노랫소리는 평생 동족에게 들리지 않아…. 하지만 그들의 심장 박동은 일반 고래들보다 훨씬 더 뜨겁지
+}}
+{{角色语音
+|语音类型=闲谈•沉默
+|语音文件=海瑟音-闲谈•沉默
+|语音内容=那些多嘴的虾蟹们偶尔会对我的沉默表示不满。但我更爱用琴「诉说」…不必害怕，除去生命临终的悲鸣，我更愿奏响凯旋的乐章。
+|语音内容日语=口うるさいエビとカニたちは、時折ワタシの沈黙に不満を抱く。ただ口よりもバイオリンで「語る」ほうが得意なだけなのだが…ふふ、恐れることはない。死の断末魔よりも、凱旋の楽章を奏でるほうが好きだからな。
+|语音内容英语=The noisy shrimp and crabs sometimes take issue with my silence. But I've always liked to speak through my music... Don't be afraid. Beyond the sorrowful cries of the dying, I'd much prefer playing songs of triumph.
+|语音内容韩语=입만 산 새우와 게들은 가끔 내 침묵에 불만을 표했어. 하지만 난 음악으로 「호소」하는 걸 더 좋아했지…. 두려워하지 마, 난 생명 끝의 비명 말고 개선가를 더 연주하고 싶거든
+}}
+{{角色语音
+|语音类型=爱好•泡泡
+|语音文件=海瑟音-爱好•泡泡
+|语音内容=当阳光照进海面，绕着光柱追逐那些五彩斑斓的水泡——那是海洋尚且清澈时，我们最喜欢的游戏。
+|语音内容日语=海面から差し込む光の柱の間を縫うように泳ぎながら、虹色の泡を追いかける——まだ海が澄んでいた頃、一番好きだった遊びだ。
+|语音内容英语=When sunlight pierced the sea, we would chase those shimmering, colorful bubbles around the light beams. That was our favorite game when the sea was still pristine.
+|语音内容韩语=햇살이 해수면을 통과하면 빛기둥을 둘러싼 알록달록한 물방울을 쫓아가곤 했어——이건 바다가 맑고 깨끗했던 시절, 우리가 가장 좋아했던 놀이였지
+}}
+{{角色语音
+|语音类型=爱好
+|语音文件=海瑟音-爱好
+|语音内容=深海裂谷的千年蜜酿，浅酌一口便会沉醉，仿佛融化于洋流之中…地上的汁水确实稍逊一筹，大抵千杯，方能捕捉到一丝相似的体验。
+|语音内容日语=海底谷で千年以上熟成されたメーレは、ひと口飲めばたちまち酔いしれ、海流に溶け込んだような気分になれる…が、地上のものはダメだ。せいぜい千杯飲んで、ようやくそれらしい感覚を味わえる程度だろう。
+|语音内容英语=The thousand-year-old honey brew from the deep-sea trenches... just one small sip is enough to make you drift away, as though becoming part of the currents... The brews on land are indeed far less exquisite. After a thousand cups, you might catch a fleeting trace of that same wonder.
+|语音内容韩语=깊은 바다 골짜기의 천 년 묵은 꿀 음료는 한 모금만 마셔도 해류에 녹아들 것처럼 취해버려…. 지상의 과즙은 확실히 부족한 느낌이지. 천 잔 정도 마시면 비슷한 느낌을 약간이라도 경험할 수 있달까?
+}}
+{{角色语音
+|语音类型=烦恼
+|语音文件=海瑟音-烦恼
+|语音内容=生命本如泡沫，何不趁早在宴会上尽情举杯呢？
+|语音内容日语=人生は泡のように儚い。今のうちに、宴で杯を交わそうじゃないか。
+|语音内容英语=Life is as fleeting as a bubble. All the more reason to lift your cup and indulge before the feast ends.
+|语音内容韩语=생명은 거품과도 같아. 연회를 만끽하고 흠뻑 취하지 않을 이유가 있을까?
+}}
+{{角色语音
+|语音类型=分享
+|语音文件=海瑟音-分享
+|语音内容=法吉娜唯一惧怕之事，便是那空无一物的寂寞。所以它成为一切江河的母亲、一切蜜酿的制造者、一切欢宴的主人，就像一尾孤浪永远无法拒绝与海水相伴…人类，也一样吧？
+|语音内容日语=ファジェイナが唯一恐れていたのは孤独だ。だからこそ、彼女はあらゆる川の母となり、あらゆるメーレの製造者となり、あらゆる宴の主となった。孤独な波が海から決して離れられないように…人間もまた、同じなのではないだろうか。
+|语音内容英语=The one thing Phagousa feared was the vast emptiness of solitude. So they became the mother of all rivers, the creator of all honey brews, and the eternal host of all grand feasts, like a lone wave that cannot help but seek the company of the sea... Humans are like that too, aren't they?
+|语音内容韩语=파구사께서 유일하게 두려워했던 건 텅빈 외로움이었어. 그래서 파구사께선 모든 강의 어머니, 모든 꿀 음료의 제조자, 모든 연회의 주인이 되셨지. 마치 고독한 파도가 바닷물과 함께하기를 영원히 거부할 수 없는 것처럼…. 인간도 마찬가지겠지?
+}}
+{{角色语音
+|语音类型=见闻
+|语音文件=海瑟音-见闻
+|语音内容=隐匿在水面之下的国度曾为世界背负了最初的黑潮，但海妖们得到的许诺已和浪涛一同逝去。纵然明天虚假，却依旧醉人。
+|语音内容日语=水の下に隠れた国は、かつて世界のために最初の暗黒の潮に抗った。だが、セイレーンたちに約束された未来は、すでに波と共に消え去ってしまった。たとえ明日が偽りであろうと、その魅力は依然としてワタシを酔わせるものだ。
+|语音内容英语=The kingdom hidden beneath the waves once bore the weight of the first black tide for the world, yet the promises made to the sea sirens have long vanished with the tides. Even if tomorrow is but an illusion, it is still an intoxicating one.
+|语音内容韩语=수면 아래 숨겨진 국가는 과거 세계를 위해 최초의 검은 물결을 짊어졌지만 세이렌들이 받은 약속은 파도와 함께 사라졌어. 내일이 거짓이라해도 그 매력에 도취되고 말지
+}}
+{{角色语音
+|语音类型=关于开拓者
+|语音文件=海瑟音-关于开拓者
+|语音内容=灰色的小鱼苗，想必有许多人愿意围绕在你身边吧？你游动时的尾流如此独特，仿佛让人回到港湾般温暖，又如登上岛屿般轻松。
+|语音内容日语=灰色の小魚、キミの周りには、きっと多くの人が集まってくるだろう。その尾が紡ぐ軌跡は、まるで港に戻った時のような温もりと、島に辿り着いた時のような安心感を与えてくれるからな。
+|语音内容英语=Little gray fry... I imagine there must be many who wish to stay close to you. The current that follows in your wake is unlike any other. It's like the warmth of a safe harbor, and comforting as if stepping ashore upon an island.
+|语音内容韩语=회색 물고기, 네 곁에는 함께하고 싶어하는 사람이 분명 아주 많겠지? 네가 헤엄칠 때 뒤에 흐르는 물살은 정말 독특해서 항구로 돌아온 듯한 따듯함과 섬에 닿은 듯한 편안함을 줘
+}}
+{{角色语音
+|语音类型=关于刻律德菈
+|语音文件=海瑟音-关于刻律德菈
+|语音内容=我曾见过的君主，大多擅在酒杯里下蛊，但凯撒则选择在王旗上浇油。那面燃烧的旗帜，即便在深海之中，也能感受到它的炙热和光芒。
+|语音内容日语=これまでに見てきた君主の大半は、杯に毒を盛ることに長けていたが…カイザーは王の旗に油を注ぐ道を選んだ。その燃え上がる旗の熱と光が、深海にいるワタシのもとまで届いたんだ。
+|语音内容英语=Most rulers I've known were adept at slipping poison into goblets, yet the Imperator poured oil over the king's standard. That blazing banner... Its heat and light could reach you, even from the ocean's abyss.
+|语音内容韩语=내가 봐왔던 군주들은 대부분 술에 독을 탔지만, 카이사르님께서는 왕의 깃발에 기름을 붓는 걸 택하셨어. 활활 타오르던 그 깃발의 열기와 빛은 심해에서도 느낄 수 있었지
+}}
+{{角色语音
+|语音类型=关于阿格莱雅
+|语音文件=海瑟音-关于阿格莱雅
+|语音内容=自继承神权以来，她便罹受人性流逝的痛苦。然而，她宁可清醒地忍受这一切，也不愿沉醉麻痹自己…我怕是做不到呢……
+|语音内容日语=神権を継いだ時から、彼女は人間性の喪失という苦しみに苛まれてきた。それでも酒に逃げて自分を麻痺させるのではなく、ただ静かに耐え抜くことを選んだのだ…ワタシには到底真似できそうにない。
+|语音内容英语=Ever since inheriting divine authority, she has endured the agony of her humanity slipping away. Yet she chooses to bear it all with an alert mind, refusing to drown herself in numb indulgence... I don't think I could do the same.
+|语音内容韩语=신의 권능을 이어받은 뒤로 그녀는 인간의 본성을 잃는 고통을 겪었어. 하지만 그 모든 고통을 정신 바짝차리고 견디며, 술에 취해 무감각해지는 건 원치 않았지…. 나라면 할 수 없었을 거야……
+}}
+{{角色语音
+|语音类型=关于缇宝•缇安•缇宁
+|语音文件=海瑟音-关于缇宝•缇安•缇宁
+|语音内容=即便在我讲述幽怖的深海见闻时，她们也会发出海豚一般可爱的声音。只有这般纯粹的心性，才能彻底涤荡世间的污浊吧。
+|语音内容日语=深海の恐ろしい話をする時も、彼女たちはイルカのように可愛らしい声を上げる。その純粋無垢な心こそが、この世の汚れを洗い清められるのだろう。
+|语音内容英语=Even as I shared chilling tales from the deep sea, they answered with those endearing, dolphin-like voices. Perhaps only such pure hearts can truly wash away the world's corruption.
+|语音内容韩语=내가 심해의 음산한 견문을 이야기할 때도 그녀들은 돌고래처럼 귀여운 소리를 냈어. 이렇게 순수한 마음만이 세상의 오염을 완전히 씻어낼 수 있겠지
+}}
+{{角色语音
+|语音类型=关于赛飞儿
+|语音文件=海瑟音-关于赛飞儿
+|语音内容=一尾身姿灵巧的小猫鱼，还不会被鲜美的鱼饵钓起…或许有一天，它会成长为一条了不起的大鱼呢。
+|语音内容日语=どんなに魅力的なエサにも決して釣られない、器用に泳ぐネコザメだ…このままいけば、いつか立派な大魚に成長するかもしれないな。
+|语音内容英语=A nimble little kitten fish that won't be caught by even the most tempting bait... yet. Perhaps one day, she will grow into a giant of the sea.
+|语音内容韩语=우아하면서도 민첩한 야옹 물고기는 아직 신선한 미끼에 낚이지 않았어…. 어쩌면 언젠가는 대단한 대어로 성장할지도 몰라
+}}
+{{角色语音
+|语音类型=关于昔涟
+|语音文件=海瑟音-关于昔涟
+|语音内容=她就像一首…美妙的暖洋协奏曲，融汇所有的冰川和泥泞。若有这只小海兔的陪伴，想必连深海也不愿增加一丝寒意吧。
+|语音内容日语=彼女は…あらゆる氷河と泥を包み込む、美しい暖流の協奏曲のようだ。あのウミウシが傍にいてくれれば、たとえ深海だろうと暖かく感じられるだろう。
+|语音内容英语=She's like... a wonderful warm-ocean concerto, blending glaciers and silt into harmony. With this little sea hare by your side, even the deep sea would hesitate to turn cold.
+|语音内容韩语=그녀는 마치… 모든 빙하와 진흙이 녹아든 아름답고 따뜻한 물결의 협주곡 같아. 이 작은 바다 토끼와 함께라면 심해조차 조금의 한기도 더하고 싶지 않을걸
+}}
+{{角色语音
+|语音类型=关于丹恒•腾荒
+|语音文件=海瑟音-关于丹恒•腾荒
+|语音内容=群山往往沉默少言，但那背负一切的决心，已无需喧嚣的语言明示。
+|语音内容日语=山々は往々にして寡黙だが、全てを背負うその覚悟は、あえて語るまでもないだろう。
+|语音内容英语=Mountains are often silent and still, yet the resolve they bear needs no loud words to be known.
+|语音内容韩语=뭇 산은 종종 침묵하곤 하지만, 모든 것을 짊어지겠다는 결심은 소란스럽게 말로 드러낼 필요가 없어
+}}
+{{角色语音
+|语音类型=关于万敌
+|语音文件=海瑟音-关于万敌
+|语音内容=我曾尝试这尾小海狮热衷的红色琼浆…对鱼儿来说，那粉红汁水的味道，确实…淡薄了些。至于「法吉娜」的蜜酿，小海狮尝过一杯后也不愿再饮，似乎是觉得…于健康不利？
+|语音内容日语=あのオタリアが好む赤い飲み物を試してみたことがあるが…魚にとって、あれはあまりにも薄い。オタリアも「ファジェイナ」のメーレを1杯飲んだが、それ以上は遠慮していた。おそらく…身体に良くないと感じたのかもしれない。
+|语音内容英语=I've tried the red drink that that little sea lion is fond of... For a fish, the flavor of that pink juice is indeed... a bit light. As for Phagousa's honey brew, the little sea lion tried one cup and then refused to drink any more. He seems to think it's... unhealthy?
+|语音内容韩语=이 바다사자가 열광하는 붉은 감주를 맛봤었는데… 물고기한테 그 분홍빛 즙의 맛은, 확실히… 좀 밍밍하더라고. 바다사자도 「파구사」의 꿀 음료를 한 잔 맛보더니, 더는 안 마시더라? 건강에 별로라고 생각하는 걸까?
+}}
+{{角色语音
+|语音类型=关于遐蝶
+|语音文件=海瑟音-关于遐蝶
+|语音内容=紫色的小蝶鱼…我喜欢她写下的诗歌，还为它们编写了深海的曲调。来日，让我们一同在重聚的欢宴上，唱起那些优美的歌曲吧。
+|语音内容日语=紫色のチョウチョウウオ…彼女の書いた詩を気に入り、それに応えるよう深海の旋律を作ってみた。いつか再会を祝う宴が開かれた時、その美しい曲を共に歌おう。
+|语音内容英语=The purple little butterflyfish... I like the poems she writes. I even composed melodies of the deep ocean to accompany them. Let us sing those beautiful songs together in the future, when we feast in reunion.
+|语音内容韩语=보랏빛 나비 물고기… 난 그녀가 쓴 시를 좋아해서, 심해의 곡조도 만들어 줬었지. 훗날 우리의 재회의 연회에서 그 아름다운 곡들을 함께 부르자
+}}
+{{角色语音
+|语音类型=关于那刻夏
+|语音文件=海瑟音-关于那刻夏
+|语音内容=那位如绿海豚般灵动的智者，他的「表演」令人叹为观止——不过，若能加上一些音乐与深海蜜酿，定然会更让听众沉醉。
+|语音内容日语=あの慧敏な賢者はまるで緑のイルカだ。その「劇」には感嘆させられる——そこに音楽と深海のメーレを添えれば、観客たちはさらに心を奪われるだろう。
+|语音内容英语=That sage, agile like a green dolphin... His "performances" are awe-inspiring. Although, if they were accompanied by some music and deep-sea honey brew, they would surely be even more enchanting to all who listen.
+|语音内容韩语=초록 돌고래처럼 영민한 현인, 그의 「공연」은 감탄을 자아내지——하지만, 음악과 심해의 꿀 음료가 더해진다면, 분명 청중을 한층 더 매료시킬 거야
+}}
+{{角色语音
+|语音类型=关于风堇
+|语音文件=海瑟音-关于风堇
+|语音内容=那尾如珍珠般温柔的小医师鱼喜欢挥动法杖，为我带来一场盛大的泡泡游戏。那孩童般的欢乐…我有幸得以再次体验。
+|语音内容日语=真珠のように優しいあのドクターフィッシュは、賑やかな泡遊びができるようにと杖を振ってくれた。おかげで子供の頃のような無邪気な喜びを…ワタシは再び味わうことができた。
+|语音内容英语=That little healer fish, as gentle as a pearl, likes to wave her wand and make a grand spectacle of bubbles for me to play with. And thus... I am able to enjoy that childlike delight once more.
+|语音内容韩语=진주처럼 부드러운 의사 물고기는 지팡이를 휘두른 걸 좋아해서, 나한테 거품 놀이를 보여주더군. 그 어린아이 같은 즐거움을… 다시 느낄 수 있어 영광이었어
+}}
+{{角色语音
+|语音类型=关于白厄
+|语音文件=海瑟音-关于白厄
+|语音内容=即便下一刻就是黑夜，那尾蓝金色的太阳鱼也会燃烧自己，成为众人的光。但愿在如今清澈的天地之海中，他能游得更轻松些。
+|语音内容日语=たとえ次の瞬間に闇夜が訪れようとも、あの青と金色のサンフィッシュは自らを燃やして皆の光となるだろう。今この澄み渡る天地の海で、彼がより自由に泳げることを願おう。
+|语音内容英语=Even if the night came in the very next moment, that blue-gold sunfish would still burn himself up to become everyone else's light. I pray that he may swim more easily in this now-cleansed sea.
+|语音内容韩语=다음 순간이 어두운 밤일지라도, 그 푸른 금빛의 태양 물고기는 자신을 불태워 모두의 빛이 될 거야. 하지만 지금은 맑고 투명한 하늘의 바다에서 그가 더 편안한 마음으로 헤엄칠 수 있길 바라
+}}
+{{角色语音
+|语音类型=关于三月七
+|语音文件=海瑟音-关于三月七
+|语音内容=这尾粉色的小水母，竟能驯服岁月的逆流…她的光芒是如此活泼温暖，连我也会不由自主地一同随她遨游呢。
+|语音内容日语=この桃色のクラゲ、まさか歳月の逆流さえも制するとは…彼女の輝きはとても生き生きとしていて温かい。ワタシまで思わず、共に泳ぎたくなるほどだ。
+|语音内容英语=What a marvel that this pink little jellyfish was able to tame the countercurrents of Time... Her light is so lively and warm that even I can't help but follow where she goes.
+|语音内容韩语=이 분홍빛 해파리가 세월의 역류를 길들일 수 있다니…. 그녀의 빛은 활기차고 따뜻해서, 나조차도 자연스레 그녀와 함께 헤엄칠 수 밖에 없을걸?
+}}
+{{角色语音
+|语音类型=星魂激活
+|语音文件=海瑟音-星魂激活
+|语音内容=每一座孤岛，都会被潮汐拥抱。
+|语音内容日语=すべての孤島は、いずれ潮汐に抱かれる。
+|语音内容英语=Every solitary island will be embraced by the tides.
+|语音内容韩语=모든 외딴섬을 바닷물이 안아 줄 거야
+}}
+{{角色语音
+|语音类型=角色晋阶
+|语音文件=海瑟音-角色晋阶
+|语音内容=该游向下一片海洋了。
+|语音内容日语=次の海域へと泳ぎ始める時がきた。
+|语音内容英语=It's time to swim towards the next sea.
+|语音内容韩语=다음 바다를 향해 헤엄칠 시간이야
+}}
+{{角色语音
+|语音类型=角色满级
+|语音文件=海瑟音-角色满级
+|语音内容=听，那风暴的喧响在呼唤。
+|语音内容日语=聞こえるか？嵐が呼んでいる。
+|语音内容英语=Listen. The storm's cacophony is calling.
+|语音内容韩语=들어봐, 저 폭풍 소리가 부르짖고 있어
+}}
+{{角色语音
+|语音类型=行迹激活
+|语音文件=海瑟音-行迹激活
+|语音内容=水迹稍纵即逝，却能汇成浪花。
+|语音内容日语=刹那に消える水飛沫でも、集まれば波となる。
+|语音内容英语=Though the ripples are fleeting, they converge into waves.
+|语音内容韩语=잔물결은 금새 사라져버리지만, 파도가 될 수 있지
+}}
+{{角色语音
+|语音类型=队伍编成•开拓者
+|语音文件=海瑟音-队伍编成•开拓者
+|语音内容=小灰鱼，准备合奏一曲了么？
+|语音内容日语=灰色の小魚、合奏の準備はできたか？
+|语音内容英语=Are you ready for a duet together, little gray fry?
+|语音内容韩语=회색 물고기, 합주 준비됐어?
+}}
+{{角色语音
+|语音类型=队伍编成•阿格莱雅
+|语音文件=海瑟音-队伍编成•阿格莱雅
+|语音内容=请继续吧。以金丝拨动的旋律，格外动人心弦。
+|语音内容日语=続けてくれ。その金糸の調べは、ひときわ心を揺さぶる。
+|语音内容英语=Please, keep going. Melodies played on your golden threads are particularly moving.
+|语音内容韩语=계속해. 금실로 튕기는 선율은 특히나 심금을 울리거든
+}}
+{{角色语音
+|语音类型=队伍编成•缇宝
+|语音文件=海瑟音-队伍编成•缇宝
+|语音内容=这次的神谕，是悦耳，还是嘈杂？
+|语音内容日语=今回の神託は心地のいい旋律か、それとも雑音か…
+|语音内容英语=Will the prophecy be melodious, or discordant this time?
+|语音内容韩语=이번 신탁은 귀를 즐겁게 할까, 아님 괴롭게 할까?
+}}
+{{角色语音
+|语音类型=队伍编成•刻律德菈
+|语音文件=海瑟音-队伍编成•刻律德菈
+|语音内容=凯撒，这一局会在第几手结束？
+|语音内容日语=カイザー、この勝負は何手で終わる？
+|语音内容英语=Which move will this particular chess game end on, Imperator?
+|语音内容韩语=카이사르님, 이번 판은 몇 수에 끝날까요?
+}}
+{{角色语音
+|语音类型=队伍编成•赛飞儿
+|语音文件=海瑟音-队伍编成•赛飞儿
+|语音内容=小猫鱼，既然跃入了浪中，就别被吓跑呀。
+|语音内容日语=ネコザメ、波に飛び込んだからには、最後まで立ち向かえ。
+|语音内容英语=If you've already leapt into the waves, then don't run away in fear again, little kitten fish.
+|语音内容韩语=야옹 물고기, 이왕 파도에 뛰어든 거 놀라 도망치지는 마
+}}
+{{角色语音
+|语音类型=队伍编成•丹恒•腾荒
+|语音文件=海瑟音-队伍编成•丹恒•腾荒
+|语音内容=愿凯旋的乐音传遍大地。
+|语音内容日语=凱旋の旋律が大地に響き渡ることを願おう。
+|语音内容英语=Let the music of our victory thunder across the land.
+|语音内容韩语=승리의 선율이 대지에 울려 퍼지길
+}}
+{{角色语音
+|语音类型=队伍编成•万敌
+|语音文件=海瑟音-队伍编成•万敌
+|语音内容=我闻见血的气息…小海狮，浪已来袭。
+|语音内容日语=血の匂いだ…オタリア、波が押し寄せてきている。
+|语音内容英语=I smell the scent of blood... The waves are already here, little sea lion.
+|语音内容韩语=피 냄새가 나는군… 바다사자, 파도가 밀려오고 있어
+}}
+{{角色语音
+|语音类型=队伍编成•遐蝶
+|语音文件=海瑟音-队伍编成•遐蝶
+|语音内容=小蝶鱼，来共舞一曲吧，蝴蝶的翅膀…也能煽动海洋的潮汐。
+|语音内容日语=チョウチョウウオ、1曲踊るとしよう。蝶の羽も…海の潮を動かすことができるのだから。
+|语音内容英语=Let us dance together, little butterflyfish. A butterfly's wings... can also stir up the Ocean's tides.
+|语音内容韩语=나비 물고기야, 함께 춤추자. 나비의 날갯짓도… 바다의 조수를 일으킬 수 있어
+}}
+{{角色语音
+|语音类型=队伍编成•那刻夏
+|语音文件=海瑟音-队伍编成•那刻夏
+|语音内容=这次又有何妙计？愿闻其详。
+|语音内容日语=今度はどんな奇策がある？詳しく聞かせてもらおう。
+|语音内容英语=What wondrous plans do you have this time? I'm all ears.
+|语音内容韩语=이번엔 또 어떤 묘책이 있을까? 자세히 듣고 싶네
+}}
+{{角色语音
+|语音类型=队伍编成•风堇
+|语音文件=海瑟音-队伍编成•风堇
+|语音内容=若需要我的歌声，请不要犹豫。
+|语音内容日语=ワタシの歌声が必要なら、遠慮なく言ってくれ。
+|语音内容英语=If you need my song, then please do not hesitate to ask.
+|语音内容韩语=내 노랫소리가 필요하다면, 망설이지 말고 알려줘
+}}
+{{角色语音
+|语音类型=队伍编成•白厄
+|语音文件=海瑟音-队伍编成•白厄
+|语音内容=以胜利的呐喊，为来日奏响序曲吧。
+|语音内容日语=明日への序曲は勝鬨で奏でよう。
+|语音内容英语=Let the triumphant roar of victory serve as the prelude to what lies ahead.
+|语音内容韩语=승리의 외침으로, 미래를 위한 서곡을 울릴래
+}}
+{{角色语音
+|语音类型=队伍编成•三月七
+|语音文件=海瑟音-队伍编成•三月七
+|语音内容=小水母，想来些深海蜜酿助助兴吗？
+|语音内容日语=クラゲ、深海のメーレを飲むか？元気が出るぞ。
+|语音内容英语=Would you like some deep ocean honey brew for the occasion, little jellyfish?
+|语音内容韩语=해파리야, 심해의 꿀 음료 한잔하면서 기분 전환 좀 할까?
+}}
+{{角色语音
+|语音类型=队伍编成•昔涟
+|语音文件=海瑟音-队伍编成•昔涟
+|语音内容=记忆的涟漪…与我一同荡漾，如何？
+|语音内容日语=記憶のさざ波…ワタシと共に、揺蕩ってみないか？
+|语音内容英语=Shall we drift together... on the ripples of reverie?
+|语音内容韩语=기억의 물결… 나와 함께 물살에 몸을 맡기는 거 어때?
+}}
+{{切换板|内容结束}}
+{{切换板|折叠内容}}
+{{角色语音
+|语音类型=战斗开始•弱点击破
+|语音文件=海瑟音-战斗开始•弱点击破
+|语音内容=张牙舞爪的虾蟹，还不足为惧。
+|语音内容日语=雑魚がいくら威嚇しようと、恐るるに足りない。
+|语音内容英语=Thrashing claws and snapping shells... hardly worth fearing.
+|语音内容韩语=공격적인 새우와 게 따위, 두렵지 않아
+}}
+{{角色语音
+|语音类型=战斗开始•弱点击破(2x)
+|语音文件=海瑟音-战斗开始•弱点击破-2x
+|语音内容=虾蟹，不足为惧。
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=战斗开始•危险预警
+|语音文件=海瑟音-战斗开始•危险预警
+|语音内容=眼下，不失为助兴的好时机。
+|语音内容日语=いい余興になりそうだ。
+|语音内容英语=What better time to play a tune?
+|语音内容韩语=지금이야말로 흥을 돋우기 좋은 때지
+}}
+{{角色语音
+|语音类型=战斗开始•危险预警(2x)
+|语音文件=海瑟音-战斗开始•危险预警-2x
+|语音内容=助兴的好时机。
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=回合开始•一
+|语音文件=海瑟音-回合开始•一
+|语音内容=小心被那无声的浪花划开咽喉。
+|语音内容日语=波飛沫に喉を切り裂かれないように…
+|语音内容英语=Careful. Don't let that silent wave open your throat.
+|语音内容韩语=저 소리 없는 파도에 목이 베이지 않도록 조심해
+}}
+{{角色语音
+|语音类型=回合开始•一(2x)
+|语音文件=海瑟音-回合开始•一-2x
+|语音内容=小心被浪花划开咽喉。
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=回合开始•二
+|语音文件=海瑟音-回合开始•二
+|语音内容=献上一曲锋利的挽歌。
+|语音内容日语=鋭い挽歌を捧げよう。
+|语音内容英语=Allow me to offer a sharp-edged requiem.
+|语音内容韩语=날카로운 만가를 바치리
+}}
+{{角色语音
+|语音类型=回合开始•二(2x)
+|语音文件=海瑟音-回合开始•二-2x
+|语音内容=献上一曲挽歌。
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=回合待机
+|语音文件=海瑟音-回合待机
+|语音内容=休止的沉默，稍稍有些久了。
+|语音内容日语=曲間の沈黙にしては、少々長すぎるな。
+|语音内容英语=This quarter rest seems rather prolonged.
+|语音内容韩语=쉼의 침묵이 조금 긴 것 같군
+}}
+{{角色语音
+|语音类型=普攻
+|语音文件=海瑟音-普攻
+|语音内容=迷醉吧。
+|语音内容日语=酔いしれるがいい。
+|语音内容英语=Become inebriated.
+|语音内容韩语=취해라
+}}
+{{角色语音
+|语音类型=战技•一
+|语音文件=海瑟音-战技•一
+|语音内容=潮汐，与我沉沦。
+|语音内容日语=潮よ、共に沈め。
+|语音内容英语=Tides, sink with me.
+|语音内容韩语=바닷물이여, 나와 함께 가라앉으라
+}}
+{{角色语音
+|语音类型=战技•一(2x)
+|语音文件=海瑟音-战技•一-2x
+|语音内容=与我沉沦。
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=战技•二
+|语音文件=海瑟音-战技•二
+|语音内容=盛典，不醉不归。
+|语音内容日语=この宴、酔いしれるまで…
+|语音内容英语=Feasts, be intoxicated.
+|语音内容韩语=성대한 연회, 흠뻑 취해라
+}}
+{{角色语音
+|语音类型=战技•二(2x)
+|语音文件=海瑟音-战技•二-2x
+|语音内容=不醉不归。
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=轻受击
+|语音文件=海瑟音-轻受击
+|语音内容=有些喧闹。
+|语音内容日语=騒々しい…
+|语音内容英语=Such noisy clamor.
+|语音内容韩语=좀 시끄럽네
+}}
+{{角色语音
+|语音类型=重受击
+|语音文件=海瑟音-重受击
+|语音内容=不堪入耳。
+|语音内容日语=耳障りだ。
+|语音内容英语=An insult to the ears.
+|语音内容韩语=들어줄 수가 없군
+}}
+{{角色语音
+|语音类型=终结技•激活
+|语音文件=海瑟音-终结技•激活
+|语音内容=嘘，请在此驻足静听。
+|语音内容日语=シーッ…心して聴け。
+|语音内容英语=Shhh, stay here and listen...
+|语音内容韩语=걸음을 멈추고 들어봐
+}}
+{{角色语音
+|语音类型=终结技•施放
+|语音文件=海瑟音-终结技•施放
+|语音内容=这场永不餍足的深海欢宴中，来自各位的悲鸣。
+|语音内容日语=満たされぬ深海の宴に響く、皆の悲鳴を。
+|语音内容英语=In this endless revel of the abyss, your cries rise.
+|语音内容韩语=초대받은 자들이 심해의 연회에서 통곡하리
+}}
+{{角色语音
+|语音类型=终结技•施放(2x)
+|语音文件=海瑟音-终结技•施放-2x
+|语音内容=深海欢宴中，来自各位的悲鸣。
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=无法战斗
+|语音文件=海瑟音-无法战斗
+|语音内容=终究落幕了……
+|语音内容日语=幕が下りた…
+|语音内容英语=Finally, the curtain fell...
+|语音内容韩语=막을 내렸어……
+}}
+{{角色语音
+|语音类型=重回战斗
+|语音文件=海瑟音-重回战斗
+|语音内容=洋流将我送回了此处。
+|语音内容日语=海流が運んでくれたようだ。
+|语音内容英语=The current has carried me back here.
+|语音内容韩语=해류가 날 이곳으로 흘려보냈어
+}}
+{{角色语音
+|语音类型=回复生命
+|语音文件=海瑟音-回复生命
+|语音内容=像暖流一般，多谢。
+|语音内容日语=暖流のようだな…感謝する。
+|语音内容英语=Like a warm current... my thanks.
+|语音内容韩语=난류처럼 따뜻하네, 고마워
+}}
+{{角色语音
+|语音类型=秘技
+|语音文件=海瑟音-秘技
+|语音内容=看看有鱼儿上钩么？
+|语音内容日语=掛かった魚はいるか？
+|语音内容英语=Any fish taken the bait?
+|语音内容韩语=물고기가 잡히는지 볼까?
+}}
+{{角色语音
+|语音类型=战斗胜利
+|语音文件=海瑟音-战斗胜利
+|语音内容=愉快的捕食就此告一段落。
+|语音内容日语=楽しい狩りも、ここまでか。
+|语音内容英语=The delightful feed ends, for now.
+|语音内容韩语=즐거운 포식은 여기까지
+}}
+{{角色语音
+|语音类型=开启战利品•一
+|语音文件=海瑟音-开启战利品•一
+|语音内容=拿它换些蜜酿如何？
+|语音内容日语=これとメーレを交換しないか？
+|语音内容英语=How about exchanging this... for some honey brew?
+|语音内容韩语=이걸 꿀 음료와 맞바꾸는 건 어때?
+}}
+{{角色语音
+|语音类型=开启战利品•二
+|语音文件=海瑟音-开启战利品•二
+|语音内容=多年后，它会沾染上海底的气味么…
+|语音内容日语=いつか、これにも海底のにおいがつくのだろうか…
+|语音内容英语=Will it, too, be marked by the scent of the sea floor years later...?
+|语音内容韩语=몇 년 후에는 해저의 냄새가 배어있으려나…
+}}
+{{角色语音
+|语音类型=开启贵重战利品
+|语音文件=海瑟音-开启贵重战利品
+|语音内容=足以媲美珍珠的光泽。
+|语音内容日语=真珠にも劣らない艶だな。
+|语音内容英语=A luster worthy of rivaling any pearl.
+|语音内容韩语=진주의 광택에 견줄 만하네
+}}
+{{角色语音
+|语音类型=解谜成功•一
+|语音文件=海瑟音-解谜成功•一
+|语音内容=不算难…莫非是放水了吗？
+|语音内容日语=まるでぬるま湯のようだったな。
+|语音内容英语=That felt too easy... surely not intentional?
+|语音内容韩语=어렵진 않네… 설마 봐준 건가?
+}}
+{{角色语音
+|语音类型=解谜成功•二
+|语音文件=海瑟音-解谜成功•二
+|语音内容=是潮湿的空气向我透露了谜底。
+|语音内容日语=湿った空気が答えを教えてくれた。
+|语音内容英语=It was the moisture in the air that whispered the answer to me.
+|语音内容韩语=축축한 공기가 내게 수수께끼의 답을 알려줬어
+}}
+{{角色语音
+|语音类型=发现敌方目标
+|语音文件=海瑟音-发现敌方目标
+|语音内容=别担心，让它再游过来些吧。
+|语音内容日语=大丈夫だ、こちらに泳いでくるのを待とう。
+|语音内容英语=Easy now... let it swim a little closer.
+|语音内容韩语=걱정 마, 놈이 이리로 더 헤엄쳐오게 두자
+}}
+{{角色语音
+|语音类型=返回城镇
+|语音文件=海瑟音-返回城镇
+|语音内容=偶尔在港湾停泊的时光…就像泡沫般令人怀念。
+|语音内容日语=港に停泊する一時は…泡のように儚く、どこか懐かしい。
+|语音内容英语=Those moments spent anchored in quiet harbors... I miss them as I miss fleeting foams.
+|语音内容韩语=가끔은 항구에 정박했던 순간들이… 사라지는 거품처럼 그리워
+}}
+{{切换板|内容结束}}
+{{切换板|结束}}
+== 无文本语音 ==
+{| class="wikitable" style="width:100%"
+|-
+! 语音类型 !! 中 !! 日 !! 英 !! 韩
+|-
+| style="width:25%;text-align:center" | 触发战斗
+| {{player|海瑟音-触发战斗•一}}{{player|海瑟音-触发战斗•二}}{{player|海瑟音-触发战斗•三}}
+| {{player|日-海瑟音-触发战斗•一}}{{player|日-海瑟音-触发战斗•二}}{{player|日-海瑟音-触发战斗•三}}
+| {{player|英-海瑟音-触发战斗•一}}{{player|英-海瑟音-触发战斗•二}}{{player|英-海瑟音-触发战斗•三}}
+| {{player|韩-海瑟音-触发战斗•一}}{{player|韩-海瑟音-触发战斗•二}}{{player|韩-海瑟音-触发战斗•三}}
+|-
+| style="width:25%;text-align:center" | 普攻
+| {{player|海瑟音-普攻-无文本•一}}{{player|海瑟音-普攻-无文本•二}}{{player|海瑟音-普攻-无文本•三}}{{player|海瑟音-普攻-无文本•四}}
+| {{player|日-海瑟音-普攻-无文本•一}}{{player|日-海瑟音-普攻-无文本•二}}{{player|日-海瑟音-普攻-无文本•三}}{{player|日-海瑟音-普攻-无文本•四}}
+| {{player|英-海瑟音-普攻-无文本•一}}{{player|英-海瑟音-普攻-无文本•二}}{{player|英-海瑟音-普攻-无文本•三}}{{player|英-海瑟音-普攻-无文本•四}}
+| {{player|韩-海瑟音-普攻-无文本•一}}{{player|韩-海瑟音-普攻-无文本•二}}{{player|韩-海瑟音-普攻-无文本•三}}{{player|韩-海瑟音-普攻-无文本•四}}
+|-
+| style="width:25%;text-align:center" | 轻受击
+| {{player|海瑟音-轻受击-无文本•一}}{{player|海瑟音-轻受击-无文本•二}}{{player|海瑟音-轻受击-无文本•三}}{{player|海瑟音-轻受击-无文本•四}}
+| {{player|日-海瑟音-轻受击-无文本•一}}{{player|日-海瑟音-轻受击-无文本•二}}{{player|日-海瑟音-轻受击-无文本•三}}{{player|日-海瑟音-轻受击-无文本•四}}
+| {{player|英-海瑟音-轻受击-无文本•一}}{{player|英-海瑟音-轻受击-无文本•二}}{{player|英-海瑟音-轻受击-无文本•三}}{{player|英-海瑟音-轻受击-无文本•四}}
+| {{player|韩-海瑟音-轻受击-无文本•一}}{{player|韩-海瑟音-轻受击-无文本•二}}{{player|韩-海瑟音-轻受击-无文本•三}}{{player|韩-海瑟音-轻受击-无文本•四}}
+|-
+| style="width:25%;text-align:center" | 重受击
+| {{player|海瑟音-重受击-无文本•一}}{{player|海瑟音-重受击-无文本•二}}{{player|海瑟音-重受击-无文本•三}}{{player|海瑟音-重受击-无文本•四}}
+| {{player|日-海瑟音-重受击-无文本•一}}{{player|日-海瑟音-重受击-无文本•二}}{{player|日-海瑟音-重受击-无文本•三}}{{player|日-海瑟音-重受击-无文本•四}}
+| {{player|英-海瑟音-重受击-无文本•一}}{{player|英-海瑟音-重受击-无文本•二}}{{player|英-海瑟音-重受击-无文本•三}}{{player|英-海瑟音-重受击-无文本•四}}
+| {{player|韩-海瑟音-重受击-无文本•一}}{{player|韩-海瑟音-重受击-无文本•二}}{{player|韩-海瑟音-重受击-无文本•三}}{{player|韩-海瑟音-重受击-无文本•四}}
+|}

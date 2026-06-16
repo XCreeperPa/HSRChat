@@ -1,0 +1,47 @@
+{{书籍
+|书籍名=云吟谱
+|卷数=1<!-- 填写数字 -->
+|描述=持明族的民间歌谣集。由一位箜篌师采集编纂。
+|编号=3021<!-- 按照游戏内显示顺序编号，第一位为所属编号，共四位 -->
+|所属=3<!-- 选填数字：1=空间站「黑塔」2=雅利洛-Ⅵ 3=仙舟「罗浮」 -->
+|类型=资料<!-- 选填：书籍、资料、信件 -->
+|实装版本=1.0
+}}
+{{书籍/分卷
+|名称=云吟谱
+|卷数=1
+|获取方式=与星槎海中枢NPC[[春分]]谈话获得
+|内容=
+<center><span style=font-size:25.2>《前生梦忆》（《再生缘》唱段）</span></center>
+<center>暮沉沉我枯坐倚床头，</center>
+<center>珠帘半上那珊瑚钩。</center>
+<center>无心醒来无心睡，</center>
+<center>半解罗裳我半闭双眸。</center>
+<center>恍然间风吹花落水推舟，</center>
+<center>梦见我深入步离战未休。</center>
+<center>佩吴钩，飒沓青骊跃紫骝，</center>
+<center>登绮楼，与我那郎君斗舰游。</center>
+<center>鸣啾啾，两个黄鹂落枝头，</center>
+<center>忽悠悠，前生的因缘今生愁。</center>
+<center>十世蜕生，恩仇付水流，</center>
+<center>又实实难把我那郎君丢。</center>
+<center>猛抬头，珊瑚窗里翻成昼，</center>
+<center>情难求，梦里前生梦里留。</center>
+<br>
+<center><span style=font-size:25.2>《龙王遗恨》（《龙牙传》唱段）</span></center>
+<center>靡靡赤龙，森森青松</center>
+<center>今旦零落逐寒风</center>
+<center>可怜谁与同</center>
+<br>
+<center>靡靡赤龙，森森青松</center>
+<center>世上荣华如转蓬</center>
+<center>与君再难逢</center>
+<br>
+<center>靡靡赤龙，森森青松</center>
+<center>斗酒欲饮月明中</center>
+<center>埋骨复几重</center>
+<br>
+<center>靡靡赤龙，森森青松</center>
+<center>六百余年凡尘中</center>
+<center>如梦尽是空</center>
+}}

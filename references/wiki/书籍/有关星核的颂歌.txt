@@ -1,0 +1,17 @@
+{{书籍
+|书籍名=有关星核的颂歌
+|卷数=1<!-- 填写数字 -->
+|描述=恳请星核垂恩的颂歌，各段落似乎写就于不同时期。
+|编号=4093<!-- 按照游戏内显示顺序编号，第一位为所属编号，共四位 -->
+|所属=4<!-- 选填数字：1=空间站「黑塔」2=雅利洛-Ⅵ 3=仙舟「罗浮」 -->
+|类型=书籍<!-- 选填：书籍、资料、信件 -->
+|实装版本=3.8
+|相关角色=<!-- 填写相关自机角色或NPC -->
+}}
+{{书籍/分卷
+|名称=有关星核的颂歌
+|卷数=1
+|获取方式=橡木鸣蛀之梦「橡木公馆」北侧房间内桌面拾取
+|内容=
+<p style="text-align: center;"><i>*感激「得赐」的颂歌*</i></p><br><p style="text-align: center;">剥星解核，万邦蒙召，</p><p style="text-align: center;">弥撒造化，三相圣灵定运命。</p><p style="text-align: center;">布施甘霖，万法同一，</p><p style="text-align: center;">命种结实，恭友兄弟共连襟。</p><p style="text-align: center;">寰宇诸界，万语齐唱，</p><p style="text-align: center;">得蒙拔擢，千奏万响颂福音！</p><br><p style="text-align: center;">……</p><br><p style="text-align: center;"><i>*呼唤「乐园」的颂歌*</i></p><br><p style="text-align: center;">星核熠熠，万万仆从得光耀，</p><p style="text-align: center;">令荒场作乐园，贫瘠者饱足，饥渴者痛饮。</p><p style="text-align: center;">星核已降，何其明亮！</p><p style="text-align: center;">立罪戾之地圣法，义人得蜜浆，恶人得教化。</p><p style="text-align: center;">星核已降，何其辉煌！</p><p style="text-align: center;">午夜自此明如正午，熟睡者美梦不休，欢欣无涯！</p><br><p style="text-align: center;">……</p><br><p style="text-align: center;"><i>*赞美「炼狱」的颂歌*</i></p><br><p style="text-align: center;">将他投入鞘翅盘踞的螺旋之地，</p><p style="text-align: center;">祸土待再造，喜乐哀痛，业火洗涤。</p><p style="text-align: center;">让他坠落万千口齿啃噬的深渊，</p><p style="text-align: center;">公义复立约，黏液吞育，得诞新生。</p><br><p style="text-align: center;">……</p>
+}}

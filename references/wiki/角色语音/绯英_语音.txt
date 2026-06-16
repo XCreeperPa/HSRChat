@@ -1,0 +1,567 @@
+{{角色语音表头|绯英|未完善=是}}
+== 正式语音 ==
+{{切换板|开始}}
+{{切换板|默认显示|互动语音}}
+{{切换板|默认折叠|战斗语音}}
+{{切换板|显示内容}}
+{{角色语音
+|语音类型=初次见面
+|语音文件=绯英-初次见面
+|语音内容=恭喜你发现宝藏！我就是绯英，你好啊，大主角小浣熊。往常在这场狂欢里，我只会确保幻月游戏顺利召开，但这一次，如果是同你一起上台表演，也未尝不可呀！
+|语音内容日语=お宝発見じゃな、おめでとう！妾は緋英と申す。よろしく頼むぞ、主人公のラクーン殿。これまではつつがない幻月遊儀の保証だけが役目じゃった。此度は汝とともにステージに立つというのも悪くない！
+|语音内容英语=Congrats, you've hit the jackpot! I'm Evanescia. Nice to meet you, Main Character Little Raccoon. Usually, amidst all this revelry, I just make sure the Phantasmoon Games run smoothly... But this time? Sharing the stage with you doesn't sound half bad!
+|语音内容韩语=보물을 찾은 걸 축하해! 난 에바네시아야. 안녕, 우리의 주인공 라쿤씨. 원래 이 축제에서 난 환월 게임이 순조롭게 열리는 것만 신경 썼지만, 이번엔 너와 함께 무대에 오르는 것도 나쁘지 않겠는걸!
+}}
+{{角色语音
+|语音类型=问候
+|语音文件=绯英-问候
+|语音内容=今天绒绒号更新了吗？没有！
+|语音内容日语=『もふもふ号』の更新！…はされておらぬか……
+|语音内容英语=Did a new issue of The Fluffy drop today? Nope!
+|语音内容韩语=오늘 복슬복슬호 업데이트됐어? 아니!
+}}
+{{角色语音
+|语音类型=道别
+|语音文件=绯英-道别
+|语音内容=人世间的缘分可是说不准的，也许哪天，我们会在花瓣纷飞的街道上再次邂逅…我很期待。
+|语音内容日语=この世の縁とはわからぬものじゃ。いつかまた、花びらが舞う街角で会えるやもしれぬ。ふふっ、楽しみにしておるぞ。
+|语音内容英语=Fate works in mysterious ways, doesn't it? Maybe someday, we'll meet again on a street where flower petals dance in the air... I'm looking forward to it.
+|语音内容韩语=세상의 인연이란 알 수 없는 거잖아. 어쩌면 어느 날, 꽃잎이 흩날리는 거리에서 우리가 다시 만나게 될지도 몰라… 너무 기대돼
+}}
+{{角色语音
+|语音类型=关于自己•过去
+|语音文件=绯英-关于自己•过去
+|语音内容=很久之前，人们向落入二相乐园的建木倾诉心底的秘密，在它的枝桠系上祈愿的红绳…拜乐子神的面具所赐，人世的愿力幻造了如今的我，幻月游戏的守护者。不瞒你说，我也会害怕自己的力量，但漫画里不都是这么演的嘛——战胜黑暗的过去，才能有真正的成长~
+|语音内容日语=その昔、人々は二相楽園に落ちた建木に心の内を打ち明け、その枝に願いの赤い糸を結んでおった。笑いの神様から賜った仮面、そして人々の願力によって妾の今の姿——幻月遊儀の守護者が生まれた。正直、己の力が怖くなる時もある。じゃが、漫画でもよくあるじゃろ——暗い過去を乗り越えてこそ、人は真に成長できるのじゃ。
+|语音内容英语=A long time ago, people would whisper their deepest secrets to the Ambrosial Arbor that fell into Planarcadia, tying red strings of prayer to its branches... Thanks to the masks of The Laughter, the Wishpower of the mortal realm imagenated me into who I am now: the Guardian of the Phantasmoon Games. To be honest, sometimes even I am afraid of my own power, but isn't that how it always goes in comics? You've gotta conquer your dark past to experience true growth~
+|语音内容韩语=오래전에 사람들은 이상 낙원에 떨어진 불멸의 거목에게 마음속 비밀을 털어놓고, 가지에 소원을 비는 붉은 실을 묶곤 했어… 웃음 신의 가면 덕분에 세간의 원력이 지금의 나, 환월 게임의 수호자를 환조해 냈지. 솔직히 말하면 나도 내 힘이 무서울 때가 있어. 하지만 만화에서도 다들 그러잖아——어두운 과거를 이겨내야 진정한 성장을 이룰 수 있다고~
+}}
+{{角色语音
+|语音类型=关于自己•「绯英」
+|语音文件=绯英-关于自己•「绯英」
+|语音内容=我自己取的名字，怎么样？不觉得念起来很好听吗？ 绯英，绯英…就像美丽的事物尽情绽放的时刻，即便转瞬即逝，也能成为心底的永恒。
+|语音内容日语=自分で付けた名じゃが、どうじゃ？美しい響きじゃろう？緋英、緋英…美しいものがぱっと花開く時を思わせる——刹那の夢と消えようと、心の中では永遠になれるのじゃ。
+|语音内容英语=I came up with the name myself. What do you think? Doesn't it have a nice ring to it? Evanescia, Evanescia... It's just like that moment when something beautiful is in full bloom. Even if it's fleeting, it becomes eternal in your heart.
+|语音内容韩语=내가 직접 지은 이름인데 어때? 어감이 꽤 괜찮지 않아? 에바네시아, 에바네시아… 아름다운 것이 마음껏 피어나는 순간처럼, 비록 찰나일지라도 마음속의 영원함이 될 수 있어
+}}
+{{角色语音
+|语音类型=闲谈•裁定之尺
+|语音文件=绯英-闲谈•裁定之尺
+|语音内容=丈量浮华万世，裁定虚实境界，收刀之时，神鬼无赦——哼哼，这说法够帅吧？谁要是敢在幻月游戏里蔑视规则，看我不给他一尺。
+|语音内容日语=憂き世の万物を測り、虚実の境を定めん。刀に手を掛ければ、神にも鬼にも容赦はせん——ふふん、カッコいいじゃろう？幻月遊儀のルールを軽んじる奴は、この定規でお仕置きじゃ。
+|语音内容英语=Measuring the fleeting splendor of ages, adjudicating the boundary of truth and falsehood. When the blade is sheathed, neither gods nor ghosts shall be spared... Heheh, pretty cool line, right? If anyone dares disrespect the rules of the Phantasmoon Games, I'll make sure they get a taste of my ruler.
+|语音内容韩语=찬란한 만세를 측량하고, 허와 실의 경계를 재단하며, 검을 거두는 순간 신과 귀도 용서받지 못하리——후후, 이 대사 멋지지 않아? 누구든 환월 게임에서 규칙을 우습게 봤다간, 내가 혼쭐을 내줄 테니까
+}}
+{{角色语音
+|语音类型=闲谈•绘画
+|语音文件=绯英-闲谈•绘画
+|语音内容=我在绘画一道上可是很有天分的，看看送你的那张浣熊面具就知道了…运笔狂放，线条写意——这就叫…万法尽头，回归朴拙！
+|语音内容日语=絵に関しては、妾はけっこう才能があるのじゃ。汝に贈った、ラクーンの仮面を見ればわかるじゃろう…ワイルドな筆運びに自由自在な線——どんな技法も素朴な原点に立ち戻るものじゃ。
+|语音内容英语=I'm actually incredibly gifted when it comes to the way of the brush. Just look at that raccoon mask I gave you... The strokes are wild and free, the lines abstract and evocative. This is what I call... reaching the pinnacle of artistry and returning to simplicity!
+|语音内容韩语=난 그림 그리는 데 꽤 재능이 있거든. 너한테 준 라쿤 가면을 보면 알 수 있을 거야… 붓놀림은 거침없고, 선은 자유분방하지——모든 것의 끝은 결국 소박함으로 돌아가는 거야!
+}}
+{{角色语音
+|语音类型=闲谈•《人类迷惑行为大赏》
+|语音文件=绯英-闲谈•《人类迷惑行为大赏》
+|语音内容=每一次幻月游戏召开，我都指着这个节目了解二相乐园的最新动态。虽然世界面貌日新月异，那些尴尬到抓地、笑到人抽筋的体验还是一点都没变…神奇。
+|语音内容日语=幻月遊儀が開かれるのを機に、妾は二相楽園の最新情報をチェックしておる。世界は日々変わっていくが、言葉が出なくなるほど呆れたり、お腹がよじれるほど笑ったりすることはちっとも変わっておらぬ。不思議じゃのう。
+|语音内容英语=Every time the Phantasmoon Games come around, this is my go-to show for keeping up with all the latest trends in Planarcadia. Sure, the outside world's constantly evolving, but those painfully awkward, laugh-till-you-cry moments? Still the same as ever. That's the magic of it.
+|语音内容韩语=매번 환월 게임이 열릴 때마다 나는 이 프로그램을 통해 이상 낙원의 최신 동향을 파악해. 세상은 나날이 변해가지만, 손발이 오그라들 정도로 민망하고 배꼽 빠지게 웃긴 경험들은 하나도 변하지 않았어… 신기하단 말이지
+}}
+{{角色语音
+|语音类型=闲谈•《苍天航路绒绒号》
+|语音文件=绯英-闲谈•《苍天航路绒绒号》
+|语音内容=不论是撕裂幻胧胧肩膀的汪汪丹，一拳一个泰坦号的三月兔，还是踩着翻滚的垃圾桶大战主唱日的球棒浣熊…我都爱看！为什么你的表情这么奇怪…难道我记错了？
+|语音内容日语=ゲンロウちゃんの肩を引き裂いたワンこう、ワンパンでタイタン号を倒したなのうさ、転がるゴミ箱に乗ってデス・ドレミと大バトルを繰り広げたバットラクーン…みんな大好きじゃ！どうした、妙な顔をして…もしや、妾は何か覚え違いを！？
+|语音内容英语=Whether it's Woof Woof Dan ripping through Phanty's shoulder, March Bunny taking down Titans with a single punch, or the Baseball Raccoon riding a rolling trashcan to battle the Singing Septimus... I'm here for it all! Why are you making that face...? Am I remembering it wrong?
+|语音内容韩语=팬틸이의 어깨를 찢어버린 단멍이든, 티탄호를 주먹 한 방에 날려버린 마치 버니든, 아니면 굴러가는 쓰레기통을 타고 찬송의 날과 대결을 펼치는 야구 방망이 라쿤이든… 난 다 좋아해! 너 표정이 이상한데… 설마 내가 잘못 기억하고 있나?
+}}
+{{角色语音
+|语音类型=爱好•角色扮演
+|语音文件=绯英-爱好•角色扮演
+|语音内容=最近星铁FES那么火，我也想去出cos，但喜欢的角色太多就会很纠结…首选肯定是用真发出三月兔，但反串出个汪汪丹，好像也很让人心动？
+|语音内容日语=最近、星穹列車FESがアツいようじゃから、妾もコスプレをしてみようと思っておる。しかし、好きなキャラが多すぎて、決めきれんのじゃ…第1候補は地毛を活かしたなのうさじゃろ。しかしあえて男装のワンこうというのも、なかなかアガるとは思わぬか？
+|语音内容英语=With Star Rail FEST being all the rage lately, I really want to cosplay something, but I'm completely torn because there are just too many characters I love... My top choice is definitely March Bunny since I can use my real hair, but playing Woof Woof Dan sounds kinda tempting too, you know?
+|语音内容韩语=요즘 스타레일 FES가 완전 핫하잖아. 나도 코스프레하러 가고 싶은데, 좋아하는 캐릭터가 너무 많아서 고민돼…. 1순위는 역시 내 머리로 마치 버니를 코스프레하는 거지만, 반대로 단멍이를 해보는 것도 꽤 끌리는데?
+}}
+{{角色语音
+|语音类型=爱好•电子宠物蛋
+|语音文件=绯英-爱好•电子宠物蛋
+|语音内容=想当年，它可是风靡二相乐园，人手一个的国民游戏。这么久过去，谁能想到当初小小一只的狐狸老师，已经变成我的得力助手了。出来吧，和开拓者打个招呼~
+|语音内容日语=それはかつて二相楽園を席巻した国民的ゲーム——あれからずいぶん経つが、まさかあの小さなキツネ先生が妾の頼れる助手になるとはのう。さあ出ておいで、ラクーン殿にご挨拶じゃ。
+|语音内容英语=Back in the day, it was the national pastime that took Planarcadia by storm. Everyone had a copy. It's been so long. Who could've imagined that the tiny Master Fox would turn into my trusty assistant? Come on out and say hi to Trailblazer~
+|语音内容韩语=예전에 이상 낙원 사람이면 하나씩은 가지고 있던 국민 게임이었지. 시간이 흘러 그 조그맣던 여우 선생님이 내 든든한 조수가 될 줄 누가 알았겠어. 나와 봐, 개척자한테 인사해야지~
+}}
+{{角色语音
+|语音类型=烦恼•一
+|语音文件=绯英-烦恼•一
+|语音内容=不管是毛绒绒的蜘蛛还是光溜溜的甲虫，要是蹦到我身上，我给你当场表演一个手撕虫！还有些漫画家特别爱巨大虫类题材类的幻造种，简直就是噩梦哇…光聊到这些，我鸡皮疙瘩就起来了。
+|语音内容日语=フサフサのクモでも、ツルピカのカブトムシでも、飛びついてきたらこの手で真っ二つにしてやる！漫画家には、大きな虫がモチーフの幻造種を好むのもおってな…あれは悪夢じゃ。うう、話をしておるだけでも鳥肌が立つ。
+|语音内容英语=Whether it's a fuzzy spider or a shiny beetle, if one lands on me, I will personally demonstrate how to rip a bug apart with your bare hands! And some comic artists just love those giant-insect-themed imagenae. It's the stuff of nightmares... I'm getting goosebumps just talking about it.
+|语音内容韩语=복슬복슬한 거미든 매끈매끈한 딱정벌레든, 내 몸에 튀어 오르기만 해 봐. 맨손으로 찢는 묘기를 보여 줄 테니까! 어떤 만화가들은 거대한 벌레 소재의 환조종을 특히 좋아하던데, 정말이지 악몽이야… 얘기만 했는데도 닭살이 돋네
+}}
+{{角色语音
+|语音类型=烦恼•二
+|语音文件=绯英-烦恼•二
+|语音内容=一本漫画好不容易追更完，却发现惨遭腰斩…休刊不好吗？只要漫画家还活着，有生之年什么事都能发生……
+|语音内容日语=せっかく最新話まで追いついた漫画が打ち切りになってしまった…休載ではダメなのか？漫画家が生きておれば、いつかきっと続きを……
+|语音内容英语=You finally catch up on a comic series, only to find out it's been axed... Couldn't they just put it on hiatus instead? As long as the artist is still breathing, miracles can happen...
+|语音内容韩语=만화 연재를 겨우 따라잡았는데 갑자기 조기 완결이라니… 차라리 휴재를 하지. 작가가 살아있는 한 나중 일은 모르는 거잖아……
+}}
+{{角色语音
+|语音类型=分享
+|语音文件=绯英-分享
+|语音内容=只能在幻月游戏举行时现身人世，你懂那种十几天里，要把十几年以来好玩的好看的都集中过一遍的苦吗？与之相比，银河海淘周边已经算是一件小事了…不说了，请叫我时间管理大师！
+|语音内容日语=幻月遊儀が開かれている間だけ妾はこの世に来られる。十数日で十数年分の楽しいこと、面白いことを全部体験しないといけない辛さがわかるか？それに比べれば、銀河中からグッズを買い集めることなど朝飯前じゃ…これ以上言うまい、妾のことはタイムマネジメントマスターと呼んでくれ！
+|语音内容英语=I can only manifest in the physical world while the Phantasmoon Games are happening. Do you have any idea the kind of suffering involved in trying to binge over a decade's worth of fun and entertainment in just a dozen days? Compared to that, hunting down merch from across the cosmos is practically nothing... Enough said, just call me the master of time management!
+|语音内容韩语=환월 게임이 열릴 때만 이 세상에 나타날 수 있는데, 십몇 년 동안 쌓인 재미있는 것들을 십여 일 만에 다 몰아서 봐야 하는 그 고통을 알아? 그에 비하면 은하 직구로 굿즈를 사는 건 일도 아니지… 아무튼, 날 시간 관리 마스터라고 불러줘!
+}}
+{{角色语音
+|语音类型=见闻•幻月游戏
+|语音文件=绯英-见闻•幻月游戏
+|语音内容=最初，为了镇伏大地之下的邪祟，二相乐园的人们会举办娱神除祟的仪式。后来，它的形式几经变化，人们也逐渐淡忘了最初的目的，幻月游戏也像是变成了舞台剧…别误会，我更喜欢现在这样，那些噩梦般的日子，不应再降临了。
+|语音内容日语=当初、地の底に潜む悪しきものを鎮めるため、二相楽園の人々は神を楽しませ、災いを払う儀式を行っておった。それから儀式は幾度も形を変え、人々も本来の目的を忘れ、今ではまるで劇のようなものになっておる——誤解するでないぞ、妾は今のほうが好きじゃ。…あの悪夢のような日々は、二度と訪れてはならぬのじゃから。
+|语音内容英语=In the beginning, the people of Planarcadia held ceremonies to entertain the gods and cast out evil, all to suppress the wickedness beneath the earth. Over time, the format changed, and people gradually forgot its original purpose. The Phantasmoon Games eventually turned into something more like a stage play... Don't get me wrong, I prefer it this way. Those nightmarish days should never return.
+|语音内容韩语=이상 낙원 사람들은 원래 대지 아래의 사악한 기운을 억누르기 위해 신을 즐겁게 하고 액운을 쫓는 의식을 거행했어. 시간이 지나면서 형태가 바뀌었고, 사람들도 점차 원래의 목적을 잊어갔지. 환월 게임도 연극처럼 변해버렸지만… 오해하지 마, 난 지금이 더 좋아. 그 악몽 같은 나날들은 두 번 다시 오면 안 되니까
+}}
+{{角色语音
+|语音类型=关于开拓者
+|语音文件=绯英-关于开拓者
+|语音内容=在二相乐园，能从那些恶意的愿望里回应善意的期盼，成为保护「欢愉」的英雄，不愧是球棒浣熊呀。
+|语音内容日语=二相楽園で悪意に満ちた願いを払いのけ、善意の期待に応えて「愉悦」を守るヒーローになるとは、さすがバットラクーンじゃな。
+|语音内容英语=Being able to respond to the kind-hearted hopes among all the malicious wishes, and become a hero protecting Elation in Planarcadia... Only our Baseball Raccoon could do it.
+|语音内容韩语=이상 낙원에서 그런 악의적인 소원들 속에서도 선의의 염원에 응답해 「환락」을 지키는 영웅이 되다니, 역시 야구 방망이 라쿤답네
+}}
+{{角色语音
+|语音类型=关于火花
+|语音文件=绯英-关于火花
+|语音内容=她说没有比我更适合给耳机带货的人了，如果靠这个直播，一定能风靡二相乐园——可惜，要不是时间紧张，我还真想试下。
+|语音内容日语=妾ほどイヤホンの宣伝に向いている者はおらぬから、ライブ配信すれば、二相楽園で絶対に人気が出ると言ってくれた——惜しいのう、時間が許せばやってみたかった。
+|语音内容英语=She said I'd be the perfect fit for promoting headphones on stream. If I did a livestream, it would take Planarcadia by storm for sure... What a shame. If I weren't so pressed for time, I'd definitely want to give it a shot.
+|语音内容韩语=헤드셋 홍보엔 내가 가장 적임자라면서, 이걸로 방송하면 분명 온 이상 낙원을 휩쓸 거라던데——아쉽네, 시간이 촉박하지만 않았으면 정말 한번 해봤을 거야
+}}
+{{角色语音
+|语音类型=关于爻光
+|语音文件=绯英-关于爻光
+|语音内容=真想和她一起抓娃娃，刮彩票，抽卡…这可不是我瞎说——不信阿哈都没关系，一定要相信爻光的手气啊！
+|语音内容日语=クレーンゲームに宝くじ、ガチャも彼女と一緒に回してみたいのう…何も適当に言っているわけではないぞ——たとえアッハを信じなくても、爻光の好運は信じてくれ！
+|语音内容英语=I really want to go play claw machines, scratch lottery tickets, and pull for characters with her... I'm not just saying things! Even if you don't believe in Aha, you have to believe in Yao Guang's luck!
+|语音内容韩语=그녀와 함께 인형 뽑기, 복권 긁기, 가챠를 하고 싶어… 그냥 하는 말이 아니야——아하는 안 믿어도 상관없지만, 효광의 운은 꼭 믿어야 한다니까!
+}}
+{{角色语音
+|语音类型=关于不死途
+|语音文件=绯英-关于不死途
+|语音内容=表面上是一无所有的颓废侦探，背地里却是寰宇知名的游侠英雄——像不像漫画里的情节？二相乐园就是这样一个能容纳所有意外的地方。
+|语音内容日语=表向きは何も持たぬくたびれた探偵じゃが、裏の顔は宇宙に名を馳せるレンジャーのヒーロー…まるで漫画の世界じゃ。二相楽園はそんな想像を超えることをすべて受け入れてくれる場所なんじゃ。
+|语音内容英语=On the surface, a washed-up detective with nothing to his name. Underneath, a renowned Ranger hero... Sounds straight out of a comic book, right? Planarcadia is exactly the kind of place where the unexpected is always possible.
+|语音内容韩语=겉보기엔 빈털터리 폐인 탐정이지만, 사실은 우주적으로 유명한 레인저 영웅이야——꼭 만화 속 스토리 같지 않아? 이상 낙원은 모든 의외성을 포용할 수 있는 곳이야
+}}
+{{角色语音
+|语音类型=关于银狼LV.999
+|语音文件=绯英-关于银狼LV.999
+|语音内容=她竟然是二相乐园第一款电子游戏的忠实粉丝，谁懂找到同好的幸福感？在游戏这一块，我永远拥护银狼大人！
+|语音内容日语=彼女は二相楽園で初めて作られた電子ゲームの熱狂的ファンだったのじゃ！同好の士を見つけた時のあの幸福感…わかってくれるか？ゲームのことに関しては、生涯銀狼殿を推すぞ！
+|语音内容英语=I can't believe she's a die-hard fan of Planarcadia's first video game! You know that feeling of pure joy when you finally meet someone who just gets it? When it comes to gaming, I will always pledge my allegiance to Lady Silver Wolf!
+|语音内容韩语=이상 낙원 최초의 비디오 게임의 열성팬이었다니, 같은 취미를 가진 동료를 찾았을 때의 이 행복감을 누가 알까? 게임에 있어서는 난 영원히 은랑 님을 지지해!
+}}
+{{角色语音
+|语音类型=关于千冶•刃
+|语音文件=绯英-关于千冶•刃
+|语音内容=把不死的丰饶之物封印在自己的身体里…别说，这个思路倒是挺新鲜的……
+|语音内容日语=不死なる豊穣の欠片を自らの体内に封じるとは…なかなか斬新な発想じゃのう……
+|语音内容英语=Sealing the undying Abundance within his own body... I have to admit, that's a rather novel approach.
+|语音内容韩语=죽지 않는 풍요의 존재를 자기 몸 안에 봉인하다니… 뭐, 꽤나 신선한 발상이긴 하네…
+}}
+{{角色语音
+|语音类型=星魂激活
+|语音文件=绯英-星魂激活
+|语音内容=落英一刹，缘结永恒~
+|语音内容日语=華が舞い落ちるは刹那、されど結ばれた縁は永遠に。
+|语音内容英语=A flutter of petals, and a bond eternal~
+|语音内容韩语=꽃잎이 지는 건 찰나지만, 인연은 영원한 법~
+}}
+{{角色语音
+|语音类型=角色晋阶
+|语音文件=绯英-角色晋阶
+|语音内容=封印解除，看我名刀出鞘！
+|语音内容日语=封印解除。名刀の輝きを見るがいい！
+|语音内容英语=Seal removed! Feast your eyes on my legendary blade!
+|语音内容韩语=봉인 해제, 내 명검의 힘을 보여주지!
+}}
+{{角色语音
+|语音类型=角色满级
+|语音文件=绯英-角色满级
+|语音内容=终于可以用出那一招了！
+|语音内容日语=これであの技が使えるのう！
+|语音内容英语=I can finally unleash that move!
+|语音内容韩语=드디어 그 기술을 쓸 수 있겠어!
+}}
+{{角色语音
+|语音类型=行迹激活
+|语音文件=绯英-行迹激活
+|语音内容=走过，笑过，哭过，就是我的每一天啦~
+|语音内容日语=走って、笑って、そして泣く。これが妾の過ごしてきた日々じゃ。
+|语音内容英语=Walking, laughing, crying... just another day in the life~
+|语音内容韩语=지나오고, 울고, 웃고. 그게 내 하루하루야~
+}}
+{{角色语音
+|语音类型=队伍编成•开拓者
+|语音文件=绯英-队伍编成•开拓者
+|语音内容=十五年之期已到，尺刀狐狸恭迎球棒浣熊归位！
+|语音内容日语=15年の歳月を耐え忍び、約束の時は来た。この量刀キツネは、バットラクーン殿の帰還を待ちわびておったぞ！
+|语音内容英语=The fifteen-year wait is over! The Ruler-Blade Fox humbly welcomes the Baseball Raccoon back to their rightful throne!
+|语音内容韩语=15년의 기한이 다 됐어. 검을 찬 여우가 야구 방망이 라쿤의 귀환을 맞이합니다!
+}}
+{{角色语音
+|语音类型=队伍编成•火花
+|语音文件=绯英-队伍编成•火花
+|语音内容=火花主播，友情提醒，别玩得太过火！
+|语音内容日语=火花殿、身内として忠告しておくが、火遊びはほどほどにな！
+|语音内容英语=Hey Sparxie, streamer-to-streamer tip: Don't let those sparks burn too bright!
+|语音内容韩语=너무 지나치게 놀지 마! 스파키 스트리머님
+}}
+{{角色语音
+|语音类型=队伍编成•爻光
+|语音文件=绯英-队伍编成•爻光
+|语音内容=再来一次，能看透我的命数吗？
+|语音内容日语=ふふふ、もう1度試してみるか？次こそ妾の命数が視えるやもしれんぞ？
+|语音内容英语=One more time! Can you see through my fate, now?
+|语音内容韩语=한 번 더. 이번엔 내 운명을 꿰뚫어 볼 수 있겠어?
+}}
+{{角色语音
+|语音类型=队伍编成•不死途
+|语音文件=绯英-队伍编成•不死途
+|语音内容=名侦探阁下…这次能推理出我的身份吗？
+|语音内容日语=さて名探偵殿…此度は妾の身の上を解き明かせるかのう？
+|语音内容英语=O Great Detective... Can you deduce who I am this time?
+|语音内容韩语=명탐정 씨… 이번엔 나의 정체를 추리할 수 있겠어?
+}}
+{{角色语音
+|语音类型=队伍编成•银狼LV.999
+|语音文件=绯英-队伍编成•银狼LV.999
+|语音内容=大佬带我一起组队刷分！
+|语音内容日语=ハイスコアのため、ぜひキャリーを頼むぞ！
+|语音内容英语=Carry me, big shot! Let's team up and grind some points!
+|语音内容韩语=나랑 팀해서 같이 점수 올리자, 고수님!
+}}
+{{角色语音
+|语音类型=队伍编成•千冶•刃
+|语音文件=绯英-队伍编成•千冶•刃
+|语音内容=这么看，我俩是不是比对面更危险？
+|语音内容日语=妾たちのほうが、敵よりよほどヤバそうじゃな？
+|语音内容英语=If you think about it, aren't we the bigger threat?
+|语音内容韩语=이렇게 보니, 우리가 상대편보다 더 위험한 것 같은데?
+}}
+{{切换板|内容结束}}
+{{切换板|折叠内容}}
+{{角色语音
+|语音类型=战斗开始•弱点击破
+|语音文件=绯英-战斗开始•弱点击破
+|语音内容=头发越粉，打人越狠…你听过没？
+|语音内容日语=ピンク髪ほどヤバい…知らぬのか？
+|语音内容英语=The pinker the hair, the harder they hit... Haven't you heard?
+|语音内容韩语=분홍 머리일수록 손이 맵단 말 들어봤지?
+}}
+{{角色语音
+|语音类型=战斗开始•弱点击破(2x)
+|语音文件=绯英-战斗开始•弱点击破-2x
+|语音内容=
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=战斗开始•危险预警
+|语音文件=绯英-战斗开始•危险预警
+|语音内容=经典套路呀，大反派登场~
+|语音内容日语=おお、お決まりのボス登場じゃ～
+|语音内容英语=Classic villain entrance, right on cue~
+|语音内容韩语=전형적인 클리셰네, 악당 등장~
+}}
+{{角色语音
+|语音类型=战斗开始•危险预警(2x)
+|语音文件=绯英-战斗开始•危险预警-2x
+|语音内容=
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=回合开始•一
+|语音文件=绯英-回合开始•一
+|语音内容=让我量量，犯规程度…超标了！
+|语音内容日语=どれ、基準値オーバーじゃ…反則！
+|语音内容英语=Let me measure that... Whoa, you're WAY over the limit!
+|语音内容韩语=흠, 반칙 수준이… 기준 초과야!
+}}
+{{角色语音
+|语音类型=回合开始•一(2x)
+|语音文件=绯英-回合开始•一-2x
+|语音内容=
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=回合开始•二
+|语音文件=绯英-回合开始•二
+|语音内容=真以为我是吉祥物咩？
+|语音内容日语=妾はマスコットではないぞ？
+|语音内容英语=You seriously thought I was just a mascot?
+|语音内容韩语=진짜 내가 마스코트인 줄 알았어?
+}}
+{{角色语音
+|语音类型=回合开始•二(2x)
+|语音文件=绯英-回合开始•二-2x
+|语音内容=
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=回合待机
+|语音文件=绯英-回合待机
+|语音内容=犹豫就会失败哦？
+|语音内容日语=あんまり迷っておると、負けるぞ？
+|语音内容英语=Hesitation means defeat, you know?
+|语音内容韩语=망설이면 질 텐데?
+}}
+{{角色语音
+|语音类型=普攻
+|语音文件=绯英-普攻
+|语音内容=就是你了。
+|语音内容日语=汝に決めた。
+|语音内容英语=You're it.
+|语音内容韩语=너로 정했어
+}}
+{{角色语音
+|语音类型=战技•一
+|语音文件=绯英-战技•一
+|语音内容=再见啦，各位！
+|语音内容日语=皆、さらばじゃ！
+|语音内容英语=See you later, everyone!
+|语音内容韩语=모두들, 잘 가~
+}}
+{{角色语音
+|语音类型=战技•一(2x)
+|语音文件=绯英-战技•一-2x
+|语音内容=
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=战技•二
+|语音文件=绯英-战技•二
+|语音内容=代表幻月消灭你！
+|语音内容日语=幻月に代わって、お仕置きじゃ！
+|语音内容英语=By the Phantasmoon I'll vanquish you!
+|语音内容韩语=환월의 이름으로 용서하지 않겠다!
+}}
+{{角色语音
+|语音类型=战技•二(2x)
+|语音文件=绯英-战技•二-2x
+|语音内容=
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=轻受击
+|语音文件=绯英-轻受击
+|语音内容=还没玩够呢？
+|语音内容日语=遊び足りぬか？
+|语音内容英语=You done playing yet?
+|语音内容韩语=아직 덜 놀았어?
+}}
+{{角色语音
+|语音类型=重受击
+|语音文件=绯英-重受击
+|语音内容=树大招风呐……
+|语音内容日语=大樹も風に折らる……
+|语音内容英语=Tall trees attract the wind...
+|语音内容韩语=나무가 크면 맞는 바람도 세지……
+}}
+{{角色语音
+|语音类型=欢愉技•一
+|语音文件=绯英-欢愉技•一
+|语音内容=踩到红线咯~
+|语音内容日语=それは反則じゃぞ、ふふっ。
+|语音内容英语=You've stepped out of line~
+|语音内容韩语=선 밟았어~
+}}
+{{角色语音
+|语音类型=欢愉技•一(2x)
+|语音文件=绯英-欢愉技•一-2x
+|语音内容=
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=欢愉技•二
+|语音文件=绯英-欢愉技•二
+|语音内容=已成定局啦~
+|语音内容日语=これで詰み、じゃな。
+|语音内容英语=The game is fixed~
+|语音内容韩语=정해진 결과야~
+}}
+{{角色语音
+|语音类型=欢愉技•二(2x)
+|语音文件=绯英-欢愉技•二-2x
+|语音内容=
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=终结技•激活
+|语音文件=绯英-终结技•激活
+|语音内容=一起上吧，狐狸老师——
+|语音内容日语=行こう、キツネ先生——
+|语音内容英语=Do your worst, Master Fox.
+|语音内容韩语=같이 가자, 여우 선생님——
+}}
+{{角色语音
+|语音类型=终结技•施放
+|语音文件=绯英-终结技•施放
+|语音内容=游戏的规则，我来裁定——你，out了！
+|语音内容日语=掟に従い、妾が裁かん——汝はアウトじゃ！
+|语音内容英语=I decide the rules of the game... And you're out!
+|语音内容韩语=게임의 규칙은, 내가 정해——넌, 아웃이야!
+}}
+{{角色语音
+|语音类型=终结技•施放(2x)
+|语音文件=绯英-终结技•施放-2x
+|语音内容=
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=无法战斗
+|语音文件=绯英-无法战斗
+|语音内容=没到时间呢……
+|语音内容日语=まだ、尺が……
+|语音内容英语=Time's not up yet...
+|语音内容韩语=아직 시간 안 됐는데……
+}}
+{{角色语音
+|语音类型=重回战斗
+|语音文件=绯英-重回战斗
+|语音内容=剧情还没完呢。
+|语音内容日语=さて続編じゃ。
+|语音内容英语=The story's not finished.
+|语音内容韩语=스토리는 아직 안 끝났어
+}}
+{{角色语音
+|语音类型=回复生命
+|语音文件=绯英-回复生命
+|语音内容=被治愈到了，棒！
+|语音内容日语=癒えたぞ！
+|语音内容英语=I've been healed, awesome!
+|语音内容韩语=좋아, 치유됐어!
+}}
+{{角色语音
+|语音类型=秘技
+|语音文件=绯英-秘技
+|语音内容=落英无痕。
+|语音内容日语=飛花跡を残さず。
+|语音内容英语=Petals fall without a trace.
+|语音内容韩语=흩날리는 꽃잎
+}}
+{{角色语音
+|语音类型=战斗胜利
+|语音文件=绯英-战斗胜利
+|语音内容=完结，撒花~
+|语音内容日语=めでたしめでたし～
+|语音内容英语=Release the confetti~
+|语音内容韩语=꽃가루로 마무리~
+}}
+{{角色语音
+|语音类型=开启战利品•一
+|语音文件=绯英-开启战利品•一
+|语音内容=我知道了，是你准备的惊喜？
+|语音内容日语=妾のためにサプライズを用意してくれたのじゃな？
+|语音内容英语=I get it now! You set up a surprise for me, didn't you?
+|语音内容韩语=날 위해 준비한 서프라이즈구나?
+}}
+{{角色语音
+|语音类型=开启战利品•二
+|语音文件=绯英-开启战利品•二
+|语音内容=难道是…主角光环？
+|语音内容日语=まさか…これが主人公補正というものか？
+|语音内容英语=Could it be... plot armor?
+|语音内容韩语=이건… 주인공 버프?
+}}
+{{角色语音
+|语音类型=开启贵重战利品
+|语音文件=绯英-开启贵重战利品
+|语音内容=许愿，星琼全收集~
+|语音内容日语=星玉を全部見つけられるとよいのう！
+|语音内容英语=My wish? To collect every last Stellar Jade~
+|语音内容韩语=성옥을 전부 수집하게 해주세요~
+}}
+{{角色语音
+|语音类型=解谜成功•一
+|语音文件=绯英-解谜成功•一
+|语音内容=我就说，看漫画能学到东西吧。
+|语音内容日语=ほれ、漫画の知識が役に立ったであろう？
+|语音内容英语=See? I told you comics can teach you useful things.
+|语音内容韩语=거봐, 만화에서 배울 게 있다니까
+}}
+{{角色语音
+|语音类型=解谜成功•二
+|语音文件=绯英-解谜成功•二
+|语音内容=无名客的思维方式，真有意思……
+|语音内容日语=ナナシビトの考え方は面白いのう……
+|语音内容英语=The way the Nameless think is truly fascinating...
+|语音内容韩语=무명객의 사고방식은 정말 흥미롭네……
+}}
+{{角色语音
+|语音类型=发现敌方目标
+|语音文件=绯英-发现敌方目标
+|语音内容=根据战力学分析…这家伙很强！
+|语音内容日语=分析したが…此奴、侮れん！
+|语音内容英语=Based on combat analysis... This guy's tough!
+|语音内容韩语=전투력 분석 결과… 녀석은 아주 강해!
+}}
+{{角色语音
+|语音类型=返回城镇
+|语音文件=绯英-返回城镇
+|语音内容=让我看看今日潮流……
+|语音内容日语=ふむ、今日の流行りは……
+|语音内容英语=Let me see what's trending today...
+|语音内容韩语=오늘의 트렌드를 확인해 볼까?
+}}
+{{切换板|内容结束}}
+{{切换板|结束}}
+== 无文本语音 ==
+{| class="wikitable" style="width:100%"
+|-
+! 语音类型 !! 中 !! 日 !! 英 !! 韩
+|-
+| style="width:25%;text-align:center" | 触发战斗
+| {{player|绯英-触发战斗•一}}{{player|绯英-触发战斗•二}}{{player|绯英-触发战斗•三}}
+| {{player|日-绯英-触发战斗•一}}{{player|日-绯英-触发战斗•二}}{{player|日-绯英-触发战斗•三}}
+| {{player|英-绯英-触发战斗•一}}{{player|英-绯英-触发战斗•二}}{{player|英-绯英-触发战斗•三}}
+| {{player|韩-绯英-触发战斗•一}}{{player|韩-绯英-触发战斗•二}}{{player|韩-绯英-触发战斗•三}}
+|-
+| style="width:25%;text-align:center" | 普攻
+| {{player|绯英-普攻-无文本•一}}{{player|绯英-普攻-无文本•二}}{{player|绯英-普攻-无文本•三}}{{player|绯英-普攻-无文本•四}}
+| {{player|日-绯英-普攻-无文本•一}}{{player|日-绯英-普攻-无文本•二}}{{player|日-绯英-普攻-无文本•三}}{{player|日-绯英-普攻-无文本•四}}
+| {{player|英-绯英-普攻-无文本•一}}{{player|英-绯英-普攻-无文本•二}}{{player|英-绯英-普攻-无文本•三}}{{player|英-绯英-普攻-无文本•四}}
+| {{player|韩-绯英-普攻-无文本•一}}{{player|韩-绯英-普攻-无文本•二}}{{player|韩-绯英-普攻-无文本•三}}{{player|韩-绯英-普攻-无文本•四}}
+|-
+| style="width:25%;text-align:center" | 轻受击
+| {{player|绯英-轻受击-无文本•一}}{{player|绯英-轻受击-无文本•二}}{{player|绯英-轻受击-无文本•三}}{{player|绯英-轻受击-无文本•四}}
+| {{player|日-绯英-轻受击-无文本•一}}{{player|日-绯英-轻受击-无文本•二}}{{player|日-绯英-轻受击-无文本•三}}{{player|日-绯英-轻受击-无文本•四}}
+| {{player|英-绯英-轻受击-无文本•一}}{{player|英-绯英-轻受击-无文本•二}}{{player|英-绯英-轻受击-无文本•三}}{{player|英-绯英-轻受击-无文本•四}}
+| {{player|韩-绯英-轻受击-无文本•一}}{{player|韩-绯英-轻受击-无文本•二}}{{player|韩-绯英-轻受击-无文本•三}}{{player|韩-绯英-轻受击-无文本•四}}
+|-
+| style="width:25%;text-align:center" | 重受击
+| {{player|绯英-重受击-无文本•一}}{{player|绯英-重受击-无文本•二}}{{player|绯英-重受击-无文本•三}}{{player|绯英-重受击-无文本•四}}
+| {{player|日-绯英-重受击-无文本•一}}{{player|日-绯英-重受击-无文本•二}}{{player|日-绯英-重受击-无文本•三}}{{player|日-绯英-重受击-无文本•四}}
+| {{player|英-绯英-重受击-无文本•一}}{{player|英-绯英-重受击-无文本•二}}{{player|英-绯英-重受击-无文本•三}}{{player|英-绯英-重受击-无文本•四}}
+| {{player|韩-绯英-重受击-无文本•一}}{{player|韩-绯英-重受击-无文本•二}}{{player|韩-绯英-重受击-无文本•三}}{{player|韩-绯英-重受击-无文本•四}}
+|}

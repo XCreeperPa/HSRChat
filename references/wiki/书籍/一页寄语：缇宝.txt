@@ -1,0 +1,40 @@
+{{书籍
+|书籍名=一页寄语：缇宝
+|卷数=1<!-- 仅填写数字 -->
+|编号=5138<!-- 按照游戏内显示顺序编号，第一位为所属编号，共四位 -->
+|描述=来自记忆中的星海，与礼物一同交予你手的寄语…仿佛仍带着孩童铃音般的欢笑。
+|所属=5
+|类型=寄语
+|实装版本=3.7
+|相关角色=缇宝
+}}
+
+{{书籍/分卷
+|名称=一页寄语：缇宝
+|卷数=1
+|实装版本=3.7
+|获取方式=「岁月彼岸」一页永恒渐梦庭院界域定锚，与 {{图标|小|缇宝}}[[缇宝|缇安]]对话选择「有什么希望我铭记的东西吗？」并提交 1 个「时光硕果」获取。<br />{{图标|「时光硕果」}}需要通过完成虫鸣秘闻获取。在过往版本中完成的虫鸣秘闻，找到「岁月彼岸」一页永恒的衣匠领取对应的「时光硕果」。
+|内容=致亲爱的小灰：<br />
+<br />
+<p style="text-align: center">本来这封信说好了是缇宝来写。</p>
+<p style="text-align: center">但缇安也有很多话想跟你说！</p>
+<p style="text-align: center">最后，*我们*决定一人写一句…</p>
+<br />
+<p style="text-align: center">*我们*曾为散落四方的城邦传递预言。</p>
+<p style="text-align: center">*我们*曾为各处征战的黄金裔开启门扉！</p>
+<p style="text-align: center">*我们*曾在雅努斯的神殿聆听神谕…</p>
+<br />
+<p style="text-align: center">最后，是小灰完成了*我们*「逐火」的心愿。</p>
+<p style="text-align: center">小灰为我们打跑了黑潮里冒出来的坏蛋！</p>
+<p style="text-align: center">是小灰拯救了翁法罗斯的大家…</p>
+<br />
+<p style="text-align: center">所以，请收下这只缇宝的毛绒娃娃，</p>
+<p style="text-align: center">是缇安把棉花塞进娃娃里的，可辛苦了！</p>
+<p style="text-align: center">是缇宁一针一线，把它缝了起来…</p>
+<br />
+<p style="text-align: center">*我们*三个写的话已经够多啦，接下来，是一千个*我们*的祝愿：</p>
+<p style="text-align: center">愿你乘着西风，去往鲜花盛开的地方。不必为离别而悲伤，</p>
+<p style="text-align: center">我们——明天见！</p>
+<br />
+<p style="text-align: right">缇里西庇俄丝</p>
+}}

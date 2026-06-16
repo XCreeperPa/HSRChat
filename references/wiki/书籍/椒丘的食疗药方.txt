@@ -1,0 +1,73 @@
+{{书籍
+|书籍名=椒丘的食疗药方
+|卷数=1
+|编号=3096
+|描述=椒丘留给曜青将军侍者的几篇药方（或菜谱，或两者皆是的什么东西）。
+|所属=3
+|类型=拓印
+|实装版本=2.4
+|相关角色=椒丘、飞霄
+|相关任务=
+}}
+
+{{书籍/分卷
+|名称=椒丘的食疗药方
+|卷数=1
+|获取方式=长乐天神策府将军长椅上拾取
+|内容=<p style="text-align: center">椒丘留给曜青将军侍者的几篇菜谱</p>
+<br />
+…此方主温补，主正中气，对将军战后身体复元大有补益。<br />
+<br />
+配方如下：<br />
+''<p style="text-align: center">哈衣艾怡黄芪2钱</p>''
+''<p style="text-align: center">孔泰金花1钱</p>''
+''<p style="text-align: center">长乐白芨1钱</p>''
+''<p style="text-align: center">翁瓦克虫草干两株</p>''
+''<p style="text-align: center">丹参晒干磨粉2克</p>''
+''<p style="text-align: center">玉阙帝流浆3滴</p>''
+''<p style="text-align: center">取方壶汤海水用中号釜煎煮四时辰后去渣，取悬液</p>''
+''<p style="text-align: center">取朱明野生琼实鸟，去内脏焯水，除血沫</p>''
+''<p style="text-align: center">另取中釜放入葱姜蒜，方壶乌虺肉炖煮</p>''
+''<p style="text-align: center">大火烧开后小火慢煨一个时辰后出锅</p>''
+''<p style="text-align: center">去沫，只取清汤，点缀两三枚朱明枸杞即可</p>''
+<br />
+「将军宿疾已久，气血运行失常，易生躁怒，又兼久战脱力，体内出血，气脉淤滞。需赖长期调养，配合汤剂隔一旬服食一次。期间忌食生辛，晚餐最宜。」<br />
+<br />
+<br />
+…此方主安神、凉补、解毒明目，当作饭后甜点。对将军恢复感知协调有帮助。<br />
+<br />
+配方如下：<br />
+''<p style="text-align: center">匹诺康尼苏乐达一瓶，也可以用其他糖浆代替</p>''
+''<p style="text-align: center">青丘米适量</p>''
+''<p style="text-align: center">将青丘米煮至半透明，去水，另起锅煮至全透明</p>''
+''<p style="text-align: center">鳞渊藻胶2钱</p>''
+''<p style="text-align: center">熬煮成糖状备用</p>''
+''<p style="text-align: center">浮羊奶加塔拉萨青椰，煮熟备用</p>''
+''<p style="text-align: center">清心莲子4钱</p>''
+''<p style="text-align: center">方壶龙眼4钱</p>''
+''<p style="text-align: center">倒入青椰与奶</p>''
+''<p style="text-align: center">将除了果冻外的食材一起炖煮半个时辰至黏稠</p>''
+''<p style="text-align: center">出锅后放凉冰冻，加入糖冻布丁</p>''
+''<p style="text-align: center">辅波月薄荷点缀</p>''
+<br />
+<br />
+「将军神速疾驰易扰及心脑。故而除却双目调养，亦当辅以安神定志的药物。另用酸枣仁5钱、远志3钱、甘草1钱辅制凉茶熬煮作为药饮。」<br />
+<br />
+<br />
+…此方主调理体魄机能、疏散风热、延缓肌肉溶解症与钙化。<br />
+<br />
+配方如下：<br />
+''<p style="text-align: center">永狩原蕈豚后腿肉，切成段，焯水去血</p>''
+''<p style="text-align: center">塔拉萨蜣粉半勺</p>''
+''<p style="text-align: center">持明蜕生卵壳粉四分之一勺</p>''
+''<p style="text-align: center">方壶龙骨根2钱</p>''
+''<p style="text-align: center">脱水视肉半钱</p>''
+''<p style="text-align: center">石笋两枚，洗净待用</p>''
+''<p style="text-align: center">蕈豚腿骨肉与火姜片一同放入砂锅</p>''
+''<p style="text-align: center">取波月古海水，析出盐分。倒入砂锅炖煮一个时辰</p>''
+''<p style="text-align: center">去沫，再加入石笋和视肉干炖煮半个时辰</p>''
+''<p style="text-align: center">出锅时将药粉撒入汤中，配朱明黑胡椒驱除药味</p>''
+<br />
+<br />
+「将军病症之根，在于长久透支自身生元，肌腱之内，毒素未散，致使肌肉受损。需借由食补，以血气涤毒，修复肌骨。」
+}}

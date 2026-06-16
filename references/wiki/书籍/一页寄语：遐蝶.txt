@@ -1,0 +1,40 @@
+{{书籍
+|书籍名=一页寄语：遐蝶
+|卷数=1<!-- 仅填写数字 -->
+|编号=5146<!-- 按照游戏内显示顺序编号，第一位为所属编号，共四位 -->
+|描述=来自记忆中的星海，与礼物一同交予你手的寄语…笔迹隽秀，将一首小诗娓娓诉说。
+|所属=5
+|类型=寄语
+|实装版本=3.7
+|相关角色=遐蝶
+}}
+
+{{书籍/分卷
+|名称=一页寄语：遐蝶
+|卷数=1
+|实装版本=3.7
+|获取方式=「岁月彼岸」一页永恒煦光圃园界域定锚，与 {{图标|遐蝶}}对话选择「有什么希望我铭记的东西吗？」并提交 1 个「时光硕果」获取。<br />{{图标|「时光硕果」}}需要通过完成虫鸣秘闻获取。在过往版本中完成的虫鸣秘闻，找到「岁月彼岸」一页永恒的衣匠领取对应的「时光硕果」。
+|内容=致开拓者阁下：<br />
+<br />
+<p style="text-align: center">当寒风吹彻送来第一缕飘雪，</p>
+<p style="text-align: center">我们踏入泥泞荒原。</p>
+<p style="text-align: center">收殓将死的花瓣，</p>
+<p style="text-align: center">使它枯槁的哀荣，停柩于旅人的花冠。</p>
+<br />
+<p style="text-align: center">往返脚印，编织小径。</p>
+<p style="text-align: center">未曾想过，有一日我会戴上花冠，</p>
+<p style="text-align: center">走出雪境，那切割生死的晨昏线，</p>
+<p style="text-align: center">去往尚有余温的世间，</p>
+<p style="text-align: center">与人相拥时面露笑颜。</p>
+<br />
+<p style="text-align: center">在启程前，请捎上这副花冠吧。</p>
+<p style="text-align: center">它曾陪我行过漫漫长路，涉过幽冥的滩涂，</p>
+<p style="text-align: center">赶赴西风尽头，伫望世界的新生。</p>
+<br />
+<p style="text-align: center">愿那些花儿如翩跹的蝴蝶，</p>
+<p style="text-align: center">在你疲倦之时，停歇在你的额间，</p>
+<p style="text-align: center">愿生命的温软与你常伴。</p>
+<br />
+<br />
+<p style="text-align: right">遐蝶</p>
+}}

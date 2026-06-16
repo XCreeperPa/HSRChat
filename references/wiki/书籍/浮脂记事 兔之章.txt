@@ -1,0 +1,69 @@
+{{书籍
+|书籍名=浮脂记事 兔之章
+|卷数=2<!-- 仅填写数字 -->
+|编号=6022<!-- 按照游戏内显示顺序编号，第一位为所属编号，共四位 -->
+|描述=似乎是上古时代，诗还没有在古弁才天国消亡的时期，无名诗人留下的作品。这篇应该是其中一部的卷首。
+|所属=6
+|类型=卡带
+|实装版本=4.0
+|相关角色=
+|相关任务=
+}}
+
+{{书籍/分卷
+|名称=其一
+|卷数=1
+|实装版本=4.0
+|获取方式=完成绘世学院所有「浮脂溯源&bull;二次元ROTATE！」后，回到二维市@娱乐广场内进入「浮脂记事」的世界，拜访小兔子首领，获取阅读物。
+|内容=<p style="text-align: center">兔子在繁星间折跃</p>
+<p style="text-align: center">他们从不在一个位置停留</p>
+<p style="text-align: center">那时的兔子还是食肉动物</p>
+<p style="text-align: center">他们狩猎银河两岸的野牛</p>
+<p style="text-align: center">那时的兔子不在乎月亮</p>
+<p style="text-align: center">他们依靠变光的恒星完成导航</p>
+<p style="text-align: center"> </p>
+<p style="text-align: center">炎热的阵雨冲刷过鲸鱼的白骨</p>
+<p style="text-align: center">古老的身体上长起了参天大树</p>
+<p style="text-align: center">兔子就从这样的树下穿过</p>
+<p style="text-align: center">不曾抬头，只是赶路</p>
+<p style="text-align: center"> </p>
+<p style="text-align: center">没人知道在遥远的过去</p>
+<p style="text-align: center">兔子有没有吃掉天上的月亮</p>
+<p style="text-align: center">他们不曾欢笑，也从不在意悲伤</p>
+<p style="text-align: center">兔子只是追逐银河的季风</p>
+<p style="text-align: center">穿过落花的季节</p>
+<p style="text-align: center">一闪而过</p>
+}}
+
+{{书籍/分卷
+|名称=其五
+|卷数=1
+|实装版本=4.1
+|获取方式=完成观览云岛站的所有「浮脂溯源&bull;二次元ROTATE！」后回到二维市的「浮脂记事」的世界，拜访主题公园「绒绒队」的小动物首领获取。
+|内容=<p style="text-align: center">万能的月亮何时出现</p>
+<p style="text-align: center">重回故地的兔子讶异地望向天空</p>
+<p style="text-align: center">虚假的星球支配着真实的游戏</p>
+<p style="text-align: center">无害的规则里</p>
+<p style="text-align: center">吞食万物的异兽正阴暗爬行</p>
+<br />
+<p style="text-align: center">报纸无处可买</p>
+<p style="text-align: center">杂志更停刊许久</p>
+<p style="text-align: center">俱乐部关门歇业</p>
+<p style="text-align: center">电台也破产倒闭</p>
+<p style="text-align: center">这里到底发生了什么</p>
+<p style="text-align: center">兔子向幻造的机器发问</p>
+<br />
+<p style="text-align: center">猴子发明了手机</p>
+<p style="text-align: center">幻造的机器娓娓道来不急不徐</p>
+<p style="text-align: center">狐狸把它改造成流行品</p>
+<p style="text-align: center">青蛙再将它推销开去</p>
+<p style="text-align: center">现在所有的动物都只需要手指和眼睛</p>
+<p style="text-align: center">连嘴巴和耳朵都已经变得多余</p>
+<br />
+<p style="text-align: center">动物们把自己变成了饥饿艺术家</p>
+<p style="text-align: center">幻造的机器没有嘲讽也没有怜悯</p>
+<p style="text-align: center">它们不停地在手机上预约食物</p>
+<p style="text-align: center">却总也找不到称心如意的大餐</p>
+<p style="text-align: center">它们就这样扔掉一份份快递</p>
+<p style="text-align: center">忍着饥饿的肚皮继续滑动手指和眼睛</p>
+}}

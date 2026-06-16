@@ -1,0 +1,30 @@
+{{书籍
+|书籍名=记载着神秘仪式的卷轴
+|卷数=1
+|编号=5017
+|描述=破旧的卷轴，上面记载着某个流传已久的神秘仪式的步骤，并附带了不知名人士的批注
+|所属=5
+|类型=书籍
+|实装版本=3.0
+}}
+
+{{书籍/分卷
+|名称=记载着神秘仪式的卷轴
+|卷数=1
+|实装版本=3.0
+|获取方式=「永恒圣城」奥赫玛的云石天宫平面最南方眺望高台（可以通过3.0的常时传略[[「地宫迷踪」]]活动传送点直接传送到眺望高台），和摆在地面上的坐垫调查点交互获取。
+|内容=<p style="text-align: center">智慧的寻求者</p>
+<p style="text-align: center">遵循瑟希斯的法典</p>
+<br />
+<p style="text-align: center">孕育大地的精魄</p>
+<p style="text-align: center">''*纤细的笔迹：吉奥里亚的沃土*''</p>
+<br />
+<p style="text-align: center">生命之泉的祝福</p>
+<p style="text-align: center">''*纤细的笔迹：法吉娜的圣酿*''</p>
+<br />
+<p style="text-align: center">传承智慧的恩赐</p>
+<p style="text-align: center">''*纤细的笔迹：瑟希斯的树种*''</p>
+<br />
+<p style="text-align: center">献于巨树之下</p>
+<p style="text-align: center">智慧之眼将审视你的奉献予以恩赐</p>
+}}

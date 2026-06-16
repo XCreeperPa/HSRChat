@@ -1,0 +1,39 @@
+{{书籍
+|书籍名=浮脂飘零的年代
+|卷数=1<!-- 仅填写数字 -->
+|编号=6018<!-- 按照游戏内显示顺序编号，第一位为所属编号，共四位 -->
+|描述=似乎是上古时代，诗还没有在古弁才天国消亡的时期，无名诗人留下的作品。这篇应该是序。
+|所属=6
+|类型=卡带
+|实装版本=4.0
+|相关角色=
+|相关任务=
+}}
+
+{{书籍/分卷
+|名称=浮脂飘零的年代
+|卷数=1
+|实装版本=4.0
+|获取方式=第一次完成二相乐园任意一片区域的所有「浮脂溯源&bull;二次元ROTATE！」后，弹出本阅读物并收到来自查令店长的短信接取任务。完成任务[[浮脂飘零的年代]]后（只有一小段对话），本阅读物收录至游戏内书架。
+|内容=<p style="text-align: center">在日月山川如浮脂飘零的年代</p>
+<p style="text-align: center">漆黑的高天也不曾有它的名字</p>
+<p style="text-align: center">比神明还要古老的大鲸</p>
+<p style="text-align: center">在星星的沙滩上搁浅</p>
+<p style="text-align: center">有树从那里生长</p>
+<p style="text-align: center"> </p>
+<p style="text-align: center">人就是大地</p>
+<p style="text-align: center">是颤动的泥浆</p>
+<p style="text-align: center">从污秽的淤血里诞生</p>
+<p style="text-align: center">仰望着白雪的纯洁无暇</p>
+<p style="text-align: center">于是我们找来镜子和铅华</p>
+<p style="text-align: center">胭脂、礼服、珠宝还有假发</p>
+<p style="text-align: center">在日月山川如浮脂飘零的年代</p>
+<p style="text-align: center">我们在死去的大地上点亮欺人的灯光</p>
+<p style="text-align: center">将腐烂芦苇的沼泽装点成萤火满天的模样</p>
+<p style="text-align: center"> </p>
+<p style="text-align: center">浮脂飘零的年代</p>
+<p style="text-align: center">历史已经腐朽</p>
+<p style="text-align: center">浮脂飘零的年代</p>
+<p style="text-align: center">最精美的语言</p>
+<p style="text-align: center">还没有从我们嘴里诞生</p>
+}}

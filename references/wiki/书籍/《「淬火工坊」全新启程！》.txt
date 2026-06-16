@@ -1,0 +1,36 @@
+{{书籍
+|书籍名=《「淬火工坊」全新启程！》
+|卷数=1<!-- 填写数字 -->
+|描述=「淬火工坊」的巨幅广告，张贴的位置就像纸上那些极具冲击力的大字一样惹眼。
+|编号=2006<!-- 按照游戏内显示顺序编号，第一位为所属编号，共四位 -->
+|所属=2<!-- 选填数字：1=空间站「黑塔」2=雅利洛-Ⅵ 3=仙舟「罗浮」 -->
+|类型=资料<!-- 选填：书籍、资料、信件 -->
+}}
+
+{{书籍/分卷
+|名称=《「淬火工坊」全新启程！》
+|卷数=1
+|获取方式=雅利洛Ⅵ铆钉镇拾取
+|内容=
+<center><span style=font-size:17.5>回收旧零件、坏零件</span></center>
+<center><span style=font-size:17.5>废旧零件翻新</span></center>
+<center><span style=font-size:17.5>全新高精零件一应俱全</span></center>
+<center><span style=font-size:19.6>感恩十年陪伴，开业真情回馈</span></center>
+<center><span style=font-size:21.7>「淬火工坊」全新启程！</span></center>
+<br>
+<center>本店原名「废旧遗物鉴定回收」，专营各种古代遗物鉴定、维修及回收服务</center>
+<center>店铺虽小，却陪伴各位和铆钉镇一道走过风风雨雨</center>
+<center>也成为了铆钉镇的口碑好店</center>
+<center>现为回馈全体镇民热情支持</center>
+<center>从今日起，本店即将改名为<span style=font-size:17.5>「淬火工坊」</span></center>
+<center>在原有业务的基础上，更增加了</center>
+<center><span style=font-size:17.5>回收废旧零件翻新、</span></center>
+<center><span style=font-size:17.5>出售全新各品类高精零件</span></center>
+<center>等全新业务！</center>
+<br>
+<center><span style=font-size:17.5>3月28日开业大酬宾！</span></center>
+<center><span style=font-size:17.5>废旧零件低价换新！</span></center>
+<center><span style=font-size:17.5>精品零件买一送一！</span></center>
+<center><span style=font-size:17.5>口碑老店，品质无忧！</span></center>
+<center><span style=font-size:17.5>各位顾客朋友们快快行动起来吧！</span></center>
+}}

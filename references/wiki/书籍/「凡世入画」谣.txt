@@ -1,0 +1,46 @@
+{{书籍
+|书籍名=「凡世入画」谣
+|卷数=1<!-- 仅填写数字 -->
+|编号=6120<!-- 按照游戏内显示顺序编号，第一位为所属编号，共四位 -->
+|描述=幻造种们对幻造之母的颂词，歌唱「凡世入画」的壮举与画中世界的美好。
+|所属=6
+|类型=磁带
+|实装版本=4.3
+|相关角色=
+|相关任务=
+}}
+
+{{书籍/分卷
+|名称=「凡世入画」谣
+|卷数=1
+|实装版本=4.3
+|获取方式=渡画泉隐绘世商店街界域定锚，正前方小桌上拾取。
+|内容=<p style="text-align: center">''幻造种们对幻造之母的颂词，歌唱「凡世入画」的壮举与画中世界的美好。''</p>
+<br />
+<p style="text-align: center">昔有神女，行于荒原</p>
+<p style="text-align: center">描火摹光，抟造生灵</p>
+<p style="text-align: center">劫火不熄，终无长久</p>
+<p style="text-align: center">以海为卷，绘世万千</p>
+<p style="text-align: center">山海无棱，天地合一</p>
+<p style="text-align: center">点缀嬉笑，安抚哭啼</p>
+<p style="text-align: center">幻月不沉，鸽川不移</p>
+<p style="text-align: center">天魔弗近，百世太平</p>
+<br />
+<p style="text-align: center">画中众众，得享喜乐</p>
+<p style="text-align: center">日月同辉，不见泪滴</p>
+<p style="text-align: center">月眠轻舞，轻脚安眠</p>
+<p style="text-align: center">雷虬驰骋，幽异齐歌</p>
+<p style="text-align: center">幼而不疾，老而不疲</p>
+<p style="text-align: center">五世同堂，其乐融融</p>
+<p style="text-align: center">更有绘者，勾勒新芽</p>
+<p style="text-align: center">食无尽头，居无边际</p>
+<br />
+<p style="text-align: center">画中众众，得见月盈</p>
+<p style="text-align: center">谒神者笑，观神者喜</p>
+<p style="text-align: center">点拨时光，窃走云翳</p>
+<p style="text-align: center">幻造新种，游乐人间</p>
+<p style="text-align: center">悠哉，悠哉，新意不绝</p>
+<p style="text-align: center">乐极，乐极，阿哈垂青</p>
+<p style="text-align: center">乐园何处？欢愉何处？</p>
+<p style="text-align: center">此即乐园！此即欢愉！</p>
+}}

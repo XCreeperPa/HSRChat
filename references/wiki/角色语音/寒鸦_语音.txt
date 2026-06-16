@@ -1,0 +1,479 @@
+{{角色语音表头|寒鸦|未完善=是}}
+== 正式语音 ==
+{{切换板|开始}}
+{{切换板|默认显示|互动语音}}
+{{切换板|默认折叠|战斗语音}}
+{{切换板|显示内容}}
+{{角色语音
+|语音类型=初次见面
+|语音文件=寒鸦-初次见面
+|语音内容=小女子乃是十王敕使「寒鸦」，列名拘、锁、刑、问四位判官之末。多得十王赏识，能执掌天笔，录罪判罚。
+|语音内容日语=私は十王の使者、寒鴉。拘、鎖、刑、問のうち、最後を担当する判官。十王に認められ、天筆を執り、罪を記録して罰を判断してる。
+|语音内容英语=I am Hanya, envoy of the Ten Lords. Out of the four duties of a judge — detention, interrogation, incarceration, and punishment — I am in charge of interrogation. Held in high esteem by the Ten Lords, I am the wielder of the Oracle Brush, recording crimes and punishments.
+|语音内容韩语=소녀 시왕의 칙사 「한아」로 체포, 구금, 처벌, 심문, 4부문 중 마지막을 담당하는 판관입니다. 시왕의 인정을 받아 천필을 관장하며 죄를 기록하고 처벌할 수 있죠
+}}
+{{角色语音
+|语音类型=问候
+|语音文件=寒鸦-问候
+|语音内容=许久未见了。近来还好吧？我近来不太好，但鉴于我一直都不太好，倒是也无妨。
+|语音内容日语=久しぶり、元気だった？私はあんまり元気じゃない。でもずっと元気じゃないから、特に問題はないかな。
+|语音内容英语=It's been a while. How have you been? I can't say I've been doing well lately myself, but that's normal for me.
+|语音内容韩语=오랜만이네요. 요즘 잘 지내세요? 전 잘 못 지내지만, 항상 안 좋았던 걸 생각해 보면 그럭저럭 괜찮은 편인 것 같아요
+}}
+{{角色语音
+|语音类型=道别
+|语音文件=寒鸦-道别
+|语音内容=下次再见吧…不，还是不要再见比较好，遇到我总不会有什么好事的。
+|语音内容日语=また今度…ううん、やっぱりもう会わないほうがいいかもしれない。私に会うとよくないことが起きるから。
+|语音内容英语=See you next time... no, it's better if there is no next time. It's never a good thing to run into me.
+|语音内容韩语=다음에 봬요…. 아니, 다시는 만나지 말아요. 절 만나면 안 좋은 일만 생길 거예요
+}}
+{{角色语音
+|语音类型=关于自己•姐妹
+|语音文件=寒鸦-关于自己•姐妹
+|语音内容=「寒鸦」与「雪衣」是我们身为十王敕使的代号，以前的名字…已经是以前的事情了。但我始终只有姐姐一个家人，我不会让她再离开第二次。
+|语音内容日语=「寒鴉」と「雪衣」は十王の使者としての私たちの呼び名で、前の名前は…もう過去のもの。でも、私の家族は今も昔もお姉ちゃんだけ。もう二度とお姉ちゃんを離したりしない……
+|语音内容英语="Hanya" and "Xueyi" are our code names as the envoys of the Ten Lords. Our previous names... are already in the past. But I've always had only one family member, my sister, and I won't let her leave a second time.
+|语音内容韩语=「한아」와 「설의」는 시왕의 칙사로서 우리가 사용하는 이름이에요. 옛날 이름은… 과거일 뿐이죠. 하지만 언제나 제게 가족이라곤 언니 하나밖에 없었어요. 다시는 언니가 떠나지 못하게 할 거예요
+}}
+{{角色语音
+|语音类型=闲谈•工作
+|语音文件=寒鸦-闲谈•工作
+|语音内容=以梦占判读魔阴身的罪业，便如触摸带刺的荆棘，摸得多便不觉得疼。又或许是…因为担心疼痛而事先让自己变得麻木罢了……
+|语音内容日语=夢で魔陰の身の罪を判読するのは、荊棘に触れるようなもの。触れれば触れるほど痛みを感じなくなる。もしかしたら…私は痛いのが怖くて、先に自分を鈍感にしたのかもしれない……
+|语音内容英语=Using dreams to analyze the sins of the mara-struck is like touching a vine with thorns — it doesn't hurt as much when your fingers become numb. Or maybe it's the mind that becomes numb first...
+|语音内容韩语=꿈점으로 마각의 몸이 지은 죄업을 분석하는 건, 가시덤불을 만지는 것과 같아서 자주 만지면 오히려 고통이 무뎌지죠. 어쩌면… 아픔을 걱정해 되레 무감각해진 걸 수도 있고요……
+}}
+{{角色语音
+|语音类型=闲谈•十王司
+|语音文件=寒鸦-闲谈•十王司
+|语音内容=没人知道十王司选拔人才的方法，很多人不记得自己是怎么进来的，甚至不记得自己曾经做过什么。但既然世人也不必再见到他们，这对彼此来说未尝不是件好事。
+|语音内容日语=十王司が人材を選抜する方法は誰も知らない。ほとんどの人は自分がどうやって十王司に入ったのかも、過去に何をしていたのかも覚えてないの。世の中の人が彼らに会う必要がなくなったのは、お互いにとっていいことかもしれない。
+|语音内容英语=No one knows how the Ten-Lords Commission selects its talent, and many of its members don't remember how they got in or even what their previous occupation was. But since they don't need to show their faces to the outside world, it's not a bad state of affairs.
+|语音内容韩语=시왕사가 인재를 선발하는 기준이 뭔지는 아무도 몰라요. 많은 사람들은 자신이 어떻게 들어왔는지, 심지어 자신이 예전에 뭘 했었는지조차 기억하지 못하죠. 하지만 세상 사람들도 그들을 다시 볼 필요가 없으니, 서로에게 좋은 일 같아요
+}}
+{{角色语音
+|语音类型=爱好
+|语音文件=寒鸦-爱好
+|语音内容=有时会在本子上记录一些平日的见闻…这样等见到姐姐的时候，便可以讲给她听。
+|语音内容日语=時々、日常の出来事を冊子に書き留めておくの…そうすれば、お姉ちゃんに会った時に聞かせてあげられるから。
+|语音内容英语=Sometimes I record my daily experiences in a book... that way when I see my sister, I can tell her about them.
+|语音内容韩语=가끔 공책에 평소의 견문을 기록해요…. 그럼 언니를 만났을 때 이 모든 걸 들려줄 수 있잖아요
+}}
+{{角色语音
+|语音类型=烦恼
+|语音文件=寒鸦-烦恼
+|语音内容=姐姐和十王司约定，每羁押凶徒一人能得享还阳半日，那便是世界上最美好的时光。可美好的时光却总是那么短暂，短暂得像指缝中的水，手握得越紧，水越会流走……
+|语音内容日语=お姉ちゃんは十王司と、犯人を捕らえるたびに半日還陽できるという取り決めを交わした。あれは世界で最も素晴らしい時間…でも、そういう時間はいつも短い。まるで水を掴んでいるみたいに、いくら強く握り締めても流れ出ていく……
+|语音内容英语=Xueyi and the Ten-Lords Commission came to an agreement that for every villain she arrested, she can go back to the world of the living for half a day. That is the best time in the world. But the good times are always so short, like holding water in your fist — the tighter you clench your fingers, the faster the water escapes...
+|语音内容韩语=시왕사는 언니가 범인을 잡아 올 때마다 반나절을 환생시켜 주기로 약속했고, 그 시간은 세상에서 가장 아름다운 시간이에요. 하지만 아름다운 시간은 항상 손에 쥔 물처럼 빨리 흘러가죠. 손을 꽉 쥘수록 물은 더 빨리 빠져나가 버리고요……
+}}
+{{角色语音
+|语音类型=分享
+|语音文件=寒鸦-分享
+|语音内容=这判官做得越久，越是明白一个事实——这世上的众人，无一不是戴罪之躯。
+|语音内容日语=判官を長く続ければ続けるほど、ある事実がわかってくる——それは、この世に生きる人々は誰もが罪を背負っているということ。
+|语音内容英语=The longer one works as a judge, the more they understand one fact — of all the people in this world, none is without blemish.
+|语音内容韩语=판관을 하면 할수록 한 가지 사실은 명확해지는 것 같아요——이 세상 사람들 중에 죄 없는 육신은 없다는 사실 말이에요
+}}
+{{角色语音
+|语音类型=见闻
+|语音文件=寒鸦-见闻
+|语音内容=你观察过洞天的天空是如何变化的吗？即使明知是虚假的景观，每当经过几日几夜的梦占，走出因果殿，凝望那些明灭闪烁，心里仍会平静许多。
+|语音内容日语=洞天の空がどうやって変化するか観察したことはある？たとえ偽りの景観だとわかっていても、何日か夢占をした後に因果殿を出て、あの明滅を見ると…少し心が落ち着くんだ。
+|语音内容英语=Have you ever observed how the sky in the delve changes? Even knowing it's an artificial scenery, whenever you walk out of the Hall of Karma after days and nights of dream divinations and gaze at those bright and flickering stars, you will still feel a great calmness in your heart.
+|语音内容韩语=동천의 하늘이 어떻게 변하는지 관찰해 본 적 있나요? 거짓된 광경이라는 걸 알면서도 며칠 밤을 새워가며 꿈점을 보죠. 인과의 전당을 빠져나와서 반짝이는 빛을 바라보면 마음이 한결 편안해져요
+}}
+{{角色语音
+|语音类型=关于雪衣
+|语音文件=寒鸦-关于雪衣
+|语音内容=你去过幽囚狱吗？到处都是漆黑一团，只有冥差身边会悬一盏灯，带来难得的光亮。于我而言，这尘世是幽囚狱，而姐姐是那盏灯。
+|语音内容日语=幽囚獄に行ったことはある？あそこはどこもかしこも真っ暗で、冥差の近くにだけ灯りがあって、得難い光をもたらしてくれる。私にとって、この世が幽囚獄で、お姉ちゃんが灯りなの。
+|语音内容英语=Have you ever been to The Shackling Prison? The whole place is pitch black, except for the light cast by the occasional spiritfarer's lamp. To me, this mortal world is the prison, and my sister is the lamp.
+|语音内容韩语=유폐옥에 가봤나요? 사방이 온통 칠흑 같은 어둠인데, 명관 곁에만 등불이 있어 희미한 빛을 밝혀주죠. 제겐 이 속세가 유폐옥이고 언니는 그 등불이에요
+}}
+{{角色语音
+|语音类型=关于藿藿
+|语音文件=寒鸦-关于藿藿
+|语音内容=十王司的判官尽是些天残地缺之人，这孩子也不例外。她虽然为人比较怯懦，但真本事还是有几分的。万不能小瞧了她，容易吃亏。
+|语音内容日语=十王司の人たちは大抵どこか欠けている。フォフォも例外じゃない。彼女は臆病だけど、間違いなく実力がある。甘く見ていると損をするから、気を付けて。
+|语音内容英语=The judges of the Ten-Lords Commission are all people who suffer from some affliction or another, and this child is no exception. She might be timid, but she is very capable at work. It would be unwise to underestimate her.
+|语音内容韩语=시왕사의 판관들은 모두 산전수전 다 겪은 사람들이고, 그 아이도 예외는 아니죠. 곽향이 조금 소심하긴 해도 능력은 괜찮아요. 우습게 봤다간 큰코다칠걸요?
+}}
+{{角色语音
+|语音类型=关于景元
+|语音文件=寒鸦-关于景元
+|语音内容=将军实在经历了太多，很多事单拎出来，都足以击垮一个普通仙舟人的精神了…但他的状况似乎还好，大概是有自己的办法吧。
+|语音内容日语=将軍はあまりにも多くのことを経験してきた。そのどれを取っても、普通の仙舟人の精神を打ち砕くには十分なのに…彼の状況は悪くない。たぶん自分なりの方法があるんだと思う。
+|语音内容英语=The general has experienced many hardships, any one of which would be enough to break the spirit of an ordinary Xianzhou citizen... but he seems to handle it all with grace. He must have his own way of coping.
+|语音内容韩语=장군은 산전수전 다 겪었어요. 웬만한 선주 사람이라면 그가 겪은 일 중 하나만 겪어도 정신상태가 무너졌겠죠…. 그래도 장군의 상태가 괜찮아 보이는 건 아마 자신만의 방법이 있어서일 거예요
+}}
+{{角色语音
+|语音类型=关于刃
+|语音文件=寒鸦-关于刃
+|语音内容=这个人像是用自己的记忆抄写了一遍《仙舟律》，难得有长生种背负了这么多的罪业，还能维持神志清醒…等姐姐抓住他后，我定要细细判读他的罪业。
+|语音内容日语=彼は自分の記憶に『仙舟律』を書き写して、それを手当たり次第に犯してるみたい。これだけの罪を背負いながら、正気を保っていられる長命種は珍しい…お姉ちゃんが彼を捕まえたら、罪業を詳しく判読しないと。
+|语音内容英语=This man has violated every statute in the Xianzhou Legal Code. It is rare to find a long-life individual who carries such a crime-ridden history and still maintains his sanity... Once my sister catches him, I'll examine his crimes in detail.
+|语音内容韩语=이 사람은 마치 자신의 기억으로 ≪선주율≫을 필사한 것만 같아요. 장수종이 이렇게 많은 죄업을 짊어지고도 제정신을 유지한다는 건 드문 일이죠…. 언니가 그를 잡아 오면 꼭 그의 죄업을 자세히 읽어보려고요
+}}
+{{角色语音
+|语音类型=关于白露
+|语音文件=寒鸦-关于白露
+|语音内容=持明的肉身轮回，却能在离去前将记忆和罪业付于古海，实在令人艳羡。不过龙女似乎与别的持明不同…她身上背负着自极远极远的岁月中流传下的重荷，光是看一眼就叫人透不过气来。
+|语音内容日语=持明族の肉体は輪廻するうえに、逝く時に記憶と罪を古海に委ねることができるなんて、本当に羨ましい。でも龍女だけは他の持明族と違う…彼女は遥か遠い昔から受け継いだ重荷を背負っていて、見ているだけで息苦しくなる。
+|语音内容英语=The ability of the Vidyadhara to cast their memories and past sins to the Lunarescent Depths before reincarnating is truly enviable. But the Dragon Lady seems to be different from other Vidyadhara... She carries a heavy burden that has been passed down since long, long ago, and getting just a glimpse of it can be suffocating.
+|语音内容韩语=비디아다라의 육신은 윤회하면서 떠나기 전 기억과 죄업을 고해에 바칠 수 있다던데, 정말 부러워요. 용녀는 좀 다른 것 같던데…. 백로에겐 아주 오래전부터 전해져 내려오는 무거운 짐이 있죠. 보는 것만으로도 숨이 턱턱 막힌다니까요
+}}
+{{角色语音
+|语音类型=关于驭空
+|语音文件=寒鸦-关于驭空
+|语音内容=狐人的生命不过三百余载，但却胜过近千岁却碌碌无为的仙舟人…淡忘了对死亡的感知，生命也就毫无意义可言。寿瘟祸祖为生命带来的祸害，便在于此。
+|语音内容日语=狐族の寿命は300年くらいしかないけど、何もしないで1000年近く生きている仙舟人より凄いと思う…死の認識が薄れると、生命は意義を失うと言っても過言じゃない。これが、寿禍が生命にもたらした災いなの。
+|语音内容英语=The foxian lifespan is only 300 years, but that is better than the Xianzhou natives who spend nearly a thousand years bumbling around... When one has forgotten the concept of death, life also becomes meaningless. Such is the curse placed by the Plagues Author.
+|语音内容韩语=여우족의 수명은 300여 년밖에 안 되지만, 천 살 가까이 먹으면서 아무것도 이루는 게 없는 선주 사람들보다 낫죠…. 죽음에 대한 감각을 잊으면 생명이 무의미하거든요. 역병 재앙신이 생명에 가져온 재앙은 바로 이거예요
+}}
+{{角色语音
+|语音类型=关于罗刹
+|语音文件=寒鸦-关于罗刹
+|语音内容=背着棺椁，是为了时刻提醒自己被死亡追赶么？这一点倒是与十王司判官相似，我们身入死地，是为仙舟人换取生之尊严。
+|语音内容日语=棺を背負っているのは、自分は死に追われていると言い聞かせるため？その点に関しては十王司と似ているかもしれない。私たちが死地に入るのは、仙舟人の生きる威厳を手に入れるためだから。
+|语音内容英语=Why does someone carry a coffin around? Is it to remind yourself of constantly being chased by death? This is similar to the judges of the Ten-Lords Commission — we enter the land of the dead to bring the dignity of life to the Xianzhou people.
+|语音内容韩语=관을 메고 있는 건 죽음에 쫓기고 있음을 항상 일깨워 주기 위한 걸까요? 그 점은 시왕사 판관과 비슷하네요. 우리가 사지에 발을 들이는 건 선주 사람에게 삶의 존엄성을 주기 위해서거든요
+}}
+{{角色语音
+|语音类型=关于尾巴
+|语音文件=寒鸦-关于尾巴
+|语音内容=将岁阳封印在藿藿身体里的法子，罗浮上虽不多见，其他仙舟上可不少…详细的，我不方便多说。
+|语音内容日语=歳陽をフォフォの身体に封じた術は、羅浮では珍しいけど、他の仙舟ではそうでもない…詳しいことは、私からは言えない。
+|语音内容英语=The technique for sealing a heliobus inside Huohuo's tail, though seldom seen on the Luofu, is not so uncommon on other Xianzhou ships... though I really shouldn't divulge too many details.
+|语音内容韩语=곽향의 몸에 세양을 봉인한 방법은 나부에서는 드물지만, 다른 선주에는 꽤 흔하죠…. 자세한 건, 말할 수 없어요
+}}
+{{角色语音
+|语音类型=星魂激活
+|语音文件=寒鸦-星魂激活
+|语音内容=冥冥梦兆之中，一颗天星照亮了我。
+|语音内容日语=ぼんやりとした夢兆の中で、1つの星が私を照らした。
+|语音内容英语=In the obscure prophecy of dream, a star from the heavens has enlightened my path.
+|语音内容韩语=어두운 꿈속에서 별빛이 절 비췄어요
+}}
+{{角色语音
+|语音类型=角色晋阶
+|语音文件=寒鸦-角色晋阶
+|语音内容=精进公务是应该的，只是，疲惫也是疲惫的……
+|语音内容日语=公務に精進するのは当然だけど、疲れるものは疲れる……
+|语音内容英语=While devotion to public tasks is a must, this fatigue is somewhat... overwhelming...
+|语音内容韩语=공무에 매진하는 건 당연한 일이죠. 다만, 피곤하긴 피곤하네요……
+}}
+{{角色语音
+|语音类型=角色满级
+|语音文件=寒鸦-角色满级
+|语音内容=等等等等…寒鸦承受不住那么多信息……
+|语音内容日语=待って待って…こんなにたくさんの情報は耐えられない……
+|语音内容英语=Wait, wait, wait... That's too much information to process...
+|语音内容韩语=잠깐, 잠깐만요… 그렇게 많은 정보는 감당이 안 돼요……
+}}
+{{角色语音
+|语音类型=行迹激活
+|语音文件=寒鸦-行迹激活
+|语音内容=判官每落一笔干系万千业报，不得不慎重啊……
+|语音内容日语=判官の一筆はたくさんの業報に関わる。慎重にならざるを得ない……
+|语音内容英语=Every stroke penned by a judge is tied to infinite karmic outcomes — one must proceed with great care...
+|语音内容韩语=판관의 글 한 줄에 수많은 업보가 달렸으니, 신중해야죠……
+}}
+{{角色语音
+|语音类型=队伍编成•雪衣
+|语音文件=寒鸦-队伍编成•雪衣
+|语音内容=姐姐，速速判罚罪业后，同我一起走走？
+|语音内容日语=お姉ちゃん、罪業の判決が終わったら散歩しよう？
+|语音内容英语=Sister, once you've passed down your judgments, why not join me for a stroll?
+|语音内容韩语=언니, 판결을 빨리 마치고 나랑 놀러 갈래?
+}}
+{{角色语音
+|语音类型=队伍编成•白露
+|语音文件=寒鸦-队伍编成•白露
+|语音内容=是龙女啊…若有提神醒脑的药剂，替我备着些，多谢多谢……
+|语音内容日语=龍女様…頭をすっきりさせる薬がほしい……
+|语音内容英语=Ah, Dragon Lady... If you have any energizing potions at hand, could you set aside some for me? Thank you...
+|语音内容韩语=용녀님… 정신을 말짱하게 해주는 약이 있다면 준비해 주세요. 감사해요……
+}}
+{{角色语音
+|语音类型=队伍编成•藿藿
+|语音文件=寒鸦-队伍编成•藿藿
+|语音内容=藿藿也在啊…最近工作如何，顺利吗…尾巴如何，安分吗…运势如何，有好转吗……
+|语音内容日语=フォフォもいるんだ…仕事は順調？シッポはおとなしくしてる？運勢は好転した？
+|语音内容英语=Huohuo, you're here... How is work? Under control...? And Tail... not causing trouble I hope?
+|语音内容韩语=곽향도 있었네…. 요새 일은 잘 돼가…? 꼬리는 얌전히 있니…? 운세 어때? 좀 좋아졌어……?
+}}
+{{切换板|内容结束}}
+{{切换板|折叠内容}}
+{{角色语音
+|语音类型=战斗开始•弱点击破
+|语音文件=寒鸦-战斗开始•弱点击破
+|语音内容=束手就缚罢。
+|语音内容日语=抵抗は無駄。
+|语音内容英语=Give it up.
+|语音内容韩语=그만 포기해
+}}
+{{角色语音
+|语音类型=战斗开始•弱点击破(2x)
+|语音文件=寒鸦-战斗开始•弱点击破-2x
+|语音内容=
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=战斗开始•危险预警
+|语音文件=寒鸦-战斗开始•危险预警
+|语音内容=罪业的气息很重啊…
+|语音内容日语=罪業の気配が濃い…
+|语音内容英语=Ugh, the smell of sin is thick...
+|语音内容韩语=죄업의 기운이 강하군…
+}}
+{{角色语音
+|语音类型=战斗开始•危险预警(2x)
+|语音文件=寒鸦-战斗开始•危险预警-2x
+|语音内容=
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=回合开始•一
+|语音文件=寒鸦-回合开始•一
+|语音内容=你没意识到事态严重……
+|语音内容日语=事の重大さに気づいてないんだ…
+|语音内容英语=You don't know how serious this is...
+|语音内容韩语=사태의 심각성을 모르나 보네……
+}}
+{{角色语音
+|语音类型=回合开始•一(2x)
+|语音文件=寒鸦-回合开始•一-2x
+|语音内容=
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=回合开始•二
+|语音文件=寒鸦-回合开始•二
+|语音内容=还要抵赖？你的恶业清清楚楚。
+|语音内容日语=あなたの罪は全部知ってる。
+|语音内容英语=You still deny your sins? They're clear as day.
+|语音内容韩语=아직도 발뺌이야? 네 죄는 명백해
+}}
+{{角色语音
+|语音类型=回合开始•二(2x)
+|语音文件=寒鸦-回合开始•二-2x
+|语音内容=
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=回合待机
+|语音文件=寒鸦-回合待机
+|语音内容=啊，能在这儿站一会什么也不做真是太好了，一想到要回到因果殿翻阅如山如堵的罪业档案我就忍不住希望这一刻能永远永远永远持续下去……
+|语音内容日语=ああ、ここでぼーっとしてるのってすごくいい。因果殿に戻って山のように積まれた罪業帳なんて読みたくない、この時間がずっと続けばいいのに……
+|语音内容英语=It's so good to stand here and do nothing. The mere thought of having to return to mountains of criminal reports in the Hall of Karma makes me wish I could stand here for ever and ever and ever...
+|语音内容韩语=하아, 이렇게 아무것도 안 하니까 너무 좋네. 인과의 전당으로 돌아가 산더미 같은 죄업 문서를 읽어야 한다고 생각하니, 이 순간이 영원했으면 좋겠어…
+}}
+{{角色语音
+|语音类型=战技•一
+|语音文件=寒鸦-战技•一
+|语音内容=我代十王判罚。
+|语音内容日语=十王に代わり罰を下す。
+|语音内容英语=I shall judge you for the Ten Lords.
+|语音内容韩语=시왕을 대신해 심판한다
+}}
+{{角色语音
+|语音类型=战技•一(2x)
+|语音文件=寒鸦-战技•一-2x
+|语音内容=
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=战技•二
+|语音文件=寒鸦-战技•二
+|语音内容=细思你的罪业。
+|语音内容日语=自分の罪に向き合うといい。
+|语音内容英语=Recount your sins.
+|语音内容韩语=네 죄업을 잘 생각해
+}}
+{{角色语音
+|语音类型=战技•二(2x)
+|语音文件=寒鸦-战技•二-2x
+|语音内容=
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=轻受击
+|语音文件=寒鸦-轻受击
+|语音内容=你可知罪？
+|语音内容日语=罪を認める？
+|语音内容英语=Sinful.
+|语音内容韩语=네 죄를 알려나?
+}}
+{{角色语音
+|语音类型=重受击
+|语音文件=寒鸦-重受击
+|语音内容=罪加一等……
+|语音内容日语=重罪に値する……
+|语音内容英语=New crimes...
+|语音内容韩语=죄가 더 늘었군……
+}}
+{{角色语音
+|语音类型=终结技•激活
+|语音文件=寒鸦-终结技•激活
+|语音内容=幽府判罚，命尔臂助……
+|语音内容日语=幽府が定めし処罰、援護を命じる……
+|语音内容英语=By the will of the Ten Lords...
+|语音内容韩语=명부의 심판에 따라 명하니……
+}}
+{{角色语音
+|语音类型=终结技•施放
+|语音文件=寒鸦-终结技•施放
+|语音内容=十王敕令，在此成书。
+|语音内容日语=十王の勅、ここに書と成る。
+|语音内容英语=The Ten Lords decree — hereby ordained!
+|语音内容韩语=시왕의 칙령은 이곳에 쓰이리라
+}}
+{{角色语音
+|语音类型=终结技•施放(2x)
+|语音文件=寒鸦-终结技•施放-2x
+|语音内容=
+|语音内容日语=
+|语音内容英语=
+|语音内容韩语=
+}}
+{{角色语音
+|语音类型=无法战斗
+|语音文件=寒鸦-无法战斗
+|语音内容=姐姐，我……
+|语音内容日语=お姉…ちゃん…
+|语音内容英语=Sister, I...
+|语音内容韩语=언니, 난……
+}}
+{{角色语音
+|语音类型=重回战斗
+|语音文件=寒鸦-重回战斗
+|语音内容=有差事没办完…又还阳了。
+|语音内容日语=仕事が終わってないから…戻ってきた。
+|语音内容英语=There's unfinished business... Back to the world of the living.
+|语音内容韩语=공무가 아직인데… 또 환생이군
+}}
+{{角色语音
+|语音类型=回复生命
+|语音文件=寒鸦-回复生命
+|语音内容=我会记下您的善举。
+|语音内容日语=あなたの善行は覚えておく。
+|语音内容英语=I will remember your kindness.
+|语音内容韩语=네 선행을 기록해 둘게
+}}
+{{角色语音
+|语音类型=秘技
+|语音文件=寒鸦-秘技
+|语音内容=群邪避让。
+|语音内容日语=群邪退散。
+|语音内容英语=Yield.
+|语音内容韩语=악이여 물러나라
+}}
+{{角色语音
+|语音类型=战斗胜利
+|语音文件=寒鸦-战斗胜利
+|语音内容=十王垂庇，无往不胜。
+|语音内容日语=十王の勅を以て、向かうところ敵なし。
+|语音内容英语=The Ten Lords' favor grants victory.
+|语音内容韩语=시왕이 보우하사 언제나 승리하리
+}}
+{{角色语音
+|语音类型=开启战利品•一
+|语音文件=寒鸦-开启战利品•一
+|语音内容=我没兴趣。
+|语音内容日语=興味ない。
+|语音内容英语=This doesn't intrigue me.
+|语音内容韩语=관심 없어요
+}}
+{{角色语音
+|语音类型=开启战利品•二
+|语音文件=寒鸦-开启战利品•二
+|语音内容=快点收拾吧。
+|语音内容日语=早く片付けて。
+|语音内容英语=Quick, take it.
+|语音内容韩语=어서 챙기세요
+}}
+{{角色语音
+|语音类型=开启贵重战利品
+|语音文件=寒鸦-开启贵重战利品
+|语音内容=姐姐应该喜欢。
+|语音内容日语=お姉ちゃんが好きそう。
+|语音内容英语=Sister would love this.
+|语音内容韩语=언니가 분명 좋아할 거야
+}}
+{{角色语音
+|语音类型=解谜成功•一
+|语音文件=寒鸦-解谜成功•一
+|语音内容=结束了，继续前进吧。
+|语音内容日语=終わった、先に進もう。
+|语音内容英语=Done. Let's keep going.
+|语音内容韩语=끝났어, 앞으로 가보자
+}}
+{{角色语音
+|语音类型=解谜成功•二
+|语音文件=寒鸦-解谜成功•二
+|语音内容=已无需逗留此处，下一个。
+|语音内容日语=もうここに留まる必要はない。次に行こう。
+|语音内容英语=Let us not waste time here... Onward.
+|语音内容韩语=여기 볼일은 다 봤어요, 다음
+}}
+{{角色语音
+|语音类型=发现敌方目标
+|语音文件=寒鸦-发现敌方目标
+|语音内容=此等恶业深重之物，不可放过。
+|语音内容日语=これほどの悪を見逃すわけにはいかない。
+|语音内容英语=We cannot let such a sinful creature be.
+|语音内容韩语=악업에 찌든 건 지나칠 수 없지
+}}
+{{角色语音
+|语音类型=返回城镇
+|语音文件=寒鸦-返回城镇
+|语音内容=不会吧不会吧这就要回到因果殿了吗我不行我不可以除非…姐姐在。
+|语音内容日语=もう因果殿に戻らないといけないの…お姉ちゃんがいないなら戻りたくない。
+|语音内容英语=No, no, no — must I return to the Hall of Karma so soon? I can't — I can't do it unless... unless sister is with me.
+|语音内容韩语=설마 인과의 전당으로 돌아가야 하는 건 아니겠지? 안돼! 난 언니 없이는… 안돼
+}}
+{{切换板|内容结束}}
+{{切换板|结束}}
+== 无文本语音 ==
+{| class="wikitable" style="width:100%"
+|-
+! 语音类型 !! 中 !! 日 !! 英 !! 韩
+|-
+| style="width:25%;text-align:center" | 触发战斗
+| {{player|寒鸦-触发战斗•一}}{{player|寒鸦-触发战斗•二}}{{player|寒鸦-触发战斗•三}}
+| {{player|日-寒鸦-触发战斗•一}}{{player|日-寒鸦-触发战斗•二}}{{player|日-寒鸦-触发战斗•三}}
+| {{player|英-寒鸦-触发战斗•一}}{{player|英-寒鸦-触发战斗•二}}{{player|英-寒鸦-触发战斗•三}}
+| {{player|韩-寒鸦-触发战斗•一}}{{player|韩-寒鸦-触发战斗•二}}{{player|韩-寒鸦-触发战斗•三}}
+|-
+| style="width:25%;text-align:center" | 普攻
+| {{player|寒鸦-普攻-无文本•一}}{{player|寒鸦-普攻-无文本•二}}{{player|寒鸦-普攻-无文本•三}}{{player|寒鸦-普攻-无文本•四}}
+| {{player|日-寒鸦-普攻-无文本•一}}{{player|日-寒鸦-普攻-无文本•二}}{{player|日-寒鸦-普攻-无文本•三}}{{player|日-寒鸦-普攻-无文本•四}}
+| {{player|英-寒鸦-普攻-无文本•一}}{{player|英-寒鸦-普攻-无文本•二}}{{player|英-寒鸦-普攻-无文本•三}}{{player|英-寒鸦-普攻-无文本•四}}
+| {{player|韩-寒鸦-普攻-无文本•一}}{{player|韩-寒鸦-普攻-无文本•二}}{{player|韩-寒鸦-普攻-无文本•三}}{{player|韩-寒鸦-普攻-无文本•四}}
+|-
+| style="width:25%;text-align:center" | 轻受击
+| {{player|寒鸦-轻受击-无文本•一}}{{player|寒鸦-轻受击-无文本•二}}{{player|寒鸦-轻受击-无文本•三}}{{player|寒鸦-轻受击-无文本•四}}
+| {{player|日-寒鸦-轻受击-无文本•一}}{{player|日-寒鸦-轻受击-无文本•二}}{{player|日-寒鸦-轻受击-无文本•三}}{{player|日-寒鸦-轻受击-无文本•四}}
+| {{player|英-寒鸦-轻受击-无文本•一}}{{player|英-寒鸦-轻受击-无文本•二}}{{player|英-寒鸦-轻受击-无文本•三}}{{player|英-寒鸦-轻受击-无文本•四}}
+| {{player|韩-寒鸦-轻受击-无文本•一}}{{player|韩-寒鸦-轻受击-无文本•二}}{{player|韩-寒鸦-轻受击-无文本•三}}{{player|韩-寒鸦-轻受击-无文本•四}}
+|-
+| style="width:25%;text-align:center" | 重受击
+| {{player|寒鸦-重受击-无文本•一}}{{player|寒鸦-重受击-无文本•二}}{{player|寒鸦-重受击-无文本•三}}{{player|寒鸦-重受击-无文本•四}}
+| {{player|日-寒鸦-重受击-无文本•一}}{{player|日-寒鸦-重受击-无文本•二}}{{player|日-寒鸦-重受击-无文本•三}}{{player|日-寒鸦-重受击-无文本•四}}
+| {{player|英-寒鸦-重受击-无文本•一}}{{player|英-寒鸦-重受击-无文本•二}}{{player|英-寒鸦-重受击-无文本•三}}{{player|英-寒鸦-重受击-无文本•四}}
+| {{player|韩-寒鸦-重受击-无文本•一}}{{player|韩-寒鸦-重受击-无文本•二}}{{player|韩-寒鸦-重受击-无文本•三}}{{player|韩-寒鸦-重受击-无文本•四}}
+|}
