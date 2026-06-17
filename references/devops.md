@@ -20,10 +20,10 @@
 
 本 Skill 配备了两个 Python 脚本以自动化维护语料库：
 
-### 2.1 查询所有分类 (`scripts/get_categories.py`)
+### 2.1 查询所有分类 (`scripts/wiki_get_categories.py`)
 * **设计要求**：该脚本用于列出 BWiki 目前的所有页面分类。它必须**仅往命令行控制台标准输出结果**，禁止写入或修改本地任何文件。
 
-### 2.2 智能同步与多余目录物理清理 (`scripts/crawler.py`)
+### 2.2 智能同步与多余目录物理清理 (`scripts/wiki_crawler.py`)
 该并发同步爬虫（最大 8 线程）负责下载数据，它必须实现以下核心机制：
 1. **多余分类物理清理**：
    - 启动时扫描 `references/wiki/` 目录。
@@ -32,34 +32,49 @@
    - 拒绝使用易出现时区误差的本地 mtime（修改时间），改为在 `references/wiki/state.json` 中记录已下载条目的最新 API 时间戳（`timestamp`）。
    - 在抓取前，批量获取线上条目的最新修改时间戳，并与 `state.json` 记录比对。仅在本地不存在该文件、或线上版本更新时，才发起下载网络请求。若无变化则直接跳过，节省流量，保障安全防封控。
 3. **支持 `--test` 测试参数**：
-   - 运行 `python scripts/crawler.py --test` 时，必须将每个分类下下载的网页数量硬性限制在 10 个以内，用于高速验证连通性与重构逻辑。
+   - 运行 `python scripts/wiki_crawler.py --test` 时，必须将每个分类下下载的网页数量硬性限制在 10 个以内，用于高速验证连通性与重构逻辑。
+
+### 2.3 B站官方视频元数据同步 (`scripts/bilibili_crawler.py`)
+该并发增量同步爬虫负责拉取 UP 主指定合集和系列（定义在 `config_bilibili.json`）的视频详情，它必须实现以下核心机制：
+1. **防凭证泄漏（安全至上）**：
+   - 绝不能将包含 `sessdata` / `Cookie` 等敏感鉴权信息的代码、变量或数据写入受版本控制的脚本中。
+   - 使用机密凭证配置文件 `config_secrets.json` 作为本地独立存储。该文件必须被列在 `.gitignore` 规则内被完全忽略。
+   - 脚本必须在启动时尝试动态读取该机密文件并装载 SESSDATA 凭证。
+2. **基于本地扫描的智能增量同步**：
+   - 遍历 `references/bilibili/{分类名称}` 下已存在的 JSON 文件。读取文件内容并提取其中的 `bvid`。
+   - 将线上合集列表与本地已存在集合比对，仅对缺失的 `bvid` 发起详情 API 请求，杜绝重复调用，防止触发防爬风控。
+3. **文件名去重清洗**：
+   - 使用正则剥离视频标题中前导的 `《崩坏：星穹铁道》` 或 `崩坏：星穹铁道` 前缀（包括可能存在的多余空格或不同类型的冒号），以生成精炼的纯标题文件名。
 
 ---
 
 ### 3. Git 版本控制与数据防污染工作流
 
-本仓库采用**单一 Git 仓库（Single Git Repository）**控制策略。项目所有的脚本、配置、同步状态（`state.json`）以及 `references/wiki/` 数据库全部纳入根目录 Git 中管理。
+本仓库采用**单一 Git 仓库（Single Git Repository）**控制策略。项目所有的脚本、配置、同步状态（`state.json`）以及 `references/wiki/` 和 `references/bilibili/` 数据库全部纳入根目录 Git 中管理。
 
 在运行爬虫更新数据时，必须严格遵守以下**三步安全工作流**以防坏数据污染：
 
 ### 第一步：同步前状态检查
-运行 `git status` 确保当前工作区干净，如有未归档改动先提交或使用 `git stash` 暂存。
+运行 `git status` 确保当前工作区干净，如有未归档改动先提交或使用 `git stash` 暂存。特别检查并确认无任何包含机密敏感信息的临时文件或配置未被拉入追踪（必须通过 `.gitignore` 过滤 `config_secrets.json` 等文件）。
 
 ### 第二步：执行同步
-运行 `python scripts/crawler.py` 执行数据拉取。
+运行 `python scripts/wiki_crawler.py` 或 `python scripts/bilibili_crawler.py` 执行数据拉取。
 
 ### 第三步：数据合规审计与回滚/提交
-* **运行审计**：执行 `git status` 预览哪些文件被修改/删除。运行 `git diff references/wiki/` 检查具体修改，特别要注意是否有条目因防火墙拦截或网站误删变成了空文件。
+* **运行审计**：执行 `git status` 预览哪些文件被修改/删除。运行 `git diff` 检查具体修改，特别要注意是否有条目因防火墙拦截或网站服务异常变成了空文件/无效元数据。
 * **一键安全回滚（数据异常）**：若发现有任何坏数据被下载、或由于限频请求导致的数据大面积清空，直接运行以下命令撤销本次所有修改，完全退回到同步前的安全状态：
   ```bash
+  # 回滚 Wiki 数据
   git restore references/wiki/
   git restore references/wiki/state.json
+  # 回滚 B站 数据
+  git restore references/bilibili/
   ```
-  *(注：必须将 state.json 与数据一同回滚，以使同步历史与物理数据对齐，避免状态错乱。)*
+  *(注：必须将状态记录与数据一同回滚，以使同步历史与物理数据对齐，避免状态错乱。)*
 * **提交归档（确认安全）**：若确认数据完整无误，执行提交：
   ```bash
   git add .
-  git commit -m "data: 同步星穹铁道 Wiki 最新剧情与设定数据"
+  git commit -m "data: 同步星穹铁道 Wiki 及 B站官方视频最新剧情设定语料"
 
 ---
 
