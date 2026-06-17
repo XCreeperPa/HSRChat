@@ -1,0 +1,121 @@
+# HSRChat 统一信源同步与运维指南
+
+HSRChat Skill 包的数据驱动体系由两个官方/权威信息信源共同支撑，涵盖了星穹铁道的深度世界观、主支线剧情文本、角色背景故事以及官方视频考据数据。本指南提供了两类信源更新的统一流程、配置管理以及日常同步运维方案。
+
+---
+
+## 1. 统一配置管理 (config.json)
+
+为了降低运维复杂度，项目使用单一的配置文件 `config.json` 来集中管理两个信源的目标更新分类：
+
+```json
+{
+  "wiki": {
+    "categories": [
+      "开拓任务",
+      "开拓续闻",
+      "同行任务",
+      "冒险任务",
+      "书籍",
+      "角色语音",
+      "角色",
+      "游戏内容考据",
+      "NPC"
+    ]
+  },
+  "bilibili": {
+    "mid": 1340190821,
+    "categories": [
+      {
+        "name": "角色预告",
+        "type": "season",
+        "id": 7074641
+      },
+      {
+        "name": "角色PV",
+        "type": "series",
+        "id": 3236610
+      },
+      {
+        "name": "动画短片",
+        "type": "series",
+        "id": 3581990
+      },
+      {
+        "name": "千星纪游",
+        "type": "series",
+        "id": 3431689
+      },
+      {
+        "name": "即兴巡演PV",
+        "type": "series",
+        "id": 5078098
+      },
+      {
+        "name": "EP",
+        "type": "series",
+        "id": 3236620
+      },
+      {
+        "name": "黄金史诗PV",
+        "type": "series",
+        "id": 4494993
+      }
+    ]
+  }
+}
+```
+
+*   **`wiki.categories`**：配置了 BWiki 需要拉取的分类名列表（本地以 `.txt` wikitext 存放于 `references/wiki/` 中）。
+*   **`bilibili.mid`**：指定爬取官方 B 站账号的 MID（星铁官方 MID 为 `1340190821`）。
+*   **`bilibili.categories`**：定义了需要同步的合集与系列名称、拉取类型（`season` 或 `series`）及合集系列 ID（本地以 `.json` 格式存放于 `references/bilibili/` 中）。
+
+---
+
+## 2. 脚本命名与功能一览
+
+所有维护和同步脚本存放在 `scripts/` 目录下：
+
+| 脚本名称 | 对应信源 | 核心功能描述 |
+| :--- | :--- | :--- |
+| `list_wiki_categories.py` | 崩铁 BWiki | 实时向终端输出 BWiki 当前所有的活跃页面分类名称。 |
+| `sync_wiki.py` | 崩铁 BWiki | 获取并增量同步 Wiki 指定分类下的所有设定文本，自动清理过期目录。 |
+| `sync_bilibili.py` | B站官方视频 | 增量下载官方视频元数据并以 JSON 格式落盘，自动进行敏感凭证隔离。 |
+
+---
+
+## 3. 统一同步运维工作流
+
+为防止拉取到坏数据污染本地语料，运维数据同步时必须遵循以下三步工作流：
+
+### 第一步：检查工作区状态
+每次更新数据前，先确保工作区干净，且敏感配置文件已正确排除：
+```bash
+git status
+```
+*确认不存在未添加至 `.gitignore` 的敏感配置文件 `config_secrets.json`*。
+
+### 第二步：按需执行同步
+根据数据更新需要，选择执行单信源或双信源同步：
+```bash
+# 1. 同步 BWiki 数据
+python scripts/sync_wiki.py
+
+# 2. 同步 B站视频数据
+python scripts/sync_bilibili.py
+```
+*提示：可为上述两个同步命令附加 `--test` 标志进行高速连通性检测（Wiki 限制单分类爬取 10 页，B站限制单分类爬取 3 页）。*
+
+### 第三步：合规性审计与提交/回滚
+*   **安全审计**：运行 `git diff` 检查下载文件的改动，确保没有因为限频或服务器异常导致文件内容变为空或损坏。
+*   **一键回滚（若发现异常）**：
+    ```bash
+    git restore references/wiki/
+    git restore references/bilibili/
+    git restore references/wiki/state.json
+    ```
+*   **确认无误后提交**：
+    ```bash
+    git add .
+    git commit -m "data: 同步星铁最新 Wiki 与 B站视频设定数据"
+    ```

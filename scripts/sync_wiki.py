@@ -234,7 +234,8 @@ def main():
         print(f"找不到配置文件: {CONFIG_PATH}")
         return
     with open(CONFIG_PATH, "r", encoding="utf-8") as f:
-        categories = json.load(f)
+        config = json.load(f)
+    categories = config.get("wiki", {}).get("categories", [])
     print(f"载入的目标分类: {categories}")
         
     # 2. 加载本地状态文件 state.json

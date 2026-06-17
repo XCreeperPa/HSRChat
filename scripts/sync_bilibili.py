@@ -10,7 +10,7 @@ import http.cookiejar
 import argparse
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-CONFIG_PATH = "config_bilibili.json"
+CONFIG_PATH = "config.json"
 SECRETS_PATH = "config_secrets.json"
 OUTPUT_DIR = os.path.join("D:", os.sep, "HSRChat", "references", "bilibili")
 MAX_WORKERS = 4
@@ -372,8 +372,9 @@ def main():
     with open(CONFIG_PATH, "r", encoding="utf-8") as f:
         config = json.load(f)
         
-    mid = config.get("mid", 1749127287)
-    categories = config.get("categories", [])
+    bili_config = config.get("bilibili", {})
+    mid = bili_config.get("mid", 1340190821)
+    categories = bili_config.get("categories", [])
     print(f"载入目标 UP 主 (MID: {mid})，包含 {len(categories)} 个指定分类。")
     
     # 初始化全局 Cookie
