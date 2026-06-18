@@ -3,3 +3,6 @@ __pycache__/
 .vscode/
 .idea/
 config_secrets.json
+references/bwiki_images/assets/
+references/bwiki_images/test_assets/
+references/bwiki_images/test_index.json

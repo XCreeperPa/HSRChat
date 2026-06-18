@@ -15,10 +15,13 @@ D:\HSRChat\
 ├── config_secrets.json  # (安全隔离/已忽略) 本地 B站 敏感凭证配置文件
 ├── README.md            # 项目说明文档（本文件）
 ├── references/
-│   ├── devops.md        # 开发运维指南与 Git 版本控制规范
-│   ├── data_sources.md  # (新增) 统一数据源同步与运维指南
-│   ├── source_wiki.md   # (新增) Wiki 专门数据源开发设计与接口逻辑
-│   ├── source_bilibili.md # (新增) B站专门数据源开发设计与签名加密算法
+│   ├── docs/
+│   │   ├── devops.md              # 开发运维指南与 Git 版本控制规范
+│   │   ├── data_sources.md        # 统一数据源同步与运维指南
+│   │   ├── source_wiki.md         # Wiki 文本信源设计与接口逻辑
+│   │   ├── source_bilibili.md     # B站官方视频元数据信源设计
+│   │   └── source_bwiki_images.md # BWiki 图片多模态信源设计与同步记录
+│   ├── bwiki_images/    # BWiki 图片索引与估算报告；assets/ 本地缓存不入 Git
 │   ├── bilibili/        # 120+ 篇官方视频元数据 JSON 分类存放处
 │   └── wiki/            # 1,440 篇官方 Wiki 语料分类存放处
 │       ├── 开拓任务/
@@ -31,9 +34,11 @@ D:\HSRChat\
 │       ├── 游戏内容考据/
 │       └── NPC/
 └── scripts/
-    ├── list_wiki_categories.py # 脚本 1：命令行输出 BWiki 全部分类
-    ├── sync_wiki.py            # 脚本 2：基于状态文件的智能同步爬虫（带自动目录清理）
-    └── sync_bilibili.py        # 脚本 3：基于 WBI 签名的 B站官方视频元数据智能同步爬虫
+    ├── list_wiki_categories.py      # 脚本 1：命令行输出 BWiki 全部分类
+    ├── sync_wiki.py                 # 脚本 2：基于状态文件的 Wiki 文本同步爬虫
+    ├── sync_bilibili.py             # 脚本 3：基于 WBI 签名的 B站官方视频元数据同步爬虫
+    ├── test_bwiki_image_download.py # 脚本 4：BWiki 图片小样本下载测试
+    └── sync_bwiki_images.py         # 脚本 5：BWiki 高价值图片估算与下载
 ```
 
 ---
@@ -62,7 +67,7 @@ git clone https://github.com/XCreeperPa/HSRChat.git
 
 ## 开发与爬虫脚本使用
 
-项目内置了三个 Python 脚本（仅依赖原生 Python 标准库，无需安装第三方依赖包），用于维护 and 更新本地语料库。
+项目内置了多个 Python 脚本（仅依赖原生 Python 标准库，无需安装第三方依赖包），用于维护和更新本地语料库。
 
 ### 1. 查询所有分类 (list_wiki_categories.py)
 用于查询星穹铁道 BWiki 当前的全部页面分类，并将其输出到命令行终端：
@@ -107,6 +112,23 @@ python scripts/list_wiki_categories.py
 * **数据落盘与去重**：
   视频元数据以标准 JSON 格式保存在 `references/bilibili/{分类名称}/` 下。文件名使用去除了“《崩坏：星穹铁道》”前缀的游戏名后的干净视频标题（如 `千星纪游PV：「永火一夜：第33场」.json`）。
 
+### 4. BWiki 图片多模态信源 (sync_bwiki_images.py)
+该脚本从已同步的 BWiki 文本和角色页命名规则中识别高价值图片，先估算体积，再按阈值下载：
+* **估算模式**：
+  ```bash
+  python scripts/sync_bwiki_images.py
+  ```
+  该模式只生成 `references/bwiki_images/estimate_report.json`，不会下载图片。
+* **下载模式**：
+  ```bash
+  python scripts/sync_bwiki_images.py --download
+  ```
+  下载前会执行同一套估算流程。默认总量阈值为 1 GiB，超过即中止，避免意外拉取过大的图片库。
+* **版本控制边界**：
+  `references/bwiki_images/index.json` 与 `estimate_report.json` 是可提交的文本索引；`references/bwiki_images/assets/` 是本地图片缓存，已被 `.gitignore` 排除。
+* **角色立绘**：
+  角色页立绘由 BWiki 模板渲染，不一定出现在本地 wikitext 中。脚本会根据角色名推断 `角色名立绘.png`、`角色名立绘2.png`、`角色名立绘3.jpg/png` 等文件名，并通过 MediaWiki `imageinfo` 解析原图地址。
+
 ---
 
 ## 数据安全与版本控制方案 (防篡改/防空回滚)
@@ -114,7 +136,7 @@ python scripts/list_wiki_categories.py
 本项目采用**单 Git 仓库管理模式**，将所有的同步状态和 Wiki 文本全部纳入根目录 Git 中管理。在运行爬虫更新数据时，请严格遵守以下三步安全工作流（详见 `references/docs/data_sources.md` 与 `references/docs/devops.md`）：
 
 1. **同步前检查**：运行 `git status` 确保工作区干净。
-2. **执行同步**：运行 `python scripts/sync_wiki.py` 或 `python scripts/sync_bilibili.py` 获取最新数据。
+2. **执行同步**：运行 `python scripts/sync_wiki.py`、`python scripts/sync_bilibili.py` 或先估算再运行 `python scripts/sync_bwiki_images.py --download` 获取最新数据。
 3. **数据审核与操作**：
    - 运行 `git diff` 检查修改。
    - **安全回滚**：运行以下指令放弃本次同步结果，完全恢复到同步前的安全状态：
