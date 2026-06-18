@@ -4,5 +4,6 @@ __pycache__/
 .idea/
 config_secrets.json
 references/bwiki_images/assets/
+references/bwiki_images/assets_webp/
 references/bwiki_images/test_assets/
 references/bwiki_images/test_index.json

@@ -1,4 +1,5 @@
 import argparse
+import os
 import hashlib
 import html
 import sys
@@ -10,6 +11,7 @@ import struct
 import time
 import urllib.parse
 import urllib.request
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
 
@@ -22,6 +24,7 @@ INDEX_PATH = OUTPUT_DIR / "index.json"
 REPORT_PATH = OUTPUT_DIR / "estimate_report.json"
 API_URL = "https://wiki.biligame.com/sr/api.php"
 DEFAULT_LIMIT_BYTES = 1024 * 1024 * 1024
+DEFAULT_WORKERS = max(4, min(32, (os.cpu_count() or 4) * 4))
 
 HEADERS = {
     "User-Agent": (
@@ -51,8 +54,8 @@ def log(message):
     try:
         print(message, flush=True)
     except UnicodeEncodeError:
-        encoded = message.encode(sys.stdout.encoding or "utf-8", errors="backslashreplace")
-        print(encoded.decode(sys.stdout.encoding or "utf-8", errors="replace"), flush=True)
+        safe_message = message.encode("ascii", errors="backslashreplace").decode("ascii")
+        print(safe_message, flush=True)
 
 
 def clean_filename(name):
@@ -171,9 +174,6 @@ def collect_character_paintings():
         for base_name in dict.fromkeys(base_names):
             for suffix, label in [
                 ("立绘.png", "角色立绘"),
-                ("立绘2.png", "角色介绍立绘"),
-                ("立绘3.jpg", "立绘卡片"),
-                ("立绘3.png", "立绘卡片"),
             ]:
                 file_name = f"{base_name}{suffix}"
                 identity = f"character_painting\n{file_name}\n{page_title}"
@@ -308,29 +308,49 @@ def resolve_batch(file_names):
     return resolved
 
 
-def estimate_assets(assets, sleep_seconds=0.2):
-    named_assets = [asset for asset in assets if not asset["resolved_url"]]
-    for index in range(0, len(named_assets), 50):
-        batch = named_assets[index : index + 50]
-        names = [asset["file_name"] for asset in batch]
-        try:
-            resolved = resolve_batch(names)
-        except Exception as exc:
-            for asset in batch:
-                asset["status"] = "estimate_failed"
-                asset["error"] = str(exc)
-            continue
-
+def estimate_batch(batch):
+    names = [asset["file_name"] for asset in batch]
+    try:
+        resolved = resolve_batch(names)
+    except Exception as exc:
         for asset in batch:
-            info = resolved.get(asset["file_name"])
-            if not info:
-                asset["status"] = "estimate_failed"
-                asset["error"] = "No imageinfo found"
-                continue
-            apply_image_info(asset, info)
-            asset["status"] = "estimated"
+            asset["status"] = "estimate_failed"
+            asset["error"] = str(exc)
+        return batch
 
-        time.sleep(sleep_seconds)
+    for asset in batch:
+        info = resolved.get(asset["file_name"])
+        if not info:
+            asset["status"] = "estimate_failed"
+            asset["error"] = "No imageinfo found"
+            continue
+        apply_image_info(asset, info)
+        asset["status"] = "estimated"
+
+    return batch
+
+
+def estimate_assets(assets, sleep_seconds=0.0, workers=DEFAULT_WORKERS):
+    named_assets = [asset for asset in assets if not asset["resolved_url"]]
+    batches = [named_assets[index : index + 50] for index in range(0, len(named_assets), 50)]
+    if not batches:
+        return
+
+    worker_count = max(1, workers)
+    if worker_count == 1:
+        for offset, batch in enumerate(batches, start=1):
+            estimate_batch(batch)
+            log(f"[estimate] batch {offset}/{len(batches)}")
+            if sleep_seconds:
+                time.sleep(sleep_seconds)
+    else:
+        with ThreadPoolExecutor(max_workers=worker_count) as executor:
+            futures = [executor.submit(estimate_batch, batch) for batch in batches]
+            for offset, future in enumerate(as_completed(futures), start=1):
+                future.result()
+                log(f"[estimate] batch {offset}/{len(batches)}")
+                if sleep_seconds:
+                    time.sleep(sleep_seconds)
 
     direct_assets = [asset for asset in assets if asset["direct_reference"] and asset["status"] == "pending"]
     for asset in direct_assets:
@@ -460,67 +480,92 @@ def ensure_extension(file_name, mime):
     return f"{file_name}{guessed or '.img'}"
 
 
-def download_assets(assets, max_single_bytes, sleep_seconds=0.2):
-    for asset in assets:
-        if asset["status"] not in {"estimated", "estimated_url_only"} or not asset["resolved_url"]:
-            continue
+def download_asset(asset, max_single_bytes):
+    if asset["status"] not in {"estimated", "estimated_url_only"} or not asset["resolved_url"]:
+        return asset
 
-        try:
-            mime = asset["mime"]
-            category = clean_filename(asset["appearances"][0]["wiki_category"] or "_uncategorized")
-            output_name = ensure_extension(clean_filename(asset["file_name"]), mime)
-            output_path = ASSETS_DIR / category / output_name
-            output_path.parent.mkdir(parents=True, exist_ok=True)
+    try:
+        mime = asset["mime"]
+        category = clean_filename(asset["appearances"][0]["wiki_category"] or "_uncategorized")
+        output_name = ensure_extension(clean_filename(asset["file_name"]), mime)
+        output_path = ASSETS_DIR / category / output_name
+        output_path.parent.mkdir(parents=True, exist_ok=True)
 
-            if output_path.exists() and output_path.stat().st_size > 0:
-                data = output_path.read_bytes()
-                if not is_image_bytes(data):
-                    raise RuntimeError("existing file did not look like an image")
-                asset.update(
-                    {
-                        "status": "downloaded",
-                        "local_path": rel_path(output_path),
-                        "bytes": len(data),
-                        "sha256": hashlib.sha256(data).hexdigest(),
-                        "error": None,
-                    }
-                )
-                log(f"[cached] {asset['file_name']} -> {asset['local_path']}")
-                time.sleep(sleep_seconds)
-                continue
-
-            data, headers, final_url = download_bytes(asset["resolved_url"], max_single_bytes)
-            if not data or not is_image_bytes(data):
-                raise RuntimeError("response did not look like an image")
-
-            mime = mime or headers.get("Content-Type", "").split(";")[0]
-            width = asset["width"]
-            height = asset["height"]
-            if not width or not height:
-                width, height = infer_dimensions(data)
-
-            output_path.write_bytes(data)
-
+        if output_path.exists() and output_path.stat().st_size > 0:
+            data = output_path.read_bytes()
+            if not is_image_bytes(data):
+                raise RuntimeError("existing file did not look like an image")
             asset.update(
                 {
                     "status": "downloaded",
-                    "resolved_url": final_url,
                     "local_path": rel_path(output_path),
-                    "mime": mime,
-                    "width": width,
-                    "height": height,
                     "bytes": len(data),
                     "sha256": hashlib.sha256(data).hexdigest(),
                     "error": None,
                 }
             )
-            log(f"[ok] {asset['file_name']} -> {asset['local_path']}")
-        except Exception as exc:
-            asset["status"] = "download_failed"
-            asset["error"] = str(exc)
-            log(f"[failed] {asset['file_name']}: {exc}")
+            return asset
 
-        time.sleep(sleep_seconds)
+        data, headers, final_url = download_bytes(asset["resolved_url"], max_single_bytes)
+        if not data or not is_image_bytes(data):
+            raise RuntimeError("response did not look like an image")
+
+        mime = mime or headers.get("Content-Type", "").split(";")[0]
+        width = asset["width"]
+        height = asset["height"]
+        if not width or not height:
+            width, height = infer_dimensions(data)
+
+        temp_path = output_path.with_suffix(output_path.suffix + ".tmp")
+        if temp_path.exists():
+            temp_path.unlink()
+        temp_path.write_bytes(data)
+        temp_path.replace(output_path)
+
+        asset.update(
+            {
+                "status": "downloaded",
+                "resolved_url": final_url,
+                "local_path": rel_path(output_path),
+                "mime": mime,
+                "width": width,
+                "height": height,
+                "bytes": len(data),
+                "sha256": hashlib.sha256(data).hexdigest(),
+                "error": None,
+            }
+        )
+    except Exception as exc:
+        asset["status"] = "download_failed"
+        asset["error"] = str(exc)
+
+    return asset
+
+
+def download_assets(assets, max_single_bytes, sleep_seconds=0.0, workers=DEFAULT_WORKERS):
+    targets = [
+        asset
+        for asset in assets
+        if asset["status"] in {"estimated", "estimated_url_only"} and asset["resolved_url"]
+    ]
+    if not targets:
+        return
+
+    worker_count = max(1, workers)
+    if worker_count == 1:
+        for offset, asset in enumerate(targets, start=1):
+            download_asset(asset, max_single_bytes)
+            log(f"[download] {offset}/{len(targets)} {asset.get('status')} {asset.get('local_path') or asset.get('file_name')}")
+            if sleep_seconds:
+                time.sleep(sleep_seconds)
+    else:
+        with ThreadPoolExecutor(max_workers=worker_count) as executor:
+            futures = [executor.submit(download_asset, asset, max_single_bytes) for asset in targets]
+            for offset, future in enumerate(as_completed(futures), start=1):
+                asset = future.result()
+                log(f"[download] {offset}/{len(targets)} {asset.get('status')} {asset.get('local_path') or asset.get('file_name')}")
+                if sleep_seconds:
+                    time.sleep(sleep_seconds)
 
 
 def summarize(assets, discarded, all_references, limit_bytes):
@@ -571,7 +616,8 @@ def main():
     parser.add_argument("--download", action="store_true", help="download assets after estimating size")
     parser.add_argument("--limit-bytes", type=int, default=DEFAULT_LIMIT_BYTES, help="abort download above this size")
     parser.add_argument("--max-single-bytes", type=int, default=64 * 1024 * 1024, help="max bytes for one image")
-    parser.add_argument("--sleep", type=float, default=0.2, help="delay between network requests")
+    parser.add_argument("--sleep", type=float, default=0.0, help="delay between completed network tasks")
+    parser.add_argument("--workers", type=int, default=DEFAULT_WORKERS, help="parallel workers for estimate/download")
     args = parser.parse_args()
 
     log("[scan] collecting image references from local Wikitext...")
@@ -582,7 +628,7 @@ def main():
     log(f"[scan] references={len(references)}, high_value_unique={len(assets)}, discarded={len(discarded)}")
 
     log("[estimate] resolving remote image sizes without downloading assets...")
-    estimate_assets(assets, sleep_seconds=args.sleep)
+    estimate_assets(assets, sleep_seconds=args.sleep, workers=args.workers)
     assets = dedupe_assets_by_sha1(assets)
     summary = summarize(assets, discarded, references, args.limit_bytes)
 
@@ -608,7 +654,7 @@ def main():
         return
 
     log("[download] estimate is within limit; downloading high-value assets...")
-    download_assets(assets, args.max_single_bytes, sleep_seconds=args.sleep)
+    download_assets(assets, args.max_single_bytes, sleep_seconds=args.sleep, workers=args.workers)
     final_summary = summarize(assets, discarded, references, args.limit_bytes)
     index = {
         "summary": final_summary,

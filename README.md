@@ -21,7 +21,7 @@ D:\HSRChat\
 │   │   ├── source_wiki.md         # Wiki 文本信源设计与接口逻辑
 │   │   ├── source_bilibili.md     # B站官方视频元数据信源设计
 │   │   └── source_bwiki_images.md # BWiki 图片多模态信源设计与同步记录
-│   ├── bwiki_images/    # BWiki 图片索引与估算报告；assets/ 本地缓存不入 Git
+│   ├── bwiki_images/    # BWiki 图片索引、估算报告与压缩索引；图片缓存不入 Git
 │   ├── bilibili/        # 120+ 篇官方视频元数据 JSON 分类存放处
 │   └── wiki/            # 1,440 篇官方 Wiki 语料分类存放处
 │       ├── 开拓任务/
@@ -38,7 +38,9 @@ D:\HSRChat\
     ├── sync_wiki.py                 # 脚本 2：基于状态文件的 Wiki 文本同步爬虫
     ├── sync_bilibili.py             # 脚本 3：基于 WBI 签名的 B站官方视频元数据同步爬虫
     ├── test_bwiki_image_download.py # 脚本 4：BWiki 图片小样本下载测试
-    └── sync_bwiki_images.py         # 脚本 5：BWiki 高价值图片估算与下载
+    ├── sync_bwiki_images.py         # 脚本 5：BWiki 高价值图片估算与下载
+    ├── compress_bwiki_images.py     # 脚本 6：BWiki 图片 WebP 派生压缩
+    └── run_bwiki_image_pipeline.py  # 脚本 7：BWiki 图片全量流水线
 ```
 
 ---
@@ -67,7 +69,7 @@ git clone https://github.com/XCreeperPa/HSRChat.git
 
 ## 开发与爬虫脚本使用
 
-项目内置了多个 Python 脚本（仅依赖原生 Python 标准库，无需安装第三方依赖包），用于维护和更新本地语料库。
+项目内置了多个 Python 脚本，用于维护和更新本地语料库。文本同步脚本仅依赖 Python 标准库；图片压缩脚本依赖 Pillow。
 
 ### 1. 查询所有分类 (list_wiki_categories.py)
 用于查询星穹铁道 BWiki 当前的全部页面分类，并将其输出到命令行终端：
@@ -112,8 +114,13 @@ python scripts/list_wiki_categories.py
 * **数据落盘与去重**：
   视频元数据以标准 JSON 格式保存在 `references/bilibili/{分类名称}/` 下。文件名使用去除了“《崩坏：星穹铁道》”前缀的游戏名后的干净视频标题（如 `千星纪游PV：「永火一夜：第33场」.json`）。
 
-### 4. BWiki 图片多模态信源 (sync_bwiki_images.py)
-该脚本从已同步的 BWiki 文本和角色页命名规则中识别高价值图片，先估算体积，再按阈值下载：
+### 4. BWiki 图片多模态信源
+图片流水线从已同步的 BWiki 文本和角色页命名规则中识别高价值图片，先估算体积，再按阈值下载原图缓存，并生成面向 Agent 的轻量 WebP 参考图：
+* **一键全量模式**：
+  ```bash
+  python scripts/run_bwiki_image_pipeline.py --clean
+  ```
+  该模式会重新生成 `estimate_report.json`、`index.json`、`compressed_index.json`，并重建 `assets/` 原图缓存与 `assets_webp/` 压缩缓存。脚本会按本机 CPU 与网络能力启用并发，单个图片失败会记录在索引中并继续处理后续图片。
 * **估算模式**：
   ```bash
   python scripts/sync_bwiki_images.py
@@ -123,11 +130,16 @@ python scripts/list_wiki_categories.py
   ```bash
   python scripts/sync_bwiki_images.py --download
   ```
-  下载前会执行同一套估算流程。默认总量阈值为 1 GiB，超过即中止，避免意外拉取过大的图片库。
+  下载前会执行同一套估算流程。默认总量阈值为 1 GiB，超过即中止，避免意外拉取过大的图片库。可用 `--workers` 调整并发。
+* **压缩模式**：
+  ```bash
+  python scripts/compress_bwiki_images.py --overwrite
+  ```
+  根据图片类别生成 WebP 副本：角色立绘默认最长边 1600、剧情 CG 默认最长边 1920，书籍/短信/线索图默认不降尺寸。压缩索引写入 `references/bwiki_images/compressed_index.json`。
 * **版本控制边界**：
-  `references/bwiki_images/index.json` 与 `estimate_report.json` 是可提交的文本索引；`references/bwiki_images/assets/` 是本地图片缓存，已被 `.gitignore` 排除。
+  `references/bwiki_images/index.json`、`estimate_report.json` 与 `compressed_index.json` 是可提交的文本索引；`references/bwiki_images/assets/` 与 `assets_webp/` 是本地图片缓存，已被 `.gitignore` 排除。
 * **角色立绘**：
-  角色页立绘由 BWiki 模板渲染，不一定出现在本地 wikitext 中。脚本会根据角色名推断 `角色名立绘.png`、`角色名立绘2.png`、`角色名立绘3.jpg/png` 等文件名，并通过 MediaWiki `imageinfo` 解析原图地址。
+  角色页立绘由 BWiki 模板渲染，不一定出现在本地 wikitext 中。脚本会根据角色名推断主立绘 `角色名立绘.png`，并通过 MediaWiki `imageinfo` 解析原图地址；`立绘2`、`立绘3` 等后缀变体默认不再同步，以控制图片缓存体积。
 
 ---
 
@@ -136,7 +148,7 @@ python scripts/list_wiki_categories.py
 本项目采用**单 Git 仓库管理模式**，将所有的同步状态和 Wiki 文本全部纳入根目录 Git 中管理。在运行爬虫更新数据时，请严格遵守以下三步安全工作流（详见 `references/docs/data_sources.md` 与 `references/docs/devops.md`）：
 
 1. **同步前检查**：运行 `git status` 确保工作区干净。
-2. **执行同步**：运行 `python scripts/sync_wiki.py`、`python scripts/sync_bilibili.py` 或先估算再运行 `python scripts/sync_bwiki_images.py --download` 获取最新数据。
+2. **执行同步**：运行 `python scripts/sync_wiki.py`、`python scripts/sync_bilibili.py` 或 `python scripts/run_bwiki_image_pipeline.py --clean` 获取最新数据与图片缓存。
 3. **数据审核与操作**：
    - 运行 `git diff` 检查修改。
    - **安全回滚**：运行以下指令放弃本次同步结果，完全恢复到同步前的安全状态：

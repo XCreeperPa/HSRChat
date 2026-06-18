@@ -46,25 +46,32 @@
 3. **文件名去重清洗**：
    - 使用正则剥离视频标题中前导的 `《崩坏：星穹铁道》` 或 `崩坏：星穹铁道` 前缀（包括可能存在的多余空格或不同类型的冒号），以生成精炼的纯标题文件名。
 
-### 2.4 BWiki 图片多模态信源同步 (`scripts/sync_bwiki_images.py`)
-该脚本负责从已同步的 BWiki 文本与角色页命名规则中派生高价值图片索引，并在体积预算内下载本地缓存。它必须实现以下核心机制：
+### 2.4 BWiki 图片多模态信源同步与压缩
+图片流水线由 `scripts/run_bwiki_image_pipeline.py` 串联 `scripts/sync_bwiki_images.py` 与 `scripts/compress_bwiki_images.py`。它负责从已同步的 BWiki 文本与角色页命名规则中派生高价值图片索引，在体积预算内下载原图缓存，并生成面向 Agent 的 WebP 参考图。它必须实现以下核心机制：
 1. **先估算后下载**：
    - 默认运行 `python scripts/sync_bwiki_images.py` 只生成 `references/bwiki_images/estimate_report.json`。
    - 只有显式传入 `--download` 时才下载图片。
    - 默认总量阈值为 1 GiB，估算超过阈值时必须中止下载。
+   - 全量重建可运行 `python scripts/run_bwiki_image_pipeline.py --clean`。
 2. **高价值筛选**：
    - 保留剧情 CG、书籍/任务大图、短信图片、角色立绘等与剧情、世界观、角色设定直接相关的图片。
    - 默认排除 `{{图标|...}}`、小尺寸 `[[file:...|64px]]` 图标、CSS 装饰图、元素/机制图标。
 3. **角色立绘补全**：
    - 角色页立绘通常由 `{{角色图鉴}}` 等模板在渲染 HTML 中生成，不一定存在于本地 wikitext。
-   - 脚本通过角色页 `|名称=` 推断 `角色名立绘.png`、`角色名立绘2.png`、`角色名立绘3.jpg/png` 等候选，并用 MediaWiki `imageinfo` 验证存在性。
+   - 脚本通过角色页 `|名称=` 推断主立绘 `角色名立绘.png`，并用 MediaWiki `imageinfo` 验证存在性。
+   - `角色名立绘2.png`、`角色名立绘3.jpg/png` 等介绍立绘或卡片变体默认不再同步；若本地只有后缀版且没有主立绘，可作为例外保留。
    - 开拓者不同命途需额外推断 `开拓者星•{命途}` 与 `开拓者穹•{命途}` 形式。
 4. **原图解析与去重**：
    - 必须通过 MediaWiki `imageinfo` 解析原图 URL、大小、MIME、宽高、sha1 与更新时间，禁止直接保存页面缩略图 URL。
    - 使用远端 sha1 合并同内容别名，避免 `.jpg` / `.png` 标题指向同一文件时重复下载。
 5. **版本控制边界**：
-   - `references/bwiki_images/index.json` 与 `estimate_report.json` 是可审计文本产物，可以提交。
-   - `references/bwiki_images/assets/` 与测试图片目录是本地缓存，必须由 `.gitignore` 排除，不纳入普通 Git。
+   - `references/bwiki_images/index.json`、`estimate_report.json` 与 `compressed_index.json` 是可审计文本产物，可以提交。
+   - `references/bwiki_images/assets/`、`references/bwiki_images/assets_webp/` 与测试图片目录是本地缓存，必须由 `.gitignore` 排除，不纳入普通 Git。
+6. **并发与错误处理**：
+   - 估算和下载使用线程池，默认按本机能力选择并发数，可通过 `--workers` 或流水线脚本的 `--network-workers` 调整。
+   - WebP 压缩使用进程池，默认使用本机 CPU 核心数，可通过 `--compress-workers` 调整。
+   - 单个远端文件解析、下载或压缩失败时，脚本必须记录 `estimate_failed`、`download_failed` 或 `compress_failed`，并继续处理后续文件。
+   - CLI 输出必须适配中文路径；在不支持 UTF-8 的 Windows 控制台中，应退化为 ASCII 转义输出，避免日志编码异常中断流水线。
 
 ---
 

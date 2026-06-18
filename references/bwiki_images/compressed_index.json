@@ -1,0 +1,5914 @@
+{
+  "summary": {
+    "generated_at": "2026-06-18T08:09:07Z",
+    "source_index": "references/bwiki_images/index.json",
+    "output_dir": "references/bwiki_images/assets_webp",
+    "compressed_count": 208,
+    "skipped_count": 0,
+    "original_bytes": 591360670,
+    "compressed_bytes": 51288736,
+    "saved_bytes": 540071934,
+    "original_mib": 563.97,
+    "compressed_mib": 48.91,
+    "saved_mib": 515.05,
+    "saved_percent": 91.33,
+    "by_category": {
+      "NPC": {
+        "count": 1,
+        "original_bytes": 588264,
+        "compressed_bytes": 33566,
+        "saved_bytes": 554698,
+        "original_mib": 0.56,
+        "compressed_mib": 0.03,
+        "saved_mib": 0.53,
+        "saved_percent": 94.29
+      },
+      "书籍": {
+        "count": 23,
+        "original_bytes": 11122493,
+        "compressed_bytes": 1439118,
+        "saved_bytes": 9683375,
+        "original_mib": 10.61,
+        "compressed_mib": 1.37,
+        "saved_mib": 9.23,
+        "saved_percent": 87.06
+      },
+      "冒险任务": {
+        "count": 10,
+        "original_bytes": 7351177,
+        "compressed_bytes": 616806,
+        "saved_bytes": 6734371,
+        "original_mib": 7.01,
+        "compressed_mib": 0.59,
+        "saved_mib": 6.42,
+        "saved_percent": 91.61
+      },
+      "同行任务": {
+        "count": 8,
+        "original_bytes": 39996351,
+        "compressed_bytes": 912866,
+        "saved_bytes": 39083485,
+        "original_mib": 38.14,
+        "compressed_mib": 0.87,
+        "saved_mib": 37.27,
+        "saved_percent": 97.72
+      },
+      "开拓任务": {
+        "count": 82,
+        "original_bytes": 211271107,
+        "compressed_bytes": 10204124,
+        "saved_bytes": 201066983,
+        "original_mib": 201.48,
+        "compressed_mib": 9.73,
+        "saved_mib": 191.75,
+        "saved_percent": 95.17
+      },
+      "开拓续闻": {
+        "count": 2,
+        "original_bytes": 4261056,
+        "compressed_bytes": 165568,
+        "saved_bytes": 4095488,
+        "original_mib": 4.06,
+        "compressed_mib": 0.16,
+        "saved_mib": 3.91,
+        "saved_percent": 96.11
+      },
+      "角色": {
+        "count": 82,
+        "original_bytes": 316770222,
+        "compressed_bytes": 37916688,
+        "saved_bytes": 278853534,
+        "original_mib": 302.1,
+        "compressed_mib": 36.16,
+        "saved_mib": 265.94,
+        "saved_percent": 88.03
+      }
+    }
+  },
+  "assets": [
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/书籍/盛会之星知更鸟.jpg",
+      "compressed_path": "references/bwiki_images/assets_webp/书籍/盛会之星知更鸟.webp",
+      "file_name": "盛会之星知更鸟.jpg",
+      "asset_kind": "file_link",
+      "wiki_category": "书籍",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 586741,
+        "width": 480,
+        "height": 688,
+        "sha256": "cbb2e2364d59f73194b806ad80d0c43fd45b7ccafaf129102db9ea9cefa3d094"
+      },
+      "compressed": {
+        "bytes": 71308,
+        "width": 480,
+        "height": 688,
+        "sha256": "65043d61911538e56fee2b7f05c02e518d886738f883c4452312c55fbb04cbda"
+      },
+      "saved_bytes": 515433,
+      "compressed_ratio": 0.1215,
+      "saved_percent": 87.85
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/NPC/沃尔普.png",
+      "compressed_path": "references/bwiki_images/assets_webp/NPC/沃尔普.webp",
+      "file_name": "沃尔普.png",
+      "asset_kind": "file_link",
+      "wiki_category": "NPC",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 588264,
+        "width": 765,
+        "height": 765,
+        "sha256": "0693655c07b153f3f5ccf2ee60f3e09afa716ac1695a4e1218964f3187aa5ef9"
+      },
+      "compressed": {
+        "bytes": 33566,
+        "width": 765,
+        "height": 765,
+        "sha256": "e32479215bfe9b14c95327d2aca876371ca5aad1ab266093480a90454722cc4b"
+      },
+      "saved_bytes": 554698,
+      "compressed_ratio": 0.0571,
+      "saved_percent": 94.29
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/书籍/匹诺康尼剧情阅读物-梦的谢幕礼-就此离开.png",
+      "compressed_path": "references/bwiki_images/assets_webp/书籍/匹诺康尼剧情阅读物-梦的谢幕礼-就此离开.webp",
+      "file_name": "匹诺康尼剧情阅读物-梦的谢幕礼-就此离开.png",
+      "asset_kind": "file_link",
+      "wiki_category": "书籍",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 799604,
+        "width": 936,
+        "height": 456,
+        "sha256": "3b0d6a17e3c4fceb63483f45cab841ab8f86178f6d10e89e4b0629f181ce7c7d"
+      },
+      "compressed": {
+        "bytes": 106868,
+        "width": 936,
+        "height": 456,
+        "sha256": "ac6069c1ec0dd847b4d95abda876caed5745d4c65819596901ab7c1afb78ad5a"
+      },
+      "saved_bytes": 692736,
+      "compressed_ratio": 0.1337,
+      "saved_percent": 86.63
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/书籍/匹诺康尼剧情阅读物-梦的谢幕礼-履行约定.png",
+      "compressed_path": "references/bwiki_images/assets_webp/书籍/匹诺康尼剧情阅读物-梦的谢幕礼-履行约定.webp",
+      "file_name": "匹诺康尼剧情阅读物-梦的谢幕礼-履行约定.png",
+      "asset_kind": "file_link",
+      "wiki_category": "书籍",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 514745,
+        "width": 936,
+        "height": 456,
+        "sha256": "4c2e224d498df76e5f9905d966050183e340b9b46f430f3595ab6bf77e2f0518"
+      },
+      "compressed": {
+        "bytes": 58470,
+        "width": 936,
+        "height": 456,
+        "sha256": "ef1bf95b2459568f4a0ffbef60053f93bfb481e2686bb8281d4806a0af9f365f"
+      },
+      "saved_bytes": 456275,
+      "compressed_ratio": 0.1136,
+      "saved_percent": 88.64
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/书籍/盛会之星艾迪恩先生.jpg",
+      "compressed_path": "references/bwiki_images/assets_webp/书籍/盛会之星艾迪恩先生.webp",
+      "file_name": "盛会之星艾迪恩先生.jpg",
+      "asset_kind": "file_link",
+      "wiki_category": "书籍",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 665912,
+        "width": 480,
+        "height": 688,
+        "sha256": "850e38db2e119a077f5867680da9d2b667e9cb78abe2bd274f319b0216868094"
+      },
+      "compressed": {
+        "bytes": 84934,
+        "width": 480,
+        "height": 688,
+        "sha256": "0bfb4badf91e0de4d0ebc53b877532d650e61e57f9af5cfc04df50a047298aac"
+      },
+      "saved_bytes": 580978,
+      "compressed_ratio": 0.1275,
+      "saved_percent": 87.25
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/书籍/盛会之星奥帝•艾弗法.jpg",
+      "compressed_path": "references/bwiki_images/assets_webp/书籍/盛会之星奥帝•艾弗法.webp",
+      "file_name": "盛会之星奥帝•艾弗法.jpg",
+      "asset_kind": "file_link",
+      "wiki_category": "书籍",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 557109,
+        "width": 480,
+        "height": 688,
+        "sha256": "b9f66d392ce99d78ddeaf39558f1545162894a7b68c58cbc27cb1d11c2752342"
+      },
+      "compressed": {
+        "bytes": 68476,
+        "width": 480,
+        "height": 688,
+        "sha256": "197aa12a5362fbd229e062d77315f2cc5ff3505cdfbd93f352a346a9de8d49d1"
+      },
+      "saved_bytes": 488633,
+      "compressed_ratio": 0.1229,
+      "saved_percent": 87.71
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/书籍/盛会之星莱斯利•迪恩.jpg",
+      "compressed_path": "references/bwiki_images/assets_webp/书籍/盛会之星莱斯利•迪恩.webp",
+      "file_name": "盛会之星莱斯利•迪恩.jpg",
+      "asset_kind": "file_link",
+      "wiki_category": "书籍",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 422327,
+        "width": 480,
+        "height": 688,
+        "sha256": "ebd0487ecd91f2f64785c4d530dc6f8e81b7e4d6dadf78be311c7bcfb292d609"
+      },
+      "compressed": {
+        "bytes": 41558,
+        "width": 480,
+        "height": 688,
+        "sha256": "ed222b3d996dba7f405b4043e3e570b65a0b312f39f34e506a07265eaeba0506"
+      },
+      "saved_bytes": 380769,
+      "compressed_ratio": 0.0984,
+      "saved_percent": 90.16
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/书籍/盛会之星哈姆兹.jpg",
+      "compressed_path": "references/bwiki_images/assets_webp/书籍/盛会之星哈姆兹.webp",
+      "file_name": "盛会之星哈姆兹.jpg",
+      "asset_kind": "file_link",
+      "wiki_category": "书籍",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 475998,
+        "width": 480,
+        "height": 688,
+        "sha256": "0d6504bdf1114227e75df24b6b0a343e2929448df174b5e9621bb570e32ecc9e"
+      },
+      "compressed": {
+        "bytes": 77412,
+        "width": 480,
+        "height": 688,
+        "sha256": "aa3b622a4cee933bd4730dea87efb9e86e527204898784b8e28048711da274d1"
+      },
+      "saved_bytes": 398586,
+      "compressed_ratio": 0.1626,
+      "saved_percent": 83.74
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/书籍/盛会之星梅芙恩•伊里斯.jpg",
+      "compressed_path": "references/bwiki_images/assets_webp/书籍/盛会之星梅芙恩•伊里斯.webp",
+      "file_name": "盛会之星梅芙恩•伊里斯.jpg",
+      "asset_kind": "file_link",
+      "wiki_category": "书籍",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 440802,
+        "width": 480,
+        "height": 688,
+        "sha256": "897fc75c9699b2e5a61e6ffb3b6173102376b8fa6071742a937a95afc0d0220b"
+      },
+      "compressed": {
+        "bytes": 65354,
+        "width": 480,
+        "height": 688,
+        "sha256": "fbd7d5708f2bc736679e7d4d44e88426409a7c12bfb5225fbc2ea3010f6a3357"
+      },
+      "saved_bytes": 375448,
+      "compressed_ratio": 0.1483,
+      "saved_percent": 85.17
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/书籍/盛会之星歌斐木.jpg",
+      "compressed_path": "references/bwiki_images/assets_webp/书籍/盛会之星歌斐木.webp",
+      "file_name": "盛会之星歌斐木.jpg",
+      "asset_kind": "file_link",
+      "wiki_category": "书籍",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 567161,
+        "width": 474,
+        "height": 701,
+        "sha256": "ebd5ce78a50c9ca7b8b88c9cf8d2f05e4b2496d298a1125dcac718b846f31bde"
+      },
+      "compressed": {
+        "bytes": 77078,
+        "width": 474,
+        "height": 701,
+        "sha256": "9b2a8db14d798529dcbdae5a22f9c52bc941a3e3156a9abb74c5f18293b7f084"
+      },
+      "saved_bytes": 490083,
+      "compressed_ratio": 0.1359,
+      "saved_percent": 86.41
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/书籍/盛会之星哈努努.png",
+      "compressed_path": "references/bwiki_images/assets_webp/书籍/盛会之星哈努努.webp",
+      "file_name": "盛会之星哈努努.png",
+      "asset_kind": "file_link",
+      "wiki_category": "书籍",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 358175,
+        "width": 480,
+        "height": 688,
+        "sha256": "9e9617b223cfb18a8d157c50b9734b9d6c0ee320aa704fffde7ee363b2dd11cf"
+      },
+      "compressed": {
+        "bytes": 55396,
+        "width": 480,
+        "height": 688,
+        "sha256": "e9bf905cb5581ff733ef21a6a662202abbf5db398ac68c1007633a3edbc4ef44"
+      },
+      "saved_bytes": 302779,
+      "compressed_ratio": 0.1547,
+      "saved_percent": 84.53
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/书籍/盛会之星无名英雄.png",
+      "compressed_path": "references/bwiki_images/assets_webp/书籍/盛会之星无名英雄.webp",
+      "file_name": "盛会之星无名英雄.png",
+      "asset_kind": "file_link",
+      "wiki_category": "书籍",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 608207,
+        "width": 480,
+        "height": 688,
+        "sha256": "f2a1d299d30e621d5b7bb850337a66fbfa52301a28bbc5ec2218259bac45fa02"
+      },
+      "compressed": {
+        "bytes": 95804,
+        "width": 480,
+        "height": 688,
+        "sha256": "61c7b69f108f26c3516305eca886063b926b94a6828c5da7be65760896ec43bc"
+      },
+      "saved_bytes": 512403,
+      "compressed_ratio": 0.1575,
+      "saved_percent": 84.25
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/书籍/盛会之星格拉克斯.png",
+      "compressed_path": "references/bwiki_images/assets_webp/书籍/盛会之星格拉克斯.webp",
+      "file_name": "盛会之星格拉克斯.png",
+      "asset_kind": "file_link",
+      "wiki_category": "书籍",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 475918,
+        "width": 480,
+        "height": 688,
+        "sha256": "2aff52754e9a4512700901501c4ebfc3d472360a3094d05a61442cf6aa6fc23f"
+      },
+      "compressed": {
+        "bytes": 77706,
+        "width": 480,
+        "height": 688,
+        "sha256": "9b4eb27483cbe95a80eb799c617cb8ab817ff6ed76b0857d086f21b525f2b3b5"
+      },
+      "saved_bytes": 398212,
+      "compressed_ratio": 0.1633,
+      "saved_percent": 83.67
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/书籍/盛会之星折纸筑梦师.png",
+      "compressed_path": "references/bwiki_images/assets_webp/书籍/盛会之星折纸筑梦师.webp",
+      "file_name": "盛会之星折纸筑梦师.png",
+      "asset_kind": "file_link",
+      "wiki_category": "书籍",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 762004,
+        "width": 480,
+        "height": 688,
+        "sha256": "334b2b654e911b1f207055a84f7364b1c59801518c86d0c38a46ca03b2aa5e10"
+      },
+      "compressed": {
+        "bytes": 124146,
+        "width": 480,
+        "height": 688,
+        "sha256": "407c2c1ce4e7bb081cb9d31f2eba5836ed7c1df17e61b09edaa9d80cd820ef65"
+      },
+      "saved_bytes": 637858,
+      "compressed_ratio": 0.1629,
+      "saved_percent": 83.71
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/书籍/迷梦造舸.png",
+      "compressed_path": "references/bwiki_images/assets_webp/书籍/迷梦造舸.webp",
+      "file_name": "迷梦造舸.png",
+      "asset_kind": "file_link",
+      "wiki_category": "书籍",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 355702,
+        "width": 936,
+        "height": 456,
+        "sha256": "9095d608dc75d8dacd895898000555059f050e0781edd89a7bce62b3bbbe26e9"
+      },
+      "compressed": {
+        "bytes": 37974,
+        "width": 936,
+        "height": 456,
+        "sha256": "9c77bbcf37e1640bb8d5b2d9323a68224c0b986ad1bb0340d2941596ddd1dea2"
+      },
+      "saved_bytes": 317728,
+      "compressed_ratio": 0.1068,
+      "saved_percent": 89.32
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/书籍/孤航时代.png",
+      "compressed_path": "references/bwiki_images/assets_webp/书籍/孤航时代.webp",
+      "file_name": "孤航时代.png",
+      "asset_kind": "file_link",
+      "wiki_category": "书籍",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 378462,
+        "width": 936,
+        "height": 456,
+        "sha256": "a19c8fccb3c12f01c5da0ef4b7164f11abe265a6563ae09b7ee55cc021dc0cf1"
+      },
+      "compressed": {
+        "bytes": 41610,
+        "width": 936,
+        "height": 456,
+        "sha256": "3d75045b9e657776362d58af5450209954eec2a1724507eb5d4728142a61e89d"
+      },
+      "saved_bytes": 336852,
+      "compressed_ratio": 0.1099,
+      "saved_percent": 89.01
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/书籍/建木降临.png",
+      "compressed_path": "references/bwiki_images/assets_webp/书籍/建木降临.webp",
+      "file_name": "建木降临.png",
+      "asset_kind": "file_link",
+      "wiki_category": "书籍",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 326260,
+        "width": 936,
+        "height": 456,
+        "sha256": "11032577e463b13fb2f20b751f1e4de2c2dbbe4b9e590f028ef57a24f61f08c2"
+      },
+      "compressed": {
+        "bytes": 32282,
+        "width": 936,
+        "height": 456,
+        "sha256": "17336ccb9443673f3379b7243e92c0226d352b440054a0b0b2f640eb70ae3c09"
+      },
+      "saved_bytes": 293978,
+      "compressed_ratio": 0.0989,
+      "saved_percent": 90.11
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/书籍/生劫火劫.png",
+      "compressed_path": "references/bwiki_images/assets_webp/书籍/生劫火劫.webp",
+      "file_name": "生劫火劫.png",
+      "asset_kind": "file_link",
+      "wiki_category": "书籍",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 425212,
+        "width": 936,
+        "height": 456,
+        "sha256": "8aa4a2c4c9a36d67bcf1e78cea28baee1ff363b03976cc0b0a26420719172cf1"
+      },
+      "compressed": {
+        "bytes": 46186,
+        "width": 936,
+        "height": 456,
+        "sha256": "ccacb4afd48c64328c204d072f01eaf4c91fd10368333d658274196e0c68b18e"
+      },
+      "saved_bytes": 379026,
+      "compressed_ratio": 0.1086,
+      "saved_percent": 89.14
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/书籍/天裂一射.png",
+      "compressed_path": "references/bwiki_images/assets_webp/书籍/天裂一射.webp",
+      "file_name": "天裂一射.png",
+      "asset_kind": "file_link",
+      "wiki_category": "书籍",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 347575,
+        "width": 936,
+        "height": 456,
+        "sha256": "e528a03100f5f70a57de7b86ce3fe5a70f370ce4ab95b7277df1494811e34c43"
+      },
+      "compressed": {
+        "bytes": 34010,
+        "width": 936,
+        "height": 456,
+        "sha256": "c9942a0b1e6b886d9792fcde2d2a9e947048c30c23db04e92f023a2ce4039f76"
+      },
+      "saved_bytes": 313565,
+      "compressed_ratio": 0.0978,
+      "saved_percent": 90.22
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/书籍/魔阴空劫.png",
+      "compressed_path": "references/bwiki_images/assets_webp/书籍/魔阴空劫.webp",
+      "file_name": "魔阴空劫.png",
+      "asset_kind": "file_link",
+      "wiki_category": "书籍",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 332772,
+        "width": 936,
+        "height": 456,
+        "sha256": "2cc2c8b124776ec8e1cc8d83fbd0c1b7ee80a73c5acdf516df857039bdd043a5"
+      },
+      "compressed": {
+        "bytes": 33070,
+        "width": 936,
+        "height": 456,
+        "sha256": "092cefe997db0f0db4ce173283ce7c435152b3450e7316005a95d9b1f69f78ee"
+      },
+      "saved_bytes": 299702,
+      "compressed_ratio": 0.0994,
+      "saved_percent": 90.06
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/书籍/镇伏玄根.png",
+      "compressed_path": "references/bwiki_images/assets_webp/书籍/镇伏玄根.webp",
+      "file_name": "镇伏玄根.png",
+      "asset_kind": "file_link",
+      "wiki_category": "书籍",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 381234,
+        "width": 936,
+        "height": 456,
+        "sha256": "9a0a3fb97194a58a7f6000a26a346b26242933194727228997336e0c4f2ceac6"
+      },
+      "compressed": {
+        "bytes": 41136,
+        "width": 936,
+        "height": 456,
+        "sha256": "10afaa5c5980d9a468e563e130a687e987f97c14034da1cfa9022c042ff9b53b"
+      },
+      "saved_bytes": 340098,
+      "compressed_ratio": 0.1079,
+      "saved_percent": 89.21
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/书籍/云上五骁.png",
+      "compressed_path": "references/bwiki_images/assets_webp/书籍/云上五骁.webp",
+      "file_name": "云上五骁.png",
+      "asset_kind": "file_link",
+      "wiki_category": "书籍",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 374172,
+        "width": 936,
+        "height": 456,
+        "sha256": "ff37f39aa8a6f20edfc9066b7e19e920d8f81edeb5e24030f7d8212b224534c6"
+      },
+      "compressed": {
+        "bytes": 41536,
+        "width": 936,
+        "height": 456,
+        "sha256": "9b898a7c7ed4aa6fe29b1cf98ce49d4f533cca74c361c8ba31497736b791a448"
+      },
+      "saved_bytes": 332636,
+      "compressed_ratio": 0.111,
+      "saved_percent": 88.9
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/书籍/艾丝妲的仪器采购合同插图.png",
+      "compressed_path": "references/bwiki_images/assets_webp/书籍/艾丝妲的仪器采购合同插图.webp",
+      "file_name": "艾丝妲的仪器采购合同插图.png",
+      "asset_kind": "file_link",
+      "wiki_category": "书籍",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 412667,
+        "width": 936,
+        "height": 456,
+        "sha256": "df5fdc381edde474adbbef1a0720a58b21b4488063e5b1c6f4ccc8cb077039f6"
+      },
+      "compressed": {
+        "bytes": 48926,
+        "width": 936,
+        "height": 456,
+        "sha256": "9671a95e7f5e09dca90c15b70b027482f55e2d02ecbe0b152a2a6bd4b094b401"
+      },
+      "saved_bytes": 363741,
+      "compressed_ratio": 0.1186,
+      "saved_percent": 88.14
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/书籍/通缉令纪念册.png",
+      "compressed_path": "references/bwiki_images/assets_webp/书籍/通缉令纪念册.webp",
+      "file_name": "通缉令纪念册.png",
+      "asset_kind": "file_link",
+      "wiki_category": "书籍",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 553734,
+        "width": 936,
+        "height": 456,
+        "sha256": "93d92ee86e69e464043a1e62122018fe7166f61d6b1557fb4b6ebba6e204185b"
+      },
+      "compressed": {
+        "bytes": 77878,
+        "width": 936,
+        "height": 456,
+        "sha256": "68c9096950f214919ab41c0a4700243f0541fad6afd96887137f296c14df6060"
+      },
+      "saved_bytes": 475856,
+      "compressed_ratio": 0.1406,
+      "saved_percent": 85.94
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/冒险任务/短信-瓦尔特-侵蚀隧洞.png",
+      "compressed_path": "references/bwiki_images/assets_webp/冒险任务/短信-瓦尔特-侵蚀隧洞.webp",
+      "file_name": "短信-瓦尔特-侵蚀隧洞.png",
+      "asset_kind": "dialog_image",
+      "wiki_category": "冒险任务",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 508543,
+        "width": 988,
+        "height": 481,
+        "sha256": "2284d4742dcb67492ba73f31fd20b67dcf06a01d7c8520506a7359505594c236"
+      },
+      "compressed": {
+        "bytes": 51156,
+        "width": 988,
+        "height": 481,
+        "sha256": "2b664405d7a57dcbbd534f0c472ffaef5639b2b8fe28887928a401b4e7009e27"
+      },
+      "saved_bytes": 457387,
+      "compressed_ratio": 0.1006,
+      "saved_percent": 89.94
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/冒险任务/短信-瓦尔特-凝滞虚影.png",
+      "compressed_path": "references/bwiki_images/assets_webp/冒险任务/短信-瓦尔特-凝滞虚影.webp",
+      "file_name": "短信-瓦尔特-凝滞虚影.png",
+      "asset_kind": "dialog_image",
+      "wiki_category": "冒险任务",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 723869,
+        "width": 987,
+        "height": 480,
+        "sha256": "298548439a22f95b5f4736dcaccd33c54a90286bd6250ea9a58a4c24e1c584a2"
+      },
+      "compressed": {
+        "bytes": 68742,
+        "width": 987,
+        "height": 480,
+        "sha256": "b9474cca3876657d26cf5135fd2ede7fe5f2c6a8cebc7066d8268f59e16d2a49"
+      },
+      "saved_bytes": 655127,
+      "compressed_ratio": 0.095,
+      "saved_percent": 90.5
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/冒险任务/短信-瓦尔特-拟造花萼赤.png",
+      "compressed_path": "references/bwiki_images/assets_webp/冒险任务/短信-瓦尔特-拟造花萼赤.webp",
+      "file_name": "短信-瓦尔特-拟造花萼赤.png",
+      "asset_kind": "dialog_image",
+      "wiki_category": "冒险任务",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 490997,
+        "width": 988,
+        "height": 482,
+        "sha256": "4d3fa3c09b1feec2dec7b583e4da60dc1a32f8b65e800d35dbc553e14a059c67"
+      },
+      "compressed": {
+        "bytes": 56610,
+        "width": 988,
+        "height": 482,
+        "sha256": "f1dec2f315ab70d30ff4361f4951419b64331a975e2bab7102c5556bd127cc63"
+      },
+      "saved_bytes": 434387,
+      "compressed_ratio": 0.1153,
+      "saved_percent": 88.47
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/冒险任务/短信-黑塔•全景系统-安魂弥撒1.png",
+      "compressed_path": "references/bwiki_images/assets_webp/冒险任务/短信-黑塔•全景系统-安魂弥撒1.webp",
+      "file_name": "短信-黑塔•全景系统-安魂弥撒1.png",
+      "asset_kind": "dialog_image",
+      "wiki_category": "冒险任务",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 610242,
+        "width": 988,
+        "height": 481,
+        "sha256": "4fc89d70edf9f4cc45748d0ce7f27a7472b9ea7b34ab01cd94df027a019adad8"
+      },
+      "compressed": {
+        "bytes": 44200,
+        "width": 988,
+        "height": 481,
+        "sha256": "431ab4552cec56d372fd29d5bbda8389d9546cdd738a964b3421ab1de1ae87d6"
+      },
+      "saved_bytes": 566042,
+      "compressed_ratio": 0.0724,
+      "saved_percent": 92.76
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/冒险任务/短信-黑塔•全景系统-安魂弥撒3.png",
+      "compressed_path": "references/bwiki_images/assets_webp/冒险任务/短信-黑塔•全景系统-安魂弥撒3.webp",
+      "file_name": "短信-黑塔•全景系统-安魂弥撒3.png",
+      "asset_kind": "dialog_image",
+      "wiki_category": "冒险任务",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 635685,
+        "width": 988,
+        "height": 481,
+        "sha256": "a81acde361ea4f5392802b4bbd501463b318c27688ac80db35272851537240c7"
+      },
+      "compressed": {
+        "bytes": 41252,
+        "width": 988,
+        "height": 481,
+        "sha256": "4357030f9dddef0a556b5e49ca45a4251dcdd0becc5cce5098d80c0048ef8e59"
+      },
+      "saved_bytes": 594433,
+      "compressed_ratio": 0.0649,
+      "saved_percent": 93.51
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/冒险任务/短信-黑塔•全景系统-安魂弥撒2.png",
+      "compressed_path": "references/bwiki_images/assets_webp/冒险任务/短信-黑塔•全景系统-安魂弥撒2.webp",
+      "file_name": "短信-黑塔•全景系统-安魂弥撒2.png",
+      "asset_kind": "dialog_image",
+      "wiki_category": "冒险任务",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 754970,
+        "width": 988,
+        "height": 481,
+        "sha256": "f81bcdc38af5719ddfd46f91013718d7439414fa7d801bce78ca1017dfd0592b"
+      },
+      "compressed": {
+        "bytes": 68230,
+        "width": 988,
+        "height": 481,
+        "sha256": "5b4825f8ee191b57b996dab97512a9d6047fcf06f00e07344c069adef1fc9aed"
+      },
+      "saved_bytes": 686740,
+      "compressed_ratio": 0.0904,
+      "saved_percent": 90.96
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/冒险任务/冒险任务-游辞巧饰-璧羽.png",
+      "compressed_path": "references/bwiki_images/assets_webp/冒险任务/冒险任务-游辞巧饰-璧羽.webp",
+      "file_name": "冒险任务-游辞巧饰-璧羽.png",
+      "asset_kind": "file_link",
+      "wiki_category": "冒险任务",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 52938,
+        "width": 256,
+        "height": 256,
+        "sha256": "6edbe7c5d3961940aca09a13a55896f0bd874e786103ade6288d457460dc6be2"
+      },
+      "compressed": {
+        "bytes": 11190,
+        "width": 256,
+        "height": 256,
+        "sha256": "c0cbd94de6d92ef2a18cea8bc0b922c8d70eb6a036fc24e0845e090d81c32802"
+      },
+      "saved_bytes": 41748,
+      "compressed_ratio": 0.2114,
+      "saved_percent": 78.86
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/冒险任务/短信-瓦尔特-拟造花萼.png",
+      "compressed_path": "references/bwiki_images/assets_webp/冒险任务/短信-瓦尔特-拟造花萼.webp",
+      "file_name": "短信-瓦尔特-拟造花萼.png",
+      "asset_kind": "dialog_image",
+      "wiki_category": "冒险任务",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 911619,
+        "width": 1483,
+        "height": 723,
+        "sha256": "cf5aab7c8686e1744a4fa013ae2b9a2ba0fb6ef209c48b204769ded9325c7bbd"
+      },
+      "compressed": {
+        "bytes": 99950,
+        "width": 1483,
+        "height": 723,
+        "sha256": "9ad19cdbed7f90e82f6aba83c03cb3761db9ad30fe8858f014ac2a83f3668247"
+      },
+      "saved_bytes": 811669,
+      "compressed_ratio": 0.1096,
+      "saved_percent": 89.04
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/冒险任务/短信-小聪-同心锁.png",
+      "compressed_path": "references/bwiki_images/assets_webp/冒险任务/短信-小聪-同心锁.webp",
+      "file_name": "短信-小聪-同心锁.png",
+      "asset_kind": "dialog_image",
+      "wiki_category": "冒险任务",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 115406,
+        "width": 620,
+        "height": 300,
+        "sha256": "34343de0a7d0919f21cc83d283f64eb617f913964b9091a6394c26732a14b803"
+      },
+      "compressed": {
+        "bytes": 12486,
+        "width": 620,
+        "height": 300,
+        "sha256": "657566d62a570ff4a93002e8c2c4303547c16602e108157c5669be62304be0e1"
+      },
+      "saved_bytes": 102920,
+      "compressed_ratio": 0.1082,
+      "saved_percent": 89.18
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/冒险任务/冒险任务-触不可及-藏宝图.png",
+      "compressed_path": "references/bwiki_images/assets_webp/冒险任务/冒险任务-触不可及-藏宝图.webp",
+      "file_name": "冒险任务-触不可及-藏宝图.png",
+      "asset_kind": "file_link",
+      "wiki_category": "冒险任务",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 2546908,
+        "width": 2557,
+        "height": 1438,
+        "sha256": "74b0c9b38a986ac27d3f0657512317396e377e8804314afe7e7b5aa4ea55f9ab"
+      },
+      "compressed": {
+        "bytes": 162990,
+        "width": 2557,
+        "height": 1438,
+        "sha256": "780c19fbbb60e5622886fd865f1f8a5e74010c371c5eede3b9607f10593187fe"
+      },
+      "saved_bytes": 2383918,
+      "compressed_ratio": 0.064,
+      "saved_percent": 93.6
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/同行任务/同行任务-异邦骑士-影像1.png",
+      "compressed_path": "references/bwiki_images/assets_webp/同行任务/同行任务-异邦骑士-影像1.webp",
+      "file_name": "同行任务-异邦骑士-影像1.png",
+      "asset_kind": "file_link",
+      "wiki_category": "同行任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 5016862,
+        "width": 3840,
+        "height": 2160,
+        "sha256": "d04b78062519a24a4f0503eefa719fb2ecab0a0afc3146419473bb8f7c2cc200"
+      },
+      "compressed": {
+        "bytes": 109550,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "d7d37aaf922ec0d5f65b7c7467f0b15920ed041eb68964a0ef091305417b5ed9"
+      },
+      "saved_bytes": 4907312,
+      "compressed_ratio": 0.0218,
+      "saved_percent": 97.82
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/同行任务/同行任务-异邦骑士-影像2.png",
+      "compressed_path": "references/bwiki_images/assets_webp/同行任务/同行任务-异邦骑士-影像2.webp",
+      "file_name": "同行任务-异邦骑士-影像2.png",
+      "asset_kind": "file_link",
+      "wiki_category": "同行任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 6185688,
+        "width": 3840,
+        "height": 2160,
+        "sha256": "21eed9d1a025b35b8cf8407388e26575574fb1f882815b1e72dbb59227d39db2"
+      },
+      "compressed": {
+        "bytes": 117384,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "722cdbc5bfad8bf1b8f84e1a0c6b1b47219560db2ef5b29f32b1cd4105696f34"
+      },
+      "saved_bytes": 6068304,
+      "compressed_ratio": 0.019,
+      "saved_percent": 98.1
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/同行任务/同行任务-异邦骑士-影像3.png",
+      "compressed_path": "references/bwiki_images/assets_webp/同行任务/同行任务-异邦骑士-影像3.webp",
+      "file_name": "同行任务-异邦骑士-影像3.png",
+      "asset_kind": "file_link",
+      "wiki_category": "同行任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 7054581,
+        "width": 3840,
+        "height": 2160,
+        "sha256": "948f20632b30f1e18822409853d7399ec72297909796ac955f4fcd451399e4f2"
+      },
+      "compressed": {
+        "bytes": 141672,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "74c750a971d8dc98f2eea6b4b120d8d5e5f081d1425f8eeae5ef84461a537e9b"
+      },
+      "saved_bytes": 6912909,
+      "compressed_ratio": 0.0201,
+      "saved_percent": 97.99
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/同行任务/同行任务-异邦骑士-纸花.png",
+      "compressed_path": "references/bwiki_images/assets_webp/同行任务/同行任务-异邦骑士-纸花.webp",
+      "file_name": "同行任务-异邦骑士-纸花.png",
+      "asset_kind": "file_link",
+      "wiki_category": "同行任务",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "default_story_image"
+      },
+      "original": {
+        "bytes": 326783,
+        "width": 824,
+        "height": 722,
+        "sha256": "d533a90955988eeb03dd8dccb6791d8f13bdf9b24f63b2287c492d2161da6827"
+      },
+      "compressed": {
+        "bytes": 26028,
+        "width": 824,
+        "height": 722,
+        "sha256": "7045b8fe9b54a8d0d9ddcfb0223663778d7fcbfcf0ace216d8836d97448fa6b0"
+      },
+      "saved_bytes": 300755,
+      "compressed_ratio": 0.0796,
+      "saved_percent": 92.04
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/同行任务/同行任务-异邦骑士-影像4.png",
+      "compressed_path": "references/bwiki_images/assets_webp/同行任务/同行任务-异邦骑士-影像4.webp",
+      "file_name": "同行任务-异邦骑士-影像4.png",
+      "asset_kind": "file_link",
+      "wiki_category": "同行任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 5815481,
+        "width": 3840,
+        "height": 2160,
+        "sha256": "34320b531764464e95f1314a120dd1da25b6fdc269b37ecab411c8c3607cd0c8"
+      },
+      "compressed": {
+        "bytes": 110732,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "ad49342ba075d1350ce78945db28751aee23692723fffcae489954c4dd9e8557"
+      },
+      "saved_bytes": 5704749,
+      "compressed_ratio": 0.019,
+      "saved_percent": 98.1
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/同行任务/同行任务-异邦骑士-CG.png",
+      "compressed_path": "references/bwiki_images/assets_webp/同行任务/同行任务-异邦骑士-CG.webp",
+      "file_name": "同行任务-异邦骑士-CG.png",
+      "asset_kind": "file_link",
+      "wiki_category": "同行任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 4679330,
+        "width": 3840,
+        "height": 2160,
+        "sha256": "25b591d195386894c0bac8f40d9a45b5e0356f4d2518b5b9685b0c7fe79c3a6e"
+      },
+      "compressed": {
+        "bytes": 111672,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "924bab3771de160f49efa6ea82af1fa24b4a6937e4c7c0398e4f99cacfcdf3fa"
+      },
+      "saved_bytes": 4567658,
+      "compressed_ratio": 0.0239,
+      "saved_percent": 97.61
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/同行任务/同行任务-朋克洛德精神-CG.png",
+      "compressed_path": "references/bwiki_images/assets_webp/同行任务/同行任务-朋克洛德精神-CG.webp",
+      "file_name": "同行任务-朋克洛德精神-CG.png",
+      "asset_kind": "file_link",
+      "wiki_category": "同行任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 5358718,
+        "width": 2560,
+        "height": 1440,
+        "sha256": "da70246df1d2112354631bc0101624e2b1055b30577258a8a534a2655f28a8f0"
+      },
+      "compressed": {
+        "bytes": 195466,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "36e3b642da918b18ae134d6c54713419422b3e51f845a64c5e0cf3378c031887"
+      },
+      "saved_bytes": 5163252,
+      "compressed_ratio": 0.0365,
+      "saved_percent": 96.35
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/同行任务/同行任务-异邦骑士-CG2.png",
+      "compressed_path": "references/bwiki_images/assets_webp/同行任务/同行任务-异邦骑士-CG2.webp",
+      "file_name": "同行任务-异邦骑士-CG2.png",
+      "asset_kind": "file_link",
+      "wiki_category": "同行任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 5558908,
+        "width": 3840,
+        "height": 2160,
+        "sha256": "d73e3ced833ff55a4bb8657f052b43237f10841b4bb13473280a956adb1fead9"
+      },
+      "compressed": {
+        "bytes": 100362,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "e527f3cd4f018f4bf1167f14f2eaf9e417430ac79856214da99a2fae0ea40bd7"
+      },
+      "saved_bytes": 5458546,
+      "compressed_ratio": 0.0181,
+      "saved_percent": 98.19
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-一个正义罪人的忏悔-CG2.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-一个正义罪人的忏悔-CG2.webp",
+      "file_name": "开拓任务-一个正义罪人的忏悔-CG2.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 1473296,
+        "width": 1591,
+        "height": 890,
+        "sha256": "1561c7f5591dce3fcfee46b2d18ea9acb6f02e6df6b2e069c49a75dc04f343e2"
+      },
+      "compressed": {
+        "bytes": 68280,
+        "width": 1591,
+        "height": 890,
+        "sha256": "b784b37a2088fc8ab1e1274b11a3fa082456e5ea1ab1506677d40b93cc572866"
+      },
+      "saved_bytes": 1405016,
+      "compressed_ratio": 0.0463,
+      "saved_percent": 95.37
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-一个正义罪人的忏悔-CG3.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-一个正义罪人的忏悔-CG3.webp",
+      "file_name": "开拓任务-一个正义罪人的忏悔-CG3.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 321903,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "4ce2190fdb005fca58e2454ea0ff7855307e1180c7ad627f54e99b1e6e2f070b"
+      },
+      "compressed": {
+        "bytes": 237376,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "80bc101cbff1845711550b8b7745e530d156c23652372b97ba97d995893fe387"
+      },
+      "saved_bytes": 84527,
+      "compressed_ratio": 0.7374,
+      "saved_percent": 26.26
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-一个正义罪人的忏悔-CG1.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-一个正义罪人的忏悔-CG1.webp",
+      "file_name": "开拓任务-一个正义罪人的忏悔-CG1.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 2933542,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "cbdb79e7aa3a50a2c689fc25a6964b4b1df7359e4898c51885adfc2510e776cc"
+      },
+      "compressed": {
+        "bytes": 177228,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "4582e7e3d6432894f6ea10a6b73e84c34f2fac1ec0c65ac9b07b5bf032186ebc"
+      },
+      "saved_bytes": 2756314,
+      "compressed_ratio": 0.0604,
+      "saved_percent": 93.96
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-主播女孩的审慎魅力-CG1.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-主播女孩的审慎魅力-CG1.webp",
+      "file_name": "开拓任务-主播女孩的审慎魅力-CG1.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 347038,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "d472cd88c4ccdb2ca77487ac1af7b289cbaddd555bf932ef302b0306234a2d62"
+      },
+      "compressed": {
+        "bytes": 285884,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "dbb4967a172dfc544f8fe08fdccec9851adc03845141abaf2d8fa7ff8c49a85a"
+      },
+      "saved_bytes": 61154,
+      "compressed_ratio": 0.8238,
+      "saved_percent": 17.62
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-主播女孩的审慎魅力-CG2.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-主播女孩的审慎魅力-CG2.webp",
+      "file_name": "开拓任务-主播女孩的审慎魅力-CG2.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 311172,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "ac280e2374bef9caf1f41fbe19abd4fe6466c830466f01d193f8e67d7cc13f4e"
+      },
+      "compressed": {
+        "bytes": 246506,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "948911666de3d02111c942c41ec2d6b7623f4da28b02c660988a8348119867ee"
+      },
+      "saved_bytes": 64666,
+      "compressed_ratio": 0.7922,
+      "saved_percent": 20.78
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-主播女孩的审慎魅力-CG3.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-主播女孩的审慎魅力-CG3.webp",
+      "file_name": "开拓任务-主播女孩的审慎魅力-CG3.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 300772,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "7327f4a0e33ace2049be6065b4c9680b6fae32eb4f6efe34618c940a452bb9cf"
+      },
+      "compressed": {
+        "bytes": 234012,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "3a17ec50a12e84fc751cbfd6ca640dd08b6f198599b89b678d35b1976aee6105"
+      },
+      "saved_bytes": 66760,
+      "compressed_ratio": 0.778,
+      "saved_percent": 22.2
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-人间天堂-庸人的见地.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-人间天堂-庸人的见地.webp",
+      "file_name": "开拓任务-人间天堂-庸人的见地.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "default_story_image"
+      },
+      "original": {
+        "bytes": 195568,
+        "width": 500,
+        "height": 500,
+        "sha256": "a20d03a753658d4c809a1b29fab4fcb7d977d3fa03e1d91043cd7298ed153f21"
+      },
+      "compressed": {
+        "bytes": 40368,
+        "width": 500,
+        "height": 500,
+        "sha256": "f9d6c670d7d5cbaf1f1a3ab8188136c5b124688929c74689b2e3d0144adbc0e4"
+      },
+      "saved_bytes": 155200,
+      "compressed_ratio": 0.2064,
+      "saved_percent": 79.36
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-主播女孩的审慎魅力-CG6.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-主播女孩的审慎魅力-CG6.webp",
+      "file_name": "开拓任务-主播女孩的审慎魅力-CG6.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 346418,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "db88da69da3bd0cd15e9dcf5a38a90fd09be66a5dd3f59ab7ae863d8e03b55a4"
+      },
+      "compressed": {
+        "bytes": 270346,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "0e88d5fd346d90d5d11feaeb2332ef48e8bb54be5c3cd876ca6be51347f34d83"
+      },
+      "saved_bytes": 76072,
+      "compressed_ratio": 0.7804,
+      "saved_percent": 21.96
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-主播女孩的审慎魅力-CG4.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-主播女孩的审慎魅力-CG4.webp",
+      "file_name": "开拓任务-主播女孩的审慎魅力-CG4.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 248572,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "a07b68af8ae5ea5e572a0708aaebac9a205f7d595de3ac1476a2fd59d3aeb138"
+      },
+      "compressed": {
+        "bytes": 168632,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "9a121fa0ccc059284619a9dfc1c205f45200481b71dfe63e5209ef13b255bc6e"
+      },
+      "saved_bytes": 79940,
+      "compressed_ratio": 0.6784,
+      "saved_percent": 32.16
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-人间天堂-相互保证毁灭按钮.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-人间天堂-相互保证毁灭按钮.webp",
+      "file_name": "开拓任务-人间天堂-相互保证毁灭按钮.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "default_story_image"
+      },
+      "original": {
+        "bytes": 203785,
+        "width": 500,
+        "height": 500,
+        "sha256": "34286bce7f3dec4e526cb12be3ef24868984ac9e1200ffdbb37d2a1cc4a5c225"
+      },
+      "compressed": {
+        "bytes": 33680,
+        "width": 500,
+        "height": 500,
+        "sha256": "41393a62e38a9e9ba675553d75dd7a092691222c62d5497718494bbf7e3cde57"
+      },
+      "saved_bytes": 170105,
+      "compressed_ratio": 0.1653,
+      "saved_percent": 83.47
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/短信-星穹列车一家人-遗器.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/短信-星穹列车一家人-遗器.webp",
+      "file_name": "短信-星穹列车一家人-遗器.png",
+      "asset_kind": "dialog_image",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 462327,
+        "width": 988,
+        "height": 481,
+        "sha256": "2b67659d59c8dd2c88fdd1378984449b5f5575dbc0fd3414381ab7e0d2c43b15"
+      },
+      "compressed": {
+        "bytes": 51274,
+        "width": 988,
+        "height": 481,
+        "sha256": "2a2a4fd4a1a18b7b089c503a44a261e67fade35f3c126848cd45d70883249047"
+      },
+      "saved_bytes": 411053,
+      "compressed_ratio": 0.1109,
+      "saved_percent": 88.91
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-主播女孩的审慎魅力-CG5.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-主播女孩的审慎魅力-CG5.webp",
+      "file_name": "开拓任务-主播女孩的审慎魅力-CG5.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 438773,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "af30765cbb4b4b106f69cb84aed0fb7301ebf5b8e3023144e6e3adfb88dc83bd"
+      },
+      "compressed": {
+        "bytes": 376400,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "98e641d4f18cd525211454924bc64268bf13ece21699bfbc050ef0ac7dbfd5a5"
+      },
+      "saved_bytes": 62373,
+      "compressed_ratio": 0.8578,
+      "saved_percent": 14.22
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-人间天堂-CG.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-人间天堂-CG.webp",
+      "file_name": "开拓任务-人间天堂-CG.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 3137526,
+        "width": 2560,
+        "height": 1600,
+        "sha256": "69a7fddd76d060b73a3f592fa4c5db8219d6be93540cedce5e40b8a205ba888b"
+      },
+      "compressed": {
+        "bytes": 62384,
+        "width": 1920,
+        "height": 1200,
+        "sha256": "32e8f815ba476aab75a05f12265eb99c9def71ec08fa978cb36c84be7a80e353"
+      },
+      "saved_bytes": 3075142,
+      "compressed_ratio": 0.0199,
+      "saved_percent": 98.01
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-倘若在午夜醒来-CG.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-倘若在午夜醒来-CG.webp",
+      "file_name": "开拓任务-倘若在午夜醒来-CG.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 5126032,
+        "width": 2560,
+        "height": 1600,
+        "sha256": "369143d8347b378b8ff5a400fdc5c2e053b3403f937dcfba2d3a10aa28630f97"
+      },
+      "compressed": {
+        "bytes": 199834,
+        "width": 1920,
+        "height": 1200,
+        "sha256": "b9ce972c90a3953a4e8627da21922e096c2f6c6fb961077da44a06c77d8db003"
+      },
+      "saved_bytes": 4926198,
+      "compressed_ratio": 0.039,
+      "saved_percent": 96.1
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-倘若在午夜醒来-CG2.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-倘若在午夜醒来-CG2.webp",
+      "file_name": "开拓任务-倘若在午夜醒来-CG2.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 6678321,
+        "width": 2560,
+        "height": 1600,
+        "sha256": "8978ad8db16e90acec399057104adfce4446846fa5dff764b6595ca30726947b"
+      },
+      "compressed": {
+        "bytes": 163812,
+        "width": 1920,
+        "height": 1200,
+        "sha256": "436126144defd65ff5de6d7f8863a2ba79acdd635a0811a9556cf5b416367943"
+      },
+      "saved_bytes": 6514509,
+      "compressed_ratio": 0.0245,
+      "saved_percent": 97.55
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-倘若在午夜醒来-CG3.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-倘若在午夜醒来-CG3.webp",
+      "file_name": "开拓任务-倘若在午夜醒来-CG3.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 6984659,
+        "width": 2560,
+        "height": 1600,
+        "sha256": "06b624e3e5ac4e53f8d91d0ff936d12d242472fd96655e6de327a490ccad0995"
+      },
+      "compressed": {
+        "bytes": 211732,
+        "width": 1920,
+        "height": 1200,
+        "sha256": "fc94b87eddec656213918a775e3ea749053e855c5ae0c1b9899e0ef819611135"
+      },
+      "saved_bytes": 6772927,
+      "compressed_ratio": 0.0303,
+      "saved_percent": 96.97
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-倘若在午夜醒来-合照星.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-倘若在午夜醒来-合照星.webp",
+      "file_name": "开拓任务-倘若在午夜醒来-合照星.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "default_story_image"
+      },
+      "original": {
+        "bytes": 464977,
+        "width": 1024,
+        "height": 500,
+        "sha256": "c5cb144c4bf42d41dc8ae95461124eac0c75c9eac092796e35a37e79c1368adb"
+      },
+      "compressed": {
+        "bytes": 55908,
+        "width": 1024,
+        "height": 500,
+        "sha256": "ddd4c2b6549b04207f077b6fed0a249b26300237b4979b0d49c0cc3b166e4711"
+      },
+      "saved_bytes": 409069,
+      "compressed_ratio": 0.1202,
+      "saved_percent": 87.98
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-北风的安眠曲-信任的证明.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-北风的安眠曲-信任的证明.webp",
+      "file_name": "开拓任务-北风的安眠曲-信任的证明.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "default_story_image"
+      },
+      "original": {
+        "bytes": 281648,
+        "width": 500,
+        "height": 500,
+        "sha256": "5381f3b7610cf1b80bcbca159cd3f670290a059d0a3f66ee2e6982b4b6b49cd2"
+      },
+      "compressed": {
+        "bytes": 46444,
+        "width": 500,
+        "height": 500,
+        "sha256": "c1cc43031be454cfab9e542f36115c9494175ba7c8743e8e7e6983fb0af432e2"
+      },
+      "saved_bytes": 235204,
+      "compressed_ratio": 0.1649,
+      "saved_percent": 83.51
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-北风的安眠曲-金垃圾.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-北风的安眠曲-金垃圾.webp",
+      "file_name": "开拓任务-北风的安眠曲-金垃圾.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "default_story_image"
+      },
+      "original": {
+        "bytes": 248354,
+        "width": 500,
+        "height": 500,
+        "sha256": "eb550d5fb7ed4cb972a331e60cd06d47068c96c2d8197d2d309fad394b6bd32b"
+      },
+      "compressed": {
+        "bytes": 43800,
+        "width": 500,
+        "height": 500,
+        "sha256": "dc26d41062116076e884aaa40eaeca3fc638999c3a6fa1fb24da95de474bfbb0"
+      },
+      "saved_bytes": 204554,
+      "compressed_ratio": 0.1764,
+      "saved_percent": 82.36
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-双重赔偿-隐夜鸫雕像的线索.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-双重赔偿-隐夜鸫雕像的线索.webp",
+      "file_name": "开拓任务-双重赔偿-隐夜鸫雕像的线索.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "default_story_image"
+      },
+      "original": {
+        "bytes": 770755,
+        "width": 936,
+        "height": 456,
+        "sha256": "345ee2b87e90ee05fca202c70e18e339e05e05d3fb2e3c6d3adcd01ef2a47b91"
+      },
+      "compressed": {
+        "bytes": 111808,
+        "width": 936,
+        "height": 456,
+        "sha256": "9993a5d17d4f4ad69dc7c68e220e0522b77f97b4bf26d95db6ea2f7624ea5ecd"
+      },
+      "saved_bytes": 658947,
+      "compressed_ratio": 0.1451,
+      "saved_percent": 85.49
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/基石-催讨黄玉.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/基石-催讨黄玉.webp",
+      "file_name": "基石-催讨黄玉.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "default_story_image"
+      },
+      "original": {
+        "bytes": 260266,
+        "width": 500,
+        "height": 500,
+        "sha256": "7347e8119ec0c8ef6ecee2b3632e53d88fac6e989c2f4f8e0a2d7b68e629aaf5"
+      },
+      "compressed": {
+        "bytes": 39158,
+        "width": 500,
+        "height": 500,
+        "sha256": "17ac58df006ecd2731ada4d63512fd0bb4a9db97feca4a0d01cb262a5128d5b0"
+      },
+      "saved_bytes": 221108,
+      "compressed_ratio": 0.1505,
+      "saved_percent": 84.95
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-倘若在午夜醒来-CG4.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-倘若在午夜醒来-CG4.webp",
+      "file_name": "开拓任务-倘若在午夜醒来-CG4.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 4343766,
+        "width": 2560,
+        "height": 1600,
+        "sha256": "2fac21b99ae7035029fddf86a06b5bc2b227f9efb9f2c0edf9ee166ae179123e"
+      },
+      "compressed": {
+        "bytes": 119854,
+        "width": 1920,
+        "height": 1200,
+        "sha256": "76aa4ed2779ebdf26c76d9062595ed782237cb9e54ec08f5d42aa078d4d7bfd4"
+      },
+      "saved_bytes": 4223912,
+      "compressed_ratio": 0.0276,
+      "saved_percent": 97.24
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/基石-典贷翡翠.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/基石-典贷翡翠.webp",
+      "file_name": "基石-典贷翡翠.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "default_story_image"
+      },
+      "original": {
+        "bytes": 269739,
+        "width": 500,
+        "height": 500,
+        "sha256": "6db4a47a8abedfb0758e817bb3d8c1a631c08337411c8b35511b72b5a124066d"
+      },
+      "compressed": {
+        "bytes": 38152,
+        "width": 500,
+        "height": 500,
+        "sha256": "ab95a3e33d2c29dda937839be30f2dde8875078217e72422b5fee911fb7ee9fa"
+      },
+      "saved_bytes": 231587,
+      "compressed_ratio": 0.1414,
+      "saved_percent": 85.86
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-双重赔偿-CG.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-双重赔偿-CG.webp",
+      "file_name": "开拓任务-双重赔偿-CG.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 3733988,
+        "width": 2560,
+        "height": 1600,
+        "sha256": "621e2670167e460b0a6df3ddb742274b18cdf9844c992ed4f3aba6a1dab1e519"
+      },
+      "compressed": {
+        "bytes": 78018,
+        "width": 1920,
+        "height": 1200,
+        "sha256": "92eb786623df4eb76392540b24c336d980b23db5ab6c75e265bfecb58e2ec37b"
+      },
+      "saved_bytes": 3655970,
+      "compressed_ratio": 0.0209,
+      "saved_percent": 97.91
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-在千禧年的阴影下-CG1.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-在千禧年的阴影下-CG1.webp",
+      "file_name": "开拓任务-在千禧年的阴影下-CG1.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 3503956,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "47e51192b0c5319b2552fae0aa4f54de778223632707297f98ee971710ee228d"
+      },
+      "compressed": {
+        "bytes": 183634,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "93021805bbc30070902b36eb8177e9da6bfb92ef2030d573aae3ed1b9410ddc4"
+      },
+      "saved_bytes": 3320322,
+      "compressed_ratio": 0.0524,
+      "saved_percent": 94.76
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-夜色名为温柔-拼图碎片.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-夜色名为温柔-拼图碎片.webp",
+      "file_name": "开拓任务-夜色名为温柔-拼图碎片.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "default_story_image"
+      },
+      "original": {
+        "bytes": 195134,
+        "width": 500,
+        "height": 500,
+        "sha256": "b324845ebf901ea120a0fbd5a4cbe5a65ecb3d6e427c193d4c3cb7995de9929d"
+      },
+      "compressed": {
+        "bytes": 34592,
+        "width": 500,
+        "height": 500,
+        "sha256": "c1cf4afa84497b3a21a9a709a0ccabf3c773a04b7a5b3d2999a752048c8f9201"
+      },
+      "saved_bytes": 160542,
+      "compressed_ratio": 0.1773,
+      "saved_percent": 82.27
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-双重赔偿-CG2.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-双重赔偿-CG2.webp",
+      "file_name": "开拓任务-双重赔偿-CG2.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 4089009,
+        "width": 2560,
+        "height": 1600,
+        "sha256": "403f1aef97361abe4c56ddbb9c73a9e375ee260bc6f7a0ee08b86e64cad74152"
+      },
+      "compressed": {
+        "bytes": 96830,
+        "width": 1920,
+        "height": 1200,
+        "sha256": "9a35162eb3d21c441509ac294a20045739e8164bcc445714cd09b2fecf6f7c1d"
+      },
+      "saved_bytes": 3992179,
+      "compressed_ratio": 0.0237,
+      "saved_percent": 97.63
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-在千禧年的阴影下-CG2.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-在千禧年的阴影下-CG2.webp",
+      "file_name": "开拓任务-在千禧年的阴影下-CG2.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 3473637,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "ab020143c1a34d85048a29963c7cca051c94d01ed9a46df477801daccfb57d0e"
+      },
+      "compressed": {
+        "bytes": 179262,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "3703a989d679d83893f9bc239beaab08e525542403ec7b986a03d8b846d077e6"
+      },
+      "saved_bytes": 3294375,
+      "compressed_ratio": 0.0516,
+      "saved_percent": 94.84
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-好兆头，我的朋友-片刻自由.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-好兆头，我的朋友-片刻自由.webp",
+      "file_name": "开拓任务-好兆头，我的朋友-片刻自由.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "default_story_image"
+      },
+      "original": {
+        "bytes": 230828,
+        "width": 500,
+        "height": 500,
+        "sha256": "db16bb4108b1586f59ccb75547bdb1aab992c64ab41ac9b78cd50871265f4bfb"
+      },
+      "compressed": {
+        "bytes": 42796,
+        "width": 500,
+        "height": 500,
+        "sha256": "945880ce4504cc92a0876b353ad86beab24d3ce1ea2dbdb2b3d19f919797fa29"
+      },
+      "saved_bytes": 188032,
+      "compressed_ratio": 0.1854,
+      "saved_percent": 81.46
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-安灵布奠，天清路远-CG1.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-安灵布奠，天清路远-CG1.webp",
+      "file_name": "开拓任务-安灵布奠，天清路远-CG1.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 2486766,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "6aafda6555ef9c2ef64862a34767511081b6295b9d446630096ed13f85d8e80c"
+      },
+      "compressed": {
+        "bytes": 109342,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "d100765e502f555286ffac8fbb1fa27aad02a5398bbf3dac5f25248676224525"
+      },
+      "saved_bytes": 2377424,
+      "compressed_ratio": 0.044,
+      "saved_percent": 95.6
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-夜色名为温柔-CG2.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-夜色名为温柔-CG2.webp",
+      "file_name": "开拓任务-夜色名为温柔-CG2.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 5959557,
+        "width": 3840,
+        "height": 2160,
+        "sha256": "8b249c471f36c980ec65f06979154b144e411fc04df91d8b3a474dc829d010bb"
+      },
+      "compressed": {
+        "bytes": 143944,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "4be92d2f06d7f9d94b74c1e7b7a450426d6987f02a827a4133f507e219e66f36"
+      },
+      "saved_bytes": 5815613,
+      "compressed_ratio": 0.0242,
+      "saved_percent": 97.58
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-天鹅绒里的恶魔-CG.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-天鹅绒里的恶魔-CG.webp",
+      "file_name": "开拓任务-天鹅绒里的恶魔-CG.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 3907976,
+        "width": 2560,
+        "height": 1600,
+        "sha256": "c7e0037494ec3135a795e2037d7a9a0525f95dd87407c6540032041bc0b01a7e"
+      },
+      "compressed": {
+        "bytes": 119946,
+        "width": 1920,
+        "height": 1200,
+        "sha256": "5734685869281a31d562364493815518df7f32e34ef31f210046ee16973aa7a2"
+      },
+      "saved_bytes": 3788030,
+      "compressed_ratio": 0.0307,
+      "saved_percent": 96.93
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-夜色名为温柔-CG1.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-夜色名为温柔-CG1.webp",
+      "file_name": "开拓任务-夜色名为温柔-CG1.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 5418542,
+        "width": 3840,
+        "height": 2160,
+        "sha256": "dcc1b8137d26313d523f5d49faf220ce8fd49241473c0d7e6bb7aae0030a86bf"
+      },
+      "compressed": {
+        "bytes": 138316,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "b069ed698177601ce990b46138d3a7f8f0e59fd6106d87af838ac065f11e731d"
+      },
+      "saved_bytes": 5280226,
+      "compressed_ratio": 0.0255,
+      "saved_percent": 97.45
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-安灵布奠，天清路远-CG3.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-安灵布奠，天清路远-CG3.webp",
+      "file_name": "开拓任务-安灵布奠，天清路远-CG3.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 4966806,
+        "width": 3840,
+        "height": 2160,
+        "sha256": "848bf38c6200a24267367203d93cf0137a31d4464a8cb833c4c935f4ff5902c1"
+      },
+      "compressed": {
+        "bytes": 49262,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "ee12a593465d984096c6936c79cef4e64cc00f05a6f9ae3d2b95d94170fc029f"
+      },
+      "saved_bytes": 4917544,
+      "compressed_ratio": 0.0099,
+      "saved_percent": 99.01
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-安灵布奠，天清路远-CG2.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-安灵布奠，天清路远-CG2.webp",
+      "file_name": "开拓任务-安灵布奠，天清路远-CG2.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 6187562,
+        "width": 3840,
+        "height": 2160,
+        "sha256": "2736a94a1a4865b6bfdca45bf2bffd3230657505f242efc7bee7261b3b868b6e"
+      },
+      "compressed": {
+        "bytes": 76222,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "061e69c52b51002a0faf4b682a0d67f615038100c86ab53f4438b74998af5f06"
+      },
+      "saved_bytes": 6111340,
+      "compressed_ratio": 0.0123,
+      "saved_percent": 98.77
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-安灵布奠，天清路远-CG4.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-安灵布奠，天清路远-CG4.webp",
+      "file_name": "开拓任务-安灵布奠，天清路远-CG4.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 6706900,
+        "width": 3840,
+        "height": 2160,
+        "sha256": "daa5faf4cc92543a9b774dac1f6a1ebe607405d5144f5a771a26368c42fab50b"
+      },
+      "compressed": {
+        "bytes": 94040,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "31676d750e9be1793d72d2157a66279450c026144c442fbaa4381d9516baac34"
+      },
+      "saved_bytes": 6612860,
+      "compressed_ratio": 0.014,
+      "saved_percent": 98.6
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-安灵布奠，天清路远-CG5.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-安灵布奠，天清路远-CG5.webp",
+      "file_name": "开拓任务-安灵布奠，天清路远-CG5.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 6774208,
+        "width": 3840,
+        "height": 2160,
+        "sha256": "83c91dd3f9afe0e028978c7d29ff91b0372576e5566f37301521c2adcf2c5b3b"
+      },
+      "compressed": {
+        "bytes": 74738,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "dd918461a2f538b9f996b6ef99325d41cc6d87d728245b6873e4aaa730f3ac9f"
+      },
+      "saved_bytes": 6699470,
+      "compressed_ratio": 0.011,
+      "saved_percent": 98.9
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-安灵布奠，天清路远-素鲤扇.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-安灵布奠，天清路远-素鲤扇.webp",
+      "file_name": "开拓任务-安灵布奠，天清路远-素鲤扇.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "default_story_image"
+      },
+      "original": {
+        "bytes": 243586,
+        "width": 500,
+        "height": 500,
+        "sha256": "b0eb3abc4d447a2fad5969452d4ba76bde1d771e084f62e5779287b105ed8fff"
+      },
+      "compressed": {
+        "bytes": 43380,
+        "width": 500,
+        "height": 500,
+        "sha256": "fdf99500a6df43cc053ec20063f4fa071a4a94ca3fae2917a57149a77f77ba38"
+      },
+      "saved_bytes": 200206,
+      "compressed_ratio": 0.1781,
+      "saved_percent": 82.19
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-已故去的必如雪崩再来-CG.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-已故去的必如雪崩再来-CG.webp",
+      "file_name": "开拓任务-已故去的必如雪崩再来-CG.png",
+      "asset_kind": "file_link",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 482109,
+        "width": 780,
+        "height": 780,
+        "sha256": "b9b2a389687fb57007ce1acb14d616ba0c605949ac39418a3cfb0b7b69306715"
+      },
+      "compressed": {
+        "bytes": 27660,
+        "width": 780,
+        "height": 780,
+        "sha256": "e3f25f72b07ac195a9d440d9fecaddb6169b14ede3c46832cbdf55d81b63fa53"
+      },
+      "saved_bytes": 454449,
+      "compressed_ratio": 0.0574,
+      "saved_percent": 94.26
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/短信-幻太子-潜入学院-1.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/短信-幻太子-潜入学院-1.webp",
+      "file_name": "短信-幻太子-潜入学院-1.png",
+      "asset_kind": "dialog_image",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 570680,
+        "width": 936,
+        "height": 456,
+        "sha256": "1a051b2a67202c705bb395e3666753cd129161cddd6efc0ca36ab221c74337ce"
+      },
+      "compressed": {
+        "bytes": 92206,
+        "width": 936,
+        "height": 456,
+        "sha256": "a844b8a6f916271f9d63984eddca5364c4fdc275739d68c42863b5b36d341d13"
+      },
+      "saved_bytes": 478474,
+      "compressed_ratio": 0.1616,
+      "saved_percent": 83.84
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/短信-幻太子-潜入学院-2.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/短信-幻太子-潜入学院-2.webp",
+      "file_name": "短信-幻太子-潜入学院-2.png",
+      "asset_kind": "dialog_image",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 678757,
+        "width": 936,
+        "height": 456,
+        "sha256": "826be5910b79345e759a459a6fa7f28b511c13e78aba5d7d2bf1add848b1b2e8"
+      },
+      "compressed": {
+        "bytes": 99732,
+        "width": 936,
+        "height": 456,
+        "sha256": "e14c68575d9a9cc283f79d20f180a62215e8b8884e89cb7877aeb55f50d995b4"
+      },
+      "saved_bytes": 579025,
+      "compressed_ratio": 0.1469,
+      "saved_percent": 85.31
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/短信-幻太子-潜入被发现-1.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/短信-幻太子-潜入被发现-1.webp",
+      "file_name": "短信-幻太子-潜入被发现-1.png",
+      "asset_kind": "dialog_image",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 569403,
+        "width": 936,
+        "height": 456,
+        "sha256": "ce3f8210f85cbbdce7f1d14528c15bffe3bd7d4f10e9aaa099aab891c9c199d2"
+      },
+      "compressed": {
+        "bytes": 75424,
+        "width": 936,
+        "height": 456,
+        "sha256": "655593f648c4a7a0cacd5570fdc81493882c4d5cf6f4e02fc2891693290cd2d0"
+      },
+      "saved_bytes": 493979,
+      "compressed_ratio": 0.1325,
+      "saved_percent": 86.75
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/短信-幻太子-潜入被发现-2.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/短信-幻太子-潜入被发现-2.webp",
+      "file_name": "短信-幻太子-潜入被发现-2.png",
+      "asset_kind": "dialog_image",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 558836,
+        "width": 936,
+        "height": 456,
+        "sha256": "66b88990d76f5fcab6227698b04f6270733b3ace8b185f16cb82d36d6fc6d73c"
+      },
+      "compressed": {
+        "bytes": 72080,
+        "width": 936,
+        "height": 456,
+        "sha256": "0efeb18eef546c6e4e14b233350a9fd708e6d331d805e3272d4d75a345989f02"
+      },
+      "saved_bytes": 486756,
+      "compressed_ratio": 0.129,
+      "saved_percent": 87.1
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/短信-幻太子-潜入被发现-3.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/短信-幻太子-潜入被发现-3.webp",
+      "file_name": "短信-幻太子-潜入被发现-3.png",
+      "asset_kind": "dialog_image",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 587417,
+        "width": 936,
+        "height": 456,
+        "sha256": "dd43c87ef424c9e81b2648852bf1584b4672227161cfca771dd1740cd7b2d448"
+      },
+      "compressed": {
+        "bytes": 79676,
+        "width": 936,
+        "height": 456,
+        "sha256": "0bdb782b1700826ea9cd6602a1f8f82ebdb1937e808cf51b87ca5c4a7f7f1bad"
+      },
+      "saved_bytes": 507741,
+      "compressed_ratio": 0.1356,
+      "saved_percent": 86.44
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/短信-幻太子-潜入被发现-4.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/短信-幻太子-潜入被发现-4.webp",
+      "file_name": "短信-幻太子-潜入被发现-4.png",
+      "asset_kind": "dialog_image",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 566404,
+        "width": 936,
+        "height": 456,
+        "sha256": "d535a33d40edee7ee27b972921514f3d0cd2cba84677fb191abf2387353bbb43"
+      },
+      "compressed": {
+        "bytes": 87160,
+        "width": 936,
+        "height": 456,
+        "sha256": "bda36d2fe741c9322de666d51593d9e49b586e2c7d173548103974d6065213c9"
+      },
+      "saved_bytes": 479244,
+      "compressed_ratio": 0.1539,
+      "saved_percent": 84.61
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/短信-幻太子-潜入被发现-5.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/短信-幻太子-潜入被发现-5.webp",
+      "file_name": "短信-幻太子-潜入被发现-5.png",
+      "asset_kind": "dialog_image",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 707591,
+        "width": 936,
+        "height": 456,
+        "sha256": "7a119ea4f7d3b7b7ce5f8110ee539c7fa7689f64ddffad754413308f001c1fc3"
+      },
+      "compressed": {
+        "bytes": 113210,
+        "width": 936,
+        "height": 456,
+        "sha256": "2479682054cf279dfdca2a5c0a8832da1081e087c3cc025b3bbf40bc6b2802a9"
+      },
+      "saved_bytes": 594381,
+      "compressed_ratio": 0.16,
+      "saved_percent": 84.0
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-愚者总按两遍铃-花火按钮.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-愚者总按两遍铃-花火按钮.webp",
+      "file_name": "开拓任务-愚者总按两遍铃-花火按钮.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "default_story_image"
+      },
+      "original": {
+        "bytes": 207920,
+        "width": 500,
+        "height": 500,
+        "sha256": "32536b7e7a62237ef9a9d02b43238bbb4659a65035ddb1e1548995c6c6482793"
+      },
+      "compressed": {
+        "bytes": 38284,
+        "width": 500,
+        "height": 500,
+        "sha256": "eaa6f8be9e966ff0998ef1fa5e2e4723a0ae9035dd544957f19cbb67a4c45a77"
+      },
+      "saved_bytes": 169636,
+      "compressed_ratio": 0.1841,
+      "saved_percent": 81.59
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-所有悲伤的故事-回想2.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-所有悲伤的故事-回想2.webp",
+      "file_name": "开拓任务-所有悲伤的故事-回想2.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 3571031,
+        "width": 1680,
+        "height": 960,
+        "sha256": "34066ab8f679e30ee23e76ca289473734c0f4c8cb0b03e075640f67c1135e00d"
+      },
+      "compressed": {
+        "bytes": 300640,
+        "width": 1680,
+        "height": 960,
+        "sha256": "60b0c0b8cac11da46f17b83d058bf4bb4594558f5eeecf689321e23c6b15db2f"
+      },
+      "saved_bytes": 3270391,
+      "compressed_ratio": 0.0842,
+      "saved_percent": 91.58
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-所有悲伤的故事-基石回想.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-所有悲伤的故事-基石回想.webp",
+      "file_name": "开拓任务-所有悲伤的故事-基石回想.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 3956231,
+        "width": 1680,
+        "height": 960,
+        "sha256": "6353de09f4e9afd4178ca90b289dbfb5cf6715127faaaeec205350ef81dbdc95"
+      },
+      "compressed": {
+        "bytes": 412974,
+        "width": 1680,
+        "height": 960,
+        "sha256": "94d459bb38bde151574338d7b4a5e39494086b1f687748739d0402c5ee836d6f"
+      },
+      "saved_bytes": 3543257,
+      "compressed_ratio": 0.1044,
+      "saved_percent": 89.56
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-所有悲伤的故事-CG.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-所有悲伤的故事-CG.webp",
+      "file_name": "开拓任务-所有悲伤的故事-CG.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 3693117,
+        "width": 2560,
+        "height": 1600,
+        "sha256": "ba6996bc143fdc46423c7f1fc5d1eef3c6560dc5564aa22ef513a6d9e0dfa2ea"
+      },
+      "compressed": {
+        "bytes": 87656,
+        "width": 1920,
+        "height": 1200,
+        "sha256": "e52b2c03fd81bf71058562b02552ff6785fd0d3978ecae94eb7cb79718292e65"
+      },
+      "saved_bytes": 3605461,
+      "compressed_ratio": 0.0237,
+      "saved_percent": 97.63
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-所有悲伤的故事-回想3.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-所有悲伤的故事-回想3.webp",
+      "file_name": "开拓任务-所有悲伤的故事-回想3.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 4117226,
+        "width": 1680,
+        "height": 960,
+        "sha256": "7c0f68b27008dda9883d5c2882af5ea0dd42644239b54b4c531fdd8caedd6a61"
+      },
+      "compressed": {
+        "bytes": 511590,
+        "width": 1680,
+        "height": 960,
+        "sha256": "0a32e0d116997bfe0cec3e3d3d293fce331751c0f64c2f7f5d2e07a32108542c"
+      },
+      "saved_bytes": 3605636,
+      "compressed_ratio": 0.1243,
+      "saved_percent": 87.57
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-所有悲伤的故事-镣铐.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-所有悲伤的故事-镣铐.webp",
+      "file_name": "开拓任务-所有悲伤的故事-镣铐.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "default_story_image"
+      },
+      "original": {
+        "bytes": 101113,
+        "width": 256,
+        "height": 256,
+        "sha256": "8c79cd9d7c88daa04a6933ce50a82ed32fd063429ee132b9209b9329dda38038"
+      },
+      "compressed": {
+        "bytes": 21902,
+        "width": 256,
+        "height": 256,
+        "sha256": "a752a91fc6377716347cf6c65efcfdb4047ccbdc8f6ca3513ab612d6d1298218"
+      },
+      "saved_bytes": 79211,
+      "compressed_ratio": 0.2166,
+      "saved_percent": 78.34
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/基石-诡弈砂金.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/基石-诡弈砂金.webp",
+      "file_name": "基石-诡弈砂金.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "default_story_image"
+      },
+      "original": {
+        "bytes": 267363,
+        "width": 500,
+        "height": 500,
+        "sha256": "5ee393a3edbd07c22b770b2f3d65fdcfb505ae3b10a5c3af88ab432b99d2c18d"
+      },
+      "compressed": {
+        "bytes": 41822,
+        "width": 500,
+        "height": 500,
+        "sha256": "75beae0e9a003bb37c8db5a53a04d724553e243ca0e8d2aec9de9712406f6d49"
+      },
+      "saved_bytes": 225541,
+      "compressed_ratio": 0.1564,
+      "saved_percent": 84.36
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-所有悲伤的故事-护身符.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-所有悲伤的故事-护身符.webp",
+      "file_name": "开拓任务-所有悲伤的故事-护身符.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "default_story_image"
+      },
+      "original": {
+        "bytes": 308712,
+        "width": 500,
+        "height": 500,
+        "sha256": "99a2171a4e7f4330177c4088102db9591543d730e5b1248f6f1bf6245b7c1530"
+      },
+      "compressed": {
+        "bytes": 44794,
+        "width": 500,
+        "height": 500,
+        "sha256": "ca5ec308762ce69b4438764ce6ae93e5866261d133780e43db69c33fc243fe73"
+      },
+      "saved_bytes": 263918,
+      "compressed_ratio": 0.1451,
+      "saved_percent": 85.49
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-拟像与仿真，或向正义追索-CG1.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-拟像与仿真，或向正义追索-CG1.webp",
+      "file_name": "开拓任务-拟像与仿真，或向正义追索-CG1.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 2393723,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "0029970aad2a42ce52487da89d1e8de51381d50775cfb8695afc6c27d01d36bd"
+      },
+      "compressed": {
+        "bytes": 131816,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "cde7abd37d9fb01721a55ba212e3a8991d079629b6febe01f16add1521efeff3"
+      },
+      "saved_bytes": 2261907,
+      "compressed_ratio": 0.0551,
+      "saved_percent": 94.49
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-所有悲伤的故事-CG2.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-所有悲伤的故事-CG2.webp",
+      "file_name": "开拓任务-所有悲伤的故事-CG2.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 2675099,
+        "width": 2560,
+        "height": 1600,
+        "sha256": "a24a5b1a671fdd3de2418e62011fabfa9196f8ad271387295ce43959cf105456"
+      },
+      "compressed": {
+        "bytes": 50596,
+        "width": 1920,
+        "height": 1200,
+        "sha256": "461f867bb69752e14ea6b14b7f724b992d4758a6917282c6e322a9ead14de7e0"
+      },
+      "saved_bytes": 2624503,
+      "compressed_ratio": 0.0189,
+      "saved_percent": 98.11
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-时不我待我的朋友-CG2.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-时不我待我的朋友-CG2.webp",
+      "file_name": "开拓任务-时不我待我的朋友-CG2.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 4511027,
+        "width": 2560,
+        "height": 1440,
+        "sha256": "392c152df9b178114ae0b071b691ff531fe634728fc4752b0f7dc40759aa8d4b"
+      },
+      "compressed": {
+        "bytes": 152482,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "a5be2c304f1998a5f78737e8333eec3d2a9e2ca04def3489cacc414ccd50f977"
+      },
+      "saved_bytes": 4358545,
+      "compressed_ratio": 0.0338,
+      "saved_percent": 96.62
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-时不我待我的朋友-CG1.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-时不我待我的朋友-CG1.webp",
+      "file_name": "开拓任务-时不我待我的朋友-CG1.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 4413695,
+        "width": 2560,
+        "height": 1440,
+        "sha256": "5c5793612b1cc09dcdd243c8c11a8ff09b3b9b5c6bf6b61935f52b90e553c534"
+      },
+      "compressed": {
+        "bytes": 164166,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "3f104b6012ec9262f692ec8775b1bc73d902d0656ba1fbd7bfbeda4ddbefbfc7"
+      },
+      "saved_bytes": 4249529,
+      "compressed_ratio": 0.0372,
+      "saved_percent": 96.28
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-来自昏暗国度的回音-CG1.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-来自昏暗国度的回音-CG1.webp",
+      "file_name": "开拓任务-来自昏暗国度的回音-CG1.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 2698062,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "a4310c8d7ef1c2f8724b9e6c0c4f382ff03c257897d7fc29259fdeaff150a989"
+      },
+      "compressed": {
+        "bytes": 167100,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "cd6b6f2e56bc1921f5b9b92919ac97d5edb3fda4bf06dee0bce005b5667f9e9a"
+      },
+      "saved_bytes": 2530962,
+      "compressed_ratio": 0.0619,
+      "saved_percent": 93.81
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-时不我待我的朋友-CG3.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-时不我待我的朋友-CG3.webp",
+      "file_name": "开拓任务-时不我待我的朋友-CG3.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 7558464,
+        "width": 3840,
+        "height": 2160,
+        "sha256": "cc83a366cdb82cc8bd87cc13c4868b699063e9871c3283c27c0cf19b21aa8e75"
+      },
+      "compressed": {
+        "bytes": 122018,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "48ab397ee49bc23206f05c58a1e75a9c8dae659a87dff4b83dc54cf39601d0cd"
+      },
+      "saved_bytes": 7436446,
+      "compressed_ratio": 0.0161,
+      "saved_percent": 98.39
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-时不我待我的朋友-CG5.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-时不我待我的朋友-CG5.webp",
+      "file_name": "开拓任务-时不我待我的朋友-CG5.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 4421098,
+        "width": 2560,
+        "height": 1440,
+        "sha256": "63f7672407d2ae627c527225633af3041bb20a2d56cfe7c26460e69c68d33e4d"
+      },
+      "compressed": {
+        "bytes": 138226,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "5bdd1a822867ec8080a9de9a931d9682b039d5ef59fe3d4faa9e45b0c26c4fe0"
+      },
+      "saved_bytes": 4282872,
+      "compressed_ratio": 0.0313,
+      "saved_percent": 96.87
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-时不我待我的朋友-CG4.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-时不我待我的朋友-CG4.webp",
+      "file_name": "开拓任务-时不我待我的朋友-CG4.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 7308704,
+        "width": 3777,
+        "height": 2160,
+        "sha256": "7dad5fda3fc52c78e3449faf64c9ad4589dadcbcc116b9d38186760d867b1e73"
+      },
+      "compressed": {
+        "bytes": 123304,
+        "width": 1920,
+        "height": 1098,
+        "sha256": "9ad6db1d3f8954e63c398b010e42b57021e5bc11d2418ad25cc42a1e10be88ff"
+      },
+      "saved_bytes": 7185400,
+      "compressed_ratio": 0.0169,
+      "saved_percent": 98.31
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/花火的名片.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/花火的名片.webp",
+      "file_name": "花火的名片.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "default_story_image"
+      },
+      "original": {
+        "bytes": 452697,
+        "width": 697,
+        "height": 711,
+        "sha256": "079165345cf741e343a4a00f68c6ab3df748f5c566e448dc1d5ff6e3a34f50b5"
+      },
+      "compressed": {
+        "bytes": 42408,
+        "width": 697,
+        "height": 711,
+        "sha256": "a1107d56b09933622f65044dc04fb05c2ebe8f64e33636341cad1ff97f9fa4db"
+      },
+      "saved_bytes": 410289,
+      "compressed_ratio": 0.0937,
+      "saved_percent": 90.63
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-泄密的心-光锥.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-泄密的心-光锥.webp",
+      "file_name": "开拓任务-泄密的心-光锥.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "default_story_image"
+      },
+      "original": {
+        "bytes": 271247,
+        "width": 500,
+        "height": 500,
+        "sha256": "d671669c06a337d2d1ff48ad77a858fc7b27ceee6588f9d9465e3dea94f2ab43"
+      },
+      "compressed": {
+        "bytes": 49772,
+        "width": 500,
+        "height": 500,
+        "sha256": "7866a55c51edbf5235878a0dc33a63ae35af1b507a8821928b6728e8c323dbdb"
+      },
+      "saved_bytes": 221475,
+      "compressed_ratio": 0.1835,
+      "saved_percent": 81.65
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-火车大劫案-结盟玉兆.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-火车大劫案-结盟玉兆.webp",
+      "file_name": "开拓任务-火车大劫案-结盟玉兆.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "default_story_image"
+      },
+      "original": {
+        "bytes": 190398,
+        "width": 500,
+        "height": 500,
+        "sha256": "7738c000aedf025a90fd84c0eab021223a3258a2d97db5d1994a17d97e9519f4"
+      },
+      "compressed": {
+        "bytes": 35560,
+        "width": 500,
+        "height": 500,
+        "sha256": "be5e36f71115b485e3c0a42a9ffa814c388b2e623cd41d443215f056ab5adabd"
+      },
+      "saved_bytes": 154838,
+      "compressed_ratio": 0.1868,
+      "saved_percent": 81.32
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-来自昏暗国度的回音-CG2.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-来自昏暗国度的回音-CG2.webp",
+      "file_name": "开拓任务-来自昏暗国度的回音-CG2.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 2758493,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "e9c05728585fd099f07789fecfe8dd8e916624fab7ed7c3339ffb2a84977831b"
+      },
+      "compressed": {
+        "bytes": 151184,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "20b189e5b58c70e0a50fbcacabc721cdd972627cc66eba0bfb39c725a2488fbf"
+      },
+      "saved_bytes": 2607309,
+      "compressed_ratio": 0.0548,
+      "saved_percent": 94.52
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-液态现代性的生成语法-CG1.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-液态现代性的生成语法-CG1.webp",
+      "file_name": "开拓任务-液态现代性的生成语法-CG1.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 3621276,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "4c72a818101a5b26f0bf7a484f8c996a5cd7d766d819adc8fda461f83d49ac13"
+      },
+      "compressed": {
+        "bytes": 332462,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "75c94fdbbb008ca2bbed6530f8b63d59f85aaa0548c96ab06a7c04a8c037d90f"
+      },
+      "saved_bytes": 3288814,
+      "compressed_ratio": 0.0918,
+      "saved_percent": 90.82
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-生者对死者无动于衷-CG1.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-生者对死者无动于衷-CG1.webp",
+      "file_name": "开拓任务-生者对死者无动于衷-CG1.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 3202778,
+        "width": 2400,
+        "height": 1080,
+        "sha256": "b36174f3678d1817e6ec5d1b6f48ea6a82dae9a251b6b928d2a07cf0edd07879"
+      },
+      "compressed": {
+        "bytes": 156186,
+        "width": 1920,
+        "height": 864,
+        "sha256": "172de3b52c2299e0808fbcd96eb28deee905445d3be1de4a85342716d4ce94cf"
+      },
+      "saved_bytes": 3046592,
+      "compressed_ratio": 0.0488,
+      "saved_percent": 95.12
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-神木重萌，掣转天衡-CG.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-神木重萌，掣转天衡-CG.webp",
+      "file_name": "开拓任务-神木重萌，掣转天衡-CG.png",
+      "asset_kind": "file_link",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 6072277,
+        "width": 3840,
+        "height": 2160,
+        "sha256": "d0981fbe5115cb643d06705665802599f84e081cb5b6a735c5c0b5931d4d95ba"
+      },
+      "compressed": {
+        "bytes": 109138,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "339cfaf8b13940828164608f825786ddc97b9b1c004f01e6f7121383398f4938"
+      },
+      "saved_bytes": 5963139,
+      "compressed_ratio": 0.018,
+      "saved_percent": 98.2
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/短信-丹恒-丹炉.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/短信-丹恒-丹炉.webp",
+      "file_name": "短信-丹恒-丹炉.png",
+      "asset_kind": "dialog_image",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 643522,
+        "width": 988,
+        "height": 481,
+        "sha256": "17c365fefd16ab736715a5603143259ed21c9a8608b2fe29b66bfdd90cd0fd09"
+      },
+      "compressed": {
+        "bytes": 53278,
+        "width": 988,
+        "height": 481,
+        "sha256": "f332f3d7e04b07365607acce189f133f4a5e81b031e016310e45f14da0d22db3"
+      },
+      "saved_bytes": 590244,
+      "compressed_ratio": 0.0828,
+      "saved_percent": 91.72
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-腐烂或燃烧-CG1.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-腐烂或燃烧-CG1.webp",
+      "file_name": "开拓任务-腐烂或燃烧-CG1.png",
+      "asset_kind": "file_link",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 6700687,
+        "width": 3840,
+        "height": 2160,
+        "sha256": "e43fd666e7f36e13829ae4f4f0612d11125435e93a0cb1870a0502e5f595dfd4"
+      },
+      "compressed": {
+        "bytes": 116978,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "e89bc1bad5a016db251ddc84952c357fe865e62384d6476087219b18e27e28f3"
+      },
+      "saved_bytes": 6583709,
+      "compressed_ratio": 0.0175,
+      "saved_percent": 98.25
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-腐烂或燃烧-CG2.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-腐烂或燃烧-CG2.webp",
+      "file_name": "开拓任务-腐烂或燃烧-CG2.png",
+      "asset_kind": "file_link",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 6945266,
+        "width": 3840,
+        "height": 2160,
+        "sha256": "8c1b84fc1b844a811072648d9d71326f572316933ce65aabd2a62aebb30003f1"
+      },
+      "compressed": {
+        "bytes": 111180,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "c31046db3c1a4c82634479caa8954a3e5017c2d8255ed8c13901b33b13110bc7"
+      },
+      "saved_bytes": 6834086,
+      "compressed_ratio": 0.016,
+      "saved_percent": 98.4
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-腐烂或燃烧-CG3.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-腐烂或燃烧-CG3.webp",
+      "file_name": "开拓任务-腐烂或燃烧-CG3.png",
+      "asset_kind": "file_link",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 7307581,
+        "width": 3840,
+        "height": 2160,
+        "sha256": "45b62401cd1344644950e8a9fce8b33d19ae63db97521db85177785433dbd8cb"
+      },
+      "compressed": {
+        "bytes": 99714,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "3d72589b81d4d162e06a65478324a5bfec1b04be63869dd40f41b06fc114b7b5"
+      },
+      "saved_bytes": 7207867,
+      "compressed_ratio": 0.0136,
+      "saved_percent": 98.64
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-血清素恐惧症-CG1.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-血清素恐惧症-CG1.webp",
+      "file_name": "开拓任务-血清素恐惧症-CG1.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 3014183,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "a22ba3127b2e3fd70b14e734474217d8f2b1a15f9b726b077c0d8dce8d78abe4"
+      },
+      "compressed": {
+        "bytes": 210334,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "8735175897089155c034fda961cbdb9ca5a7e2ebc96853425210ad514b5c0a82"
+      },
+      "saved_bytes": 2803849,
+      "compressed_ratio": 0.0698,
+      "saved_percent": 93.02
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-酒店关门之后-CG.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-酒店关门之后-CG.webp",
+      "file_name": "开拓任务-酒店关门之后-CG.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 3659296,
+        "width": 2560,
+        "height": 1600,
+        "sha256": "9b600df0b4088431b7380392d4f9c63c8e9769c09500f18f31ab7c044bb0404c"
+      },
+      "compressed": {
+        "bytes": 78188,
+        "width": 1920,
+        "height": 1200,
+        "sha256": "7608aaf016919630bc08d61760653c9171daf95e0c0150f79242a985116b0cf8"
+      },
+      "saved_bytes": 3581108,
+      "compressed_ratio": 0.0214,
+      "saved_percent": 97.86
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-迷惘的一代人-八音盒.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-迷惘的一代人-八音盒.webp",
+      "file_name": "开拓任务-迷惘的一代人-八音盒.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "default_story_image"
+      },
+      "original": {
+        "bytes": 304723,
+        "width": 500,
+        "height": 500,
+        "sha256": "3952159cdf50477f03e79c851cff9bd14721c2300c93c4e412ab190aed2082b0"
+      },
+      "compressed": {
+        "bytes": 57146,
+        "width": 500,
+        "height": 500,
+        "sha256": "7fc0958d004696f31ff6b26fc9c7a8c9602fd7c603c49c9fbd792df45696be4e"
+      },
+      "saved_bytes": 247577,
+      "compressed_ratio": 0.1875,
+      "saved_percent": 81.25
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-那些逐梦的年轻人-梦境护照.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-那些逐梦的年轻人-梦境护照.webp",
+      "file_name": "开拓任务-那些逐梦的年轻人-梦境护照.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "default_story_image"
+      },
+      "original": {
+        "bytes": 111877,
+        "width": 500,
+        "height": 500,
+        "sha256": "8156fa2b60555c8d24a15521687201a94aed0a933ecd1b9fb5e8a1ec50f45016"
+      },
+      "compressed": {
+        "bytes": 21550,
+        "width": 500,
+        "height": 500,
+        "sha256": "50a9c408bde7867285021e966b004645bd8bbacd416840b2f0eb87db87d141ca"
+      },
+      "saved_bytes": 90327,
+      "compressed_ratio": 0.1926,
+      "saved_percent": 80.74
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/短信-？？？-图片1.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/短信-？？？-图片1.webp",
+      "file_name": "短信-？？？-图片1.png",
+      "asset_kind": "dialog_image",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 718314,
+        "width": 988,
+        "height": 481,
+        "sha256": "c8108a0094726fd57f653f050f32687c448f89a65083d3ee2a553329658d2820"
+      },
+      "compressed": {
+        "bytes": 98994,
+        "width": 988,
+        "height": 481,
+        "sha256": "09006e384265fdf5398b9631af6877f30ff7bb9af42b701336f145dab262f60a"
+      },
+      "saved_bytes": 619320,
+      "compressed_ratio": 0.1378,
+      "saved_percent": 86.22
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-诸天无安，迷途难返-CG.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-诸天无安，迷途难返-CG.webp",
+      "file_name": "开拓任务-诸天无安，迷途难返-CG.png",
+      "asset_kind": "file_link",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 4358571,
+        "width": 2558,
+        "height": 1597,
+        "sha256": "4f8e0de47c538ee2d4fafba03a04097f6211699df4a8ca86829681979fc627fd"
+      },
+      "compressed": {
+        "bytes": 115122,
+        "width": 1920,
+        "height": 1199,
+        "sha256": "9dd735a82c17bce0eca84c8f142990dd54798699e5228f942e10c7301cf627a4"
+      },
+      "saved_bytes": 4243449,
+      "compressed_ratio": 0.0264,
+      "saved_percent": 97.36
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/短信-1111111111-花火娃娃照片.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/短信-1111111111-花火娃娃照片.webp",
+      "file_name": "短信-1111111111-花火娃娃照片.png",
+      "asset_kind": "dialog_image",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 473359,
+        "width": 936,
+        "height": 456,
+        "sha256": "6c660c359a4b6c76dd10b0f3a4b9afa721cd3259a59473084419b19aad4b070c"
+      },
+      "compressed": {
+        "bytes": 59802,
+        "width": 936,
+        "height": 456,
+        "sha256": "e6ac17fe1a8eb33c202b63600d7dfa143e3aa51679de6ebbc5367744bc647a74"
+      },
+      "saved_bytes": 413557,
+      "compressed_ratio": 0.1263,
+      "saved_percent": 87.37
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓续闻/短信-界种科科员-造物收容马桶.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓续闻/短信-界种科科员-造物收容马桶.webp",
+      "file_name": "短信-界种科科员-造物收容马桶.png",
+      "asset_kind": "dialog_image",
+      "wiki_category": "开拓续闻",
+      "policy": {
+        "quality": 88,
+        "max_edge": null,
+        "reason": "text_or_small_context_image"
+      },
+      "original": {
+        "bytes": 498531,
+        "width": 936,
+        "height": 456,
+        "sha256": "29d3b3bbc4c777c1ed66a201f901f80b20113c7cfef9cb45ef815ffc63979bed"
+      },
+      "compressed": {
+        "bytes": 46690,
+        "width": 936,
+        "height": 456,
+        "sha256": "d1d4bf875c359de3a501dcd92f807b69e1edb3d66907123902b13862576f0203"
+      },
+      "saved_bytes": 451841,
+      "compressed_ratio": 0.0937,
+      "saved_percent": 90.63
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-躲得过初一躲不过十五-CG.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-躲得过初一躲不过十五-CG.webp",
+      "file_name": "开拓任务-躲得过初一躲不过十五-CG.png",
+      "asset_kind": "file_link",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 6273495,
+        "width": 3831,
+        "height": 2160,
+        "sha256": "8b47791a3f9dac4f25877600c6825c85f608775e50f1f3240217c7b688591bd4"
+      },
+      "compressed": {
+        "bytes": 114630,
+        "width": 1920,
+        "height": 1083,
+        "sha256": "1212284c9e4e899999256ed3130d33bc417afb1b4ca114e307725a99957fa884"
+      },
+      "saved_bytes": 6158865,
+      "compressed_ratio": 0.0183,
+      "saved_percent": 98.17
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓任务/开拓任务-鸣的锣，响的钹-CG1.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓任务/开拓任务-鸣的锣，响的钹-CG1.webp",
+      "file_name": "开拓任务-鸣的锣，响的钹-CG1.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓任务",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 3239621,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "b4d49447f42d33117cab779ff1136b2ab7e0bb4410907f47dcc6834ad33461e8"
+      },
+      "compressed": {
+        "bytes": 286786,
+        "width": 1920,
+        "height": 1080,
+        "sha256": "98dbaf33c1d9d782f80aae12c15a00ea42a3f36ee54eb07390ae104ff722eb1c"
+      },
+      "saved_bytes": 2952835,
+      "compressed_ratio": 0.0885,
+      "saved_percent": 91.15
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/开拓续闻/开拓续闻-天才群星闪耀时-CG2.png",
+      "compressed_path": "references/bwiki_images/assets_webp/开拓续闻/开拓续闻-天才群星闪耀时-CG2.webp",
+      "file_name": "开拓续闻-天才群星闪耀时-CG2.png",
+      "asset_kind": "picture_zoom",
+      "wiki_category": "开拓续闻",
+      "policy": {
+        "quality": 84,
+        "max_edge": 1920,
+        "reason": "large_story_cg"
+      },
+      "original": {
+        "bytes": 3762525,
+        "width": 2560,
+        "height": 1600,
+        "sha256": "17bdcdfbfb3d17c6c3cc02a4e92bc963033bfdeb88bbbd502f49a473b2005820"
+      },
+      "compressed": {
+        "bytes": 118878,
+        "width": 1920,
+        "height": 1200,
+        "sha256": "31a1d5299a0fe66dfa78ec43cf22f324baa0bba0047ed72208cf44cae04fbea5"
+      },
+      "saved_bytes": 3643647,
+      "compressed_ratio": 0.0316,
+      "saved_percent": 96.84
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/Archer立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/Archer立绘.webp",
+      "file_name": "Archer立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 3789385,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "47c590ae13bf7ef5d3305a5a013f1a18dbfff6b0e8e1e1c2f199e6913354114b"
+      },
+      "compressed": {
+        "bytes": 469330,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "db56d906ea00880b45f34fec63393eeb4033b5854ac25c0b9365df01cad08944"
+      },
+      "saved_bytes": 3320055,
+      "compressed_ratio": 0.1239,
+      "saved_percent": 87.61
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/万敌立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/万敌立绘.webp",
+      "file_name": "万敌立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 4102982,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "5d0387955178c9f85a0a515b767efe42ce52f7b8f3ac4e084331737ffaab600c"
+      },
+      "compressed": {
+        "bytes": 513730,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "1ef7263c53a68d1cff6e26a37958891c47479d07ea9093753385f1c009a51044"
+      },
+      "saved_bytes": 3589252,
+      "compressed_ratio": 0.1252,
+      "saved_percent": 87.48
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/Saber立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/Saber立绘.webp",
+      "file_name": "Saber立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 3727897,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "027fe271c909d5a5196f91de668613b8764b10a7a4730cddc29264e7daddc119"
+      },
+      "compressed": {
+        "bytes": 453746,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "fad7978c908530e02701c418f3d59f64b0b6b2c3fca38c766d17b2a295512624"
+      },
+      "saved_bytes": 3274151,
+      "compressed_ratio": 0.1217,
+      "saved_percent": 87.83
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/三月七立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/三月七立绘.webp",
+      "file_name": "三月七立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 4751331,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "3228ea7b6d946bb74d980c930ce3e2ca3d4205814c6e4f150c7ef9b5d016faa4"
+      },
+      "compressed": {
+        "bytes": 513580,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "31dc67007e9bb718bd23038ca1339ebfd58d00f68d84937adacbb3de6847ad14"
+      },
+      "saved_bytes": 4237751,
+      "compressed_ratio": 0.1081,
+      "saved_percent": 89.19
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/三月七•巡猎立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/三月七•巡猎立绘.webp",
+      "file_name": "三月七•巡猎立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 2941283,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "f751ec645593c11ae21b981207c9cf4ba887cc0a7287f4a5f0611f0bc634f9f8"
+      },
+      "compressed": {
+        "bytes": 354048,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "c3b8ae5e3446aa2f48e96ae0a8943b21ff1bb89de56d1c331deb7cf946e1bcfb"
+      },
+      "saved_bytes": 2587235,
+      "compressed_ratio": 0.1204,
+      "saved_percent": 87.96
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/丹恒立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/丹恒立绘.webp",
+      "file_name": "丹恒立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 3364796,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "ce5eeb2acdac33b9c660ee7e9911ac1236180e30a654612934a8ebe846a80c9d"
+      },
+      "compressed": {
+        "bytes": 581064,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "7d67dfc21da0844af78070eb8be2087fa8784addc2b55608c14df5a02d418574"
+      },
+      "saved_bytes": 2783732,
+      "compressed_ratio": 0.1727,
+      "saved_percent": 82.73
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/丹恒•腾荒立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/丹恒•腾荒立绘.webp",
+      "file_name": "丹恒•腾荒立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 2977070,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "e7a379b83a6863f7e45defddae7c8ce73d2ee1f7790578c18d911dded86550b9"
+      },
+      "compressed": {
+        "bytes": 515796,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "cd5be4b739c7acd3b33876827aeb7f3ea5414594545e640c00c1701125e3fb5a"
+      },
+      "saved_bytes": 2461274,
+      "compressed_ratio": 0.1733,
+      "saved_percent": 82.67
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/丹恒•饮月立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/丹恒•饮月立绘.webp",
+      "file_name": "丹恒•饮月立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 3817765,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "072a75b9c77e0aa5f8dd9edc58a869696b4c4ed3c88bdfa1e525b92682ecc7fa"
+      },
+      "compressed": {
+        "bytes": 368930,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "06efc85f62733d0453bc09af2741b775ca5750c537b6c9f6f5b884fc3a62a33f"
+      },
+      "saved_bytes": 3448835,
+      "compressed_ratio": 0.0966,
+      "saved_percent": 90.34
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/不死途立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/不死途立绘.webp",
+      "file_name": "不死途立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 4099886,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "426cbf26b16c03ea21a84682bcc9725b06011b7a283bb210bfa01fc2bd99e320"
+      },
+      "compressed": {
+        "bytes": 532268,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "be14ad6f7acd7f7f8feca4d663388ab5a9fe02ddab763bc45d3de272fd386809"
+      },
+      "saved_bytes": 3567618,
+      "compressed_ratio": 0.1298,
+      "saved_percent": 87.02
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/云璃立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/云璃立绘.webp",
+      "file_name": "云璃立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 3925830,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "b57bf893d450e273dbd96371169dd6eb14fe3691b836b05c04efe7d1b79fa148"
+      },
+      "compressed": {
+        "bytes": 399352,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "84fc560679fd863a58c50db1d0eb1bbdef2b01c9070c6cbcc0be4a0bbefbed03"
+      },
+      "saved_bytes": 3526478,
+      "compressed_ratio": 0.1017,
+      "saved_percent": 89.83
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/停云立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/停云立绘.webp",
+      "file_name": "停云立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 4084557,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "48e3858bcdf902fb6f7e712c3f03bf744c23c783ff81a5ade720fa4958f33e34"
+      },
+      "compressed": {
+        "bytes": 287784,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "37dbda3b00bdbea9ea62fcaed29b05c16985e642105223a428f9007ae606f64d"
+      },
+      "saved_bytes": 3796773,
+      "compressed_ratio": 0.0705,
+      "saved_percent": 92.95
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/乱破立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/乱破立绘.webp",
+      "file_name": "乱破立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 3068991,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "aad2fa9b3897ab95d0f6dbb1e6fb6728d2b6e1a1a29b62ac7f6bdedab4274895"
+      },
+      "compressed": {
+        "bytes": 527958,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "3f916a22bef807518f53d173e0820f02a8714f7f87b4ed57613b520d20e298e6"
+      },
+      "saved_bytes": 2541033,
+      "compressed_ratio": 0.172,
+      "saved_percent": 82.8
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/佩拉立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/佩拉立绘.webp",
+      "file_name": "佩拉立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 3592154,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "94baf3b0767847373bc2ceab990e0a497b67535d9d6925f33104e5ef3fb3304c"
+      },
+      "compressed": {
+        "bytes": 643214,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "a750bfb858d7dc0a698aefcc7495a93b0d494fcbf331bbeb10e24bb98daf1940"
+      },
+      "saved_bytes": 2948940,
+      "compressed_ratio": 0.1791,
+      "saved_percent": 82.09
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/克拉拉立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/克拉拉立绘.webp",
+      "file_name": "克拉拉立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 2922034,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "3df6576f1a9de1d31cda8970398ecd74c6ab56d270c917971a65b87a6cefafa7"
+      },
+      "compressed": {
+        "bytes": 312842,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "2ca6cc00130a2066b86114624c6d552b34957da8451d9c600389303942aa41fa"
+      },
+      "saved_bytes": 2609192,
+      "compressed_ratio": 0.1071,
+      "saved_percent": 89.29
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/刃立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/刃立绘.webp",
+      "file_name": "刃立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 4697391,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "d66ce3c6a9bfb2dd62e388a0dac13c89d86ddb4d7eb8880b67bfeaff7531d579"
+      },
+      "compressed": {
+        "bytes": 458530,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "917b4c15d5bf3dd6455abeb95ebd3fd295be373ebac03e16733dd713c836b965"
+      },
+      "saved_bytes": 4238861,
+      "compressed_ratio": 0.0976,
+      "saved_percent": 90.24
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/刻律德菈立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/刻律德菈立绘.webp",
+      "file_name": "刻律德菈立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 3402843,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "dc5858126e225d60064b951af9f522e9e9d26cba614ef9b5500cb96aab3736af"
+      },
+      "compressed": {
+        "bytes": 524170,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "5857b181fde56e1a050348f01e77f38eeab7b5bff83b918d053893b9a8e60ae8"
+      },
+      "saved_bytes": 2878673,
+      "compressed_ratio": 0.154,
+      "saved_percent": 84.6
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/加拉赫立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/加拉赫立绘.webp",
+      "file_name": "加拉赫立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 4406621,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "51d556182cfebca4c4fabd69a0297198f5dde0c64887674b087ed9b3ddaf3a6f"
+      },
+      "compressed": {
+        "bytes": 477004,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "ff9f9e3e639f4fac26741e383e5e30a37d7fd62b3dd7d6bb64699794e2023f6f"
+      },
+      "saved_bytes": 3929617,
+      "compressed_ratio": 0.1082,
+      "saved_percent": 89.18
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/卡芙卡立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/卡芙卡立绘.webp",
+      "file_name": "卡芙卡立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 2963190,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "c1208b3d4d1248d100a5bcd7c45261d853d12d449bd63f7d24e4c4f7381c934f"
+      },
+      "compressed": {
+        "bytes": 294700,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "9509bdd03b98c7dbc187c1c43e79359b98d3f0d048955e6a984794da78ca5fe4"
+      },
+      "saved_bytes": 2668490,
+      "compressed_ratio": 0.0995,
+      "saved_percent": 90.05
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/千冶•刃立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/千冶•刃立绘.webp",
+      "file_name": "千冶•刃立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 4754718,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "ea60775071dbb016932695ffcc48fc25e396530236935217547cf50e85f8f947"
+      },
+      "compressed": {
+        "bytes": 623938,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "cd93bdbab3696936aaca142676cb501d02d00263f6eb0f22c9a0520dbecbe29c"
+      },
+      "saved_bytes": 4130780,
+      "compressed_ratio": 0.1312,
+      "saved_percent": 86.88
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/卢卡立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/卢卡立绘.webp",
+      "file_name": "卢卡立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 3842982,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "21a111ac1e98e1bce4ec93c96985c140a3cb35a500ee47044fe40d67672d74f1"
+      },
+      "compressed": {
+        "bytes": 397046,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "4ad86f4e872a0ddd4b5046cd0f189dc9b62bd076aa477e085f4db047f6c63080"
+      },
+      "saved_bytes": 3445936,
+      "compressed_ratio": 0.1033,
+      "saved_percent": 89.67
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/娜塔莎立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/娜塔莎立绘.webp",
+      "file_name": "娜塔莎立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 3377982,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "e2e664c78a0c72b3d78f1236fd9adf4a726f9154333bce12926a65f93a46d37e"
+      },
+      "compressed": {
+        "bytes": 278844,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "7c165bf77813e03009de9c6e966b884420360d5cf512ea4087b89260d098959d"
+      },
+      "saved_bytes": 3099138,
+      "compressed_ratio": 0.0825,
+      "saved_percent": 91.75
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/大黑塔立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/大黑塔立绘.webp",
+      "file_name": "大黑塔立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 3014881,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "555edef8355a9e09a7a26cebb9b979b0bfb382fed69e578acf3d368307e681ec"
+      },
+      "compressed": {
+        "bytes": 492762,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "e3d9e6f58a42988a6b4812c0d9238b3a7ca1f2657bea361c0c2a55185a6d2f7c"
+      },
+      "saved_bytes": 2522119,
+      "compressed_ratio": 0.1634,
+      "saved_percent": 83.66
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/大丽花立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/大丽花立绘.webp",
+      "file_name": "大丽花立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 4094793,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "f763f46a229346119ca6949a7bee034f5718714d70a53af9ce7e90be7ae74f6a"
+      },
+      "compressed": {
+        "bytes": 627120,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "4b847aa7be13da020f8a2f73154a6181b8f38044f154aec6b37d17e749d69ba9"
+      },
+      "saved_bytes": 3467673,
+      "compressed_ratio": 0.1532,
+      "saved_percent": 84.68
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/姬子立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/姬子立绘.webp",
+      "file_name": "姬子立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 4040818,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "43466c2c6d765903ca0e26f8e18b84173ed6dacdfff15e7210aad5b9c5567fad"
+      },
+      "compressed": {
+        "bytes": 428724,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "1d883610d8053a9c0022c84c8caa357bf0783558147b1eac71a86a46999d4d5a"
+      },
+      "saved_bytes": 3612094,
+      "compressed_ratio": 0.1061,
+      "saved_percent": 89.39
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/寒鸦立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/寒鸦立绘.webp",
+      "file_name": "寒鸦立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 2948732,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "3ef1b03ca32bee31c12754b6fc1764f5f875c7e9320dccdb53961461ab61158f"
+      },
+      "compressed": {
+        "bytes": 327920,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "9c9b91dfbd96ef27a3fbd77447f0a38dde074680bc04672f3d26215f62543baa"
+      },
+      "saved_bytes": 2620812,
+      "compressed_ratio": 0.1112,
+      "saved_percent": 88.88
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/布洛妮娅立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/布洛妮娅立绘.webp",
+      "file_name": "布洛妮娅立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 3187181,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "63eccab6c29792f7e0eaab79f8b03ebbcdf61a99a44461f758be62b3e4f052eb"
+      },
+      "compressed": {
+        "bytes": 514408,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "e78ecbf52594078b0b93950e2bf5b85f63ea07a01e01abbb7e144584e0216bbf"
+      },
+      "saved_bytes": 2672773,
+      "compressed_ratio": 0.1614,
+      "saved_percent": 83.86
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/希儿立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/希儿立绘.webp",
+      "file_name": "希儿立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 4178829,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "ea52cb2a9cb7856bc7cacfe1c65ea55339e6cf0063b5f9f6657c50c3e2fc3b09"
+      },
+      "compressed": {
+        "bytes": 512918,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "15ba786b95a9846a607c7e13427f80288c2a6f39e373556f8baff1af7bd62ec7"
+      },
+      "saved_bytes": 3665911,
+      "compressed_ratio": 0.1227,
+      "saved_percent": 87.73
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/希露瓦立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/希露瓦立绘.webp",
+      "file_name": "希露瓦立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 3333532,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "43889e84e94dba26555f3d2c955373dd2513d7c3ece8efd49ee3017f59550452"
+      },
+      "compressed": {
+        "bytes": 420806,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "c4d041a73edaff4d009ac4c36c9dd5b9792e0e689f6f1f3be3d1627710e0a51d"
+      },
+      "saved_bytes": 2912726,
+      "compressed_ratio": 0.1262,
+      "saved_percent": 87.38
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/彦卿立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/彦卿立绘.webp",
+      "file_name": "彦卿立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 4550159,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "a77c55cd90c0e5d56a47ad765227b1030a45fb20f372b4e288bdb21d501ab9c1"
+      },
+      "compressed": {
+        "bytes": 543250,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "d15b6b37326b2d24d30dc98f31b4f841b438d054ec81b9c9b1f4767842a0f448"
+      },
+      "saved_bytes": 4006909,
+      "compressed_ratio": 0.1194,
+      "saved_percent": 88.06
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/忘归人立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/忘归人立绘.webp",
+      "file_name": "忘归人立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 4433394,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "8f465c73d14a0375a95e5838508657d0fa24dd7fb5b5b8d9750ed61609056ef0"
+      },
+      "compressed": {
+        "bytes": 612856,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "ce9d9f2f4c31054b861a8bcdd83a0bb4a695c47b1c0b5162e91d919081f739c4"
+      },
+      "saved_bytes": 3820538,
+      "compressed_ratio": 0.1382,
+      "saved_percent": 86.18
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/托帕&账账立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/托帕&账账立绘.webp",
+      "file_name": "托帕&账账立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 4300355,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "a6ce864035e2934027ac116579cd3e433c5003839feddc156fcc7404173cd2ce"
+      },
+      "compressed": {
+        "bytes": 391176,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "f1fe82de54dccd939665f437d2a370abc82f14ae7541a4d159c6e77912d874d7"
+      },
+      "saved_bytes": 3909179,
+      "compressed_ratio": 0.091,
+      "saved_percent": 90.9
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/昔涟立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/昔涟立绘.webp",
+      "file_name": "昔涟立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 3142075,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "289209e8573ca268e65ecaa3af6173ce3069bf4841bf184e1744444b8f75d8cf"
+      },
+      "compressed": {
+        "bytes": 601426,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "48855e7bbfe44b27a7c57a458013a61e564a9e577d5bda43eaa7f81328db18fa"
+      },
+      "saved_bytes": 2540649,
+      "compressed_ratio": 0.1914,
+      "saved_percent": 80.86
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/星期日立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/星期日立绘.webp",
+      "file_name": "星期日立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 4253356,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "fa6401a8acf050c1d0bd4147eebbba14936718225ea5f762e983253adbaed294"
+      },
+      "compressed": {
+        "bytes": 566304,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "638a92b38142eb15bb79a9bc0b1602b92354c7b992f3374a9be70542733f1fce"
+      },
+      "saved_bytes": 3687052,
+      "compressed_ratio": 0.1331,
+      "saved_percent": 86.69
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/景元立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/景元立绘.webp",
+      "file_name": "景元立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 3076531,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "05c6f6b635ce8e1c0905cc3a937276166a386cfe1e49a05079284b42d98cb31a"
+      },
+      "compressed": {
+        "bytes": 421864,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "264e20fbef02dbe19b34a7394fdd6a434f1f3445f5b9b4dddf677dc93b722cd5"
+      },
+      "saved_bytes": 2654667,
+      "compressed_ratio": 0.1371,
+      "saved_percent": 86.29
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/杰帕德立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/杰帕德立绘.webp",
+      "file_name": "杰帕德立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 3075122,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "6fc9400f2366d302dd7edb9e380af59a4a8169ea0743ea77eaabfdb7f117293c"
+      },
+      "compressed": {
+        "bytes": 315596,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "8194eed83a6bb30c45881fe511de8e0fb5089671c9df42abbb24dbea3d66cc57"
+      },
+      "saved_bytes": 2759526,
+      "compressed_ratio": 0.1026,
+      "saved_percent": 89.74
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/桂乃芬立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/桂乃芬立绘.webp",
+      "file_name": "桂乃芬立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 4167145,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "51c3e00f94ab009943179e0fdef76e23c3ac39b7ebb88c53e1deaaed1f5ae1b0"
+      },
+      "compressed": {
+        "bytes": 393678,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "b18de4d09e260795b4d0ef998a684d3c798efd53cdc6e4f6ad1a1d23d8fb280a"
+      },
+      "saved_bytes": 3773467,
+      "compressed_ratio": 0.0945,
+      "saved_percent": 90.55
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/桑博立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/桑博立绘.webp",
+      "file_name": "桑博立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 3890110,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "7e751cdeccb99f7bfe4948468bd8cb1159c2ca954fe0d038244f1a14c3c413a5"
+      },
+      "compressed": {
+        "bytes": 342186,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "52b70e1b5b6b4fac0d91537877f67b8e666ea75f5f518daa39de2b0523affab9"
+      },
+      "saved_bytes": 3547924,
+      "compressed_ratio": 0.088,
+      "saved_percent": 91.2
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/椒丘立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/椒丘立绘.webp",
+      "file_name": "椒丘立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 3436430,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "f8cb853f50a59be847c03be0bd031d7c1caa5b5aa03071f0e50d2318d9b40cdf"
+      },
+      "compressed": {
+        "bytes": 350710,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "33c4a987f1fa3a3cd121b7aeb1d4e3dbbd38d6d8e5ff2b294db13ffa95007308"
+      },
+      "saved_bytes": 3085720,
+      "compressed_ratio": 0.1021,
+      "saved_percent": 89.79
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/波提欧立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/波提欧立绘.webp",
+      "file_name": "波提欧立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 5495189,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "aac25d255b444f79987bdfdc8e47f5def56eefd2204e1c65fd5837472d205a99"
+      },
+      "compressed": {
+        "bytes": 481462,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "68cd6ee3dd350375fda0dc559be844552b82b64bf8c4704effc4d156a419455b"
+      },
+      "saved_bytes": 5013727,
+      "compressed_ratio": 0.0876,
+      "saved_percent": 91.24
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/流萤立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/流萤立绘.webp",
+      "file_name": "流萤立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 3335359,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "5c10c4d5f8f6b37846d03b9d678363005f92da7700d90567460422d2f64e04b9"
+      },
+      "compressed": {
+        "bytes": 570854,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "c145637a0b279d48503e3cc21ab516980bc91dd57baee8381eea3ed7caa8d333"
+      },
+      "saved_bytes": 2764505,
+      "compressed_ratio": 0.1712,
+      "saved_percent": 82.88
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/海瑟音立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/海瑟音立绘.webp",
+      "file_name": "海瑟音立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 3601788,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "cf297fee8f81ce95f4d9a20021be66c3014934fb08d3f26d2055be488d214626"
+      },
+      "compressed": {
+        "bytes": 525294,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "b24e9ab42c61b4c4531c890ab7bea58a4b57f0282216b2047ad1fb943f5c9055"
+      },
+      "saved_bytes": 3076494,
+      "compressed_ratio": 0.1458,
+      "saved_percent": 85.42
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/灵砂立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/灵砂立绘.webp",
+      "file_name": "灵砂立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 3543257,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "46525bd536f7ab38e196901210af8b353d5514d14e869cbd3662362cb3ab7b38"
+      },
+      "compressed": {
+        "bytes": 499646,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "63dd131bad0bb00f62cfa99aa5570fddaad9a385d2997b7e0fc4fe364b809d5a"
+      },
+      "saved_bytes": 3043611,
+      "compressed_ratio": 0.141,
+      "saved_percent": 85.9
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/火花立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/火花立绘.webp",
+      "file_name": "火花立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 3644839,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "e02183e158c8354b52795b7c941b8beb48e4f089053d29b8ca9157aa92740d9e"
+      },
+      "compressed": {
+        "bytes": 491332,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "e0d717015e741c53bf24726eea33c4fe9107b5b74e2fefc6ccc8befeaef54534"
+      },
+      "saved_bytes": 3153507,
+      "compressed_ratio": 0.1348,
+      "saved_percent": 86.52
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/爻光立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/爻光立绘.webp",
+      "file_name": "爻光立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 3886094,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "f5b99e7fe58665d3035043645908534b609943a0d6adea20dfc8765138dcbb17"
+      },
+      "compressed": {
+        "bytes": 526630,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "01662af6f4914c33cbb7f61696f3bb1d75e575717f275f9abc8220ac8a1d79f5"
+      },
+      "saved_bytes": 3359464,
+      "compressed_ratio": 0.1355,
+      "saved_percent": 86.45
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/玲可立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/玲可立绘.webp",
+      "file_name": "玲可立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 3089014,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "e4e8ce5870a100a68048457f3170223157f8e49a2acbf24d19938dc2cf4d39d2"
+      },
+      "compressed": {
+        "bytes": 303530,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "a0e577afdb124e2548dd513d68b908dc5e57a6ef0d9f65991f24f9b549b81d33"
+      },
+      "saved_bytes": 2785484,
+      "compressed_ratio": 0.0983,
+      "saved_percent": 90.17
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/瓦尔特立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/瓦尔特立绘.webp",
+      "file_name": "瓦尔特立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 4665125,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "fc0ea615957d814abdf0a3f67ebf7775dc34af45591aebe165b49cdec90bc1ce"
+      },
+      "compressed": {
+        "bytes": 394196,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "85e5cb09e41b1fc26e9f142ef9bc67d21909a4f2d8413b9a832fb21a0fbc2cfe"
+      },
+      "saved_bytes": 4270929,
+      "compressed_ratio": 0.0845,
+      "saved_percent": 91.55
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/白露立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/白露立绘.webp",
+      "file_name": "白露立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 2431337,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "675c3892de0671c2939203872d3e66147438c434d8c08e495bb5beac629fd129"
+      },
+      "compressed": {
+        "bytes": 364450,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "d739c01162a68c91ef92be2c5fb445365ae1b68af8a9c352ecc090207c1e9150"
+      },
+      "saved_bytes": 2066887,
+      "compressed_ratio": 0.1499,
+      "saved_percent": 85.01
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/白厄立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/白厄立绘.webp",
+      "file_name": "白厄立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 5553375,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "33128ec49c9b654cdf1ad70a729d2b637afd94a601783f95f2ef77b34607e3bd"
+      },
+      "compressed": {
+        "bytes": 744086,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "98e8bee23c8c8d003b11ce3a12556050d5007d63989db36cf2bc9e95eb4c7571"
+      },
+      "saved_bytes": 4809289,
+      "compressed_ratio": 0.134,
+      "saved_percent": 86.6
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/真理医生立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/真理医生立绘.webp",
+      "file_name": "真理医生立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 3075601,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "e03beb10b6a4d0dca0467a5ad3674c19c7af45d92cc2c31daaa514a8588e6cc0"
+      },
+      "compressed": {
+        "bytes": 303574,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "a73d0ef1ee7b1026db406f15e1e9270343339b3c478e4dbc193a84830121c898"
+      },
+      "saved_bytes": 2772027,
+      "compressed_ratio": 0.0987,
+      "saved_percent": 90.13
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/知更鸟立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/知更鸟立绘.webp",
+      "file_name": "知更鸟立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 3776645,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "32890b5cbc89969c88f93f732814cac015d0304b4d215036e03c95b89182fe24"
+      },
+      "compressed": {
+        "bytes": 493120,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "32b6a13bc7184f8dfd050c44c6869edb2c5ac59d8a8c8ebf46acb45595551992"
+      },
+      "saved_bytes": 3283525,
+      "compressed_ratio": 0.1306,
+      "saved_percent": 86.94
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/砂金立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/砂金立绘.webp",
+      "file_name": "砂金立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 3201562,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "72009049e7e439a644704ffb29dc1c751c5c4f0bdefc7e74d47cfca6303040e6"
+      },
+      "compressed": {
+        "bytes": 397232,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "be659208a98926dc9cd01195a29874119274db19374d7184a686e1e585049682"
+      },
+      "saved_bytes": 2804330,
+      "compressed_ratio": 0.1241,
+      "saved_percent": 87.59
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/符玄立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/符玄立绘.webp",
+      "file_name": "符玄立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 4466158,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "65bd258f18fe976d9f4fcbe39e38882d9d568daf17f91e6b7a90e44a85f81a45"
+      },
+      "compressed": {
+        "bytes": 388070,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "f8413db289c11c59e5bdb4c0079f643a52413a22dfc2ca94dee6919cfd5ef71c"
+      },
+      "saved_bytes": 4078088,
+      "compressed_ratio": 0.0869,
+      "saved_percent": 91.31
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/米沙立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/米沙立绘.webp",
+      "file_name": "米沙立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 3041152,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "6ab96df4d1c83f3b05e9b0806e65f1415d9cdd09b15b62ab6a483383efb67db9"
+      },
+      "compressed": {
+        "bytes": 352084,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "40c7632b46e41b5f9da127dd371f8f99ff7e8a3486a616e7a36614133f6f7ae8"
+      },
+      "saved_bytes": 2689068,
+      "compressed_ratio": 0.1158,
+      "saved_percent": 88.42
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/素裳立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/素裳立绘.webp",
+      "file_name": "素裳立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 4275097,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "c36ae76dc9d67d0e5af7f8e71e9810993a5efc5223d6ec63f094901c9aba7c8f"
+      },
+      "compressed": {
+        "bytes": 406500,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "4af99e10ddb1fd89ef6e0408d1a8f11e8edb354cc603717667a6a757f3c309f4"
+      },
+      "saved_bytes": 3868597,
+      "compressed_ratio": 0.0951,
+      "saved_percent": 90.49
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/绯英立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/绯英立绘.webp",
+      "file_name": "绯英立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 4057529,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "b52fd0c6e1fbf82db1b15a13b6b77643fa79f398e70f1d66e46848660725b466"
+      },
+      "compressed": {
+        "bytes": 488310,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "c6bab6f3690e1f6d823ed192efe258458f8702bd3a93207b66329207a1b69822"
+      },
+      "saved_bytes": 3569219,
+      "compressed_ratio": 0.1203,
+      "saved_percent": 87.97
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/缇宝立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/缇宝立绘.webp",
+      "file_name": "缇宝立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 4069623,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "c717da98a853c2bd8542693a920f21d9746fc5e3483f837d1ff4eee8cfc0bb2d"
+      },
+      "compressed": {
+        "bytes": 443246,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "053dfbb6821b7e6bb3475a1e0d9372b163c1355304734eebeba894180e14e510"
+      },
+      "saved_bytes": 3626377,
+      "compressed_ratio": 0.1089,
+      "saved_percent": 89.11
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/罗刹立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/罗刹立绘.webp",
+      "file_name": "罗刹立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 3404776,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "10034e6f4dd1b878da1f8ee400d1fd4f1e7fe39880a75251176535babb96b9a8"
+      },
+      "compressed": {
+        "bytes": 407850,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "50c43ac82b9aad231d36c09e5f62208fbc0c140530625b7a05fa89ee7a1b2636"
+      },
+      "saved_bytes": 2996926,
+      "compressed_ratio": 0.1198,
+      "saved_percent": 88.02
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/翡翠立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/翡翠立绘.webp",
+      "file_name": "翡翠立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 3812288,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "94e9066edf378695d6360d330a19920459523beb0e7621b4fec22c707ed6f788"
+      },
+      "compressed": {
+        "bytes": 493532,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "0089d9b692fa5cf74485bb551bd4cea69f29af3e077f9fe9fb4ed0faf4909a29"
+      },
+      "saved_bytes": 3318756,
+      "compressed_ratio": 0.1295,
+      "saved_percent": 87.05
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/艾丝妲立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/艾丝妲立绘.webp",
+      "file_name": "艾丝妲立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 4312306,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "251f6562576a4f90c4dac480678de5d07a8c351d38dd7fff3f09faab26a013ba"
+      },
+      "compressed": {
+        "bytes": 371026,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "4566960bd23ea09b364eb78310c5e4002f6840f77a464172633f5c1b4d0fdf48"
+      },
+      "saved_bytes": 3941280,
+      "compressed_ratio": 0.086,
+      "saved_percent": 91.4
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/花火立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/花火立绘.webp",
+      "file_name": "花火立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 2878054,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "549d6d3d0d6314b5c854375e4fb4d371a4ec9170a680b5599fd34f6b0e9f6a29"
+      },
+      "compressed": {
+        "bytes": 433134,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "30611d29c9aec920f21bbaca614acd32c0a90d6071e46f98c5177ec28d332f2b"
+      },
+      "saved_bytes": 2444920,
+      "compressed_ratio": 0.1505,
+      "saved_percent": 84.95
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/藿藿立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/藿藿立绘.webp",
+      "file_name": "藿藿立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 3704458,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "6d472480153f432eeea241cfa7e4ea4f18171500340bf4897645cb1c2703ffde"
+      },
+      "compressed": {
+        "bytes": 330278,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "a5d5165f64b94b20b6f759dbbd6404723978376af4c3d3bbacfd6abc38241e82"
+      },
+      "saved_bytes": 3374180,
+      "compressed_ratio": 0.0892,
+      "saved_percent": 91.08
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/虎克立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/虎克立绘.webp",
+      "file_name": "虎克立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 3400960,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "73d1433edd82fb61e1239bcc326457c7e6dc5fcb1d3cd61997ad682841038751"
+      },
+      "compressed": {
+        "bytes": 364444,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "21d9bf5cf5bfd85b1d8e872b2fd2692a42dfa1d0aba492164d70203b985e7a7b"
+      },
+      "saved_bytes": 3036516,
+      "compressed_ratio": 0.1072,
+      "saved_percent": 89.28
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/貊泽立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/貊泽立绘.webp",
+      "file_name": "貊泽立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 2787720,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "310179ea69aef220266b1a70ff20393b1f301e7f3b7f61e22bbb6376c101167e"
+      },
+      "compressed": {
+        "bytes": 454844,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "52001f875ff90a963aef6f58a32c82b70f709d87057d579bd0edfb925ce721d5"
+      },
+      "saved_bytes": 2332876,
+      "compressed_ratio": 0.1632,
+      "saved_percent": 83.68
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/赛飞儿立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/赛飞儿立绘.webp",
+      "file_name": "赛飞儿立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 5173798,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "22767bdb3026aae0e836eb8073d70941dd52a987c0a15519600f7f6edeb723bb"
+      },
+      "compressed": {
+        "bytes": 589498,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "1f2bd0cfb8848209b73151757e4184a9c795121776b1b5e63f659116773d028f"
+      },
+      "saved_bytes": 4584300,
+      "compressed_ratio": 0.1139,
+      "saved_percent": 88.61
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/遐蝶立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/遐蝶立绘.webp",
+      "file_name": "遐蝶立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 6496097,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "80e3b0b1fce392d5e67e64a11624a6933351c9ceb41d02b15321cfc2937f7d4e"
+      },
+      "compressed": {
+        "bytes": 791052,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "e0c5b92be7cdb923e11c713f2262514a43bcc038b593990e92ae2860ca2f8eb3"
+      },
+      "saved_bytes": 5705045,
+      "compressed_ratio": 0.1218,
+      "saved_percent": 87.82
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/那刻夏立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/那刻夏立绘.webp",
+      "file_name": "那刻夏立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 5753286,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "a4f4d20f5b31c5e4a0547f870b075f1a32141afd8570efd7f38d517ef5f5a846"
+      },
+      "compressed": {
+        "bytes": 646328,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "437125e7b25e022ac668e2642a55f14ce31985a08863d35345b707fdcf81936c"
+      },
+      "saved_bytes": 5106958,
+      "compressed_ratio": 0.1123,
+      "saved_percent": 88.77
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/银枝立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/银枝立绘.webp",
+      "file_name": "银枝立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 3189286,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "0f7588b892cb77ab8b21a6c80059a62694da7b318f68457c174ac94a85066004"
+      },
+      "compressed": {
+        "bytes": 236564,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "4e0aaa1395cce71cb2427d8e51552b6a26e26a92279e38ab4521d11d5e9f758d"
+      },
+      "saved_bytes": 2952722,
+      "compressed_ratio": 0.0742,
+      "saved_percent": 92.58
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/银狼立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/银狼立绘.webp",
+      "file_name": "银狼立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 4973589,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "63dcfe45823a5b3d058e88c1a7179fbaea9598a1885413440426709d236ff535"
+      },
+      "compressed": {
+        "bytes": 452970,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "c3cecabb9a294e384671397a78103df27a6f74be4b1990ba0e011486117fdf19"
+      },
+      "saved_bytes": 4520619,
+      "compressed_ratio": 0.0911,
+      "saved_percent": 90.89
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/银狼LV.999立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/银狼LV.999立绘.webp",
+      "file_name": "银狼LV.999立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 3872268,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "148e4f0ca3200372543784c1805302870698baf83a1502eb87b2083c1a309b7d"
+      },
+      "compressed": {
+        "bytes": 575558,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "7e4a496326aefac888e1110d68f67cb8552125a72b09787ffb1bd782fcb79a3a"
+      },
+      "saved_bytes": 3296710,
+      "compressed_ratio": 0.1486,
+      "saved_percent": 85.14
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/长夜月立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/长夜月立绘.webp",
+      "file_name": "长夜月立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 3403021,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "e42a72bb7246fbc2910e602d941ae6937fcdd32f891f3e113e40cc6d1e3c21a2"
+      },
+      "compressed": {
+        "bytes": 660178,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "cd110d29a379ed6bfb0b5dbbae181e200bae97e6cfbad662002222d6e7f6a420"
+      },
+      "saved_bytes": 2742843,
+      "compressed_ratio": 0.194,
+      "saved_percent": 80.6
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/镜流立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/镜流立绘.webp",
+      "file_name": "镜流立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 4126879,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "720651149baaae8d525b6af82afbbcd19f3335ae293a9e7f65c90911df705893"
+      },
+      "compressed": {
+        "bytes": 436654,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "70bb9c0cf32293e0dd376badeef952e4929a704c5e7e9f75d710f6b1433a9e50"
+      },
+      "saved_bytes": 3690225,
+      "compressed_ratio": 0.1058,
+      "saved_percent": 89.42
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/阮•梅立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/阮•梅立绘.webp",
+      "file_name": "阮•梅立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 3795350,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "8b2975eafcfcf23dc973cfca096eb6a747d62bcbb60b03a6b0b042dce6f6995c"
+      },
+      "compressed": {
+        "bytes": 403660,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "491ed8f97d18f03b709f97070b50bcd19bb39de9d83b646ce030c25cf78134ae"
+      },
+      "saved_bytes": 3391690,
+      "compressed_ratio": 0.1064,
+      "saved_percent": 89.36
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/阿兰立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/阿兰立绘.webp",
+      "file_name": "阿兰立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 4187712,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "57d9386974a84a3feeb8e2a3857808875820e6eeab1bb5e9bbbeba68dda8284a"
+      },
+      "compressed": {
+        "bytes": 439550,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "f469da1e52e0981fd5a2f059f2fc9a7b13c1f872744fd0dcb31b387e9fe493d5"
+      },
+      "saved_bytes": 3748162,
+      "compressed_ratio": 0.105,
+      "saved_percent": 89.5
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/阿格莱雅立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/阿格莱雅立绘.webp",
+      "file_name": "阿格莱雅立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 2382829,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "99edc2e8b1bc955408f561490009040a7ae2fe01b6e5eb4ef05fe57ddbd6302c"
+      },
+      "compressed": {
+        "bytes": 537494,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "6ef453a6b3b8feb12417c18ce0cc7059dd423ce7cc9d7030ba30906394cb9bda"
+      },
+      "saved_bytes": 1845335,
+      "compressed_ratio": 0.2256,
+      "saved_percent": 77.44
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/雪衣立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/雪衣立绘.webp",
+      "file_name": "雪衣立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 4200745,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "acca36cc14831df035a332a118e33149334a11e11bd5fa89a0308169fb023fec"
+      },
+      "compressed": {
+        "bytes": 330468,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "aee823c666e0acff8252da4c943976edb05b51c61533a4258a5dc007334b7454"
+      },
+      "saved_bytes": 3870277,
+      "compressed_ratio": 0.0787,
+      "saved_percent": 92.13
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/青雀立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/青雀立绘.webp",
+      "file_name": "青雀立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 4453688,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "fc6321fbffe0a2f3c49e39f057d5ced0c1032070e9af960e8b34fa0659f4305e"
+      },
+      "compressed": {
+        "bytes": 449390,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "05685479e8d6f5b0f7b2cf115fbd249ec5ed6a5c3e2f6a232674b16a159d6107"
+      },
+      "saved_bytes": 4004298,
+      "compressed_ratio": 0.1009,
+      "saved_percent": 89.91
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/风堇立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/风堇立绘.webp",
+      "file_name": "风堇立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 4382115,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "dfc0db20ad76f1ab262513676c6cae6a3ea43eb13efd3dc61318fea92014847a"
+      },
+      "compressed": {
+        "bytes": 572058,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "840fab46390370d8bfb1370fd38725d2f9fed64a161d54a273963f203914f911"
+      },
+      "saved_bytes": 3810057,
+      "compressed_ratio": 0.1305,
+      "saved_percent": 86.95
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/驭空立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/驭空立绘.webp",
+      "file_name": "驭空立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 4746923,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "2253e1249963848ac21436109982458b0f09eb0fcdc5bb0658665e349c14cc07"
+      },
+      "compressed": {
+        "bytes": 456880,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "5b0a95ea61d7a81174c1c353c1b7de9b4b8f9057e8719f5ba885954ab2a19c1b"
+      },
+      "saved_bytes": 4290043,
+      "compressed_ratio": 0.0962,
+      "saved_percent": 90.38
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/黄泉立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/黄泉立绘.webp",
+      "file_name": "黄泉立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 4626228,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "4aa7decccfc0ca2b98344f8b68d0d00ef571c2abdbb4914a03389c1b38927f66"
+      },
+      "compressed": {
+        "bytes": 555108,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "fad9b8bed7fcfb8c20cefbcab36b7d014e5142ac72205fe69b0f4bc0f174cb3b"
+      },
+      "saved_bytes": 4071120,
+      "compressed_ratio": 0.12,
+      "saved_percent": 88.0
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/飞霄立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/飞霄立绘.webp",
+      "file_name": "飞霄立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 4386144,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "1bf46e35cf6259f9132a8b2c485f223d9d18b9878e66ec328781dc821371dec2"
+      },
+      "compressed": {
+        "bytes": 748966,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "3768ae69e50f2914d1f66203d00d88df81b5e7ad7e39f9f74f5239b67b1e4f04"
+      },
+      "saved_bytes": 3637178,
+      "compressed_ratio": 0.1708,
+      "saved_percent": 82.92
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/黑塔立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/黑塔立绘.webp",
+      "file_name": "黑塔立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 3989607,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "b14255c17233ec8ceba74d1f58d933b4046bfe20b8f9acfd7f4bdb2e404ef470"
+      },
+      "compressed": {
+        "bytes": 337530,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "bf35c4d35f74a440e13f861da4fd08834a072b1f5567fe4153386760635bb3a9"
+      },
+      "saved_bytes": 3652077,
+      "compressed_ratio": 0.0846,
+      "saved_percent": 91.54
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/角色/黑天鹅立绘.png",
+      "compressed_path": "references/bwiki_images/assets_webp/角色/黑天鹅立绘.webp",
+      "file_name": "黑天鹅立绘.png",
+      "asset_kind": "character_painting",
+      "wiki_category": "角色",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1600,
+        "reason": "role_painting"
+      },
+      "original": {
+        "bytes": 3386220,
+        "width": 2048,
+        "height": 2048,
+        "sha256": "c8f1e0fff759d45964f556f6c52c6827c9ab6b4f72f01469cadb1acfbdf5abc8"
+      },
+      "compressed": {
+        "bytes": 276480,
+        "width": 1600,
+        "height": 1600,
+        "sha256": "e6e09762f15371dc123536c16c3de81a9447e9388ca48dd5bea16b09ccd9bbac"
+      },
+      "saved_bytes": 3109740,
+      "compressed_ratio": 0.0816,
+      "saved_percent": 91.84
+    }
+  ]
+}
