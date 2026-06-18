@@ -21,7 +21,7 @@ D:\HSRChat\
 │   │   ├── source_wiki.md         # Wiki 文本信源设计与接口逻辑
 │   │   ├── source_bilibili.md     # B站官方视频元数据信源设计
 │   │   └── source_bwiki_images.md # BWiki 图片多模态信源设计与同步记录
-│   ├── bwiki_images/    # BWiki 图片索引、估算报告与压缩索引；图片缓存不入 Git
+│   ├── bwiki_images/    # BWiki 图片索引、估算报告、压缩索引与 WebP 参考图；原图缓存不入 Git
 │   ├── bilibili/        # 120+ 篇官方视频元数据 JSON 分类存放处
 │   └── wiki/            # 1,440 篇官方 Wiki 语料分类存放处
 │       ├── 开拓任务/
@@ -137,7 +137,7 @@ python scripts/list_wiki_categories.py
   ```
   根据图片类别生成 WebP 副本：角色立绘默认最长边 1600、剧情 CG 默认最长边 1920，书籍/短信/线索图默认不降尺寸。压缩索引写入 `references/bwiki_images/compressed_index.json`。
 * **版本控制边界**：
-  `references/bwiki_images/index.json`、`estimate_report.json` 与 `compressed_index.json` 是可提交的文本索引；`references/bwiki_images/assets/` 与 `assets_webp/` 是本地图片缓存，已被 `.gitignore` 排除。
+  `references/bwiki_images/index.json`、`estimate_report.json`、`compressed_index.json` 与 `references/bwiki_images/assets_webp/` 是可提交产物；`references/bwiki_images/assets/` 是本地原图缓存，必须保持 `.gitignore` 排除，严禁提交。项目规则是：**图片二进制只提交 WebP，不提交原图缓存**。
 * **角色立绘**：
   角色页立绘由 BWiki 模板渲染，不一定出现在本地 wikitext 中。脚本会根据角色名推断主立绘 `角色名立绘.png`，并通过 MediaWiki `imageinfo` 解析原图地址；`立绘2`、`立绘3` 等后缀变体默认不再同步，以控制图片缓存体积。
 
@@ -158,7 +158,7 @@ python scripts/list_wiki_categories.py
      git restore references/wiki/state.json
      ```
      *(注：必须将 state.json 与数据一同回滚，以使同步历史与物理数据对齐，避免状态错乱。)*
-   - **确认无误后提交**：如果数据均无损坏，执行 `git commit -a -m "data: 同步星铁最新数据"` 归档。
+   - **确认无误后提交**：如果数据均无损坏，提交脚本、文档、索引与 `references/bwiki_images/assets_webp/`；不要提交 `references/bwiki_images/assets/` 原图缓存。
 
 ---
 

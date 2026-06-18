@@ -9,10 +9,12 @@ import hashlib
 import http.cookiejar
 import argparse
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from pathlib import Path
 
-CONFIG_PATH = "config.json"
-SECRETS_PATH = "config_secrets.json"
-OUTPUT_DIR = os.path.join("D:", os.sep, "HSRChat", "references", "bilibili")
+ROOT_DIR = Path(__file__).resolve().parents[1]
+CONFIG_PATH = os.fspath(ROOT_DIR / "config.json")
+SECRETS_PATH = os.fspath(ROOT_DIR / "config_secrets.json")
+OUTPUT_DIR = os.fspath(ROOT_DIR / "references" / "bilibili")
 MAX_WORKERS = 4
 
 HEADERS = {

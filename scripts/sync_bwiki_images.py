@@ -2,6 +2,7 @@ import argparse
 import os
 import hashlib
 import html
+import io
 import sys
 import json
 import mimetypes
@@ -13,6 +14,8 @@ import urllib.parse
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
+
+from PIL import Image
 
 
 ROOT_DIR = Path(__file__).resolve().parents[1]
@@ -427,6 +430,31 @@ def is_image_bytes(data):
     )
 
 
+def validate_image_bytes(data):
+    if not data or not is_image_bytes(data):
+        raise RuntimeError("response did not look like an image")
+
+    try:
+        with Image.open(io.BytesIO(data)) as image:
+            image.load()
+    except Exception as exc:
+        raise RuntimeError(f"image integrity check failed: {exc}") from exc
+
+
+def download_valid_image_bytes(url, max_bytes, retries=3):
+    last_error = None
+    for attempt in range(retries):
+        try:
+            data, headers, final_url = download_bytes(url, max_bytes, retries=1)
+            validate_image_bytes(data)
+            return data, headers, final_url
+        except Exception as exc:
+            last_error = exc
+            if attempt < retries - 1:
+                time.sleep((attempt + 1) * 2.0)
+    raise RuntimeError(f"download failed integrity check: {last_error}") from last_error
+
+
 def infer_dimensions(data):
     if data.startswith(b"\x89PNG\r\n\x1a\n") and len(data) >= 24:
         return struct.unpack(">II", data[16:24])
@@ -493,22 +521,23 @@ def download_asset(asset, max_single_bytes):
 
         if output_path.exists() and output_path.stat().st_size > 0:
             data = output_path.read_bytes()
-            if not is_image_bytes(data):
-                raise RuntimeError("existing file did not look like an image")
-            asset.update(
-                {
-                    "status": "downloaded",
-                    "local_path": rel_path(output_path),
-                    "bytes": len(data),
-                    "sha256": hashlib.sha256(data).hexdigest(),
-                    "error": None,
-                }
-            )
-            return asset
+            try:
+                validate_image_bytes(data)
+                asset.update(
+                    {
+                        "status": "downloaded",
+                        "local_path": rel_path(output_path),
+                        "bytes": len(data),
+                        "sha256": hashlib.sha256(data).hexdigest(),
+                        "error": None,
+                    }
+                )
+                return asset
+            except Exception as exc:
+                log(f"[download] removing invalid cached image {rel_path(output_path)}: {exc}")
+                output_path.unlink()
 
-        data, headers, final_url = download_bytes(asset["resolved_url"], max_single_bytes)
-        if not data or not is_image_bytes(data):
-            raise RuntimeError("response did not look like an image")
+        data, headers, final_url = download_valid_image_bytes(asset["resolved_url"], max_single_bytes)
 
         mime = mime or headers.get("Content-Type", "").split(";")[0]
         width = asset["width"]

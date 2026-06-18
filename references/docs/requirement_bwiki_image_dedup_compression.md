@@ -21,7 +21,7 @@ references/bwiki_images/assets_webp/
 * WebP 压缩缓存文件数：208。
 * WebP 压缩缓存体积：51,288,736 bytes，约 48.91 MiB。
 * 压缩节省：约 515.05 MiB，节省比例约 91.33%。
-* 原图与压缩图片缓存不纳入普通 Git，由 `.gitignore` 排除。
+* 原图缓存不纳入普通 Git，由 `.gitignore` 排除；WebP 压缩参考图纳入普通 Git。
 * 索引、估算报告与压缩对照索引纳入 Git：
   * `references/bwiki_images/index.json`
   * `references/bwiki_images/estimate_report.json`
@@ -101,10 +101,10 @@ BWiki 文件标题扩展名与实际 MIME 可能不完全一致，例如 `.jpg` 
 | 层级 | 路径建议 | 是否提交 Git | 作用 |
 | :--- | :--- | :--- | :--- |
 | 原始缓存 | `references/bwiki_images/assets/` | 否 | 保存 BWiki 原图，用于复核、归档和高精度视觉分析 |
-| 派生缓存 | `references/bwiki_images/assets_webp/` | 否 | 保存面向 Agent 的轻量 WebP 参考图 |
+| 派生缓存 | `references/bwiki_images/assets_webp/` | 是 | 保存面向 Agent 的轻量 WebP 参考图 |
 | 文本索引 | `references/bwiki_images/index.json`、`references/bwiki_images/compressed_index.json` | 是 | 保存元数据、哈希、来源、处理状态和派生关系 |
 
-原始缓存与派生缓存都应被 `.gitignore` 排除。可提交的应是索引和处理报告，而不是二进制图片。
+原始缓存 `assets/` 应被 `.gitignore` 排除；派生缓存 `assets_webp/` 必须进入 Git。项目固定规则是：图片二进制只提交 WebP，不提交原图缓存。
 
 ---
 
@@ -315,8 +315,9 @@ python scripts/run_bwiki_image_pipeline.py --clean
 
 ### 9.3 Git 边界验收
 
-* `assets/` 与 `assets_webp/` 均未进入 `git ls-files`。
-* 可提交的只有文档、脚本、索引和报告。
+* `assets/` 未进入 `git ls-files`。
+* `assets_webp/` 已进入 `git ls-files`，并与 `compressed_index.json` 对齐。
+* 可提交的包括文档、脚本、索引、报告和 WebP 参考图；不可提交原图缓存。
 * `git status --ignored` 能明确显示二进制缓存被忽略。
 
 ---
@@ -340,4 +341,4 @@ python scripts/run_bwiki_image_pipeline.py --clean
 1. 定期运行 `python scripts/run_bwiki_image_pipeline.py --clean` 重建图片缓存和压缩索引。
 2. 只对精确重复做自动合并。
 3. 继续为展示、OCR 和模型输入生成独立派生图。
-4. 保持 `assets/` 和 `assets_webp/` 不进入普通 Git。
+4. 保持 `assets/` 不进入普通 Git，并保持 `assets_webp/` 进入普通 Git。

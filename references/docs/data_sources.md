@@ -117,7 +117,7 @@ python scripts/sync_bwiki_images.py --download
 
 ### 第三步：合规性审计与提交/回滚
 *   **安全审计**：运行 `git diff` 检查下载文件的改动，确保没有因为限频或服务器异常导致文件内容变为空或损坏。
-*   **图片边界**：`references/bwiki_images/index.json` 与 `estimate_report.json` 是文本索引/报告，可以纳入版本控制；`references/bwiki_images/assets/` 是本地图片缓存，必须保持在 `.gitignore` 中，不直接提交进普通 Git。
+*   **图片边界**：`references/bwiki_images/index.json`、`estimate_report.json`、`compressed_index.json` 与 `references/bwiki_images/assets_webp/` 可以纳入版本控制；`references/bwiki_images/assets/` 是本地原图缓存，必须保持在 `.gitignore` 中，严禁提交。项目固定规则是：图片二进制只提交 WebP，不提交原图缓存。
 *   **一键回滚（若发现异常）**：
     ```bash
     git restore references/wiki/

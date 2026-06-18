@@ -227,6 +227,18 @@ def summarize(results):
     }
 
 
+def asset_sort_key(asset):
+    return asset.get("local_path") or asset.get("file_name") or ""
+
+
+def result_sort_key(result):
+    return (
+        result.get("source_path") or "",
+        result.get("file_name") or "",
+        result.get("status") or "",
+    )
+
+
 def main():
     parser = argparse.ArgumentParser(description="Create WebP copies of downloaded BWiki images.")
     parser.add_argument("--overwrite", action="store_true", help="rewrite existing compressed WebP files")
@@ -235,7 +247,10 @@ def main():
     args = parser.parse_args()
 
     index = load_index()
-    assets = [asset for asset in index.get("assets", []) if asset.get("local_path")]
+    assets = sorted(
+        [asset for asset in index.get("assets", []) if asset.get("local_path")],
+        key=asset_sort_key,
+    )
     if args.limit is not None:
         assets = assets[: args.limit]
 
@@ -257,6 +272,7 @@ def main():
                 if offset == 1 or offset % 10 == 0 or offset == total:
                     log(f"[compress] {offset}/{total} {result.get('status')} {result.get('source_path') or result.get('reason')}")
 
+    results = sorted(results, key=result_sort_key)
     report = {
         "summary": summarize(results),
         "assets": results,
