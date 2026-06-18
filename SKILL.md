@@ -102,6 +102,7 @@ HSRChat 必须按模式选择检索强度。绝对禁止仅通过文件名、目
   - 包含官方发布的角色PV、千星纪游、动画短片等视频简介与发布信息，用于核对最新的官方时间线与前瞻剧情。
 - **BWiki 图片索引与本地缓存**：
   - 索引路径：`references/bwiki_images/index.json`
+  - 图片文本描述路径：`references/bwiki_images/vision_index/assets.jsonl`
   - 本地缓存路径：`references/bwiki_images/assets/`
   - WebP 参考图路径：`references/bwiki_images/assets_webp/`
-  - 包含任务 CG、书籍插图、短信图片、角色立绘等高价值图片的来源页面、上下文和原图元数据。引用图片时必须说明其 BWiki 页面来源；`assets/` 是本地原图缓存，不作为 Git 追踪数据。项目只提交 `assets_webp/` 中的 WebP 参考图，严禁提交原图缓存。
+  - 包含任务 CG、书籍插图、短信图片、角色立绘等高价值图片的来源页面、上下文、原图元数据与审核通过的中文视觉描述。非多模态模型需要快速读取图片内容时，应优先使用 `vision_index/assets.jsonl`；引用图片时必须说明其 BWiki 页面来源；`assets/` 是本地原图缓存，不作为 Git 追踪数据。项目只提交 `assets_webp/` 中的 WebP 参考图，严禁提交原图缓存。

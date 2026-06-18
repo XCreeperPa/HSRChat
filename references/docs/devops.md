@@ -65,9 +65,10 @@
    - 必须通过 MediaWiki `imageinfo` 解析原图 URL、大小、MIME、宽高、sha1 与更新时间，禁止直接保存页面缩略图 URL。
    - 使用远端 sha1 合并同内容别名，避免 `.jpg` / `.png` 标题指向同一文件时重复下载。
 5. **版本控制边界**：
-   - `references/bwiki_images/index.json`、`estimate_report.json` 与 `compressed_index.json` 是可审计文本产物，可以提交。
+   - `references/bwiki_images/index.json`、`estimate_report.json`、`compressed_index.json` 与 `references/bwiki_images/vision_index/assets.jsonl` 是可审计文本产物，可以提交。
    - `references/bwiki_images/assets_webp/` 是面向 Agent 的轻量 WebP 参考图，必须随图片索引一起提交。
    - `references/bwiki_images/assets/` 是本地原图缓存，必须由 `.gitignore` 排除，严禁纳入普通 Git。项目固定规则：**图片二进制只提交 WebP，不提交原图缓存**。
+   - `references/bwiki_images/vision_jobs/` 是并发生成图片文本描述的临时任务区，不提交；`references/bwiki_images/vision_review/review_state.json` 是本地审核草稿，不提交。
 6. **并发与错误处理**：
    - 估算和下载使用线程池，默认按本机能力选择并发数，可通过 `--workers` 或流水线脚本的 `--network-workers` 调整。
    - WebP 压缩使用进程池，默认使用本机 CPU 核心数，可通过 `--compress-workers` 调整。
@@ -78,7 +79,7 @@
 
 ### 3. Git 版本控制与数据防污染工作流
 
-本仓库采用**单一 Git 仓库（Single Git Repository）**控制策略。项目所有的脚本、配置、同步状态（`state.json`）以及 `references/wiki/`、`references/bilibili/`、`references/bwiki_images/index.json`、`references/bwiki_images/estimate_report.json` 等文本数据库全部纳入根目录 Git 中管理。`references/bwiki_images/assets_webp/` 作为轻量 WebP 参考图纳入 Git；图片原图缓存 `references/bwiki_images/assets/` 不纳入普通 Git。
+本仓库采用**单一 Git 仓库（Single Git Repository）**控制策略。项目所有的脚本、配置、同步状态（`state.json`）以及 `references/wiki/`、`references/bilibili/`、`references/bwiki_images/index.json`、`references/bwiki_images/estimate_report.json`、`references/bwiki_images/vision_index/assets.jsonl` 等文本数据库全部纳入根目录 Git 中管理。`references/bwiki_images/assets_webp/` 作为轻量 WebP 参考图纳入 Git；图片原图缓存 `references/bwiki_images/assets/` 不纳入普通 Git。
 
 在运行爬虫更新数据时，必须严格遵守以下**三步安全工作流**以防坏数据污染：
 

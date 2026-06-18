@@ -6,3 +6,7 @@ config_secrets.json
 references/bwiki_images/assets/
 references/bwiki_images/test_assets/
 references/bwiki_images/test_index.json
+references/bwiki_images/vision_jobs/
+references/bwiki_images/vision_review/*
+!references/bwiki_images/vision_review/
+!references/bwiki_images/vision_review/reviewed_assets.jsonl
