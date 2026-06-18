@@ -1,6 +1,6 @@
 ---
 name: HSRChat
-description: 专注于《崩坏：星穹铁道》（Honkai: Star Rail）相关内容的交流与解答。当且仅当用户提及“星穹铁道”、“崩铁”或相关游戏内容时激活。
+description: "专注于《崩坏：星穹铁道》（Honkai: Star Rail）相关内容的交流与解答。当且仅当用户提及“星穹铁道”、“崩铁”或相关游戏内容时激活。"
 ---
 
 # HSRChat - 星穹铁道专属交流助手
