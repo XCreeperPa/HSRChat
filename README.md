@@ -152,7 +152,11 @@ D:\HSRChat\
 │   ├── bwiki_images/    # BWiki 图片索引、WebP 参考图与审核通过的图片文本描述
 │   ├── bilibili/        # 官方视频元数据 JSON
 │   └── wiki/            # Wiki 剧情、角色、书籍、任务与语音文本
-└── scripts/             # 数据同步、图片估算与压缩脚本
+└── scripts/             # 维护脚本，按信源和用途分组
+    ├── wiki/            # BWiki 文本分类查询与同步
+    ├── bilibili/        # B站官方视频元数据同步
+    ├── bwiki_images/    # BWiki 图片索引、下载、压缩与流水线
+    └── vision/          # 图片文本描述生成、合并、拆分与人工审核
 ```
 
 更多技术细节：

@@ -9,7 +9,7 @@ from pathlib import Path
 from PIL import Image
 
 
-ROOT_DIR = Path(__file__).resolve().parents[1]
+ROOT_DIR = Path(__file__).resolve().parents[2]
 BWiki_DIR = ROOT_DIR / "references" / "bwiki_images"
 INDEX_PATH = BWiki_DIR / "index.json"
 OUTPUT_DIR = BWiki_DIR / "assets_webp"

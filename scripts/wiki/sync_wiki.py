@@ -11,7 +11,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
 API_URL = "https://wiki.biligame.com/sr/api.php"
-ROOT_DIR = Path(__file__).resolve().parents[1]
+ROOT_DIR = Path(__file__).resolve().parents[2]
 WIKI_DIR = os.fspath(ROOT_DIR / "references" / "wiki")
 CONFIG_PATH = os.fspath(ROOT_DIR / "config.json")
 STATE_PATH = os.path.join(WIKI_DIR, "state.json")

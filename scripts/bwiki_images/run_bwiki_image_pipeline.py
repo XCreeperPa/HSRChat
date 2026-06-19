@@ -7,12 +7,13 @@ import time
 from pathlib import Path
 
 
-ROOT_DIR = Path(__file__).resolve().parents[1]
+ROOT_DIR = Path(__file__).resolve().parents[2]
+SCRIPT_DIR = Path(__file__).resolve().parent
 BWiki_DIR = ROOT_DIR / "references" / "bwiki_images"
 ASSETS_DIR = BWiki_DIR / "assets"
 ASSETS_WEBP_DIR = BWiki_DIR / "assets_webp"
-SYNC_SCRIPT = ROOT_DIR / "scripts" / "sync_bwiki_images.py"
-COMPRESS_SCRIPT = ROOT_DIR / "scripts" / "compress_bwiki_images.py"
+SYNC_SCRIPT = SCRIPT_DIR / "sync_bwiki_images.py"
+COMPRESS_SCRIPT = SCRIPT_DIR / "compress_bwiki_images.py"
 
 
 DEFAULT_NET_WORKERS = max(4, min(32, (os.cpu_count() or 4) * 4))

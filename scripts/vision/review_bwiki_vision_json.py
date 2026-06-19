@@ -21,7 +21,7 @@ from pathlib import Path
 from urllib.parse import parse_qs, quote, unquote, urlparse
 
 
-ROOT_DIR = Path(__file__).resolve().parents[1]
+ROOT_DIR = Path(__file__).resolve().parents[2]
 BWiki_DIR = ROOT_DIR / "references" / "bwiki_images"
 ASSETS_WEBP_DIR = BWiki_DIR / "assets_webp"
 DEFAULT_VISION_JSONL = BWiki_DIR / "vision_index" / "assets.jsonl"

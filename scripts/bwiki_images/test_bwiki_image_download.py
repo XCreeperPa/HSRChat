@@ -12,7 +12,7 @@ import urllib.request
 from pathlib import Path
 
 
-ROOT_DIR = Path(__file__).resolve().parents[1]
+ROOT_DIR = Path(__file__).resolve().parents[2]
 WIKI_DIR = ROOT_DIR / "references" / "wiki"
 DEFAULT_OUTPUT_DIR = ROOT_DIR / "references" / "bwiki_images" / "test_assets"
 DEFAULT_INDEX_PATH = ROOT_DIR / "references" / "bwiki_images" / "test_index.json"

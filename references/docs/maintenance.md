@@ -15,12 +15,26 @@ git status
 
 ---
 
-## 1. 查询 Wiki 分类
+## 1. 脚本目录结构
+
+维护脚本按信源和用途分组：
+
+```text
+scripts/
+├── wiki/           # BWiki 文本分类查询与同步
+├── bilibili/       # B站官方视频元数据同步
+├── bwiki_images/   # BWiki 图片索引、下载、压缩与流水线
+└── vision/         # 图片文本描述生成、合并、拆分与人工审核
+```
+
+---
+
+## 2. 查询 Wiki 分类
 
 脚本：
 
 ```bash
-python scripts/list_wiki_categories.py
+python scripts/wiki/list_wiki_categories.py
 ```
 
 用途：
@@ -30,18 +44,18 @@ python scripts/list_wiki_categories.py
 
 ---
 
-## 2. Wiki 设定文本同步
+## 3. Wiki 设定文本同步
 
 脚本：
 
 ```bash
-python scripts/sync_wiki.py
+python scripts/wiki/sync_wiki.py
 ```
 
 测试模式：
 
 ```bash
-python scripts/sync_wiki.py --test
+python scripts/wiki/sync_wiki.py --test
 ```
 
 核心机制：
@@ -54,18 +68,18 @@ python scripts/sync_wiki.py --test
 
 ---
 
-## 3. B站官方视频元数据同步
+## 4. B站官方视频元数据同步
 
 脚本：
 
 ```bash
-python scripts/sync_bilibili.py
+python scripts/bilibili/sync_bilibili.py
 ```
 
 测试模式：
 
 ```bash
-python scripts/sync_bilibili.py --test
+python scripts/bilibili/sync_bilibili.py --test
 ```
 
 敏感凭证：
@@ -87,32 +101,32 @@ python scripts/sync_bilibili.py --test
 
 ---
 
-## 4. BWiki 图片信源
+## 5. BWiki 图片信源
 
 图片流水线用于从 Wiki 文本和角色页规则中识别高价值图片，生成索引、下载原图缓存，并压缩出 WebP 参考图。
 
 估算模式，不下载：
 
 ```bash
-python scripts/sync_bwiki_images.py
+python scripts/bwiki_images/sync_bwiki_images.py
 ```
 
 下载模式：
 
 ```bash
-python scripts/sync_bwiki_images.py --download
+python scripts/bwiki_images/sync_bwiki_images.py --download
 ```
 
 压缩模式：
 
 ```bash
-python scripts/compress_bwiki_images.py --overwrite
+python scripts/bwiki_images/compress_bwiki_images.py --overwrite
 ```
 
 一键全量重建：
 
 ```bash
-python scripts/run_bwiki_image_pipeline.py --clean
+python scripts/bwiki_images/run_bwiki_image_pipeline.py --clean
 ```
 
 版本控制边界：
@@ -127,7 +141,7 @@ python scripts/run_bwiki_image_pipeline.py --clean
 
 ---
 
-## 5. 图片文本描述与人工审核
+## 6. 图片文本描述与人工审核
 
 图片文本描述用于让非多模态模型快速读取 `assets_webp/` 下图片的可见元素。正式索引目录为：
 
@@ -147,7 +161,7 @@ references/bwiki_images/vision_index/assets/角色/三月七立绘.json
 本地审核 GUI：
 
 ```bash
-python scripts/review_bwiki_vision_json.py --port 8765
+python scripts/vision/review_bwiki_vision_json.py --port 8765
 ```
 
 打开：
@@ -182,7 +196,7 @@ references/bwiki_images/vision_review/reviewed_assets.jsonl
 
 ```powershell
 Copy-Item references\bwiki_images\vision_review\reviewed_assets.jsonl references\bwiki_images\vision_index\assets.jsonl -Force
-python scripts\bwiki_vision_split_index.py --jsonl references\bwiki_images\vision_index\assets.jsonl --assets-dir references\bwiki_images\vision_index\assets --clean
+python scripts\vision\bwiki_vision_split_index.py --jsonl references\bwiki_images\vision_index\assets.jsonl --assets-dir references\bwiki_images\vision_index\assets --clean
 ```
 
 并发生成或试水过程文件位于：
@@ -194,8 +208,8 @@ references/bwiki_images/vision_jobs/
 该目录只作为临时任务区，不提交。可使用以下脚本生成试水分片和合并校验 worker 输出：
 
 ```bash
-python scripts/bwiki_vision_make_trial_jobs.py --limit-per-category 10 --shard-size 13 --prefix trial
-python scripts/bwiki_vision_merge_jobs.py --manifest references/bwiki_images/vision_jobs/full_manifest.jsonl --outputs-dir references/bwiki_images/vision_jobs/outputs --pattern full_result_*.jsonl --merged references/bwiki_images/vision_jobs/full_merged_assets.jsonl --report references/bwiki_images/vision_jobs/full_validation_report.json
+python scripts/vision/bwiki_vision_make_trial_jobs.py --limit-per-category 10 --shard-size 13 --prefix trial
+python scripts/vision/bwiki_vision_merge_jobs.py --manifest references/bwiki_images/vision_jobs/full_manifest.jsonl --outputs-dir references/bwiki_images/vision_jobs/outputs --pattern full_result_*.jsonl --merged references/bwiki_images/vision_jobs/full_merged_assets.jsonl --report references/bwiki_images/vision_jobs/full_validation_report.json
 ```
 
 图片文本描述必须遵守 HSRChat 数据边界：
@@ -208,7 +222,7 @@ python scripts/bwiki_vision_merge_jobs.py --manifest references/bwiki_images/vis
 
 ---
 
-## 6. 同步后的审计
+## 7. 同步后的审计
 
 同步后先检查：
 

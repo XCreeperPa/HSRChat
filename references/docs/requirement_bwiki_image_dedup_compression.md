@@ -257,7 +257,7 @@ references/bwiki_images/compressed_index.json
 当前工作流已经落地为一键流水线：
 
 ```bash
-python scripts/run_bwiki_image_pipeline.py --clean
+python scripts/bwiki_images/run_bwiki_image_pipeline.py --clean
 ```
 
 该命令会清理原图和压缩缓存，重新执行图片发现、筛选、远端解析、并发下载和并发压缩。单张图片解析、下载或压缩失败时会记录状态并跳过，不中断全量流程。
@@ -338,7 +338,7 @@ python scripts/run_bwiki_image_pipeline.py --clean
 
 最稳妥的后续路线是：
 
-1. 定期运行 `python scripts/run_bwiki_image_pipeline.py --clean` 重建图片缓存和压缩索引。
+1. 定期运行 `python scripts/bwiki_images/run_bwiki_image_pipeline.py --clean` 重建图片缓存和压缩索引。
 2. 只对精确重复做自动合并。
 3. 继续为展示、OCR 和模型输入生成独立派生图。
 4. 保持 `assets/` 不进入普通 Git，并保持 `assets_webp/` 进入普通 Git。

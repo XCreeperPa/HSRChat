@@ -23,7 +23,7 @@ references/wiki/
 
 ## 2. 核心开发逻辑与 API 请求机制
 
-在 `scripts/sync_wiki.py` 中，所有逻辑均基于 Python 3 标准库（`urllib`）实现，并使用 MediaWiki API 进行高并发（8 线程）多路抓取。
+在 `scripts/wiki/sync_wiki.py` 中，所有逻辑均基于 Python 3 标准库（`urllib`）实现，并使用 MediaWiki API 进行高并发（8 线程）多路抓取。
 
 ### 2.1 MediaWiki API 请求流
 

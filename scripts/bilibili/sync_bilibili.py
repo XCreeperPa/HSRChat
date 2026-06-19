@@ -11,7 +11,7 @@ import argparse
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
-ROOT_DIR = Path(__file__).resolve().parents[1]
+ROOT_DIR = Path(__file__).resolve().parents[2]
 CONFIG_PATH = os.fspath(ROOT_DIR / "config.json")
 SECRETS_PATH = os.fspath(ROOT_DIR / "config_secrets.json")
 OUTPUT_DIR = os.fspath(ROOT_DIR / "references" / "bilibili")

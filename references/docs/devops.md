@@ -20,10 +20,10 @@
 
 本 Skill 配备了多个 Python 脚本以自动化维护语料库：
 
-### 2.1 查询所有分类 (`scripts/list_wiki_categories.py`)
+### 2.1 查询所有分类 (`scripts/wiki/list_wiki_categories.py`)
 * **设计要求**：该脚本用于列出 BWiki 目前的所有页面分类。它必须**仅往命令行控制台标准输出结果**，禁止写入或修改本地任何文件。
 
-### 2.2 智能同步与多余目录物理清理 (`scripts/sync_wiki.py`)
+### 2.2 智能同步与多余目录物理清理 (`scripts/wiki/sync_wiki.py`)
 该并发同步爬虫（最大 8 线程）负责下载数据，它必须实现以下核心机制：
 1. **多余分类物理清理**：
    - 启动时扫描 `references/wiki/` 目录。
@@ -32,9 +32,9 @@
    - 拒绝使用易出现时区误差的本地 mtime（修改时间），改为在 `references/wiki/state.json` 中记录已下载条目的最新 API 时间戳（`timestamp`）。
    - 在抓取前，批量获取线上条目的最新修改时间戳，并与 `state.json` 记录比对。仅在本地不存在该文件、或线上版本更新时，才发起下载网络请求。若无变化则直接跳过，节省流量，保障安全防封控。
 3. **支持 `--test` 测试参数**：
-   - 运行 `python scripts/sync_wiki.py --test` 时，必须将每个分类下下载的网页数量硬性限制在 10 个以内，用于高速验证连通性与重构逻辑。
+   - 运行 `python scripts/wiki/sync_wiki.py --test` 时，必须将每个分类下下载的网页数量硬性限制在 10 个以内，用于高速验证连通性与重构逻辑。
 
-### 2.3 B站官方视频元数据同步 (`scripts/sync_bilibili.py`)
+### 2.3 B站官方视频元数据同步 (`scripts/bilibili/sync_bilibili.py`)
 该并发增量同步爬虫负责拉取 UP 主指定合集和系列（定义在 `config.json` 的 `bilibili.categories`）的视频详情，它必须实现以下核心机制：
 1. **防凭证泄漏（安全至上）**：
    - 绝不能将包含 `sessdata` / `Cookie` 等敏感鉴权信息的代码、变量或数据写入受版本控制的脚本中。
@@ -47,12 +47,12 @@
    - 使用正则剥离视频标题中前导的 `《崩坏：星穹铁道》` 或 `崩坏：星穹铁道` 前缀（包括可能存在的多余空格或不同类型的冒号），以生成精炼的纯标题文件名。
 
 ### 2.4 BWiki 图片多模态信源同步与压缩
-图片流水线由 `scripts/run_bwiki_image_pipeline.py` 串联 `scripts/sync_bwiki_images.py` 与 `scripts/compress_bwiki_images.py`。它负责从已同步的 BWiki 文本与角色页命名规则中派生高价值图片索引，在体积预算内下载原图缓存，并生成面向 Agent 的 WebP 参考图。它必须实现以下核心机制：
+图片流水线由 `scripts/bwiki_images/run_bwiki_image_pipeline.py` 串联 `scripts/bwiki_images/sync_bwiki_images.py` 与 `scripts/bwiki_images/compress_bwiki_images.py`。它负责从已同步的 BWiki 文本与角色页命名规则中派生高价值图片索引，在体积预算内下载原图缓存，并生成面向 Agent 的 WebP 参考图。它必须实现以下核心机制：
 1. **先估算后下载**：
-   - 默认运行 `python scripts/sync_bwiki_images.py` 只生成 `references/bwiki_images/estimate_report.json`。
+   - 默认运行 `python scripts/bwiki_images/sync_bwiki_images.py` 只生成 `references/bwiki_images/estimate_report.json`。
    - 只有显式传入 `--download` 时才下载图片。
    - 默认总量阈值为 1 GiB，估算超过阈值时必须中止下载。
-   - 全量重建可运行 `python scripts/run_bwiki_image_pipeline.py --clean`。
+   - 全量重建可运行 `python scripts/bwiki_images/run_bwiki_image_pipeline.py --clean`。
 2. **高价值筛选**：
    - 保留剧情 CG、书籍/任务大图、短信图片、角色立绘等与剧情、世界观、角色设定直接相关的图片。
    - 默认排除 `{{图标|...}}`、小尺寸 `[[file:...|64px]]` 图标、CSS 装饰图、元素/机制图标。
@@ -87,7 +87,7 @@
 运行 `git status` 确保当前工作区干净，如有未归档改动先提交或使用 `git stash` 暂存。特别检查并确认无任何包含机密敏感信息的临时文件或配置未被拉入追踪（必须通过 `.gitignore` 过滤 `config_secrets.json` 等文件）。
 
 ### 第二步：执行同步
-运行 `python scripts/sync_wiki.py`、`python scripts/sync_bilibili.py` 或 `python scripts/sync_bwiki_images.py --download` 执行数据拉取。图片同步前应优先运行不带 `--download` 的估算模式。
+运行 `python scripts/wiki/sync_wiki.py`、`python scripts/bilibili/sync_bilibili.py` 或 `python scripts/bwiki_images/sync_bwiki_images.py --download` 执行数据拉取。图片同步前应优先运行不带 `--download` 的估算模式。
 
 ### 第三步：数据合规审计与回滚/提交
 * **运行审计**：执行 `git status` 预览哪些文件被修改/删除。运行 `git diff` 检查具体修改，特别要注意是否有条目因防火墙拦截或网站服务异常变成了空文件/无效元数据。

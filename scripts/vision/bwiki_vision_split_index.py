@@ -8,7 +8,7 @@ import json
 from pathlib import Path
 
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(__file__).resolve().parents[2]
 ASSETS_WEBP = ROOT / "references" / "bwiki_images" / "assets_webp"
 VISION_INDEX = ROOT / "references" / "bwiki_images" / "vision_index"
 DEFAULT_JSONL = VISION_INDEX / "assets.jsonl"

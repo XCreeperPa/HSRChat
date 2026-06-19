@@ -18,7 +18,7 @@ from pathlib import Path
 from PIL import Image
 
 
-ROOT_DIR = Path(__file__).resolve().parents[1]
+ROOT_DIR = Path(__file__).resolve().parents[2]
 WIKI_DIR = ROOT_DIR / "references" / "wiki"
 ROLE_DIR = WIKI_DIR / "角色"
 OUTPUT_DIR = ROOT_DIR / "references" / "bwiki_images"
