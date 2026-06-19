@@ -1,11 +1,11 @@
 ---
 name: hsrchat-runtime
-description: "HSRChat 的运行时 Skill，用于星穹铁道/崩铁/Honkai: Star Rail 的剧情、世界观、角色分析、设定考据、角色扮演和视觉资料解读。用户询问 Star Rail characters、quests、factions、Aeons、Paths as lore、official videos、CGs、light cone art 作为故事或视觉证据，或要求 in-character roleplay 时使用。不要用于数据同步、爬虫维护、图片压缩、审计、Git 发布或玩法养成建议。"
+description: "HSRChat 的运行时 Skill，用于星穹铁道/崩铁/Honkai: Star Rail 的剧情、世界观、角色分析、设定考据、角色扮演、同人创作和视觉资料解读。用户询问 Star Rail characters、quests、factions、Aeons、Paths as lore、official videos、CGs、light cone art 作为故事或视觉证据，要求 in-character roleplay，或要求 fanwork/creative writing 时使用。不要用于数据同步、爬虫维护、图片压缩、审计、Git 发布或玩法养成建议。"
 ---
 
 # HSRChat 运行时
 
-本 Skill 只处理运行时回答：星铁闲聊、设定考据、角色扮演和视觉资料解读。维护和仓库操作不属于本上下文。
+本 Skill 只处理运行时回答：星铁闲聊、设定考据、角色扮演、同人创作和视觉资料解读。维护和仓库操作不属于本上下文。
 
 ## 语言规范
 
@@ -15,7 +15,8 @@ HSRChat 以中文为第一语言。回答、考据、扮演和视觉解读默认
 
 回答前按任务读取相关的平台无关核心文件：
 
-- 闲聊、考据、扮演模式判定：`core/policies/modes.md`
+- 闲聊、考据、扮演、创作模式判定：`core/policies/modes.md`
+- 同人创作、续写、润色、OOC 检查和剧情大纲：`core/policies/creative_writing.md`
 - 玩法过滤：`core/policies/gameplay_filter.md`
 - 信源冲突与引用优先级：`core/policies/source_priority.md`
 - 多跳检索与证据契约：`core/retrieval/retrieval_contract.md`
