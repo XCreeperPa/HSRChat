@@ -129,13 +129,20 @@ python scripts/run_bwiki_image_pipeline.py --clean
 
 ## 5. 图片文本描述与人工审核
 
-图片文本描述用于让非多模态模型快速读取 `assets_webp/` 下图片的可见元素。正式索引文件为：
+图片文本描述用于让非多模态模型快速读取 `assets_webp/` 下图片的可见元素。正式索引目录为：
 
 ```text
-references/bwiki_images/vision_index/assets.jsonl
+references/bwiki_images/vision_index/assets/
 ```
 
-当前版本包含 208 张 WebP 参考图的审核通过版中文描述。每行是一个 JSON 对象，使用中文字段，保留 `图片路径` 作为定位字段，其余字段只描述图片中可见元素，不重复 Wiki 来源、文件名推测或页面元数据。
+该目录结构与 `references/bwiki_images/assets_webp/` 一致，每张图片对应一个同目录、同名的 JSON 文件，例如：
+
+```text
+references/bwiki_images/assets_webp/角色/三月七立绘.webp
+references/bwiki_images/vision_index/assets/角色/三月七立绘.json
+```
+
+`references/bwiki_images/vision_index/assets.jsonl` 保留为聚合兼容索引。当前版本包含 208 张 WebP 参考图的审核通过版中文描述。每个 JSON 对象使用中文字段，保留 `图片路径` 作为定位字段，其余字段只描述图片中可见元素，不重复 Wiki 来源、文件名推测或页面元数据。
 
 本地审核 GUI：
 
@@ -153,6 +160,7 @@ http://127.0.0.1:8765/
 
 ```text
 references/bwiki_images/vision_index/assets.jsonl
+references/bwiki_images/vision_index/assets/**/*.json
 references/bwiki_images/vision_jobs/outputs/result_*.jsonl
 references/bwiki_images/vision_jobs/outputs/full_result_*.jsonl
 references/bwiki_images/vision_jobs/*merged_assets*.jsonl
@@ -170,10 +178,11 @@ references/bwiki_images/vision_review/review_state.json
 references/bwiki_images/vision_review/reviewed_assets.jsonl
 ```
 
-正式发布图片文本描述版本时，将审核通过导出同步到主索引：
+正式发布图片文本描述版本时，将审核通过导出同步到主索引和镜像目录：
 
 ```powershell
 Copy-Item references\bwiki_images\vision_review\reviewed_assets.jsonl references\bwiki_images\vision_index\assets.jsonl -Force
+python scripts\bwiki_vision_split_index.py --jsonl references\bwiki_images\vision_index\assets.jsonl --assets-dir references\bwiki_images\vision_index\assets --clean
 ```
 
 并发生成或试水过程文件位于：
@@ -215,6 +224,7 @@ git diff
 - 没有原图缓存进入暂存区。
 - `state.json` 与实际文件变更一致。
 - `references/bwiki_images/vision_index/assets.jsonl` 能解析为 JSONL，且图片路径无重复、无缺失文件、无空视觉描述。
+- `references/bwiki_images/vision_index/assets/` 下 JSON 文件数量应与 `assets_webp/` 图片数量一致，并且每张图片都能找到同目录同名 JSON。
 
 如果发现坏数据，按 `references/docs/devops.md` 中的回滚命令恢复。
 

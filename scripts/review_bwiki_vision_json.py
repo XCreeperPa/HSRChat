@@ -25,10 +25,12 @@ ROOT_DIR = Path(__file__).resolve().parents[1]
 BWiki_DIR = ROOT_DIR / "references" / "bwiki_images"
 ASSETS_WEBP_DIR = BWiki_DIR / "assets_webp"
 DEFAULT_VISION_JSONL = BWiki_DIR / "vision_index" / "assets.jsonl"
+DEFAULT_VISION_ASSETS_DIR = BWiki_DIR / "vision_index" / "assets"
 VISION_JOBS_DIR = BWiki_DIR / "vision_jobs"
 REVIEW_DIR = BWiki_DIR / "vision_review"
 STATE_PATH = REVIEW_DIR / "review_state.json"
 APPROVED_JSONL = REVIEW_DIR / "reviewed_assets.jsonl"
+APPROVED_ASSETS_DIR = REVIEW_DIR / "assets"
 
 IMAGE_EXTENSIONS = {".webp", ".png", ".jpg", ".jpeg", ".gif", ".avif"}
 
@@ -77,6 +79,28 @@ def load_jsonl(path: Path) -> list[dict]:
     return records
 
 
+def description_path_for_image(image_path: str, assets_dir: Path) -> Path:
+    image = (ROOT_DIR / image_path).resolve()
+    relative = image.relative_to(ASSETS_WEBP_DIR.resolve())
+    return assets_dir / relative.with_suffix(".json")
+
+
+def load_asset_json_dir(assets_dir: Path) -> tuple[dict[str, dict], list[str]]:
+    records_by_path: dict[str, dict] = {}
+    sources: list[str] = []
+    if not assets_dir.exists():
+        return records_by_path, sources
+    for path in sorted(assets_dir.rglob("*.json"), key=lambda p: rel_path(p)):
+        record = safe_read_json(path, None)
+        if not isinstance(record, dict):
+            continue
+        image_path = image_path_from_record(record)
+        if image_path and record_has_visual_content(record):
+            records_by_path[image_path.replace("\\", "/")] = record
+            sources.append(rel_path(path))
+    return records_by_path, sources
+
+
 def is_auto_import_jsonl(path: Path) -> bool:
     """Return true for LLM output JSONL files, excluding manifests and shards."""
     name = path.name
@@ -112,6 +136,16 @@ def discover_vision_jsonl(primary_jsonl: Path) -> list[Path]:
     return deduped
 
 
+def discover_vision_sources(primary_jsonl: Path, assets_dir: Path = DEFAULT_VISION_ASSETS_DIR) -> dict:
+    jsonl_sources = discover_vision_jsonl(primary_jsonl)
+    _, asset_sources = load_asset_json_dir(assets_dir)
+    return {
+        "assets_dir": rel_path(assets_dir),
+        "asset_json": asset_sources,
+        "jsonl": [rel_path(source) for source in jsonl_sources],
+    }
+
+
 def record_has_visual_content(record: dict) -> bool:
     """A path-only manifest row should not count as an LLM description."""
     ignored_keys = {"图片路径", "图片类别", "图片标题", "path", "image"}
@@ -127,16 +161,23 @@ def record_has_visual_content(record: dict) -> bool:
     return False
 
 
-def load_vision_records(primary_jsonl: Path) -> tuple[dict[str, dict], list[str]]:
-    """Load reviewable LLM descriptions from the primary file and auto imports."""
+def load_vision_records(primary_jsonl: Path, assets_dir: Path = DEFAULT_VISION_ASSETS_DIR) -> tuple[dict[str, dict], list[str]]:
+    """Load reviewable LLM descriptions from mirrored JSON files and JSONL imports."""
     records_by_path: dict[str, dict] = {}
-    sources = discover_vision_jsonl(primary_jsonl)
-    for source in sources:
+    source_labels: list[str] = []
+
+    asset_records, asset_sources = load_asset_json_dir(assets_dir)
+    records_by_path.update(asset_records)
+    if asset_sources:
+        source_labels.append(f"{rel_path(assets_dir)}/ ({len(asset_sources)} files)")
+
+    for source in discover_vision_jsonl(primary_jsonl):
         for record in load_jsonl(source):
             path = image_path_from_record(record)
-            if path and record_has_visual_content(record):
+            if path and record_has_visual_content(record) and path.replace("\\", "/") not in records_by_path:
                 records_by_path[path.replace("\\", "/")] = record
-    return records_by_path, [rel_path(source) for source in sources]
+        source_labels.append(rel_path(source))
+    return records_by_path, source_labels
 
 
 def image_path_from_record(record: dict) -> str:
@@ -248,9 +289,12 @@ def build_items(vision_jsonl: Path) -> list[dict]:
 
 def review_summary(vision_jsonl: Path) -> dict:
     records_by_path, sources = load_vision_records(vision_jsonl)
+    _, asset_sources = load_asset_json_dir(DEFAULT_VISION_ASSETS_DIR)
     return {
         "vision_sources": sources,
         "descriptions": len(records_by_path),
+        "asset_json_dir": rel_path(DEFAULT_VISION_ASSETS_DIR),
+        "asset_json_files": len(asset_sources),
         "auto_import_dir": rel_path(VISION_JOBS_DIR),
     }
 
@@ -293,11 +337,30 @@ def get_item(index: int, vision_jsonl: Path) -> dict:
 def export_reviewed_jsonl(state: dict) -> None:
     REVIEW_DIR.mkdir(parents=True, exist_ok=True)
     lines = []
+    approved_records: list[dict] = []
     for path in sorted(state):
         entry = state[path]
         if entry.get("status") in {"通过", "已修订"} and isinstance(entry.get("edited_json"), dict):
+            approved_records.append(entry["edited_json"])
             lines.append(json.dumps(entry["edited_json"], ensure_ascii=False, separators=(",", ":")))
     APPROVED_JSONL.write_text("\n".join(lines) + ("\n" if lines else ""), encoding="utf-8")
+    sync_records_to_asset_dir(approved_records, APPROVED_ASSETS_DIR)
+
+
+def sync_records_to_asset_dir(records: list[dict], assets_dir: Path) -> None:
+    assets_dir.mkdir(parents=True, exist_ok=True)
+    keep: set[Path] = set()
+    for record in records:
+        image_path = image_path_from_record(record)
+        if not image_path:
+            continue
+        out = description_path_for_image(image_path, assets_dir)
+        out.parent.mkdir(parents=True, exist_ok=True)
+        out.write_text(json.dumps(record, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        keep.add(out.resolve())
+    for old in assets_dir.rglob("*.json"):
+        if old.resolve() not in keep:
+            old.unlink()
 
 
 def is_safe_workspace_path(path_text: str) -> Path | None:
@@ -1140,6 +1203,10 @@ class ReviewHandler(BaseHTTPRequestHandler):
             }
             safe_write_json(STATE_PATH, state)
             export_reviewed_jsonl(state)
+            if payload.get("status") in {"通过", "已修订"}:
+                out = description_path_for_image(image_path, DEFAULT_VISION_ASSETS_DIR)
+                out.parent.mkdir(parents=True, exist_ok=True)
+                out.write_text(json.dumps(payload["edited_json"], ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
             self.send_json({"ok": True, "saved_at": saved_at, "state_path": rel_path(STATE_PATH)})
         except Exception as exc:  # noqa: BLE001
             self.send_json({"error": str(exc)}, HTTPStatus.INTERNAL_SERVER_ERROR)
@@ -1173,7 +1240,7 @@ def main() -> int:
     parser.add_argument(
         "--jsonl",
         default=str(DEFAULT_VISION_JSONL),
-        help="Vision description JSONL to review. If missing, the UI uses empty Chinese-key templates.",
+        help="Vision description JSONL to review. Mirrored JSON files under vision_index/assets are loaded first.",
     )
     args = parser.parse_args()
 
@@ -1193,9 +1260,12 @@ def main() -> int:
     print(f"HSRChat image JSON review GUI: {url}")
     print(f"Assets: {ASSETS_WEBP_DIR}")
     print(f"Vision JSONL: {vision_jsonl} ({'found' if vision_jsonl.exists() else 'not found; using empty templates'})")
-    print("Auto-import JSONL sources:")
-    for source in discover_vision_jsonl(vision_jsonl):
-        print(f"  - {source}")
+    print(f"Vision asset JSON dir: {DEFAULT_VISION_ASSETS_DIR} ({'found' if DEFAULT_VISION_ASSETS_DIR.exists() else 'not found'})")
+    print("Vision sources:")
+    sources = discover_vision_sources(vision_jsonl)
+    print(f"  asset JSON files: {len(sources['asset_json'])}")
+    for source in sources["jsonl"]:
+        print(f"  JSONL: {source}")
     print(f"Review state: {STATE_PATH}")
     try:
         server.serve_forever()

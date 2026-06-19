@@ -23,7 +23,7 @@ HSRChat 不是单一文本库，而是把几类互补信源放在一起使用：
 | 官方视频元数据 | `references/bilibili/` | 角色 PV、动画短片、千星纪游、EP、版本宣传等官方物料的标题、简介与发布时间 |
 | BWiki 图片索引 | `references/bwiki_images/index.json` | 任务 CG、书籍插图、短信图、角色立绘等视觉信源的来源页、上下文和原图元数据 |
 | WebP 参考图 | `references/bwiki_images/assets_webp/` | 面向 Agent 的轻量图片参考，用于角色外观、美术风格和剧情画面分析 |
-| 图片文本描述 | `references/bwiki_images/vision_index/assets.jsonl` | 208 张 WebP 参考图的审核通过版中文视觉描述，供非多模态模型快速读取图片元素 |
+| 图片文本描述 | `references/bwiki_images/vision_index/assets/` | 208 张 WebP 参考图的审核通过版中文视觉描述，目录结构与 `assets_webp/` 一致；`assets.jsonl` 保留为聚合兼容索引 |
 | 数据源说明 | `references/docs/` | 各信源的同步逻辑、边界、维护方式和版本控制规则 |
 
 这些信源的分工大致是：
@@ -31,7 +31,7 @@ HSRChat 不是单一文本库，而是把几类互补信源放在一起使用：
 - **问剧情和设定**：优先查 Wiki 文本，必要时多跳检索相关角色、任务、书籍和隐藏概念。
 - **问官方物料或时间线**：结合 B站官方视频元数据，核对 PV、动画短片和版本宣传中的信息。
 - **问美术、立绘、CG 或视觉符号**：结合 BWiki 图片索引和 WebP 参考图，不只靠文字描述。
-- **非多模态环境读图**：优先读取 `references/bwiki_images/vision_index/assets.jsonl` 中的审核通过版中文描述，再按需回查原 WebP 图和 BWiki 图片索引。
+- **非多模态环境读图**：优先读取 `references/bwiki_images/vision_index/assets/` 下与图片同目录、同名的 JSON 描述，再按需回查原 WebP 图和 BWiki 图片索引。
 - **问角色扮演**：优先检索角色语音、角色故事和相关任务台词，提取称谓、口吻、关系和认知边界。
 
 Wiki 是社区协作整理的文本库，可能存在错字、滞后或主观整理痕迹。考据模式下如果多信源冲突，应优先采用游戏内文本、角色台词、官方视频与图像中直接呈现的内容，并明确区分事实、推论和留白。
