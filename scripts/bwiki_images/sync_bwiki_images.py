@@ -21,6 +21,7 @@ from PIL import Image
 ROOT_DIR = Path(__file__).resolve().parents[2]
 WIKI_DIR = ROOT_DIR / "references" / "wiki"
 ROLE_DIR = WIKI_DIR / "角色"
+LIGHT_CONE_DIR = WIKI_DIR / "光锥"
 OUTPUT_DIR = ROOT_DIR / "references" / "bwiki_images"
 ASSETS_DIR = OUTPUT_DIR / "assets"
 INDEX_PATH = OUTPUT_DIR / "index.json"
@@ -49,7 +50,7 @@ PATTERNS = [
     ("file_link", re.compile(r"\[\[(?:File|file|文件):([^|\]\n]+)")),
 ]
 
-HIGH_VALUE_KINDS = {"picture_zoom", "dialog_image", "file_link", "character_painting"}
+HIGH_VALUE_KINDS = {"picture_zoom", "dialog_image", "file_link", "character_painting", "light_cone_artwork"}
 socket.setdefaulttimeout(20)
 
 
@@ -160,6 +161,13 @@ def extract_role_name(path):
     return path.stem
 
 
+def extract_template_value(text, key):
+    match = re.search(rf"\|{re.escape(key)}=([^\n|<]+)", text)
+    if match:
+        return match.group(1).strip()
+    return ""
+
+
 def collect_character_paintings():
     references = []
     if not ROLE_DIR.exists():
@@ -208,6 +216,46 @@ def collect_character_paintings():
                         "html_class": None,
                     }
                 )
+
+    return references
+
+
+def collect_light_cone_artworks():
+    references = []
+    if not LIGHT_CONE_DIR.exists():
+        return references
+
+    for path in sorted(LIGHT_CONE_DIR.glob("*.txt")):
+        text = path.read_text(encoding="utf-8", errors="replace")
+        page_title = path.stem
+        light_cone_name = extract_template_value(text, "名称") or page_title
+        if light_cone_name == "{{PAGENAME}}":
+            light_cone_name = page_title
+        file_name = f"光锥-立绘-{light_cone_name}.png"
+        identity = f"light_cone_artwork\n{file_name}\n{page_title}"
+
+        references.append(
+            {
+                "id": hashlib.sha1(identity.encode("utf-8")).hexdigest()[:16],
+                "source": "bwiki_image",
+                "asset_kind": "light_cone_artwork",
+                "priority": "high",
+                "excluded_reason": None,
+                "file_name": file_name,
+                "original_ref": f"File:{file_name}",
+                "resolved_url": None,
+                "wiki_category": "光锥",
+                "wiki_page_title": page_title,
+                "wiki_text_path": rel_path(path),
+                "line": None,
+                "context_before": f"光锥名: {light_cone_name}",
+                "context_line": "渲染光锥页图片: 光锥立绘",
+                "context_after": "",
+                "rendered_page_url": "https://wiki.biligame.com/sr/" + urllib.parse.quote(page_title),
+                "light_cone_image_label": "光锥立绘",
+                "html_class": None,
+            }
+        )
 
     return references
 
@@ -653,6 +701,8 @@ def main():
     references = collect_references()
     log("[scan] collecting character paintings from rendered role pages...")
     references.extend(collect_character_paintings())
+    log("[scan] collecting light cone artworks from rendered light cone pages...")
+    references.extend(collect_light_cone_artworks())
     assets, discarded = dedupe_high_value(references)
     log(f"[scan] references={len(references)}, high_value_unique={len(assets)}, discarded={len(discarded)}")
 

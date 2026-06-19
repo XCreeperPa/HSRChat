@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import sys
 from pathlib import Path
 
 
@@ -25,13 +26,16 @@ def write_jsonl(path: Path, records: list[dict]) -> None:
             handle.write("\n")
 
 
-def build_records(limit_per_category: int) -> list[dict]:
+def build_records(limit_per_category: int | None, categories: set[str] | None) -> list[dict]:
     records: list[dict] = []
     for category_dir in sorted(ASSETS_WEBP.iterdir(), key=lambda p: p.name):
         if not category_dir.is_dir():
             continue
+        if categories is not None and category_dir.name not in categories:
+            continue
         images = sorted(category_dir.glob("*.webp"), key=lambda p: p.name)
-        for image in images[:limit_per_category]:
+        selected = images if limit_per_category is None else images[:limit_per_category]
+        for image in selected:
             records.append(
                 {
                     "图片路径": rel(image),
@@ -43,13 +47,20 @@ def build_records(limit_per_category: int) -> list[dict]:
 
 
 def main() -> int:
+    if hasattr(sys.stdout, "reconfigure"):
+        sys.stdout.reconfigure(encoding="utf-8")
+
     parser = argparse.ArgumentParser()
     parser.add_argument("--limit-per-category", type=int, default=10)
     parser.add_argument("--shard-size", type=int, default=13)
     parser.add_argument("--prefix", default="trial")
+    parser.add_argument("--category", action="append", help="Only include this image category. Can be repeated.")
+    parser.add_argument("--all", action="store_true", help="Include all images from selected categories.")
     args = parser.parse_args()
 
-    records = build_records(args.limit_per_category)
+    limit = None if args.all else args.limit_per_category
+    categories = set(args.category) if args.category else None
+    records = build_records(limit, categories)
     manifest = JOBS_DIR / f"{args.prefix}_manifest.jsonl"
     write_jsonl(manifest, records)
 
@@ -72,7 +83,7 @@ def main() -> int:
     summary = {
         "manifest": rel(manifest),
         "total": len(records),
-        "limit_per_category": args.limit_per_category,
+        "limit_per_category": limit,
         "shard_size": args.shard_size,
         "shards": [rel(path) for path in shards],
         "counts": dict(sorted(counts.items())),

@@ -18,6 +18,7 @@ DEFAULT_WORKERS = max(1, os.cpu_count() or 1)
 
 
 ROLE_CATEGORY = "角色"
+LIGHT_CONE_CATEGORY = "光锥"
 CG_CATEGORIES = {"开拓任务", "同行任务", "开拓续闻"}
 TEXT_OR_SMALL_CATEGORIES = {"书籍", "冒险任务", "NPC"}
 
@@ -53,6 +54,13 @@ def image_policy(asset):
             "quality": 86,
             "max_edge": 1600,
             "reason": "role_painting",
+        }
+
+    if category == LIGHT_CONE_CATEGORY:
+        return {
+            "quality": 86,
+            "max_edge": 1920,
+            "reason": "light_cone_artwork",
         }
 
     if category in CG_CATEGORIES and ("CG" in name or "影像" in name or "回想" in name):

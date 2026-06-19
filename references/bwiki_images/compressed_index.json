@@ -1,17 +1,17 @@
 {
   "summary": {
-    "generated_at": "2026-06-18T12:06:06Z",
+    "generated_at": "2026-06-19T05:20:30Z",
     "source_index": "references/bwiki_images/index.json",
     "output_dir": "references/bwiki_images/assets_webp",
-    "compressed_count": 208,
+    "compressed_count": 370,
     "skipped_count": 0,
-    "original_bytes": 591360670,
-    "compressed_bytes": 51288736,
-    "saved_bytes": 540071934,
-    "original_mib": 563.97,
-    "compressed_mib": 48.91,
-    "saved_mib": 515.05,
-    "saved_percent": 91.33,
+    "original_bytes": 877412540,
+    "compressed_bytes": 81265074,
+    "saved_bytes": 796147466,
+    "original_mib": 836.77,
+    "compressed_mib": 77.5,
+    "saved_mib": 759.27,
+    "saved_percent": 90.74,
     "by_category": {
       "NPC": {
         "count": 1,
@@ -32,6 +32,16 @@
         "compressed_mib": 1.37,
         "saved_mib": 9.23,
         "saved_percent": 87.06
+      },
+      "光锥": {
+        "count": 162,
+        "original_bytes": 286051870,
+        "compressed_bytes": 29976338,
+        "saved_bytes": 256075532,
+        "original_mib": 272.8,
+        "compressed_mib": 28.59,
+        "saved_mib": 244.21,
+        "saved_percent": 89.52
       },
       "冒险任务": {
         "count": 10,
@@ -757,6 +767,4542 @@
       "saved_bytes": 299702,
       "compressed_ratio": 0.0994,
       "saved_percent": 90.06
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-「我」的诞生.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-「我」的诞生.webp",
+      "file_name": "光锥-立绘-「我」的诞生.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1303564,
+        "width": 867,
+        "height": 1230,
+        "sha256": "012e3eaa3df7d36178d16b98066adf1be6916e07bffcd79150ca6d556b6926a8"
+      },
+      "compressed": {
+        "bytes": 133154,
+        "width": 867,
+        "height": 1230,
+        "sha256": "75c72d2fe7ddf94ba72ed12a2da5b3ca627df63b2b8a0f540a4ed5c1b40f13d7"
+      },
+      "saved_bytes": 1170410,
+      "compressed_ratio": 0.1021,
+      "saved_percent": 89.79
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-一场术后对话.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-一场术后对话.webp",
+      "file_name": "光锥-立绘-一场术后对话.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1134179,
+        "width": 867,
+        "height": 1230,
+        "sha256": "dca9ac08dd50c9818cb449ef641c838c42e26add2aff8844d40adc8858af1168"
+      },
+      "compressed": {
+        "bytes": 110858,
+        "width": 867,
+        "height": 1230,
+        "sha256": "a216aaf9b91cb1db7ec25e76872f1f5a368fd8aefd194b9fd3858127a7594b54"
+      },
+      "saved_bytes": 1023321,
+      "compressed_ratio": 0.0977,
+      "saved_percent": 90.23
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-一场谎言的终幕.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-一场谎言的终幕.webp",
+      "file_name": "光锥-立绘-一场谎言的终幕.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2092721,
+        "width": 904,
+        "height": 1260,
+        "sha256": "2a669acdcab0cc88e8c4b03a0941628e613c6195f784fc05657602be3c0cd58c"
+      },
+      "compressed": {
+        "bytes": 238272,
+        "width": 904,
+        "height": 1260,
+        "sha256": "ec663f9352007ecffef9ebb8878dd5e9d257458a20e4a5b85a27978e4be19a2d"
+      },
+      "saved_bytes": 1854449,
+      "compressed_ratio": 0.1139,
+      "saved_percent": 88.61
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-一行往日的血.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-一行往日的血.webp",
+      "file_name": "光锥-立绘-一行往日的血.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2190233,
+        "width": 864,
+        "height": 1220,
+        "sha256": "46a8c5037b7742a47c40826475c7b4536882d02670867d5c46bcd01811f6ede1"
+      },
+      "compressed": {
+        "bytes": 251726,
+        "width": 864,
+        "height": 1220,
+        "sha256": "e076a4d9bf7ad0bab031f13e38659e20dd64599466f90fd45f261c81e514f611"
+      },
+      "saved_bytes": 1938507,
+      "compressed_ratio": 0.1149,
+      "saved_percent": 88.51
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-不息的演算.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-不息的演算.webp",
+      "file_name": "光锥-立绘-不息的演算.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2371887,
+        "width": 867,
+        "height": 1230,
+        "sha256": "2e0de6bdfe785ebf1473d69c175c6dbeffff992bbfebc8bf85f4df795758f33c"
+      },
+      "compressed": {
+        "bytes": 339746,
+        "width": 867,
+        "height": 1230,
+        "sha256": "d279fd1fa92312c685ccd85ef08bdd948b5723299fd2e1f8705739e0c4e9836e"
+      },
+      "saved_bytes": 2032141,
+      "compressed_ratio": 0.1432,
+      "saved_percent": 85.68
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-与行星相会.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-与行星相会.webp",
+      "file_name": "光锥-立绘-与行星相会.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1398490,
+        "width": 867,
+        "height": 1230,
+        "sha256": "2e92d162e2e1cac4fe971d4694929fd717351d0b8a65685a16e1fe2a215de503"
+      },
+      "compressed": {
+        "bytes": 97216,
+        "width": 867,
+        "height": 1230,
+        "sha256": "86c14c45265250d1954ea0b915e156640eea023e4f99359db5d16cc56c941071"
+      },
+      "saved_bytes": 1301274,
+      "compressed_ratio": 0.0695,
+      "saved_percent": 93.05
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-两个人的演唱会.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-两个人的演唱会.webp",
+      "file_name": "光锥-立绘-两个人的演唱会.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1762971,
+        "width": 867,
+        "height": 1230,
+        "sha256": "93045e4af63ab9dd746c2568115233b536f5fa012868f97bd07aabb43f753fa9"
+      },
+      "compressed": {
+        "bytes": 137130,
+        "width": 867,
+        "height": 1230,
+        "sha256": "b004fd7a1bce50912015db3f3af003fa82c60f14ac3c9b8bfb6df6959c7e45f5"
+      },
+      "saved_bytes": 1625841,
+      "compressed_ratio": 0.0778,
+      "saved_percent": 92.22
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-为了明日的旅途.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-为了明日的旅途.webp",
+      "file_name": "光锥-立绘-为了明日的旅途.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1649559,
+        "width": 867,
+        "height": 1230,
+        "sha256": "0130dec0f230c570bd01402da2c71576a49e8238214083cfd27b4d065224a4aa"
+      },
+      "compressed": {
+        "bytes": 146398,
+        "width": 867,
+        "height": 1230,
+        "sha256": "8aeaef6887f1c7f88d6fbb64df57e8f49765af4b1602bf2886841db4112d4818"
+      },
+      "saved_bytes": 1503161,
+      "compressed_ratio": 0.0887,
+      "saved_percent": 91.13
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-乐圮.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-乐圮.webp",
+      "file_name": "光锥-立绘-乐圮.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2349843,
+        "width": 867,
+        "height": 1230,
+        "sha256": "e4ebcb5c024641f24801c13f3eb8906831ef28021c4908a6272a3dba3a18c1d8"
+      },
+      "compressed": {
+        "bytes": 277766,
+        "width": 867,
+        "height": 1230,
+        "sha256": "e6f2f1247eac25f369ce58182d787b7a16bc855cd57a99af5d5404ea726d3ee1"
+      },
+      "saved_bytes": 2072077,
+      "compressed_ratio": 0.1182,
+      "saved_percent": 88.18
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-于夜色中.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-于夜色中.webp",
+      "file_name": "光锥-立绘-于夜色中.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1673515,
+        "width": 867,
+        "height": 1230,
+        "sha256": "230bc0a6272b5afbddb061e71fcb275929dfd0c5af906f4597c4fcb68badf69b"
+      },
+      "compressed": {
+        "bytes": 123628,
+        "width": 867,
+        "height": 1230,
+        "sha256": "c6a7c6a8b3b6c689f2e1c5ddc7669466f54f46cd9ca06b6e35dfe666e69adb2c"
+      },
+      "saved_bytes": 1549887,
+      "compressed_ratio": 0.0739,
+      "saved_percent": 92.61
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-于那终点再见.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-于那终点再见.webp",
+      "file_name": "光锥-立绘-于那终点再见.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2146504,
+        "width": 864,
+        "height": 1220,
+        "sha256": "9f40cb6b8ded09208aa33880e66dc380caa3faebe242a3deb0ca02d44bbd13c6"
+      },
+      "compressed": {
+        "bytes": 246686,
+        "width": 864,
+        "height": 1220,
+        "sha256": "8374e7dba93289b53650bfa36871902b124a2e60405ea427866e0b6b9428feb5"
+      },
+      "saved_bytes": 1899818,
+      "compressed_ratio": 0.1149,
+      "saved_percent": 88.51
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-今日亦是和平的一日.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-今日亦是和平的一日.webp",
+      "file_name": "光锥-立绘-今日亦是和平的一日.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1689795,
+        "width": 867,
+        "height": 1230,
+        "sha256": "f843ad9d6373f7e13b53e36ad7f5cdadfbbe131c6052b2a6311db7fe006a9bb5"
+      },
+      "compressed": {
+        "bytes": 146400,
+        "width": 867,
+        "height": 1230,
+        "sha256": "aebf8d6e5a9d8a853de44aa48d30b441778c0fbf0e78dca7ae65468a157bd0f9"
+      },
+      "saved_bytes": 1543395,
+      "compressed_ratio": 0.0866,
+      "saved_percent": 91.34
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-今日好手气.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-今日好手气.webp",
+      "file_name": "光锥-立绘-今日好手气.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2043338,
+        "width": 904,
+        "height": 1260,
+        "sha256": "b7f0a9d7993e261a8ec19702e2e9252d487342a8ac7751754d0bdb53e0f47759"
+      },
+      "compressed": {
+        "bytes": 248138,
+        "width": 904,
+        "height": 1260,
+        "sha256": "f8a92ab0ec32b5cde594ed3c997960390df5be45855cab2c72d70df1bccd18a9"
+      },
+      "saved_bytes": 1795200,
+      "compressed_ratio": 0.1214,
+      "saved_percent": 87.86
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-以世界之名.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-以世界之名.webp",
+      "file_name": "光锥-立绘-以世界之名.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1762954,
+        "width": 867,
+        "height": 1230,
+        "sha256": "003adbe744ecf2807d07e18e51e7c87441efed3f8706824d80060219b9c37439"
+      },
+      "compressed": {
+        "bytes": 145972,
+        "width": 867,
+        "height": 1230,
+        "sha256": "44722b84d1ab65cbacd1f6005769c3a8233119901140b1414913efa488360a17"
+      },
+      "saved_bytes": 1616982,
+      "compressed_ratio": 0.0828,
+      "saved_percent": 91.72
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-但战斗还未结束.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-但战斗还未结束.webp",
+      "file_name": "光锥-立绘-但战斗还未结束.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1541154,
+        "width": 867,
+        "height": 1230,
+        "sha256": "3a35a948f340b40f2ae2a0e472b596a7ff7fd9bcc0414d1598ebc9903526fd7e"
+      },
+      "compressed": {
+        "bytes": 127692,
+        "width": 867,
+        "height": 1230,
+        "sha256": "11ce8e9b1a4301964756c0094a516cf43cd60b35041e6636e3c0e140fe17c0e0"
+      },
+      "saved_bytes": 1413462,
+      "compressed_ratio": 0.0829,
+      "saved_percent": 91.71
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-何物为真.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-何物为真.webp",
+      "file_name": "光锥-立绘-何物为真.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1594375,
+        "width": 867,
+        "height": 1230,
+        "sha256": "527d253566861954bb6ec269d319b38aaafec8bc0118e70c0dbeb389048d1757"
+      },
+      "compressed": {
+        "bytes": 112718,
+        "width": 867,
+        "height": 1230,
+        "sha256": "cfdb0a7b1927a315d2b71a28fd3096286c59c5547dda6bc005b2a7cfa3782f49"
+      },
+      "saved_bytes": 1481657,
+      "compressed_ratio": 0.0707,
+      "saved_percent": 92.93
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-余生的第一天.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-余生的第一天.webp",
+      "file_name": "光锥-立绘-余生的第一天.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1679846,
+        "width": 867,
+        "height": 1230,
+        "sha256": "f29ce2a7ce16abc64d2d3eff2cdc2ef7d1551b41bcfeb51fc5183da0d4d7b691"
+      },
+      "compressed": {
+        "bytes": 152374,
+        "width": 867,
+        "height": 1230,
+        "sha256": "303665fcf35d8ac10384f7362adefc3a4bce69335b511fe920b201db7f470d24"
+      },
+      "saved_bytes": 1527472,
+      "compressed_ratio": 0.0907,
+      "saved_percent": 90.93
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-俱殁.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-俱殁.webp",
+      "file_name": "光锥-立绘-俱殁.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2397791,
+        "width": 867,
+        "height": 1230,
+        "sha256": "5c9d75734ee31f0f170fd71d839a95b6ba4570675cafc9d76fe4f2e1d61cb06f"
+      },
+      "compressed": {
+        "bytes": 305346,
+        "width": 867,
+        "height": 1230,
+        "sha256": "25dee179eb6ba4d6b60b49d0602671533a3be7a2211eb064b5d9f410a4df2358"
+      },
+      "saved_bytes": 2092445,
+      "compressed_ratio": 0.1273,
+      "saved_percent": 87.27
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-假日浴场大冒险.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-假日浴场大冒险.webp",
+      "file_name": "光锥-立绘-假日浴场大冒险.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2095996,
+        "width": 864,
+        "height": 1220,
+        "sha256": "070d70bf34c5ece597859ef0b0b672906870ecdadb77dd3e1105585f1cd6f9d8"
+      },
+      "compressed": {
+        "bytes": 238616,
+        "width": 864,
+        "height": 1220,
+        "sha256": "f593bdb361f9f48fcebfe1fa73c57a0eb73ca690ff06dc885a6daaa6bbf3ee1d"
+      },
+      "saved_bytes": 1857380,
+      "compressed_ratio": 0.1138,
+      "saved_percent": 88.62
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-偏偏希望无价.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-偏偏希望无价.webp",
+      "file_name": "光锥-立绘-偏偏希望无价.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1134734,
+        "width": 867,
+        "height": 1230,
+        "sha256": "3c240e4638a491ff4dd9c925aadf205ae8de62b61587b5f25f663b5cf587739d"
+      },
+      "compressed": {
+        "bytes": 162084,
+        "width": 867,
+        "height": 1230,
+        "sha256": "bc0aef82bbcab6503a8d418b431f4d8f62cfc5a2a5d346e0e46a80cd2c318743"
+      },
+      "saved_bytes": 972650,
+      "compressed_ratio": 0.1428,
+      "saved_percent": 85.72
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-决心如汗珠般闪耀.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-决心如汗珠般闪耀.webp",
+      "file_name": "光锥-立绘-决心如汗珠般闪耀.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1035155,
+        "width": 867,
+        "height": 1230,
+        "sha256": "2a566a5b1b9f86a8966dc7bac2011f0a956728634b5bd927d8ef64de85d384bb"
+      },
+      "compressed": {
+        "bytes": 84294,
+        "width": 867,
+        "height": 1230,
+        "sha256": "578db572e8d2da8b00e120c752b9a85f7e1f36469909f5c413186c9259f65556"
+      },
+      "saved_bytes": 950861,
+      "compressed_ratio": 0.0814,
+      "saved_percent": 91.86
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-别让世界静下来.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-别让世界静下来.webp",
+      "file_name": "光锥-立绘-别让世界静下来.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1843550,
+        "width": 867,
+        "height": 1230,
+        "sha256": "24662b3374fa62c3b98e75bf73f2eef0fb6ca7f3d77872b9dd6ce4c5fe4f5993"
+      },
+      "compressed": {
+        "bytes": 161064,
+        "width": 867,
+        "height": 1230,
+        "sha256": "e718154b7ca4ef14b9d21d19b663fe57863c244c447e0d0774f2837a83781a8a"
+      },
+      "saved_bytes": 1682486,
+      "compressed_ratio": 0.0874,
+      "saved_percent": 91.26
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-到不了的彼岸.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-到不了的彼岸.webp",
+      "file_name": "光锥-立绘-到不了的彼岸.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1597982,
+        "width": 867,
+        "height": 1230,
+        "sha256": "779e2abfc34ece797717ec3469c0b4643580ff4b43c8844e4439918a8e344874"
+      },
+      "compressed": {
+        "bytes": 105286,
+        "width": 867,
+        "height": 1230,
+        "sha256": "f4c57cee2c74e62851c7717def0000f2ee41485a9e96f2068b79c7b46d8137df"
+      },
+      "saved_bytes": 1492696,
+      "compressed_ratio": 0.0659,
+      "saved_percent": 93.41
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-制胜的瞬间.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-制胜的瞬间.webp",
+      "file_name": "光锥-立绘-制胜的瞬间.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1765785,
+        "width": 867,
+        "height": 1230,
+        "sha256": "2cbadeaf3633dc0b35bb4cd2afa1c526287c92ecb979415c46545684b421ef5f"
+      },
+      "compressed": {
+        "bytes": 146150,
+        "width": 867,
+        "height": 1230,
+        "sha256": "113ce57131af60dfb6418031ef599944b99af157f1e1f95202b06441c5499c7b"
+      },
+      "saved_bytes": 1619635,
+      "compressed_ratio": 0.0828,
+      "saved_percent": 91.72
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-勿忘她的火焰.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-勿忘她的火焰.webp",
+      "file_name": "光锥-立绘-勿忘她的火焰.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1750549,
+        "width": 864,
+        "height": 1220,
+        "sha256": "35b952cd3f2ef140f431058f828c6ea6296bfd344110fbd0929700f0c44fbee6"
+      },
+      "compressed": {
+        "bytes": 212126,
+        "width": 864,
+        "height": 1220,
+        "sha256": "63afef8dfd7504a613c5c45d534955fdb3255eff5ad64d42abdee968cc9a918b"
+      },
+      "saved_bytes": 1538423,
+      "compressed_ratio": 0.1212,
+      "saved_percent": 87.88
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-匿影.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-匿影.webp",
+      "file_name": "光锥-立绘-匿影.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1972777,
+        "width": 867,
+        "height": 1230,
+        "sha256": "ad0dba9efce7f5ec9c5b806601f84204d6b7abeda1e8957217b51d9e7a7a96ac"
+      },
+      "compressed": {
+        "bytes": 216672,
+        "width": 867,
+        "height": 1230,
+        "sha256": "d0cc407581370cdc6035ea6c8ec505a3749e0fe8d9085cbe7cdac939f0d70886"
+      },
+      "saved_bytes": 1756105,
+      "compressed_ratio": 0.1098,
+      "saved_percent": 89.02
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-只需等待.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-只需等待.webp",
+      "file_name": "光锥-立绘-只需等待.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1466187,
+        "width": 867,
+        "height": 1230,
+        "sha256": "38b7745b774103d5d20783a25434431c6bbfcdbfe9d47f869a31dc4f144760d9"
+      },
+      "compressed": {
+        "bytes": 86860,
+        "width": 867,
+        "height": 1230,
+        "sha256": "98d3f0d8f4866bb15aebf84b358b34b79cd1be7d5835fa17406e26a40fbe944b"
+      },
+      "saved_bytes": 1379327,
+      "compressed_ratio": 0.0592,
+      "saved_percent": 94.08
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-同一种心情.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-同一种心情.webp",
+      "file_name": "光锥-立绘-同一种心情.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1182386,
+        "width": 867,
+        "height": 1230,
+        "sha256": "93e15dda7d90852521c74191e01888dce046152d8481329cabad279989d2b575"
+      },
+      "compressed": {
+        "bytes": 122276,
+        "width": 867,
+        "height": 1230,
+        "sha256": "192735fe2a7a4083f13a8f4b376ffc1e91a76831c63f7a36f71ebc20cbb60a1f"
+      },
+      "saved_bytes": 1060110,
+      "compressed_ratio": 0.1034,
+      "saved_percent": 89.66
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-后会有期.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-后会有期.webp",
+      "file_name": "光锥-立绘-后会有期.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1916319,
+        "width": 867,
+        "height": 1230,
+        "sha256": "6064617df01ac3ccfb7d4bfb80914c7bb23be136b557505c4917f780ace21767"
+      },
+      "compressed": {
+        "bytes": 171412,
+        "width": 867,
+        "height": 1230,
+        "sha256": "6a2538f0c4ffbfb1b1186e4aa4dccb19a7ca847a77dc32afb03ef11b225c3e74"
+      },
+      "saved_bytes": 1744907,
+      "compressed_ratio": 0.0894,
+      "saved_percent": 91.06
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-向着不可追问处.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-向着不可追问处.webp",
+      "file_name": "光锥-立绘-向着不可追问处.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1942999,
+        "width": 867,
+        "height": 1230,
+        "sha256": "01668c432f3a1ead799c61f936b4c41e016e069beb32aae005e2a0119fa8adc3"
+      },
+      "compressed": {
+        "bytes": 235058,
+        "width": 867,
+        "height": 1230,
+        "sha256": "e2df9c439da6520524535df8386fca03c36146ad3ae227ab5f606945ce54649d"
+      },
+      "saved_bytes": 1707941,
+      "compressed_ratio": 0.121,
+      "saved_percent": 87.9
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-命运从未公平.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-命运从未公平.webp",
+      "file_name": "光锥-立绘-命运从未公平.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1893529,
+        "width": 867,
+        "height": 1230,
+        "sha256": "2666c32949dd8f868ccaef99b6f2b0bfdf868f4376e3efb9ce208672ee2ed6b7"
+      },
+      "compressed": {
+        "bytes": 172280,
+        "width": 867,
+        "height": 1230,
+        "sha256": "6741643009d9536895b93b2b53d8cdd427d2e4ebb5395812ad6364644fbdd86d"
+      },
+      "saved_bytes": 1721249,
+      "compressed_ratio": 0.091,
+      "saved_percent": 90.9
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-唯有沉默.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-唯有沉默.webp",
+      "file_name": "光锥-立绘-唯有沉默.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1238611,
+        "width": 867,
+        "height": 1230,
+        "sha256": "9482d19916ba0e0a8b7ebc25ebf05cf2ba013d219aa1f38f57901bcd2745e1e3"
+      },
+      "compressed": {
+        "bytes": 84652,
+        "width": 867,
+        "height": 1230,
+        "sha256": "d8ebba52df7cccda3a05ee3a8d9380c124c84149036369dcac9c001a6bfb6ffe"
+      },
+      "saved_bytes": 1153959,
+      "compressed_ratio": 0.0683,
+      "saved_percent": 93.17
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-唯有香如故.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-唯有香如故.webp",
+      "file_name": "光锥-立绘-唯有香如故.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1913088,
+        "width": 867,
+        "height": 1230,
+        "sha256": "c4b0fe3147e638e514d9389ace3b5c9135b511e33a4cdce854d39bd17d932b27"
+      },
+      "compressed": {
+        "bytes": 230274,
+        "width": 867,
+        "height": 1230,
+        "sha256": "2b35aeb9f1a0822c2827a6002098b7f44ca53b1f6d88538544bd972ab3e1bbeb"
+      },
+      "saved_bytes": 1682814,
+      "compressed_ratio": 0.1204,
+      "saved_percent": 87.96
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-嗤笑.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-嗤笑.webp",
+      "file_name": "光锥-立绘-嗤笑.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1620361,
+        "width": 904,
+        "height": 1260,
+        "sha256": "4e273c1179a9163af43203d9debdb8f31085b999e7d2d39b31e5ff39cdb9619d"
+      },
+      "compressed": {
+        "bytes": 226638,
+        "width": 904,
+        "height": 1260,
+        "sha256": "520bdbc5bc9c166f60bd51b0bf24eaa31b6d69150e96efd3363d7093e9f7595f"
+      },
+      "saved_bytes": 1393723,
+      "compressed_ratio": 0.1399,
+      "saved_percent": 86.01
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-嘉果.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-嘉果.webp",
+      "file_name": "光锥-立绘-嘉果.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1802054,
+        "width": 867,
+        "height": 1230,
+        "sha256": "e99fc026ca423945bf260af55d9da8661f697989cf95905e145ed510d6680d7c"
+      },
+      "compressed": {
+        "bytes": 160218,
+        "width": 867,
+        "height": 1230,
+        "sha256": "3e042faaa0f27e2f54e69b6881f2bb3b0cf75f064e8aa0fffa4cf9096cc89c0a"
+      },
+      "saved_bytes": 1641836,
+      "compressed_ratio": 0.0889,
+      "saved_percent": 91.11
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-嘿，我在这儿.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-嘿，我在这儿.webp",
+      "file_name": "光锥-立绘-嘿，我在这儿.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1692876,
+        "width": 867,
+        "height": 1230,
+        "sha256": "f0a4caeecfea4566943da6356e01dadda37339ef215813dbeeb2c1de1f5985f3"
+      },
+      "compressed": {
+        "bytes": 139836,
+        "width": 867,
+        "height": 1230,
+        "sha256": "6d73311139164661a0d0ad5bcbd2f7738f0498a559afbd2d9204c710236732be"
+      },
+      "saved_bytes": 1553040,
+      "compressed_ratio": 0.0826,
+      "saved_percent": 91.74
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-回到大地的飞行.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-回到大地的飞行.webp",
+      "file_name": "光锥-立绘-回到大地的飞行.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1581905,
+        "width": 867,
+        "height": 1230,
+        "sha256": "0268681a9ec259eb0784b3945bf18ad7e01d457b651d9893079e7e59340bd6b7"
+      },
+      "compressed": {
+        "bytes": 219398,
+        "width": 867,
+        "height": 1230,
+        "sha256": "d847210d70d64aca2e8d3271b686fd71212e9a5eab848fa2ae57162d3b277d94"
+      },
+      "saved_bytes": 1362507,
+      "compressed_ratio": 0.1387,
+      "saved_percent": 86.13
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-在火的远处.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-在火的远处.webp",
+      "file_name": "光锥-立绘-在火的远处.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1911613,
+        "width": 867,
+        "height": 1230,
+        "sha256": "73de14d5df86460d7c2436a311e9db1351f9ddc9511a8ad54fbae04645c235d2"
+      },
+      "compressed": {
+        "bytes": 148262,
+        "width": 867,
+        "height": 1230,
+        "sha256": "293addbaf5eeb93bbe5f28dd7f07b6dcdb27021ca5fdd71a4fad06c7c084ba47"
+      },
+      "saved_bytes": 1763351,
+      "compressed_ratio": 0.0776,
+      "saved_percent": 92.24
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-在蓝天下.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-在蓝天下.webp",
+      "file_name": "光锥-立绘-在蓝天下.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1452891,
+        "width": 867,
+        "height": 1230,
+        "sha256": "f58d0eae5791ef70f32b4b61d35b160666660b467025370e77ec9e37b2acedb2"
+      },
+      "compressed": {
+        "bytes": 162178,
+        "width": 867,
+        "height": 1230,
+        "sha256": "a7281d37da1e5462c62deb7c7ba3b9f668c6e62a193901fe49d6ad41bd61017e"
+      },
+      "saved_bytes": 1290713,
+      "compressed_ratio": 0.1116,
+      "saved_percent": 88.84
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-多流汗，少流泪.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-多流汗，少流泪.webp",
+      "file_name": "光锥-立绘-多流汗，少流泪.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1829939,
+        "width": 867,
+        "height": 1230,
+        "sha256": "92051cc7d30dfd80a5131ea1e1bae26e5a7bbe348310037a082ca104bd2062ed"
+      },
+      "compressed": {
+        "bytes": 208412,
+        "width": 867,
+        "height": 1230,
+        "sha256": "307426b3dd4996d102858fbc8d092a3a324a63dd4fa58865292f41705ed8286f"
+      },
+      "saved_bytes": 1621527,
+      "compressed_ratio": 0.1139,
+      "saved_percent": 88.61
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-夜色流光溢彩.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-夜色流光溢彩.webp",
+      "file_name": "光锥-立绘-夜色流光溢彩.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1780005,
+        "width": 867,
+        "height": 1230,
+        "sha256": "13e81a09e8b90e77e6fdd3ffaf172f5e7d6aa3ba024394bae02f8da67de99902"
+      },
+      "compressed": {
+        "bytes": 144322,
+        "width": 867,
+        "height": 1230,
+        "sha256": "0287fe1aa0c0ab65c8b78d375f80ea6d4ffae570874bb5e4f63264cba5c0e480"
+      },
+      "saved_bytes": 1635683,
+      "compressed_ratio": 0.0811,
+      "saved_percent": 91.89
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-天倾.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-天倾.webp",
+      "file_name": "光锥-立绘-天倾.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1889843,
+        "width": 867,
+        "height": 1230,
+        "sha256": "5bfa5108695f960c8302b238c268cc518ab59bd2db20e7ab3ba49a0f255ae7b8"
+      },
+      "compressed": {
+        "bytes": 172016,
+        "width": 867,
+        "height": 1230,
+        "sha256": "cfb5b3cc6ac5bd24a8aec33de02e95ac82dd218296c2e50566f4950930f688a0"
+      },
+      "saved_bytes": 1717827,
+      "compressed_ratio": 0.091,
+      "saved_percent": 90.9
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-天才们的休憩.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-天才们的休憩.webp",
+      "file_name": "光锥-立绘-天才们的休憩.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1466386,
+        "width": 867,
+        "height": 1230,
+        "sha256": "f8633899435a51a1180a252e3194ceecce391390b023a582e7dae9f0533faad8"
+      },
+      "compressed": {
+        "bytes": 155710,
+        "width": 867,
+        "height": 1230,
+        "sha256": "07e572c8558896afc1685d3e52413d67e8063dc19023722e5113d2c9374966ea"
+      },
+      "saved_bytes": 1310676,
+      "compressed_ratio": 0.1062,
+      "saved_percent": 89.38
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-天才们的问候.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-天才们的问候.webp",
+      "file_name": "光锥-立绘-天才们的问候.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1929513,
+        "width": 867,
+        "height": 1230,
+        "sha256": "fe8f3bc8c51f4714fb83515ea506158a7fcc28d9258e61d97ac608b781e6be46"
+      },
+      "compressed": {
+        "bytes": 235042,
+        "width": 867,
+        "height": 1230,
+        "sha256": "d9822ff7c8302ffcfa4f268b5ff6e0b244005af4e4ad9d9674bc165a7efbca63"
+      },
+      "saved_bytes": 1694471,
+      "compressed_ratio": 0.1218,
+      "saved_percent": 87.82
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-她已闭上双眼.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-她已闭上双眼.webp",
+      "file_name": "光锥-立绘-她已闭上双眼.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2101503,
+        "width": 867,
+        "height": 1230,
+        "sha256": "6141ba527717a268d26771fd0afe5350c44b2cb5e15df6a47d3c6ba76390c012"
+      },
+      "compressed": {
+        "bytes": 124876,
+        "width": 867,
+        "height": 1230,
+        "sha256": "253d76b7a3aa69b9e6c7f5cb88ea4ec6a619c35c065750d2eb5602a2d7c67181"
+      },
+      "saved_bytes": 1976627,
+      "compressed_ratio": 0.0594,
+      "saved_percent": 94.06
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-好戏开演.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-好戏开演.webp",
+      "file_name": "光锥-立绘-好戏开演.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1853650,
+        "width": 867,
+        "height": 1230,
+        "sha256": "44cb8864a15ce034b927892d1363a4544280dd01e84e5a8572b62110ade9d9c2"
+      },
+      "compressed": {
+        "bytes": 160508,
+        "width": 867,
+        "height": 1230,
+        "sha256": "51506ea7e9e0fb005a3808ed5a831cb92d52e3c14739c41d7a607555784d37c2"
+      },
+      "saved_bytes": 1693142,
+      "compressed_ratio": 0.0866,
+      "saved_percent": 91.34
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-如果时间是一朵花.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-如果时间是一朵花.webp",
+      "file_name": "光锥-立绘-如果时间是一朵花.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1635704,
+        "width": 864,
+        "height": 1220,
+        "sha256": "474aa4fe46892a689902d8644efa2600de6ffdc50aafb61601cb591948fb2b7a"
+      },
+      "compressed": {
+        "bytes": 142002,
+        "width": 864,
+        "height": 1220,
+        "sha256": "71a85b8843fb5caccfdaf3294eda41c5284a6cb9faa861d8c083762db85cafa1"
+      },
+      "saved_bytes": 1493702,
+      "compressed_ratio": 0.0868,
+      "saved_percent": 91.32
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-如泥酣眠.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-如泥酣眠.webp",
+      "file_name": "光锥-立绘-如泥酣眠.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1374884,
+        "width": 867,
+        "height": 1230,
+        "sha256": "c4f869fb55db56a37e143a2c0310891ed45f99aaae8499bc54aa6873f4ff1e17"
+      },
+      "compressed": {
+        "bytes": 99128,
+        "width": 867,
+        "height": 1230,
+        "sha256": "fc4c6a200b3752ae832769787414ae606cc65b911e92d85fa185976d97007f5e"
+      },
+      "saved_bytes": 1275756,
+      "compressed_ratio": 0.0721,
+      "saved_percent": 92.79
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-孤独的疗愈.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-孤独的疗愈.webp",
+      "file_name": "光锥-立绘-孤独的疗愈.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1980783,
+        "width": 867,
+        "height": 1230,
+        "sha256": "4a0572c274ab2c31618d480230048bddad6d5485b43fb2dbad653eacd414ee11"
+      },
+      "compressed": {
+        "bytes": 175212,
+        "width": 867,
+        "height": 1230,
+        "sha256": "e8242a6b463af9562fbfd83732969d01947345322af324d230d946ee064c323c"
+      },
+      "saved_bytes": 1805571,
+      "compressed_ratio": 0.0885,
+      "saved_percent": 91.15
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-宇宙大生意.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-宇宙大生意.webp",
+      "file_name": "光锥-立绘-宇宙大生意.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2051643,
+        "width": 864,
+        "height": 1220,
+        "sha256": "e302de43eb9acc2469d97ebe3b5e30d69dd8cd0fac94cf40273535e990916f64"
+      },
+      "compressed": {
+        "bytes": 305020,
+        "width": 864,
+        "height": 1220,
+        "sha256": "4e1d9899e92128a7ee1d70ff4cb9e7d79956367c94acc9253e9e0bcb45a0db99"
+      },
+      "saved_bytes": 1746623,
+      "compressed_ratio": 0.1487,
+      "saved_percent": 85.13
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-宇宙市场趋势.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-宇宙市场趋势.webp",
+      "file_name": "光锥-立绘-宇宙市场趋势.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1232163,
+        "width": 867,
+        "height": 1230,
+        "sha256": "832ab796400a8af0abef6ee6fcdd89d21e16b96a82494591fe17a99fbba19de3"
+      },
+      "compressed": {
+        "bytes": 125598,
+        "width": 867,
+        "height": 1230,
+        "sha256": "8214a84ef8fc2f28fdd48ce9fe7f0c68363fdb43c02e5baa93c3b79bda27a001"
+      },
+      "saved_bytes": 1106565,
+      "compressed_ratio": 0.1019,
+      "saved_percent": 89.81
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-将光阴织成黄金.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-将光阴织成黄金.webp",
+      "file_name": "光锥-立绘-将光阴织成黄金.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1965459,
+        "width": 867,
+        "height": 1230,
+        "sha256": "037dc56891e07491c811aca9059b6132d3e92ba13e1c35a43dee42285182fbaf"
+      },
+      "compressed": {
+        "bytes": 218648,
+        "width": 867,
+        "height": 1230,
+        "sha256": "c270312b523c87aa5a6b24513081bed3ea5bcc6b5cf3bc9340e23ec403d889bc"
+      },
+      "saved_bytes": 1746811,
+      "compressed_ratio": 0.1112,
+      "saved_percent": 88.88
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-幽邃.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-幽邃.webp",
+      "file_name": "光锥-立绘-幽邃.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2166496,
+        "width": 867,
+        "height": 1230,
+        "sha256": "900f380abac23bb3b467154037d30ff104724925bc1408b95642c98687e0f540"
+      },
+      "compressed": {
+        "bytes": 231586,
+        "width": 867,
+        "height": 1230,
+        "sha256": "b5dd517270e92b8a9abd517e43d76b5e39ca91e46b76a78dae50f0b08e7ebce9"
+      },
+      "saved_bytes": 1934910,
+      "compressed_ratio": 0.1069,
+      "saved_percent": 89.31
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-延长记号.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-延长记号.webp",
+      "file_name": "光锥-立绘-延长记号.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 980057,
+        "width": 867,
+        "height": 1230,
+        "sha256": "cb1944d681cfea6a62ed3de00d11ced12a60adb1b82ba51b326ac633e3f13320"
+      },
+      "compressed": {
+        "bytes": 84932,
+        "width": 867,
+        "height": 1230,
+        "sha256": "221cf3d0e35573f38781023773b9254359fb73565f71d771e973291a5cc45f94"
+      },
+      "saved_bytes": 895125,
+      "compressed_ratio": 0.0867,
+      "saved_percent": 91.33
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-开疆.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-开疆.webp",
+      "file_name": "光锥-立绘-开疆.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1962995,
+        "width": 867,
+        "height": 1230,
+        "sha256": "8acbc486ee9e1004d334aacc04e57f957c2d6da896508c806a2500be121406af"
+      },
+      "compressed": {
+        "bytes": 220222,
+        "width": 867,
+        "height": 1230,
+        "sha256": "994e135d94d70cc7be9b827aff536d467fd4d7a35697215a7f57c1f5beaa46d3"
+      },
+      "saved_bytes": 1742773,
+      "compressed_ratio": 0.1122,
+      "saved_percent": 88.78
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-当她决定看见.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-当她决定看见.webp",
+      "file_name": "光锥-立绘-当她决定看见.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2275723,
+        "width": 904,
+        "height": 1260,
+        "sha256": "8180572f960b0559ba9312d3cf43165ce2608285e0ad6b8254c388a10352060e"
+      },
+      "compressed": {
+        "bytes": 260986,
+        "width": 904,
+        "height": 1260,
+        "sha256": "2f81af05066897569c51e9f93512086b679b9287485d9492a66132c350a9f347"
+      },
+      "saved_bytes": 2014737,
+      "compressed_ratio": 0.1147,
+      "saved_percent": 88.53
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-忍事录•音律狩猎.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-忍事录•音律狩猎.webp",
+      "file_name": "光锥-立绘-忍事录•音律狩猎.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2289362,
+        "width": 867,
+        "height": 1230,
+        "sha256": "2db0cffffe085569cd87579e45c0d617ec99491559df026c785aed94abedf0b4"
+      },
+      "compressed": {
+        "bytes": 317502,
+        "width": 867,
+        "height": 1230,
+        "sha256": "fa410658a1855201bd995da4cb6659a69af098cd01a337110c1f3081b199c51e"
+      },
+      "saved_bytes": 1971860,
+      "compressed_ratio": 0.1387,
+      "saved_percent": 86.13
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-忍法帖•缭乱破魔.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-忍法帖•缭乱破魔.webp",
+      "file_name": "光锥-立绘-忍法帖•缭乱破魔.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1972376,
+        "width": 867,
+        "height": 1230,
+        "sha256": "c6676c60b7bb7070ba0810bcd86083d00224fd254e9c0e4c410f4168656333c7"
+      },
+      "compressed": {
+        "bytes": 216422,
+        "width": 867,
+        "height": 1230,
+        "sha256": "2074c921aeb38982bb84902af17c179879d0409a88614c385d917dc592ba745c"
+      },
+      "saved_bytes": 1755954,
+      "compressed_ratio": 0.1097,
+      "saved_percent": 89.03
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-惊魂夜.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-惊魂夜.webp",
+      "file_name": "光锥-立绘-惊魂夜.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1599709,
+        "width": 867,
+        "height": 1230,
+        "sha256": "2c18a91d77f4770712241068a92896fc3e88e2a2e79010fee79ee0fb48d7abea"
+      },
+      "compressed": {
+        "bytes": 131872,
+        "width": 867,
+        "height": 1230,
+        "sha256": "d60cb73d4c6d12cb472063177891e2fb6ff13f5a077317a5c38bc5193265b51c"
+      },
+      "saved_bytes": 1467837,
+      "compressed_ratio": 0.0824,
+      "saved_percent": 91.76
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-愿旅途永远坦然.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-愿旅途永远坦然.webp",
+      "file_name": "光锥-立绘-愿旅途永远坦然.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1993661,
+        "width": 864,
+        "height": 1220,
+        "sha256": "b35d14b17fa8b6bd67ed7a14e8a133a2e13d927016451333802c9d613d585b44"
+      },
+      "compressed": {
+        "bytes": 212962,
+        "width": 864,
+        "height": 1220,
+        "sha256": "9f36d716413f53469421aac9014b810721dc3a080588671fd44995b5734539af"
+      },
+      "saved_bytes": 1780699,
+      "compressed_ratio": 0.1068,
+      "saved_percent": 89.32
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-愿虹光永驻天空.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-愿虹光永驻天空.webp",
+      "file_name": "光锥-立绘-愿虹光永驻天空.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2176965,
+        "width": 864,
+        "height": 1220,
+        "sha256": "d67e498e11f1622900291214b4c4f78ad037ccda2ae42837b9960bebbdc6d29d"
+      },
+      "compressed": {
+        "bytes": 264016,
+        "width": 864,
+        "height": 1220,
+        "sha256": "3653216d30a364de7cdecfbd7efd8d71b9ef7017e0f404648bea9eb06c987848"
+      },
+      "saved_bytes": 1912949,
+      "compressed_ratio": 0.1213,
+      "saved_percent": 87.87
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-戍御.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-戍御.webp",
+      "file_name": "光锥-立绘-戍御.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2026451,
+        "width": 867,
+        "height": 1230,
+        "sha256": "89dabc066d3bc934ad3fad485ff5862f4ccaa4acbe9271780683144f535f5217"
+      },
+      "compressed": {
+        "bytes": 209640,
+        "width": 867,
+        "height": 1230,
+        "sha256": "7a76f25fce80354db87a5e82a654a4f21651363bea8fd4761ef5915941f18151"
+      },
+      "saved_bytes": 1816811,
+      "compressed_ratio": 0.1035,
+      "saved_percent": 89.65
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-我们是地火.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-我们是地火.webp",
+      "file_name": "光锥-立绘-我们是地火.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 979146,
+        "width": 867,
+        "height": 1230,
+        "sha256": "7b88681037159896984dbda3198be0ee5bc41e6d593274ab79755245ef07e6fd"
+      },
+      "compressed": {
+        "bytes": 77904,
+        "width": 867,
+        "height": 1230,
+        "sha256": "687ac3d70504506eab123e9a1fe844408ba197c107043db2c68ec56e77009117"
+      },
+      "saved_bytes": 901242,
+      "compressed_ratio": 0.0796,
+      "saved_percent": 92.04
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-我将，巡征追猎.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-我将，巡征追猎.webp",
+      "file_name": "光锥-立绘-我将，巡征追猎.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1053232,
+        "width": 867,
+        "height": 1230,
+        "sha256": "13c8700ff47e9de336dae0a4c605644be35e27f656252eb6e322d6f221cb203d"
+      },
+      "compressed": {
+        "bytes": 161362,
+        "width": 867,
+        "height": 1230,
+        "sha256": "9f9b1f683b45f710ab3795a2a2ec3704e976fa98e885c0b686ab12c9e01564a0"
+      },
+      "saved_bytes": 891870,
+      "compressed_ratio": 0.1532,
+      "saved_percent": 84.68
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-拂晓之前.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-拂晓之前.webp",
+      "file_name": "光锥-立绘-拂晓之前.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1601004,
+        "width": 867,
+        "height": 1230,
+        "sha256": "6eb12fc4c5d90d2ab6158a20c9f71d40862b0bcbc52338cf6dc00c9bc50cad17"
+      },
+      "compressed": {
+        "bytes": 138340,
+        "width": 867,
+        "height": 1230,
+        "sha256": "ed40a4a1cb25e14962ba906469ec30dd8376ff0d1f7716785e7c9deeb2de39ac"
+      },
+      "saved_bytes": 1462664,
+      "compressed_ratio": 0.0864,
+      "saved_percent": 91.36
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-故事的下一页.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-故事的下一页.webp",
+      "file_name": "光锥-立绘-故事的下一页.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2171548,
+        "width": 864,
+        "height": 1220,
+        "sha256": "ad3d66a0bf122eb31974acd5bd877c5092007a951d389b11c241580d38be3465"
+      },
+      "compressed": {
+        "bytes": 254748,
+        "width": 864,
+        "height": 1220,
+        "sha256": "707f4ec623aa2125c37f8d218489808ad4f2f2835d325a7f9964b1ea154b6b94"
+      },
+      "saved_bytes": 1916800,
+      "compressed_ratio": 0.1173,
+      "saved_percent": 88.27
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-新手任务开始前.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-新手任务开始前.webp",
+      "file_name": "光锥-立绘-新手任务开始前.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1263975,
+        "width": 867,
+        "height": 1230,
+        "sha256": "8af6a0ae198250781b3f806ee912711c609e3982875947a097e31de3a765814d"
+      },
+      "compressed": {
+        "bytes": 130678,
+        "width": 867,
+        "height": 1230,
+        "sha256": "fb9745dd93f275559978b54ebd76b1fedea3355ed0a645c7cfc715012fa211de"
+      },
+      "saved_bytes": 1133297,
+      "compressed_ratio": 0.1034,
+      "saved_percent": 89.66
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-无可取代的东西.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-无可取代的东西.webp",
+      "file_name": "光锥-立绘-无可取代的东西.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1422177,
+        "width": 867,
+        "height": 1230,
+        "sha256": "bd39637cf01c83d643563445208154b33df6bb5540aecdc89e4025c982ee7fbc"
+      },
+      "compressed": {
+        "bytes": 105434,
+        "width": 867,
+        "height": 1230,
+        "sha256": "66a5a90aae3983ffa9b16378f9fda029beed90122b7978e17e169fa7cc2e6ee5"
+      },
+      "saved_bytes": 1316743,
+      "compressed_ratio": 0.0741,
+      "saved_percent": 92.59
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-无处可逃.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-无处可逃.webp",
+      "file_name": "光锥-立绘-无处可逃.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1550514,
+        "width": 867,
+        "height": 1230,
+        "sha256": "bfc77ad94cdd84c760f131328fd93a2f284ad5a4724733ceab5d5c59a9cc90a9"
+      },
+      "compressed": {
+        "bytes": 118648,
+        "width": 867,
+        "height": 1230,
+        "sha256": "4009421c49a488ede336e290b08c7d3e7899b7bd08c7bd68c706c8f5976bd031"
+      },
+      "saved_bytes": 1431866,
+      "compressed_ratio": 0.0765,
+      "saved_percent": 92.35
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-无边曼舞.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-无边曼舞.webp",
+      "file_name": "光锥-立绘-无边曼舞.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1647541,
+        "width": 867,
+        "height": 1230,
+        "sha256": "f83b025b1ad6a68644482aedf18755f9f18d89267775e97788131da6a386b1d5"
+      },
+      "compressed": {
+        "bytes": 135184,
+        "width": 867,
+        "height": 1230,
+        "sha256": "beccc68eb4ec7da1a63260b232a6275923654928d437aea41564cdbf041be9c9"
+      },
+      "saved_bytes": 1512357,
+      "compressed_ratio": 0.0821,
+      "saved_percent": 91.79
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-早餐的仪式感.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-早餐的仪式感.webp",
+      "file_name": "光锥-立绘-早餐的仪式感.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1492928,
+        "width": 717,
+        "height": 1022,
+        "sha256": "1d8ff632e9b04bf93d7fe19bfc7e3b5ab6658e8d8d880ae09ea58b977772413f"
+      },
+      "compressed": {
+        "bytes": 164764,
+        "width": 717,
+        "height": 1022,
+        "sha256": "39bb06204ce3dc73e03e1aa523156f71e70c1a22acb0ae439df93ee917874361"
+      },
+      "saved_bytes": 1328164,
+      "compressed_ratio": 0.1104,
+      "saved_percent": 88.96
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-时节不居.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-时节不居.webp",
+      "file_name": "光锥-立绘-时节不居.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1758955,
+        "width": 867,
+        "height": 1230,
+        "sha256": "dbe1b4fa6b2543eae6ae6a8be9bdb106d322b5d64f56a237df23937038f5db76"
+      },
+      "compressed": {
+        "bytes": 122068,
+        "width": 867,
+        "height": 1230,
+        "sha256": "3142dbc5f6ba6ee92250cde6507ec06baefadcca391490787871e5a6b3c8f784"
+      },
+      "saved_bytes": 1636887,
+      "compressed_ratio": 0.0694,
+      "saved_percent": 93.06
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-星海巡航.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-星海巡航.webp",
+      "file_name": "光锥-立绘-星海巡航.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1553749,
+        "width": 867,
+        "height": 1230,
+        "sha256": "b8a4d353eff065475ec22b61a977acb039978b9a250566994dbbb2f31e04d403"
+      },
+      "compressed": {
+        "bytes": 181072,
+        "width": 867,
+        "height": 1230,
+        "sha256": "64b756c30a521b09026819891442134c4cafce9b2446989958189f710a36e09c"
+      },
+      "saved_bytes": 1372677,
+      "compressed_ratio": 0.1165,
+      "saved_percent": 88.35
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-春水初生.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-春水初生.webp",
+      "file_name": "光锥-立绘-春水初生.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1367778,
+        "width": 867,
+        "height": 1230,
+        "sha256": "a8ef38d9256fde37edb2340f6ca9cc557e440be9b016cf39f9129d6070b0587a"
+      },
+      "compressed": {
+        "bytes": 139750,
+        "width": 867,
+        "height": 1230,
+        "sha256": "9380eb3a1612be9bc7cdee180818b106053ae63641c1fc4f40679a8de3596117"
+      },
+      "saved_bytes": 1228028,
+      "compressed_ratio": 0.1022,
+      "saved_percent": 89.78
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-晚安与睡颜.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-晚安与睡颜.webp",
+      "file_name": "光锥-立绘-晚安与睡颜.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1191465,
+        "width": 867,
+        "height": 1230,
+        "sha256": "bc3f40d4e77da4deca3d5f1047e63b1690ff7f6bf1989ede389f4c4c2064fbaa"
+      },
+      "compressed": {
+        "bytes": 111266,
+        "width": 867,
+        "height": 1230,
+        "sha256": "f2def50c46a3080a859dc706cfb9327d7c9e6799e0a6637f201d793979a92660"
+      },
+      "saved_bytes": 1080199,
+      "compressed_ratio": 0.0934,
+      "saved_percent": 90.66
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-智库.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-智库.webp",
+      "file_name": "光锥-立绘-智库.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1952459,
+        "width": 867,
+        "height": 1230,
+        "sha256": "d7a08e7abe052f80acfe03949d9c7ca03491ed28bcd58cb9ac37a4d48afa5b91"
+      },
+      "compressed": {
+        "bytes": 204358,
+        "width": 867,
+        "height": 1230,
+        "sha256": "50c20b405c612ade5e937ab4b36e70d236752c3326b0887efd529d4344674141"
+      },
+      "saved_bytes": 1748101,
+      "compressed_ratio": 0.1047,
+      "saved_percent": 89.53
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-暖夜不会漫长.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-暖夜不会漫长.webp",
+      "file_name": "光锥-立绘-暖夜不会漫长.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1661331,
+        "width": 867,
+        "height": 1230,
+        "sha256": "12123d1f08d090f563101f685ef339c2cf56f666b50ed565ae7ce0480fde8f46"
+      },
+      "compressed": {
+        "bytes": 144736,
+        "width": 867,
+        "height": 1230,
+        "sha256": "c596811a4a8e59e7ff1019a2ba5474f23b11cca84024d939f872e67ca20c65a8"
+      },
+      "saved_bytes": 1516595,
+      "compressed_ratio": 0.0871,
+      "saved_percent": 91.29
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-最后的赢家.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-最后的赢家.webp",
+      "file_name": "光锥-立绘-最后的赢家.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1205945,
+        "width": 867,
+        "height": 1230,
+        "sha256": "8bb889fac79234cd8739e8c99cb6878a1ead8870311113b069e3c90615ec4314"
+      },
+      "compressed": {
+        "bytes": 77032,
+        "width": 867,
+        "height": 1230,
+        "sha256": "1f9eeb0c302866f1b05a3766ad307798020aa4e1efba513227b5a576ca296fbd"
+      },
+      "saved_bytes": 1128913,
+      "compressed_ratio": 0.0639,
+      "saved_percent": 93.61
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-朗道的选择.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-朗道的选择.webp",
+      "file_name": "光锥-立绘-朗道的选择.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1024921,
+        "width": 867,
+        "height": 1230,
+        "sha256": "5441bc0f3a060360ffe25b5f3c0a0cdcaea2bf7e7a0b39682e2b0a9ce8b47488"
+      },
+      "compressed": {
+        "bytes": 99892,
+        "width": 867,
+        "height": 1230,
+        "sha256": "d3f9388ae57847bd7de399fa4ca1e9bab0e1231c336c42fa66bef4a199a22774"
+      },
+      "saved_bytes": 925029,
+      "compressed_ratio": 0.0975,
+      "saved_percent": 90.25
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-未来，有我们一起.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-未来，有我们一起.webp",
+      "file_name": "光锥-立绘-未来，有我们一起.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1962430,
+        "width": 904,
+        "height": 1260,
+        "sha256": "94f6d51c411e2fc6bde823c7acb3d44250fbf467799089be9b460dd8e96edde4"
+      },
+      "compressed": {
+        "bytes": 249796,
+        "width": 904,
+        "height": 1260,
+        "sha256": "9edf048069802b8910c6006afc8943ee34754c92347ed858ad077acfb8db8d63"
+      },
+      "saved_bytes": 1712634,
+      "compressed_ratio": 0.1273,
+      "saved_percent": 87.27
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-梦应归于何处.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-梦应归于何处.webp",
+      "file_name": "光锥-立绘-梦应归于何处.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1634032,
+        "width": 867,
+        "height": 1230,
+        "sha256": "34321ce898f89771d04b7234c48400e9d8f2daafba3e7d3911fd3b201d26c765"
+      },
+      "compressed": {
+        "bytes": 155936,
+        "width": 867,
+        "height": 1230,
+        "sha256": "c7e7207ab0eb5f7091ffdf4d3d2ed767774b8a516100bc450ac52a7c8f5e114e"
+      },
+      "saved_bytes": 1478096,
+      "compressed_ratio": 0.0954,
+      "saved_percent": 90.46
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-梦的蒙太奇.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-梦的蒙太奇.webp",
+      "file_name": "光锥-立绘-梦的蒙太奇.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1955198,
+        "width": 867,
+        "height": 1230,
+        "sha256": "c12c9ca0ce93cf3cfd35dfcb3803ead596ee359447bf24a51f306733965907b6"
+      },
+      "compressed": {
+        "bytes": 259000,
+        "width": 867,
+        "height": 1230,
+        "sha256": "fd53b7a0e694be219cd8f863e2bf05ed65c276aa2c1336ba0cf0fcff75bdc6b2"
+      },
+      "saved_bytes": 1696198,
+      "compressed_ratio": 0.1325,
+      "saved_percent": 86.75
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-棺的回响.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-棺的回响.webp",
+      "file_name": "光锥-立绘-棺的回响.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1711784,
+        "width": 867,
+        "height": 1230,
+        "sha256": "7663c9df6b1d37674e821b1c8aa14b0c38b928f1d5cbc5d61c142ba23d9f471b"
+      },
+      "compressed": {
+        "bytes": 149198,
+        "width": 867,
+        "height": 1230,
+        "sha256": "f4e819d6eea4a41f70136f25dcbb13e6c9c39512695d85aadd146591f6ecc50c"
+      },
+      "saved_bytes": 1562586,
+      "compressed_ratio": 0.0872,
+      "saved_percent": 91.28
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-欢愉满溢祝福.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-欢愉满溢祝福.webp",
+      "file_name": "光锥-立绘-欢愉满溢祝福.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2160758,
+        "width": 904,
+        "height": 1260,
+        "sha256": "958b4adaa19b4d6904f9f2368fbb62141273bf52d10e313477e9b1924c5c9c36"
+      },
+      "compressed": {
+        "bytes": 284888,
+        "width": 904,
+        "height": 1260,
+        "sha256": "d9be4c4b6d8424bbec4b71951e73018256195397a68ebab373ecbc9c5f7a5e19"
+      },
+      "saved_bytes": 1875870,
+      "compressed_ratio": 0.1318,
+      "saved_percent": 86.82
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-欢迎来到银河城.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-欢迎来到银河城.webp",
+      "file_name": "光锥-立绘-欢迎来到银河城.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2140279,
+        "width": 904,
+        "height": 1260,
+        "sha256": "d4d6512ade6acf670c0c0d2da9af06a4ed45f0950d213f1487443639816d54d7"
+      },
+      "compressed": {
+        "bytes": 249986,
+        "width": 904,
+        "height": 1260,
+        "sha256": "31ab1f12a3fde486824856e9d3d2593041beda06b9a4221fdfd82a87d5215224"
+      },
+      "saved_bytes": 1890293,
+      "compressed_ratio": 0.1168,
+      "saved_percent": 88.32
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-此时恰好.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-此时恰好.webp",
+      "file_name": "光锥-立绘-此时恰好.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1322116,
+        "width": 867,
+        "height": 1230,
+        "sha256": "4d060b8241da15aa695c31e9ef276c9359ca0ac06d8409abe527b9b78ddf58c7"
+      },
+      "compressed": {
+        "bytes": 143818,
+        "width": 867,
+        "height": 1230,
+        "sha256": "358a9d0e1d7c8986934eaf5dbeaaef5358fa74799ef61497d252f6fd2e6d5294"
+      },
+      "saved_bytes": 1178298,
+      "compressed_ratio": 0.1088,
+      "saved_percent": 89.12
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-此身为剑.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-此身为剑.webp",
+      "file_name": "光锥-立绘-此身为剑.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1714373,
+        "width": 867,
+        "height": 1230,
+        "sha256": "d5161bec222b82229cf667c80e2ab2be88185ab5f49ab5213cd96eabd746dea1"
+      },
+      "compressed": {
+        "bytes": 148474,
+        "width": 867,
+        "height": 1230,
+        "sha256": "f67ccdf394d01a1ad693216e5c5d5dc00ab2d4aea06cf7529fd414b7d4665902"
+      },
+      "saved_bytes": 1565899,
+      "compressed_ratio": 0.0866,
+      "saved_percent": 91.34
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-残泪.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-残泪.webp",
+      "file_name": "光锥-立绘-残泪.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2225217,
+        "width": 904,
+        "height": 1260,
+        "sha256": "ffc5ffa7d8e66595faa966c968695f6667402331b73c8888d717e805069613a6"
+      },
+      "compressed": {
+        "bytes": 299288,
+        "width": 904,
+        "height": 1260,
+        "sha256": "3faa4054615e5fb8e76aa0b28ed6c29679f4cbc349e6436a0cc935829e621485"
+      },
+      "saved_bytes": 1925929,
+      "compressed_ratio": 0.1345,
+      "saved_percent": 86.55
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-比阳光更明亮的.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-比阳光更明亮的.webp",
+      "file_name": "光锥-立绘-比阳光更明亮的.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1976730,
+        "width": 867,
+        "height": 1230,
+        "sha256": "3f58cd4e4869925193ebc39e9d5c258dfe6cc8bf198f9a7beb8762a85d265dff"
+      },
+      "compressed": {
+        "bytes": 138210,
+        "width": 867,
+        "height": 1230,
+        "sha256": "dc286f51a027b28cdf546477572927794d7676ffdad9f3bea5d0b2e911009439"
+      },
+      "saved_bytes": 1838520,
+      "compressed_ratio": 0.0699,
+      "saved_percent": 93.01
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-氤氲麦香的梦.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-氤氲麦香的梦.webp",
+      "file_name": "光锥-立绘-氤氲麦香的梦.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2122787,
+        "width": 864,
+        "height": 1220,
+        "sha256": "f21539898e93ac14873a5cae67add59fccc6580db69e27c80224600022510751"
+      },
+      "compressed": {
+        "bytes": 243314,
+        "width": 864,
+        "height": 1220,
+        "sha256": "246ac597fad5f9829ff9e23dcda1ddacf945e5400871d61a7cd465e7ce60c3ba"
+      },
+      "saved_bytes": 1879473,
+      "compressed_ratio": 0.1146,
+      "saved_percent": 88.54
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-永远的迷境饭.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-永远的迷境饭.webp",
+      "file_name": "光锥-立绘-永远的迷境饭.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2244690,
+        "width": 864,
+        "height": 1220,
+        "sha256": "dda42947e339bde9beaf0aacf925ccbd49ff17dfe12083ab90f2efcaf53729b6"
+      },
+      "compressed": {
+        "bytes": 301430,
+        "width": 864,
+        "height": 1220,
+        "sha256": "9e5389b77e7c61db47b9f0b8c7fe3c7a9b11a3d891c6e9257776b994e302e46a"
+      },
+      "saved_bytes": 1943260,
+      "compressed_ratio": 0.1343,
+      "saved_percent": 86.57
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-汪！散步时间！.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-汪！散步时间！.webp",
+      "file_name": "光锥-立绘-汪！散步时间！.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1471452,
+        "width": 867,
+        "height": 1230,
+        "sha256": "df5c4c2336854c869e6255da4bc9d7e30f9d903d2b1e3199eeea2752b0e16bf5"
+      },
+      "compressed": {
+        "bytes": 97580,
+        "width": 867,
+        "height": 1230,
+        "sha256": "86648427f2c0d428bf2d952f3842401f352e58b2738addb2ddb69ac1aefaad31"
+      },
+      "saved_bytes": 1373872,
+      "compressed_ratio": 0.0663,
+      "saved_percent": 93.37
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-没有回报的加冕.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-没有回报的加冕.webp",
+      "file_name": "光锥-立绘-没有回报的加冕.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1950346,
+        "width": 864,
+        "height": 1220,
+        "sha256": "c8411770fef723fa9030ce9370d0fce4dabca95592d8ec2093b1503aa098838d"
+      },
+      "compressed": {
+        "bytes": 205118,
+        "width": 864,
+        "height": 1220,
+        "sha256": "f14fe4833c1080369b95f695d6c7878599365046c9011b25a2dc86ebcb4f0a47"
+      },
+      "saved_bytes": 1745228,
+      "compressed_ratio": 0.1052,
+      "saved_percent": 89.48
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-海洋为何而歌.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-海洋为何而歌.webp",
+      "file_name": "光锥-立绘-海洋为何而歌.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2258743,
+        "width": 864,
+        "height": 1220,
+        "sha256": "5bab359b7517e36d37e52c74f505429a625b7ab19690580568d7a489e228401f"
+      },
+      "compressed": {
+        "bytes": 281038,
+        "width": 864,
+        "height": 1220,
+        "sha256": "c2812336653939a1a5b863c617d685448c9874975b845be8590bef36ea070871"
+      },
+      "saved_bytes": 1977705,
+      "compressed_ratio": 0.1244,
+      "saved_percent": 87.56
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-渊环.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-渊环.webp",
+      "file_name": "光锥-立绘-渊环.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2023381,
+        "width": 867,
+        "height": 1230,
+        "sha256": "f5f33fc25cec594c6da3b32ee092985e402d7dddc8a381a8c55769de2d890243"
+      },
+      "compressed": {
+        "bytes": 237046,
+        "width": 867,
+        "height": 1230,
+        "sha256": "4876b18028e9937b2549e7b23e6c61fe7692ab31f81b6210afca8e6c43c378d8"
+      },
+      "saved_bytes": 1786335,
+      "compressed_ratio": 0.1172,
+      "saved_percent": 88.28
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-游戏尘寰.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-游戏尘寰.webp",
+      "file_name": "光锥-立绘-游戏尘寰.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1726126,
+        "width": 867,
+        "height": 1230,
+        "sha256": "1ef727d6c2dd57ee75bf6f345cce7f6cbb9f7f4269dde01a9a9c1f7636867718"
+      },
+      "compressed": {
+        "bytes": 130896,
+        "width": 867,
+        "height": 1230,
+        "sha256": "40d30befa9bdd79eac41ec2ace256f87f15303c8042f96dc35012196211752eb"
+      },
+      "saved_bytes": 1595230,
+      "compressed_ratio": 0.0758,
+      "saved_percent": 92.42
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-溯忆.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-溯忆.webp",
+      "file_name": "光锥-立绘-溯忆.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2218663,
+        "width": 867,
+        "height": 1230,
+        "sha256": "27389d89aac247859bb24ba8ee8215de9bab57f7360bcc9afe1f823e33e272ec"
+      },
+      "compressed": {
+        "bytes": 275872,
+        "width": 867,
+        "height": 1230,
+        "sha256": "f8c48338c561464b31a29340f58b414987395218529a0edf29834aca4d86aee9"
+      },
+      "saved_bytes": 1942791,
+      "compressed_ratio": 0.1243,
+      "saved_percent": 87.57
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-灵钥.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-灵钥.webp",
+      "file_name": "光锥-立绘-灵钥.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1647146,
+        "width": 867,
+        "height": 1230,
+        "sha256": "3a43e7d09c6704076aa6881794bc71a59f3cc784942ecbb77d763bfffb52292a"
+      },
+      "compressed": {
+        "bytes": 200814,
+        "width": 867,
+        "height": 1230,
+        "sha256": "2891e66045161985fa3261dc4387ff89be7a160fa8c4668656cd8228b14bbdd2"
+      },
+      "saved_bytes": 1446332,
+      "compressed_ratio": 0.1219,
+      "saved_percent": 87.81
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-灼尽炼狱的新骸.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-灼尽炼狱的新骸.webp",
+      "file_name": "光锥-立绘-灼尽炼狱的新骸.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2088366,
+        "width": 904,
+        "height": 1260,
+        "sha256": "506433e28c002f015745b2f06bffc999e7377dcc9b8007398b166fff10050c98"
+      },
+      "compressed": {
+        "bytes": 241438,
+        "width": 904,
+        "height": 1260,
+        "sha256": "f2e15f07acef213afb5e98f0656395f2f0303c3b6a260b1a65726586bf2e0605"
+      },
+      "saved_bytes": 1846928,
+      "compressed_ratio": 0.1156,
+      "saved_percent": 88.44
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-点个关注吧！.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-点个关注吧！.webp",
+      "file_name": "光锥-立绘-点个关注吧！.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1286049,
+        "width": 867,
+        "height": 1230,
+        "sha256": "50b148130af6bf06977c2d3be88c519033a2c26aa8064d3c911ee3c955902acc"
+      },
+      "compressed": {
+        "bytes": 145818,
+        "width": 867,
+        "height": 1230,
+        "sha256": "5868eefe83d4e39e34eee35ca21349074c4672697605bafe6bb01d7db5716b77"
+      },
+      "saved_bytes": 1140231,
+      "compressed_ratio": 0.1134,
+      "saved_percent": 88.66
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-烦恼着，幸福着.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-烦恼着，幸福着.webp",
+      "file_name": "光锥-立绘-烦恼着，幸福着.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1754658,
+        "width": 867,
+        "height": 1230,
+        "sha256": "193849e32b22f121352d502408eaee7ae3231225c96012a7c0e46a3764684b5d"
+      },
+      "compressed": {
+        "bytes": 150590,
+        "width": 867,
+        "height": 1230,
+        "sha256": "f2d9dbcdf6a5c7da256089ea0ef4af6a9b268410584b96e39fd864a1a310d1ca"
+      },
+      "saved_bytes": 1604068,
+      "compressed_ratio": 0.0858,
+      "saved_percent": 91.42
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-焚影.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-焚影.webp",
+      "file_name": "光锥-立绘-焚影.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1526723,
+        "width": 867,
+        "height": 1230,
+        "sha256": "e4b7c9b21f2426114c1771fe85ab07db4d53acd16876cd9d1249f6d850842507"
+      },
+      "compressed": {
+        "bytes": 242322,
+        "width": 867,
+        "height": 1230,
+        "sha256": "33bed2f041430331b5184d2109b9a049dee9508d36d4502719353b7347ef5051"
+      },
+      "saved_bytes": 1284401,
+      "compressed_ratio": 0.1587,
+      "saved_percent": 84.13
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-爱如此刻永恒.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-爱如此刻永恒.webp",
+      "file_name": "光锥-立绘-爱如此刻永恒.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1463897,
+        "width": 864,
+        "height": 1220,
+        "sha256": "32f1f9957b0b579a8a1f5cbae5ca27370b0fb276afd374cb7b47dba29bb39c95"
+      },
+      "compressed": {
+        "bytes": 177416,
+        "width": 864,
+        "height": 1220,
+        "sha256": "5b3d095651c10082dc05d51fc689569be79041f8041a7c371e6585bdffcac626"
+      },
+      "saved_bytes": 1286481,
+      "compressed_ratio": 0.1212,
+      "saved_percent": 87.88
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-片刻，留在眼底.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-片刻，留在眼底.webp",
+      "file_name": "光锥-立绘-片刻，留在眼底.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1771021,
+        "width": 867,
+        "height": 1230,
+        "sha256": "08b83f5ceb380b53511429294bd9f488974bd6f1c3dc32cef10c37978c755905"
+      },
+      "compressed": {
+        "bytes": 151220,
+        "width": 867,
+        "height": 1230,
+        "sha256": "310959e0d51cc5c6f43e030b46a9be5865b916db39effb60282c9c03740cf379"
+      },
+      "saved_bytes": 1619801,
+      "compressed_ratio": 0.0854,
+      "saved_percent": 91.46
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-物穰.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-物穰.webp",
+      "file_name": "光锥-立绘-物穰.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1949155,
+        "width": 867,
+        "height": 1230,
+        "sha256": "ea99e1653b9a75c3f32fbe97b64d0a929029675152e2ff417b68215041ca8144"
+      },
+      "compressed": {
+        "bytes": 177284,
+        "width": 867,
+        "height": 1230,
+        "sha256": "497b242b9da81a79e0515d4e7986d2f2f10e8cdcc4e60223277087e0b2d8bf96"
+      },
+      "saved_bytes": 1771871,
+      "compressed_ratio": 0.091,
+      "saved_percent": 90.9
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-猎物的视线.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-猎物的视线.webp",
+      "file_name": "光锥-立绘-猎物的视线.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1124812,
+        "width": 867,
+        "height": 1230,
+        "sha256": "33b4cdbc5d3c0d75a352ec1421c2d3b4a9f96aac04237c57fee235569674a159"
+      },
+      "compressed": {
+        "bytes": 104224,
+        "width": 867,
+        "height": 1230,
+        "sha256": "2bccf2e9c55d1c21dbe766c80f3dc6f11e42a4fd91b37e803d2568596d33704d"
+      },
+      "saved_bytes": 1020588,
+      "compressed_ratio": 0.0927,
+      "saved_percent": 90.73
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-理想燃烧的地狱.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-理想燃烧的地狱.webp",
+      "file_name": "光锥-立绘-理想燃烧的地狱.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2055258,
+        "width": 864,
+        "height": 1220,
+        "sha256": "774845ac33a91876a06c1ff7b5907550f5c0ff5a8d7a149ecd51df7379883209"
+      },
+      "compressed": {
+        "bytes": 259600,
+        "width": 864,
+        "height": 1220,
+        "sha256": "93f79e9045c580642fbaab512b348d531ed6bec6e1075d19c30e4b1596ea05e9"
+      },
+      "saved_bytes": 1795658,
+      "compressed_ratio": 0.1263,
+      "saved_percent": 87.37
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-琥珀.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-琥珀.webp",
+      "file_name": "光锥-立绘-琥珀.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2224531,
+        "width": 867,
+        "height": 1230,
+        "sha256": "44a80f7b2bf4ed74be369b2dfda7a973d063dd02ed52dfd10e837a00ff69869d"
+      },
+      "compressed": {
+        "bytes": 290500,
+        "width": 867,
+        "height": 1230,
+        "sha256": "b01613c6306a8ba60ac54041b4d427d179542eb48228aadbbc0b211f700de928"
+      },
+      "saved_bytes": 1934031,
+      "compressed_ratio": 0.1306,
+      "saved_percent": 86.94
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-生命当付之一炬.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-生命当付之一炬.webp",
+      "file_name": "光锥-立绘-生命当付之一炬.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1868462,
+        "width": 864,
+        "height": 1220,
+        "sha256": "1650eda22e1c139e066cb97728414ae1896b63898f8876a4370332070f38bac8"
+      },
+      "compressed": {
+        "bytes": 228344,
+        "width": 864,
+        "height": 1220,
+        "sha256": "b8d2a245af34f65ed87bdae37235870e793533ba5f3ff8b84aa0c4c6860a3638"
+      },
+      "saved_bytes": 1640118,
+      "compressed_ratio": 0.1222,
+      "saved_percent": 87.78
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-直到明天的明天.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-直到明天的明天.webp",
+      "file_name": "光锥-立绘-直到明天的明天.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2186539,
+        "width": 864,
+        "height": 1220,
+        "sha256": "231d3fbbe2fa7ded4bd7eb34680cbe4f33bb554fd4299335cdffeee7990ea646"
+      },
+      "compressed": {
+        "bytes": 246984,
+        "width": 864,
+        "height": 1220,
+        "sha256": "2d228a106e346af81038ea79dcd9acdf203b2649652fbf00f833eb2924be08df"
+      },
+      "saved_bytes": 1939555,
+      "compressed_ratio": 0.113,
+      "saved_percent": 88.7
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-相抗.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-相抗.webp",
+      "file_name": "光锥-立绘-相抗.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2247600,
+        "width": 867,
+        "height": 1230,
+        "sha256": "5ca7ab4625f2d244aac3ba40f8d88c2cd94b4caab02129b6b5f44a2157734dfe"
+      },
+      "compressed": {
+        "bytes": 250378,
+        "width": 867,
+        "height": 1230,
+        "sha256": "1e42e36d0ea56080142ea425adc6dd39f84721aa3b58f894feaf9881f670f745"
+      },
+      "saved_bytes": 1997222,
+      "compressed_ratio": 0.1114,
+      "saved_percent": 88.86
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-睿见.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-睿见.webp",
+      "file_name": "光锥-立绘-睿见.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2009462,
+        "width": 867,
+        "height": 1230,
+        "sha256": "73451f7b88ec56a81299005025888fc444a71a77bcb9274913f92b58c1f85eae"
+      },
+      "compressed": {
+        "bytes": 238454,
+        "width": 867,
+        "height": 1230,
+        "sha256": "647394c87771c11a489ef18c24ee70f03d1ed53caf4b003c90780dbc2882660a"
+      },
+      "saved_bytes": 1771008,
+      "compressed_ratio": 0.1187,
+      "saved_percent": 88.13
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-离弦.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-离弦.webp",
+      "file_name": "光锥-立绘-离弦.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1870890,
+        "width": 867,
+        "height": 1230,
+        "sha256": "9a56c1ad3084df757c9259c86330babf1a7f4244a8502683732c97300ac39d1b"
+      },
+      "compressed": {
+        "bytes": 178716,
+        "width": 867,
+        "height": 1230,
+        "sha256": "69213d32b79f6e63799b5bda34e7d4da166ed06b6e5f040bfb1b00dff9608207"
+      },
+      "saved_bytes": 1692174,
+      "compressed_ratio": 0.0955,
+      "saved_percent": 90.45
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-秘密誓心.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-秘密誓心.webp",
+      "file_name": "光锥-立绘-秘密誓心.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1422638,
+        "width": 867,
+        "height": 1230,
+        "sha256": "df77cf9521b133ac24ae797a0a1a0ce4551b0652b5fea557adfe9da3c365d5fc"
+      },
+      "compressed": {
+        "bytes": 98122,
+        "width": 867,
+        "height": 1230,
+        "sha256": "3059690a6114a5f11d1cebb8a3b1bb3a35c82774042fed241bc8d383efaa1196"
+      },
+      "saved_bytes": 1324516,
+      "compressed_ratio": 0.069,
+      "saved_percent": 93.1
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-等价交换.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-等价交换.webp",
+      "file_name": "光锥-立绘-等价交换.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1231299,
+        "width": 867,
+        "height": 1230,
+        "sha256": "431e558a7ccc4c536256290162cc6ffe448955c20dcbdfd29997266ef5a58804"
+      },
+      "compressed": {
+        "bytes": 103876,
+        "width": 867,
+        "height": 1230,
+        "sha256": "aead8ffa7928ec8e2441344d7527e2628a71338e1ffc095db4bad95040fd3122"
+      },
+      "saved_bytes": 1127423,
+      "compressed_ratio": 0.0844,
+      "saved_percent": 91.56
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-纯粹思维的洗礼.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-纯粹思维的洗礼.webp",
+      "file_name": "光锥-立绘-纯粹思维的洗礼.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1834915,
+        "width": 867,
+        "height": 1230,
+        "sha256": "dc544427983ecc4aec3565609a5ca611fa9d8c827d1516525c7b0dc83f768b57"
+      },
+      "compressed": {
+        "bytes": 138740,
+        "width": 867,
+        "height": 1230,
+        "sha256": "c7d96d8acd766d51d4d4f3b226d68fcbf12b97d8555e79a75975313662ad9b63"
+      },
+      "saved_bytes": 1696175,
+      "compressed_ratio": 0.0756,
+      "saved_percent": 92.44
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-纵然山河万程.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-纵然山河万程.webp",
+      "file_name": "光锥-立绘-纵然山河万程.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1718365,
+        "width": 864,
+        "height": 1220,
+        "sha256": "a2e0e40482755e19390b4270ac5c7d35804e9d8d4a949cab377e03b196396d2e"
+      },
+      "compressed": {
+        "bytes": 229672,
+        "width": 864,
+        "height": 1220,
+        "sha256": "25be231f475e6600ae76d7c5a88c3b8af170d12b7ef2f23e4a50ae9f1a18e4f2"
+      },
+      "saved_bytes": 1488693,
+      "compressed_ratio": 0.1337,
+      "saved_percent": 86.63
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-织造命运之线.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-织造命运之线.webp",
+      "file_name": "光锥-立绘-织造命运之线.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1452462,
+        "width": 867,
+        "height": 1230,
+        "sha256": "1535dbba8a24b2814cfefa5620ef891583fa0e08059d40c0e90129abf1089f1f"
+      },
+      "compressed": {
+        "bytes": 77832,
+        "width": 867,
+        "height": 1230,
+        "sha256": "e9745fed41e2496989adee79926112c33f8f8065bcfc124b4c7723223aac4fac"
+      },
+      "saved_bytes": 1374630,
+      "compressed_ratio": 0.0536,
+      "saved_percent": 94.64
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-美梦小镇大冒险.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-美梦小镇大冒险.webp",
+      "file_name": "光锥-立绘-美梦小镇大冒险.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1705582,
+        "width": 867,
+        "height": 1230,
+        "sha256": "2da119622424089965354a2b7d53f561d4da4e362e14f3afc1ee5c055c120fbe"
+      },
+      "compressed": {
+        "bytes": 130664,
+        "width": 867,
+        "height": 1230,
+        "sha256": "3ab0df3ac65d6bf2ab40e95d5de36963c4a7d4a745ac98ca2b820d7966d44882"
+      },
+      "saved_bytes": 1574918,
+      "compressed_ratio": 0.0766,
+      "saved_percent": 92.34
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-胜利只在朝夕间.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-胜利只在朝夕间.webp",
+      "file_name": "光锥-立绘-胜利只在朝夕间.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1995148,
+        "width": 867,
+        "height": 1230,
+        "sha256": "08db1b5f1b40570b795f6b3913f03ef07e34497bc70214d490975892e7e5836f"
+      },
+      "compressed": {
+        "bytes": 250406,
+        "width": 867,
+        "height": 1230,
+        "sha256": "479f13990e865e378a5fc79647079abb3ae940b2adf256031722e1c2d4b2e673"
+      },
+      "saved_bytes": 1744742,
+      "compressed_ratio": 0.1255,
+      "saved_percent": 87.45
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-致长夜的星光.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-致长夜的星光.webp",
+      "file_name": "光锥-立绘-致长夜的星光.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1580408,
+        "width": 864,
+        "height": 1220,
+        "sha256": "9714237a7683e457406057168a0895c30a2a2a993825026536dc162314dde7f9"
+      },
+      "compressed": {
+        "bytes": 210284,
+        "width": 864,
+        "height": 1220,
+        "sha256": "4b320fd97b13bf0650354e0774118c78dd9a839adb03b0b5dce867acc615210d"
+      },
+      "saved_bytes": 1370124,
+      "compressed_ratio": 0.1331,
+      "saved_percent": 86.69
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-舞！舞！舞！.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-舞！舞！舞！.webp",
+      "file_name": "光锥-立绘-舞！舞！舞！.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1330002,
+        "width": 867,
+        "height": 1230,
+        "sha256": "438bd31a4f15a4a5c11a881a6066b2856d0cc7e8e74ef77f24bad20075c56115"
+      },
+      "compressed": {
+        "bytes": 135912,
+        "width": 867,
+        "height": 1230,
+        "sha256": "aca65b03ee274b73ad95d8feaddeae82446d843202ddfdd27dfe393e982ed677"
+      },
+      "saved_bytes": 1194090,
+      "compressed_ratio": 0.1022,
+      "saved_percent": 89.78
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-花儿不会忘记.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-花儿不会忘记.webp",
+      "file_name": "光锥-立绘-花儿不会忘记.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2251894,
+        "width": 864,
+        "height": 1220,
+        "sha256": "f80b62b1c6a40499c5a75dad9dca9936afc383b58681c8b4be8fef22c3c523b6"
+      },
+      "compressed": {
+        "bytes": 277442,
+        "width": 864,
+        "height": 1220,
+        "sha256": "5b5ccf2eafc632748a4defe72734fcc47c9e6ffdf4304e13750bdfa66f9a825b"
+      },
+      "saved_bytes": 1974452,
+      "compressed_ratio": 0.1232,
+      "saved_percent": 87.68
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-花花世界迷人眼.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-花花世界迷人眼.webp",
+      "file_name": "光锥-立绘-花花世界迷人眼.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2213681,
+        "width": 904,
+        "height": 1260,
+        "sha256": "d6ce1388c158505f2457c506e97700a66d043e8550391a0cf4d97f3e44f603b0"
+      },
+      "compressed": {
+        "bytes": 294624,
+        "width": 904,
+        "height": 1260,
+        "sha256": "5f555afae3eb7796de238762db0e28c496c75f0ce8b042efc9e3c0742e378fdd"
+      },
+      "saved_bytes": 1919057,
+      "compressed_ratio": 0.1331,
+      "saved_percent": 86.69
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-芳华待灼.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-芳华待灼.webp",
+      "file_name": "光锥-立绘-芳华待灼.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1834000,
+        "width": 867,
+        "height": 1230,
+        "sha256": "cb7a01c4b6d507c7f9de256d0fb2ae918746d47421ae64ee0859da08bda94178"
+      },
+      "compressed": {
+        "bytes": 161096,
+        "width": 867,
+        "height": 1230,
+        "sha256": "885c8a48f8ced32ecdce50c0b4089c509bdff74b72d1f2606394defa17a2719b"
+      },
+      "saved_bytes": 1672904,
+      "compressed_ratio": 0.0878,
+      "saved_percent": 91.22
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-菇菇嘎嘎历险记.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-菇菇嘎嘎历险记.webp",
+      "file_name": "光锥-立绘-菇菇嘎嘎历险记.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2056219,
+        "width": 904,
+        "height": 1260,
+        "sha256": "669c0fa76978e5f49f9870fbda2b3d854e1a0567a84a816b5de8924e7601bbbc"
+      },
+      "compressed": {
+        "bytes": 240194,
+        "width": 904,
+        "height": 1260,
+        "sha256": "2abce3e101a12f774a656e37553bdfd291b1967a639fa332fca0f168d5032350"
+      },
+      "saved_bytes": 1816025,
+      "compressed_ratio": 0.1168,
+      "saved_percent": 88.32
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-落日时起舞.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-落日时起舞.webp",
+      "file_name": "光锥-立绘-落日时起舞.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1675485,
+        "width": 867,
+        "height": 1230,
+        "sha256": "3334a4dfb421043b148cd80f48a8806a572eb71ba48938365e12e6dcd99aca79"
+      },
+      "compressed": {
+        "bytes": 132616,
+        "width": 867,
+        "height": 1230,
+        "sha256": "0cf4620a334b3e30b0f4e7f353f0e8a196ede0035baa18ab44586e3c88e76099"
+      },
+      "saved_bytes": 1542869,
+      "compressed_ratio": 0.0792,
+      "saved_percent": 92.08
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-蕃息.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-蕃息.webp",
+      "file_name": "光锥-立绘-蕃息.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2194625,
+        "width": 867,
+        "height": 1230,
+        "sha256": "2952ff38e520ee360e79fd2250e327d43e2abd41a8c70ffa2342f6d0c4f41d28"
+      },
+      "compressed": {
+        "bytes": 236572,
+        "width": 867,
+        "height": 1230,
+        "sha256": "284e1095fb4b03fa6cdd3ef0e6e6ea1b99db85a12e5506ad63f61f9b3266df8f"
+      },
+      "saved_bytes": 1958053,
+      "compressed_ratio": 0.1078,
+      "saved_percent": 89.22
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-血火啊，燃烧前路.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-血火啊，燃烧前路.webp",
+      "file_name": "光锥-立绘-血火啊，燃烧前路.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2076599,
+        "width": 864,
+        "height": 1220,
+        "sha256": "99d7a2de474b583c658abfaa7ff82bac085f8ba86383a80efb37b52a750e1adb"
+      },
+      "compressed": {
+        "bytes": 237094,
+        "width": 864,
+        "height": 1220,
+        "sha256": "c9612114e04c006e8ce37d55c30b358484a9cd149742bffb5d39a0f00067dba8"
+      },
+      "saved_bytes": 1839505,
+      "compressed_ratio": 0.1142,
+      "saved_percent": 88.58
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-行于流逝的岸.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-行于流逝的岸.webp",
+      "file_name": "光锥-立绘-行于流逝的岸.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1645748,
+        "width": 867,
+        "height": 1230,
+        "sha256": "87b4a05becc0a4a48ce72b235797c577900a7218922d74938db8dd225f5045ec"
+      },
+      "compressed": {
+        "bytes": 152066,
+        "width": 867,
+        "height": 1230,
+        "sha256": "568e3eb395558bcf794038b6df9d7adbf8c0b9d1bd330536252657fa6790290d"
+      },
+      "saved_bytes": 1493682,
+      "compressed_ratio": 0.0924,
+      "saved_percent": 90.76
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-让告别，更美一些.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-让告别，更美一些.webp",
+      "file_name": "光锥-立绘-让告别，更美一些.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1994308,
+        "width": 864,
+        "height": 1220,
+        "sha256": "af2997fcaef1eb737c76870e49385850ec26aa918f00a35ba4169707b9797971"
+      },
+      "compressed": {
+        "bytes": 241600,
+        "width": 864,
+        "height": 1220,
+        "sha256": "13ab615045f94671e7b84a790b56e40e77ee1a10eb4fc8edcc772b98cfb2b33d"
+      },
+      "saved_bytes": 1752708,
+      "compressed_ratio": 0.1211,
+      "saved_percent": 87.89
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-记一位星神的陨落.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-记一位星神的陨落.webp",
+      "file_name": "光锥-立绘-记一位星神的陨落.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2336730,
+        "width": 867,
+        "height": 1230,
+        "sha256": "6a4e031172663f68dfd3b164547d499daf473e4966f992c8c792ebe347145051"
+      },
+      "compressed": {
+        "bytes": 250078,
+        "width": 867,
+        "height": 1230,
+        "sha256": "ca152aaecdb2f1941959f4db0bc2f37a85000af1f7d41dff1c24ac892a83cdc4"
+      },
+      "saved_bytes": 2086652,
+      "compressed_ratio": 0.107,
+      "saved_percent": 89.3
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-记忆中的模样.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-记忆中的模样.webp",
+      "file_name": "光锥-立绘-记忆中的模样.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1234394,
+        "width": 867,
+        "height": 1230,
+        "sha256": "d71ecb486523537be64bb9047509937f50a5a029fa2f191c2281ab963de2194e"
+      },
+      "compressed": {
+        "bytes": 125628,
+        "width": 867,
+        "height": 1230,
+        "sha256": "0ae5b5a55649b451f7422d3a7aeabb0803932638b45b0d2145f7593f766d2804"
+      },
+      "saved_bytes": 1108766,
+      "compressed_ratio": 0.1018,
+      "saved_percent": 89.82
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-记忆永不落幕.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-记忆永不落幕.webp",
+      "file_name": "光锥-立绘-记忆永不落幕.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1813517,
+        "width": 864,
+        "height": 1220,
+        "sha256": "d6d2dd40e23fdb0d5e5618e1ef8d09af105d9e698eb52b15c844c268a843c31f"
+      },
+      "compressed": {
+        "bytes": 200324,
+        "width": 864,
+        "height": 1220,
+        "sha256": "b9d7dc6665b1ef7652e45d6e705e5f6aedb52dcc80c4a53922830eabca693687"
+      },
+      "saved_bytes": 1613193,
+      "compressed_ratio": 0.1105,
+      "saved_percent": 88.95
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-记忆的质料.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-记忆的质料.webp",
+      "file_name": "光锥-立绘-记忆的质料.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2149559,
+        "width": 867,
+        "height": 1230,
+        "sha256": "bc0d88347a58c89e14889544fec94963ec68794a5f690ddd2fab929770c686d0"
+      },
+      "compressed": {
+        "bytes": 321264,
+        "width": 867,
+        "height": 1230,
+        "sha256": "3727e11f90c2ed8dc18b58ebbb834a8ee7b15ca1b0876310882ffde5f0487b70"
+      },
+      "saved_bytes": 1828295,
+      "compressed_ratio": 0.1495,
+      "saved_percent": 85.05
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-论剑.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-论剑.webp",
+      "file_name": "光锥-立绘-论剑.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1564027,
+        "width": 867,
+        "height": 1230,
+        "sha256": "7a98ad5f6df7c59b73792563056c17e2566fe3c116cc7a4e0c0bc38bd20c4565"
+      },
+      "compressed": {
+        "bytes": 153280,
+        "width": 867,
+        "height": 1230,
+        "sha256": "192daacf794c34b7e91b7602f8a54ad952f1b7df038bfe4fa9884480b29dca89"
+      },
+      "saved_bytes": 1410747,
+      "compressed_ratio": 0.098,
+      "saved_percent": 90.2
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-调和.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-调和.webp",
+      "file_name": "光锥-立绘-调和.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2426996,
+        "width": 867,
+        "height": 1230,
+        "sha256": "fff29ecf71c4f169b99c5236dfc511259c363a5c9e1add9b85478020f021b1e7"
+      },
+      "compressed": {
+        "bytes": 334240,
+        "width": 867,
+        "height": 1230,
+        "sha256": "071cbf0c0ea21844aad6ede82b2905f0f85230748c392ac0a46ef88e5ab43f9f"
+      },
+      "saved_bytes": 2092756,
+      "compressed_ratio": 0.1377,
+      "saved_percent": 86.23
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-谎言在风中飘扬.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-谎言在风中飘扬.webp",
+      "file_name": "光锥-立绘-谎言在风中飘扬.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2246428,
+        "width": 864,
+        "height": 1220,
+        "sha256": "dfbe5df6f4b5d54035aec96cefa8490a7ba3757d269106011b3ae4e8aaeff20c"
+      },
+      "compressed": {
+        "bytes": 264480,
+        "width": 864,
+        "height": 1220,
+        "sha256": "d08db582779214c9a209636d5660ecd116f747369db8614fe45ce80553a32dae"
+      },
+      "saved_bytes": 1981948,
+      "compressed_ratio": 0.1177,
+      "saved_percent": 88.23
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-谐乐静默之后.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-谐乐静默之后.webp",
+      "file_name": "光锥-立绘-谐乐静默之后.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1349900,
+        "width": 867,
+        "height": 1230,
+        "sha256": "fd56c3fd335cb6acf580ee321134973c821ae921c10f9501c212433f2c500a24"
+      },
+      "compressed": {
+        "bytes": 92872,
+        "width": 867,
+        "height": 1230,
+        "sha256": "01bf2e229b2a9beb4210728b5730ddd685ce6197f98224e8c1896e5d34d0b71f"
+      },
+      "saved_bytes": 1257028,
+      "compressed_ratio": 0.0688,
+      "saved_percent": 93.12
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-轮契.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-轮契.webp",
+      "file_name": "光锥-立绘-轮契.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2563162,
+        "width": 867,
+        "height": 1230,
+        "sha256": "3eb3c3eec165cd74bee9adb539bc4ca108b4ad6db0c360cf6d0417cb91f87ff3"
+      },
+      "compressed": {
+        "bytes": 363812,
+        "width": 867,
+        "height": 1230,
+        "sha256": "293893b04d8a690c9b14fe36a2ae6968c7eb98875039459451b707423fab1148"
+      },
+      "saved_bytes": 2199350,
+      "compressed_ratio": 0.1419,
+      "saved_percent": 85.81
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-过往未来.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-过往未来.webp",
+      "file_name": "光锥-立绘-过往未来.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1278108,
+        "width": 867,
+        "height": 1230,
+        "sha256": "aee5523d99aea58b5a6aabe33de40093349ed956d3381e6a5afc95af11d5b485"
+      },
+      "compressed": {
+        "bytes": 127806,
+        "width": 867,
+        "height": 1230,
+        "sha256": "d4875228bcdb22a9ef4c087b5f6b599f94bafcb6c6af8a07a5fd0d87e10fda14"
+      },
+      "saved_bytes": 1150302,
+      "compressed_ratio": 0.1,
+      "saved_percent": 90.0
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-这就是我啦！.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-这就是我啦！.webp",
+      "file_name": "光锥-立绘-这就是我啦！.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1693795,
+        "width": 867,
+        "height": 1230,
+        "sha256": "b2e28d21b0fa1ea3559d10ae5eaed3c149241cdbd13eca313b5310af8b4ea975"
+      },
+      "compressed": {
+        "bytes": 149290,
+        "width": 867,
+        "height": 1230,
+        "sha256": "41da1baf4521ae3753eec76dd0661a2d371223d93cab657b6ee4ced5f50bb235"
+      },
+      "saved_bytes": 1544505,
+      "compressed_ratio": 0.0881,
+      "saved_percent": 91.19
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-追逐风的时候.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-追逐风的时候.webp",
+      "file_name": "光锥-立绘-追逐风的时候.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2041428,
+        "width": 864,
+        "height": 1220,
+        "sha256": "972b6542b798a1faa371c81f8b334107d74ed5eac952cf69c6ed32e738477fc5"
+      },
+      "compressed": {
+        "bytes": 234526,
+        "width": 864,
+        "height": 1220,
+        "sha256": "dd04b47d879c7bdad7e2b6ed6000f4e3bc62cd3667017597177dc505587e82b2"
+      },
+      "saved_bytes": 1806902,
+      "compressed_ratio": 0.1149,
+      "saved_percent": 88.51
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-邂逅于下一个花季.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-邂逅于下一个花季.webp",
+      "file_name": "光锥-立绘-邂逅于下一个花季.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1838136,
+        "width": 904,
+        "height": 1260,
+        "sha256": "e4c407dbcecaf30e33091fa6d42cce85a0f8548ffeb42b78576936ca40c45b11"
+      },
+      "compressed": {
+        "bytes": 201580,
+        "width": 904,
+        "height": 1260,
+        "sha256": "b3f3b973963fffe5a3e996501f45769aadb096b1a5a7638c354f8bb44b77f00a"
+      },
+      "saved_bytes": 1636556,
+      "compressed_ratio": 0.1097,
+      "saved_percent": 89.03
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-那无数个春天.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-那无数个春天.webp",
+      "file_name": "光锥-立绘-那无数个春天.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1803952,
+        "width": 867,
+        "height": 1230,
+        "sha256": "5c3792d6a9e2bd7e253942cdfbf08bc11eaae834d3d3eab678a7e111f998852d"
+      },
+      "compressed": {
+        "bytes": 144824,
+        "width": 867,
+        "height": 1230,
+        "sha256": "c73028705dfcb303b538e3bdeaaf1b4f78b5ed61c35e1f61cc5b1e4215fcf396"
+      },
+      "saved_bytes": 1659128,
+      "compressed_ratio": 0.0803,
+      "saved_percent": 91.97
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-重塑时光之忆.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-重塑时光之忆.webp",
+      "file_name": "光锥-立绘-重塑时光之忆.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1780849,
+        "width": 867,
+        "height": 1230,
+        "sha256": "7b3a6f887f72b5baf0a94fdfe70873d80b373ee244d44a5094ea48a2617e05ba"
+      },
+      "compressed": {
+        "bytes": 145530,
+        "width": 867,
+        "height": 1230,
+        "sha256": "09c4d59c0907f8cb8cb0b5310348cd01e8caf10c3e704202e5c5e7e1fdbf7b71"
+      },
+      "saved_bytes": 1635319,
+      "compressed_ratio": 0.0817,
+      "saved_percent": 91.83
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-重返幽冥.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-重返幽冥.webp",
+      "file_name": "光锥-立绘-重返幽冥.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1540259,
+        "width": 867,
+        "height": 1230,
+        "sha256": "d38bb772e5853ed6bd36b058259eb7e6a8b0ca53616bdd75f9ba8fa8a76336af"
+      },
+      "compressed": {
+        "bytes": 113232,
+        "width": 867,
+        "height": 1230,
+        "sha256": "c95256fb3d0687bce2209b89879b0e7f014cd6720e2ea4b82b851570bfdebc11"
+      },
+      "saved_bytes": 1427027,
+      "compressed_ratio": 0.0735,
+      "saved_percent": 92.65
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-金血铭刻的时代.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-金血铭刻的时代.webp",
+      "file_name": "光锥-立绘-金血铭刻的时代.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2281161,
+        "width": 864,
+        "height": 1220,
+        "sha256": "cc61dc60435afd0d6813fcd769d2b4f67ff724941a92cda5910d0784df80cccf"
+      },
+      "compressed": {
+        "bytes": 296440,
+        "width": 864,
+        "height": 1220,
+        "sha256": "e83c7e85dd5ccad3d4b3d9853230465c29bcf8576e3c570a439ab82eacac27fb"
+      },
+      "saved_bytes": 1984721,
+      "compressed_ratio": 0.13,
+      "saved_percent": 87.0
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-铭记于心的约定.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-铭记于心的约定.webp",
+      "file_name": "光锥-立绘-铭记于心的约定.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1464308,
+        "width": 867,
+        "height": 1230,
+        "sha256": "8f42238c4ae61db3e86135f3f7a364381a72ddb158fb80a70419cc28f1851a7b"
+      },
+      "compressed": {
+        "bytes": 106480,
+        "width": 867,
+        "height": 1230,
+        "sha256": "4470b78f4aa6b96a34015a604b1bb3b387324153697b687a3998c6a660f6c103"
+      },
+      "saved_bytes": 1357828,
+      "compressed_ratio": 0.0727,
+      "saved_percent": 92.73
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-银河沦陷日.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-银河沦陷日.webp",
+      "file_name": "光锥-立绘-银河沦陷日.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1654779,
+        "width": 867,
+        "height": 1230,
+        "sha256": "13943ee77467ac5f832f93e6cf5c0d3d1bb8dbd6668e0443d052788e93eb6959"
+      },
+      "compressed": {
+        "bytes": 120636,
+        "width": 867,
+        "height": 1230,
+        "sha256": "e0851138069cb4136df099fe4d9b57aa0067e0a952dad45305d0cc0295320af7"
+      },
+      "saved_bytes": 1534143,
+      "compressed_ratio": 0.0729,
+      "saved_percent": 92.71
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-银河铁道之夜.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-银河铁道之夜.webp",
+      "file_name": "光锥-立绘-银河铁道之夜.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1569870,
+        "width": 867,
+        "height": 1230,
+        "sha256": "96b65674df385b6636ec84f89a376e33efcae50180de29c2b0b8bd825db0f1cd"
+      },
+      "compressed": {
+        "bytes": 134566,
+        "width": 867,
+        "height": 1230,
+        "sha256": "50e50869a255c4bc4b663289b3cef5fb6abb621e15cce76e28e46c26fbc1d2b3"
+      },
+      "saved_bytes": 1435304,
+      "compressed_ratio": 0.0857,
+      "saved_percent": 91.43
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-锋镝.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-锋镝.webp",
+      "file_name": "光锥-立绘-锋镝.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1661173,
+        "width": 867,
+        "height": 1230,
+        "sha256": "020c120d01954582218313c910732df228ad83f8c2c362d1e6ea19fb7a3fba97"
+      },
+      "compressed": {
+        "bytes": 152408,
+        "width": 867,
+        "height": 1230,
+        "sha256": "de5731367dd46a229bb6aa7329d61de8063aa85c2901e5b9cbc7047454b388f1"
+      },
+      "saved_bytes": 1508765,
+      "compressed_ratio": 0.0917,
+      "saved_percent": 90.83
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-镂月裁云之意.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-镂月裁云之意.webp",
+      "file_name": "光锥-立绘-镂月裁云之意.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1105764,
+        "width": 867,
+        "height": 1230,
+        "sha256": "f7211cf1f1b5cb8f54f67df547f2af6d9ec9abd7b7d393361796a49bcffa8dd9"
+      },
+      "compressed": {
+        "bytes": 108214,
+        "width": 867,
+        "height": 1230,
+        "sha256": "cff21a45d32892d467579ef9389e030427c41c30d4f82690ad77b99381e97674"
+      },
+      "saved_bytes": 997550,
+      "compressed_ratio": 0.0979,
+      "saved_percent": 90.21
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-镜中故我.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-镜中故我.webp",
+      "file_name": "光锥-立绘-镜中故我.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2050340,
+        "width": 867,
+        "height": 1230,
+        "sha256": "03d2b538fea4d8d66fd5fee6251bd741456dbb13f810546d8c85d1142bd2709d"
+      },
+      "compressed": {
+        "bytes": 242542,
+        "width": 867,
+        "height": 1230,
+        "sha256": "87eb000438351e0916d426a192dc4d395635a6d2e6f774356d98d91be4a44797"
+      },
+      "saved_bytes": 1807798,
+      "compressed_ratio": 0.1183,
+      "saved_percent": 88.17
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-长路终有归途.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-长路终有归途.webp",
+      "file_name": "光锥-立绘-长路终有归途.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2067577,
+        "width": 867,
+        "height": 1230,
+        "sha256": "e33c9c03b14543d427e86b542bb23286a0b9e6020e1d7c4c5264dfb059d35f49"
+      },
+      "compressed": {
+        "bytes": 259180,
+        "width": 867,
+        "height": 1230,
+        "sha256": "92e4fdc2268b067ff67b7171b6f18293f288c26c53fd467532311dd9a9845812"
+      },
+      "saved_bytes": 1808397,
+      "compressed_ratio": 0.1254,
+      "saved_percent": 87.46
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-雨一直下.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-雨一直下.webp",
+      "file_name": "光锥-立绘-雨一直下.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1169522,
+        "width": 867,
+        "height": 1230,
+        "sha256": "400300fa417d2232ca1c02013d59c0a889911c010eba07472102355dc3b25910"
+      },
+      "compressed": {
+        "bytes": 118796,
+        "width": 867,
+        "height": 1230,
+        "sha256": "2617df8ae390c0d3cb61b09573cb44ea66b8d6e7f856192baac3fdef7921e367"
+      },
+      "saved_bytes": 1050726,
+      "compressed_ratio": 0.1016,
+      "saved_percent": 89.84
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-飞向粉色的明天.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-飞向粉色的明天.webp",
+      "file_name": "光锥-立绘-飞向粉色的明天.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1506997,
+        "width": 864,
+        "height": 1220,
+        "sha256": "3dde7d9e0f54e0329017f4d1c4d68435f469554e22b945463a96fd884f05748e"
+      },
+      "compressed": {
+        "bytes": 178960,
+        "width": 864,
+        "height": 1220,
+        "sha256": "398cb31662a1cc391603e7ce597ed56732f6d73273cf85cdff2be162a888d90e"
+      },
+      "saved_bytes": 1328037,
+      "compressed_ratio": 0.1188,
+      "saved_percent": 88.12
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-驶向第二次生命.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-驶向第二次生命.webp",
+      "file_name": "光锥-立绘-驶向第二次生命.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1507415,
+        "width": 867,
+        "height": 1230,
+        "sha256": "1c83b0c57ec76e5073efee2c99886349db7544e1886194fc246d5bba7c3c6b93"
+      },
+      "compressed": {
+        "bytes": 115012,
+        "width": 867,
+        "height": 1230,
+        "sha256": "c6be4ee83eb28f8687b267610f94520ea661cd642b2f51bc2386e3d7efb9b91b"
+      },
+      "saved_bytes": 1392403,
+      "compressed_ratio": 0.0763,
+      "saved_percent": 92.37
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-黎明恰如此燃烧.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-黎明恰如此燃烧.webp",
+      "file_name": "光锥-立绘-黎明恰如此燃烧.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2215503,
+        "width": 864,
+        "height": 1220,
+        "sha256": "f343cfa599f8aa7ce044a778619ec41fb4cee2a78b47f760f31a6e897ff5944c"
+      },
+      "compressed": {
+        "bytes": 300674,
+        "width": 864,
+        "height": 1220,
+        "sha256": "896b92bb69879e06a5cdb197a23e5dc3e8f53b22f9164101950b4c2fb9608c7e"
+      },
+      "saved_bytes": 1914829,
+      "compressed_ratio": 0.1357,
+      "saved_percent": 86.43
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-黑夜如影随行.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-黑夜如影随行.webp",
+      "file_name": "光锥-立绘-黑夜如影随行.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1807147,
+        "width": 867,
+        "height": 1230,
+        "sha256": "7ccf836a03b0098477adf7d5999fb230de1308260afaf758a2fffad5c4137b76"
+      },
+      "compressed": {
+        "bytes": 197612,
+        "width": 867,
+        "height": 1230,
+        "sha256": "61c9558a7f9de91a6b4b942735ab7d1231516754fb6e4e5ca85b5fcbd7cd9742"
+      },
+      "saved_bytes": 1609535,
+      "compressed_ratio": 0.1094,
+      "saved_percent": 89.06
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-鼹鼠党欢迎你.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-鼹鼠党欢迎你.webp",
+      "file_name": "光锥-立绘-鼹鼠党欢迎你.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 1032761,
+        "width": 867,
+        "height": 1230,
+        "sha256": "e0ecd18b473716418b75812a089ab5b54c30d706c918d048eef2e5b04ec97f79"
+      },
+      "compressed": {
+        "bytes": 88118,
+        "width": 867,
+        "height": 1230,
+        "sha256": "4da2060cc7c58248af949d3849644efef9f133d7d1ff3079c5147d1dee8adb69"
+      },
+      "saved_bytes": 944643,
+      "compressed_ratio": 0.0853,
+      "saved_percent": 91.47
+    },
+    {
+      "status": "compressed",
+      "source_path": "references/bwiki_images/assets/光锥/光锥-立绘-齐颂.png",
+      "compressed_path": "references/bwiki_images/assets_webp/光锥/光锥-立绘-齐颂.webp",
+      "file_name": "光锥-立绘-齐颂.png",
+      "asset_kind": "light_cone_artwork",
+      "wiki_category": "光锥",
+      "policy": {
+        "quality": 86,
+        "max_edge": 1920,
+        "reason": "light_cone_artwork"
+      },
+      "original": {
+        "bytes": 2161257,
+        "width": 867,
+        "height": 1230,
+        "sha256": "e8d653cc73ab68bee0a2a776fda395db2423accc4562c508a1682e05839afced"
+      },
+      "compressed": {
+        "bytes": 239408,
+        "width": 867,
+        "height": 1230,
+        "sha256": "89d4d839cf92c8f86b541c1343b60a4ac43b298ca94e3f0663bd4544c0d046d6"
+      },
+      "saved_bytes": 1921849,
+      "compressed_ratio": 0.1108,
+      "saved_percent": 88.92
     },
     {
       "status": "compressed",
