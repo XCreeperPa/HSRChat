@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://hsrchat.local/schemas/image.schema.json",
+  "title": "HSRChat Runtime Image",
+  "type": "object",
+  "required": ["id", "source_type", "title", "image_path", "authority", "contains_gameplay"],
+  "properties": {
+    "id": { "type": "string" },
+    "source_type": { "type": "string" },
+    "asset_kind": { "type": ["string", "null"] },
+    "title": { "type": "string" },
+    "image_path": { "type": "string" },
+    "vision_description_path": { "type": ["string", "null"] },
+    "source_pages": { "type": "array", "items": { "type": "string" } },
+    "authority": { "type": "string" },
+    "contains_gameplay": { "type": "boolean" },
+    "metadata": { "type": "object" }
+  },
+  "additionalProperties": true
+}

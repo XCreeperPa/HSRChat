@@ -23,7 +23,7 @@ HSRChat 不是单一文本库，而是把几类互补信源放在一起使用：
 | 官方视频元数据 | `references/bilibili/` | 角色 PV、动画短片、千星纪游、EP、版本宣传等官方物料的标题、简介与发布时间 |
 | BWiki 图片索引 | `references/bwiki_images/index.json` | 任务 CG、书籍插图、短信图、角色立绘等视觉信源的来源页、上下文和原图元数据 |
 | WebP 参考图 | `references/bwiki_images/assets_webp/` | 面向 Agent 的轻量图片参考，用于角色外观、美术风格和剧情画面分析 |
-| 图片文本描述 | `references/bwiki_images/vision_index/assets/` | 208 张 WebP 参考图的审核通过版中文视觉描述，目录结构与 `assets_webp/` 一致；`assets.jsonl` 保留为聚合兼容索引 |
+| 图片文本描述 | `references/bwiki_images/vision_index/assets/` | 与 WebP 参考图一一对应的审核通过版中文视觉描述，目录结构与 `assets_webp/` 一致；`assets.jsonl` 保留为聚合兼容索引 |
 | 数据源说明 | `references/docs/` | 各信源的同步逻辑、边界、维护方式和版本控制规则 |
 
 这些信源的分工大致是：
@@ -143,10 +143,20 @@ Remove-Item -Recurse -Force "$HOME\.codex\skills\HSRChat\references\bwiki_images
 
 ```text
 D:\HSRChat\
-├── SKILL.md             # Skill 核心声明与三模式行为规范
+├── AGENTS.md            # Agent 分流入口：运行与维护职责边界
+├── SKILL.md             # 兼容期 Skill 入口与三模式行为规范
 ├── roleplay.md          # 扮演模式指南
 ├── config.json          # Wiki 与 B站分类配置
 ├── README.md            # 项目入口说明
+├── core/                # 平台无关的运行策略、检索契约与数据 schema
+│   ├── policies/        # 三模式、玩法过滤、信源优先级与扮演策略
+│   ├── retrieval/       # 多跳检索与引用契约
+│   └── schemas/         # 运行时派生数据 schema 草案
+├── adapters/
+│   └── codex/
+│       └── skills/
+│           ├── hsrchat-runtime/      # Codex 运行时 Skill 原型
+│           └── hsrchat-maintenance/  # Codex 维护 Skill 原型
 ├── references/
 │   ├── docs/            # 安装、维护、数据源与运维文档
 │   ├── bwiki_images/    # BWiki 图片索引、WebP 参考图与审核通过的图片文本描述
@@ -159,8 +169,11 @@ D:\HSRChat\
     └── vision/          # 图片文本描述生成、合并、拆分与人工审核
 ```
 
+当前根目录 `SKILL.md` 仍然保留，保证既有 Codex 安装方式不失效。新的 `core/` 与 `adapters/codex/skills/` 是下一阶段架构的原型入口：运行时问答走 `hsrchat-runtime`，数据同步、审计、脚本修改和发布走 `hsrchat-maintenance`。
+
 更多技术细节：
 
+- [下一阶段架构开发计划](references/docs/next_stage_architecture_plan.md)
 - [安装指南](references/docs/installation.md)
 - [维护与脚本说明](references/docs/maintenance.md)
 - [统一数据源同步与运维指南](references/docs/data_sources.md)

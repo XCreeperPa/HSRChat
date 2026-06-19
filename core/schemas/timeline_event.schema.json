@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://hsrchat.local/schemas/timeline_event.schema.json",
+  "title": "HSRChat Timeline Event",
+  "type": "object",
+  "required": ["id", "title", "source_paths", "confidence"],
+  "properties": {
+    "id": { "type": "string" },
+    "title": { "type": "string" },
+    "time_label": { "type": ["string", "null"] },
+    "relative_order": { "type": ["integer", "null"] },
+    "entities": { "type": "array", "items": { "type": "string" } },
+    "locations": { "type": "array", "items": { "type": "string" } },
+    "summary": { "type": ["string", "null"] },
+    "source_paths": { "type": "array", "items": { "type": "string" } },
+    "confidence": { "type": "string" },
+    "spoiler_level": { "type": ["string", "null"] },
+    "metadata": { "type": "object" }
+  },
+  "additionalProperties": true
+}

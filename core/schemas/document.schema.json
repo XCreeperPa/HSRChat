@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://hsrchat.local/schemas/document.schema.json",
+  "title": "HSRChat Runtime Document",
+  "type": "object",
+  "required": ["id", "source_type", "title", "path", "authority", "contains_gameplay"],
+  "properties": {
+    "id": { "type": "string" },
+    "source_type": { "type": "string" },
+    "category": { "type": ["string", "null"] },
+    "title": { "type": "string" },
+    "path": { "type": "string" },
+    "authority": { "type": "string" },
+    "content_kind": { "type": ["string", "null"] },
+    "contains_gameplay": { "type": "boolean" },
+    "spoiler_level": { "type": ["string", "null"] },
+    "version": { "type": ["string", "null"] },
+    "text": { "type": ["string", "null"] },
+    "metadata": { "type": "object" }
+  },
+  "additionalProperties": true
+}

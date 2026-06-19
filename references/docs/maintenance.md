@@ -156,7 +156,7 @@ references/bwiki_images/assets_webp/角色/三月七立绘.webp
 references/bwiki_images/vision_index/assets/角色/三月七立绘.json
 ```
 
-`references/bwiki_images/vision_index/assets.jsonl` 保留为聚合兼容索引。当前版本包含 208 张 WebP 参考图的审核通过版中文描述。每个 JSON 对象使用中文字段，保留 `图片路径` 作为定位字段，其余字段只描述图片中可见元素，不重复 Wiki 来源、文件名推测或页面元数据。
+`references/bwiki_images/vision_index/assets.jsonl` 保留为聚合兼容索引。正式数量以 `assets_webp/` 下的 WebP 文件数和 `vision_index/assets/` 下的 JSON 文件数一致为准，不在文档中固定写死。每个 JSON 对象使用中文字段，保留 `图片路径` 作为定位字段，其余字段只描述图片中可见元素，不重复 Wiki 来源、文件名推测或页面元数据。
 
 本地审核 GUI：
 

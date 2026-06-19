@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://hsrchat.local/schemas/role_profile.schema.json",
+  "title": "HSRChat Roleplay Profile",
+  "type": "object",
+  "required": ["character", "source_paths"],
+  "properties": {
+    "character": { "type": "string" },
+    "aliases": { "type": "array", "items": { "type": "string" } },
+    "addressing": { "type": "array", "items": { "type": "string" } },
+    "speech_style": { "type": "array", "items": { "type": "string" } },
+    "relationship_notes": { "type": "array", "items": { "type": "string" } },
+    "knowledge_boundaries": { "type": "array", "items": { "type": "string" } },
+    "sensitive_topics": { "type": "array", "items": { "type": "string" } },
+    "visual_notes": { "type": "array", "items": { "type": "string" } },
+    "source_paths": { "type": "array", "items": { "type": "string" } },
+    "metadata": { "type": "object" }
+  },
+  "additionalProperties": true
+}

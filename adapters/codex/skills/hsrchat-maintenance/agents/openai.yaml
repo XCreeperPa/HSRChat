@@ -1,0 +1,3 @@
+display_name: HSRChat Maintenance
+short_description: Maintain HSRChat data and tooling.
+default_prompt: Sync, audit, repair, or publish HSRChat reference data and maintenance tooling.
