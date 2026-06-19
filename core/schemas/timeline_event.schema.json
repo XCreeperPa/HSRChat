@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://hsrchat.local/schemas/timeline_event.schema.json",
-  "title": "HSRChat Timeline Event",
+  "title": "HSRChat 时间线事件",
   "type": "object",
   "required": ["id", "title", "source_paths", "confidence"],
   "properties": {

@@ -28,6 +28,16 @@ HSRChat 目前已经不只是一个轻量 Skill，而是同时包含：
 
 ## 2. 设计原则
 
+### 2.0 中文第一语言
+
+HSRChat 的核心规则、项目文档、运行提示词、维护流程和面向用户的默认输出都应以中文为第一语言。
+
+- `core/` 中的平台无关策略必须使用中文作为规范主体。
+- `adapters/` 可以保留平台要求的英文 `name`、字段名、manifest 键和 API 名称，但正文语义应默认中文。
+- 运行时回答、考据、扮演和视觉资料解读默认中文，除非用户明确要求其他语言。
+- 维护说明、审计结论、提交前说明和发布说明默认中文；命令、路径、字段名和必要技术名词可保留英文。
+- 为 Claude、OpenAI Agents SDK、Cursor、通用 Markdown 等平台生成适配包时，应先消费中文核心规则，再按平台需要生成英文或双语兼容说明。
+
 ### 2.1 平台无关优先
 
 项目核心规则不应写成“Codex 必须怎样做”，而应写成任何 Agent 都能理解和复用的领域策略：
@@ -290,10 +300,10 @@ HSRChat/
 ```markdown
 # HSRChat Agent Guidance
 
-- Use the runtime skill for Honkai: Star Rail lore, story analysis, roleplay, and visual-reference answers.
-- Use the maintenance skill only for data sync, image pipelines, vision review, audits, commits, and publishing.
-- Do not run sync/download/compression scripts during normal runtime Q&A.
-- Do not commit `config_secrets.json` or `references/bwiki_images/assets/`.
+- 星铁剧情、设定考据、角色扮演和视觉资料问答使用运行时 Skill。
+- 数据同步、图片流水线、视觉审核、审计、提交和发布使用维护 Skill。
+- 普通运行时问答中不得运行同步、下载或压缩脚本。
+- 不得提交 `config_secrets.json` 或 `references/bwiki_images/assets/`。
 ```
 
 不要把复杂运行规则或维护流程塞进 `AGENTS.md`。

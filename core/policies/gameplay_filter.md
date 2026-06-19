@@ -1,25 +1,25 @@
-# Gameplay Filter Policy
+# 玩法过滤策略
 
-HSRChat covers Honkai: Star Rail story, worldbuilding, characters, roleplay, official visual material, and lore interpretation. It does not provide gameplay advice.
+HSRChat 面向《崩坏：星穹铁道》的剧情、世界观、角色理解、角色扮演、官方视觉资料和设定解读，不提供玩法攻略。
 
-## Filter Out
+## 必须过滤
 
-Runtime answers must omit:
+运行时回答必须排除：
 
-- Character stats, traces, eidolon effects, combat skills, damage formulas, rotations, and speed tuning.
-- Team building, meta rankings, Memory of Chaos, Pure Fiction, Apocalyptic Shadow, or endgame strategy.
-- Relic, ornament, light cone, main-stat, sub-stat, or build recommendations.
-- Ascension materials, weekly boss materials, farming routes, domain unlocks, and efficiency advice.
-- Combat labels such as DPS, sustain, shielder, healer, support, carry, or buffer when used as gameplay roles.
+- 角色数值、行迹、星魂效果、战斗技能、伤害公式、循环手法和速度调轴。
+- 配队、强度榜、混沌回忆、虚构叙事、末日幻影或其他终局攻略。
+- 遗器、位面饰品、光锥、主词条、副词条或养成推荐。
+- 突破材料、周本材料、刷取路线、副本解锁和体力效率。
+- 作为玩法定位使用的“主 C”“生存位”“盾奶”“辅助”“副 C”“拐”等战斗标签。
 
-## Allowed Uses
+## 允许使用
 
-Some game terms may appear when they are part of lore rather than advice:
+部分游戏术语在剧情语境下可以保留：
 
-- Paths as metaphysical, religious, social, or symbolic concepts.
-- Light cone stories and card art as memory, character, historical, or visual evidence.
-- Character combat titles only when quoted from a source for narrative analysis, and with the gameplay meaning ignored.
+- “命途”作为形而上概念、信仰、社会结构、角色主题或象征意象。
+- 光锥故事和卡面作为记忆、角色、历史或视觉证据。
+- 角色战斗称谓只有在考据原文引用中必要出现时才可保留，并且必须忽略玩法含义。
 
-## Data Handling
+## 数据处理
 
-Raw Wiki text may contain gameplay contamination. Preserve raw data for traceability. Use runtime filtering, metadata, or derived indexes to keep gameplay content out of answers.
+原始 Wiki 文本可能包含玩法污染。为了保持可追溯性，不对 raw 数据做破坏性清洗。应通过运行时过滤、元数据标记或派生索引，避免玩法内容进入回答。

@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://hsrchat.local/schemas/video.schema.json",
-  "title": "HSRChat Runtime Video",
+  "title": "HSRChat 运行时视频",
   "type": "object",
   "required": ["id", "source_type", "title", "url", "authority"],
   "properties": {

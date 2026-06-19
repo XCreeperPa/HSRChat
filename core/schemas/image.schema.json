@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://hsrchat.local/schemas/image.schema.json",
-  "title": "HSRChat Runtime Image",
+  "title": "HSRChat 运行时图片",
   "type": "object",
   "required": ["id", "source_type", "title", "image_path", "authority", "contains_gameplay"],
   "properties": {

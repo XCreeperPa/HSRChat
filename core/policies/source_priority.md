@@ -1,23 +1,23 @@
-# Source Priority
+# 信源优先级
 
-Use this platform-neutral priority order when sources conflict or confidence matters.
+当资料存在冲突，或回答需要较高置信度时，按以下平台无关优先级处理。
 
-## Priority Order
+## 优先级顺序
 
-1. Direct in-game text: main quests, companion missions, adventure missions, readable books, item stories, messages, and character voice lines.
-2. Official HoYoverse media: official videos, animation shorts, character trailers, EPs, version material, and official visual art.
-3. BWiki image assets and page context, especially when checking visible design details, CG composition, light cone art, and page-attached media.
-4. Community Wiki summaries and category organization.
-5. Reasonable inference from the above sources.
-6. Community speculation, only when clearly labeled as speculation.
+1. 游戏内直接文本：开拓任务、同行任务、冒险任务、可阅读书籍、道具故事、短信和角色语音。
+2. HoYoverse 官方物料：官方视频、动画短片、角色 PV、EP、版本物料和官方视觉图。
+3. BWiki 图片资产及其页面上下文，尤其适合核对可见设计细节、CG 构图、光锥卡面和页面附图。
+4. 社区 Wiki 摘要和分类整理。
+5. 基于上述信源的合理推论。
+6. 社区猜测；只有明确标注为猜测时才可引用。
 
-## Conflict Handling
+## 冲突处理
 
-- Do not hide conflicts.
-- Say which source type is stronger and why.
-- Treat Wiki summaries as useful indexes, not final authority.
-- When a visual source and text source disagree, distinguish visible fact from interpretive caption.
+- 不隐藏冲突。
+- 说明哪个信源类型更强，以及理由是什么。
+- 将 Wiki 摘要视作有用索引，而不是最终权威。
+- 当视觉信源与文字信源存在差异时，区分“图片中可见事实”和“上下文解释”。
 
-## Citation Style
+## 引用风格
 
-Casual chat usually does not need explicit citations. Lore analysis should identify source type and, when useful, the concrete document or media title. Roleplay must not expose citations in-character.
+闲聊模式通常不需要显式列出处。考据模式应说明信源类型，必要时给出具体文档或物料标题。扮演模式不得在角色台词中暴露信源。

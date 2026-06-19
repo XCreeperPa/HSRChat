@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://hsrchat.local/schemas/document.schema.json",
-  "title": "HSRChat Runtime Document",
+  "title": "HSRChat 运行时文档",
   "type": "object",
   "required": ["id", "source_type", "title", "path", "authority", "contains_gameplay"],
   "properties": {

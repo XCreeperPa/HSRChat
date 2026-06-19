@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://hsrchat.local/schemas/role_profile.schema.json",
-  "title": "HSRChat Roleplay Profile",
+  "title": "HSRChat 角色扮演档案",
   "type": "object",
   "required": ["character", "source_paths"],
   "properties": {
